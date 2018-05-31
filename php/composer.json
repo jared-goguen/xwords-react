@@ -1,0 +1,5 @@
+{
+    "require": {
+        "wayfair/hypernova-php": "^2.0"
+    }
+}

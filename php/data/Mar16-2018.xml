@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Friday, March 16, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/16/2018 at 6:19 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Fri, Mar 16, 2018</Title>
+    <Author>Robyn Weintraub</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/16/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>CHIP.EASY..KEPT</Row>
+      <Row>LENO.FREE.HILLY</Row>
+      <Row>AMAN.FRESHENSUP</Row>
+      <Row>SONDHEIM.ENGAGE</Row>
+      <Row>SPY.ETD.URSA...</Row>
+      <Row>CHEVRE.FLOORSIT</Row>
+      <Row>LIVER.MACINTOSH</Row>
+      <Row>OLEG.BIDEN.HUME</Row>
+      <Row>WINEMAKER.TUNER</Row>
+      <Row>NATTERED.GIRDLE</Row>
+      <Row>...ASIS.BAM.BLT</Row>
+      <Row>CHARON.JEREMIAH</Row>
+      <Row>LIVINGDEAD.ETRE</Row>
+      <Row>ALIAS.IDLE.REAR</Row>
+      <Row>MOAN..MIEN.ESTE</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="CHIP">Pot component</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="EASY">"Calm down, ace"</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Across" Ans="KEPT">Saved</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Across" Ans="LENO">Successor to Paar's successor</Clue>
+      <Clue Row="2" Col="6" Num="14" Dir="Across" Ans="FREE">Partner of 5-Across</Clue>
+      <Clue Row="2" Col="11" Num="15" Dir="Across" Ans="HILLY">Full of ups and downs</Clue>
+      <Clue Row="3" Col="1" Num="16" Dir="Across" Ans="AMAN">Everyone included, after "to"</Clue>
+      <Clue Row="3" Col="6" Num="17" Dir="Across" Ans="FRESHENSUP">Attends to some personal care</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="SONDHEIM">Pulitzer winner for "Sunday in the Park With George"</Clue>
+      <Clue Row="4" Col="10" Num="21" Dir="Across" Ans="ENGAGE">Captivate</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="SPY">Bug expert?</Clue>
+      <Clue Row="5" Col="5" Num="23" Dir="Across" Ans="ETD">Boarding pass info, for short</Clue>
+      <Clue Row="5" Col="9" Num="24" Dir="Across" Ans="URSA">Celestial beast</Clue>
+      <Clue Row="6" Col="1" Num="25" Dir="Across" Ans="CHEVRE">Cheese made from goat's milk</Clue>
+      <Clue Row="6" Col="8" Num="27" Dir="Across" Ans="FLOORSIT">Puts the pedal to the metal</Clue>
+      <Clue Row="7" Col="1" Num="31" Dir="Across" Ans="LIVER">Hepatologist's study</Clue>
+      <Clue Row="7" Col="7" Num="32" Dir="Across" Ans="MACINTOSH">Product introduced in 1984 with an ad titled "1984"</Clue>
+      <Clue Row="8" Col="1" Num="33" Dir="Across" Ans="OLEG">Restaurant cook on TV's "2 Broke Girls"</Clue>
+      <Clue Row="8" Col="6" Num="34" Dir="Across" Ans="BIDEN">2017 recipient of the Presidential Medal of Freedom</Clue>
+      <Clue Row="8" Col="12" Num="35" Dir="Across" Ans="HUME">Actor Cronyn</Clue>
+      <Clue Row="9" Col="1" Num="36" Dir="Across" Ans="WINEMAKER">Port authority?</Clue>
+      <Clue Row="9" Col="11" Num="38" Dir="Across" Ans="TUNER">It gets you from station to station</Clue>
+      <Clue Row="10" Col="1" Num="39" Dir="Across" Ans="NATTERED">Talked too much</Clue>
+      <Clue Row="10" Col="10" Num="40" Dir="Across" Ans="GIRDLE">Cousin of a corset</Clue>
+      <Clue Row="11" Col="4" Num="41" Dir="Across" Ans="ASIS">Yard sale caveat</Clue>
+      <Clue Row="11" Col="9" Num="42" Dir="Across" Ans="BAM">"Just like that!"</Clue>
+      <Clue Row="11" Col="13" Num="43" Dir="Across" Ans="BLT">Three-ingredient sandwich</Clue>
+      <Clue Row="12" Col="1" Num="44" Dir="Across" Ans="CHARON">Largest moon of Pluto</Clue>
+      <Clue Row="12" Col="8" Num="47" Dir="Across" Ans="JEREMIAH">The Weeping Prophet</Clue>
+      <Clue Row="13" Col="1" Num="49" Dir="Across" Ans="LIVINGDEAD">Zombies</Clue>
+      <Clue Row="13" Col="12" Num="51" Dir="Across" Ans="ETRE">Parisian being</Clue>
+      <Clue Row="14" Col="1" Num="52" Dir="Across" Ans="ALIAS">Billy the Kid, for one</Clue>
+      <Clue Row="14" Col="7" Num="53" Dir="Across" Ans="IDLE">Kind of speculation</Clue>
+      <Clue Row="14" Col="12" Num="54" Dir="Across" Ans="REAR">Parent</Clue>
+      <Clue Row="15" Col="1" Num="55" Dir="Across" Ans="MOAN">Indication of pain or pleasure</Clue>
+      <Clue Row="15" Col="7" Num="56" Dir="Across" Ans="MIEN">Carriage</Clue>
+      <Clue Row="15" Col="12" Num="57" Dir="Across" Ans="ESTE">Durango direction</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="CLASSCLOWN">School card</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="HEMOPHILIA">Genetic disorder carried by Queen Victoria</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="INANYEVENT">"Regardless ..."</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="POND">Where you might hear someone say "Duck!"</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="EFFETE">Worn out</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="ARRID">Mitchum rival</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="SEEM">Look like</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="YES">"You rang?"</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Down" Ans="KINGARTHUR">Character in "Camelot" and "Monty Python and the Holy Grail"</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="ELSA">Fictional queen of Arendelle</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="PLUG">Commercial pitch</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="TYPE">eHarmony info</Clue>
+      <Clue Row="2" Col="11" Num="15" Dir="Down" Ans="HENSON">Big Bird attended his memorial</Clue>
+      <Clue Row="3" Col="10" Num="18" Dir="Down" Ans="HEROIN">Narc's concern</Clue>
+      <Clue Row="4" Col="5" Num="20" Dir="Down" Ans="HERR">Mozart title</Clue>
+      <Clue Row="5" Col="9" Num="24" Dir="Down" Ans="ULCER">Sore spot</Clue>
+      <Clue Row="6" Col="4" Num="26" Dir="Down" Ans="VEGETARIAN">Menu heading</Clue>
+      <Clue Row="6" Col="8" Num="27" Dir="Down" Ans="FADED">Not as bright</Clue>
+      <Clue Row="6" Col="13" Num="28" Dir="Down" Ans="SOUNDBITES">Media-friendly audio clips</Clue>
+      <Clue Row="6" Col="14" Num="29" Dir="Down" Ans="ISMELLARAT">"Something's not right here ..."</Clue>
+      <Clue Row="6" Col="15" Num="30" Dir="Down" Ans="THERETHERE">Words of consolation</Clue>
+      <Clue Row="7" Col="7" Num="32" Dir="Down" Ans="MIKES">Press conference sights</Clue>
+      <Clue Row="8" Col="6" Num="34" Dir="Down" Ans="BARING">Revealing</Clue>
+      <Clue Row="9" Col="5" Num="37" Dir="Down" Ans="MESONS">Accelerator particles</Clue>
+      <Clue Row="9" Col="11" Num="38" Dir="Down" Ans="TIME">Marathoner's focus</Clue>
+      <Clue Row="10" Col="10" Num="40" Dir="Down" Ans="GARDEN">Make a bed?</Clue>
+      <Clue Row="11" Col="9" Num="42" Dir="Down" Ans="BEALE">Memphis blues street</Clue>
+      <Clue Row="12" Col="1" Num="44" Dir="Down" Ans="CLAM">Silent sort</Clue>
+      <Clue Row="12" Col="2" Num="45" Dir="Down" Ans="HILO">It has views of Mauna Loa and Mauna Kea</Clue>
+      <Clue Row="12" Col="3" Num="46" Dir="Down" Ans="AVIA">Asics competitor</Clue>
+      <Clue Row="12" Col="8" Num="47" Dir="Down" Ans="JEDI">Force-ful one?</Clue>
+      <Clue Row="12" Col="12" Num="48" Dir="Down" Ans="MERE">Only</Clue>
+      <Clue Row="13" Col="7" Num="50" Dir="Down" Ans="DIM">Murky</Clue>
+    </Clues>
+    <JimNotes><![CDATA[This is Ms. Weintraub's fourth POW in her last nine puzzles.]]></JimNotes>
+    <JeffNotes><![CDATA[<p>Robyn is quickly becoming one of my new favorite themeless constructors. I&#39;ve loved her voice in the past, what with glorious seed entries such as <a href="https://www.xwordinfo.com/Crossword?date=4/22/2016&amp;g=15&amp;d=A">MADE YOU LOOK</a>, <a href="https://www.xwordinfo.com/Crossword?date=10/7/2016&amp;g=17&amp;d=A">MIRACLE MAX</a>, <a href="https://www.xwordinfo.com/Crossword?date=12/23/2016&amp;g=1&amp;d=A">TRACTOR BEAM</a>, <a href="https://www.xwordinfo.com/Crossword?date=9/23/2017&amp;g=57&amp;d=A">RON WEASLEY</a>. Sometimes you feel like you&#39;re right on the constructor&#39;s wavelength, and Robyn knows how to tickle my fancy.</p>
+
+<p><a href="http://montypython.wikia.com/wiki/King_Arthur" style="border:none"><img alt="" src="https://vignette.wikia.nocookie.net/montypython/images/4/4b/HolyGrail036.jpg/revision/latest/scale-to-width-down/700?cb=20070904000012" style="border:1px solid lightgray; float:right; height:121px; margin:6px 0px 6px 12px; width:220px" title="I didn't vote for him" /></a></p>
+
+<p>Sure was the case today with LIVING DEAD, KING ARTHUR clued to &quot;Monty Python,&quot; and that delightful WINEMAKER clue, [Port authority?]. Beautiful stuff!</p>
+
+<p>Better yet, Robyn&#39;s been honing her work, continually perfecting her craft. I&#39;d found some of her prior themelesses lacking in grid flow (choke points cutting off sections of the grid from each other), or using too much crossword glue. Not the case today! There&#39;s an ESTE and AMAN, but I&#39;d happily take those for all the goodies she worked in.</p>
+
+<p>And the goodies! Starting off with 16 long (8+ letters) slots is a tough ask &mdash; most constructors will manage to convert maybe only 10 of those into sizzling entries. Robyn used hers to the (miracle) max, SOUND BITES, FLOORS IT, I SMELL A RAT, etc. No THERE THERE needed, because everywhere I turned, more great stuff.</p>
+
+<p>Perhaps NATTERED was more neutral than an asset? But even that is a pretty fun word. JEREMIAH may be dull for some, but what a great nickname in &quot;The Weeping Prophet&quot;!</p>
+
+<p>And the cluing! WINEMAKER&#39;s clue was the highlight for me, but such an innocent [Full of ups and downs] for HILLY. [Make a (GARDEN) bed?]. A TUNER gets you from station to station (not a train). [School card] wasn&#39;t a report card, but a card, as in a joker; a CLASS CLOWN. So entertaining!</p>
+
+<p>Loved this one. As much as I like variety in themeless constructors, Robyn is one of the few people whose byline I&#39;d like to see perhaps once a month. Maybe more.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>Jeff, I think you will be pleased to see that we have finally arrived at my post-divided-thru-the-middle themeless puzzle design. I give you 100% of the credit for pointing out that crutch, which I didn&#39;t realize I was using. Though there may be exceptions in the future, I certainly won&#39;t revisit that design without having an imaginary debate with you about it first.</p>
+
+<p>In my puzzles, I always look to incorporate at least one exclamation, question or &quot;conversational&quot; phrase, as I think they add a different dimension to mix. Over the years I&#39;ve included: <a href="https://www.xwordinfo.com/Crossword?date=10/7/2016&amp;g=60&amp;d=A">DO ME A FAVOR</a>, <a href="https://www.xwordinfo.com/Crossword?date=9/23/2017&amp;g=15&amp;d=A">ARE YOU DONE</a>, <a href="https://www.xwordinfo.com/Crossword?date=9/23/2017&amp;g=32&amp;d=D">IT FIGURES</a>, <a href="https://www.xwordinfo.com/Crossword?date=7/28/2017&amp;g=12&amp;d=D">DO I HAVE TO</a>, <a href="https://www.xwordinfo.com/Crossword?date=5/26/2017&amp;g=56&amp;d=A">KEEP TALKING</a> and <a href="https://www.xwordinfo.com/Crossword?date=12/23/2016&amp;g=31&amp;d=D">IMPRESS ME</a>. In this particular puzzle, there are three &mdash; and it turns out that together they comprise a little story, the gripping (yet brief) tale of one character consoling another after a distressing and suspicious incident: THERE THERE, IN ANY EVENT, I SMELL A RAT.</p>
+
+<p>Also, I don&#39;t usually go looking for interesting word intersections, but I find it incredibly amusing that VEGETARIAN runs through LIVING DEAD. I keep seeing images of zombies feasting on quinoa bowls and avocado toast.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

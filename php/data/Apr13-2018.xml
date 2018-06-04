@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Friday, April 13, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/12/2018 at 7:02 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Fri, Apr 13, 2018</Title>
+    <Author>Joe Krozel</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/13/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>CUSSER...ADJUST</Row>
+      <Row>UNMIXED..CRANIA</Row>
+      <Row>STORESUP.QUINNS</Row>
+      <Row>TAKEMORE.UMLAUT</Row>
+      <Row>OPENPLAN.IRAISE</Row>
+      <Row>MESSTENT.ROBLES</Row>
+      <Row>......GAZELLES.</Row>
+      <Row>..HOWSO.IDLED..</Row>
+      <Row>.HAVEASIP......</Row>
+      <Row>BOREAL.MPEGFILE</Row>
+      <Row>SPARSE.SEARAVEN</Row>
+      <Row>TENDED.ARRESTED</Row>
+      <Row>ANGOLA.DENATURE</Row>
+      <Row>ROUSEY..DIVEBAR</Row>
+      <Row>STEEDS...TENETS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="CUSSER">One talking a blue streak?</Clue>
+      <Clue Row="1" Col="10" Num="7" Dir="Across" Ans="ADJUST">Get used to it</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Across" Ans="UNMIXED">Segregated</Clue>
+      <Clue Row="2" Col="10" Num="15" Dir="Across" Ans="CRANIA">Images on a timeline of human evolution, maybe</Clue>
+      <Clue Row="3" Col="1" Num="16" Dir="Across" Ans="STORESUP">Keeps in reserve</Clue>
+      <Clue Row="3" Col="10" Num="18" Dir="Across" Ans="QUINNS">Actors Aidan and Anthony</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="TAKEMORE">"Help yourself, there's plenty left!"</Clue>
+      <Clue Row="4" Col="10" Num="20" Dir="Across" Ans="UMLAUT">High points?</Clue>
+      <Clue Row="5" Col="1" Num="21" Dir="Across" Ans="OPENPLAN">Layout with little concern for privacy</Clue>
+      <Clue Row="5" Col="10" Num="22" Dir="Across" Ans="IRAISE">Poker challenge</Clue>
+      <Clue Row="6" Col="1" Num="23" Dir="Across" Ans="MESSTENT">Place for soldiers to eat</Clue>
+      <Clue Row="6" Col="10" Num="24" Dir="Across" Ans="ROBLES">Paso ___, Calif.</Clue>
+      <Clue Row="7" Col="7" Num="25" Dir="Across" Ans="GAZELLES">Agile African animals</Clue>
+      <Clue Row="8" Col="3" Num="27" Dir="Across" Ans="HOWSO">"In what sense?"</Clue>
+      <Clue Row="8" Col="9" Num="31" Dir="Across" Ans="IDLED">Wasn't productive</Clue>
+      <Clue Row="9" Col="2" Num="32" Dir="Across" Ans="HAVEASIP">Wine-tasting offer</Clue>
+      <Clue Row="10" Col="1" Num="34" Dir="Across" Ans="BOREAL">Northern</Clue>
+      <Clue Row="10" Col="8" Num="35" Dir="Across" Ans="MPEGFILE">Many a YouTube video upload</Clue>
+      <Clue Row="11" Col="1" Num="42" Dir="Across" Ans="SPARSE">Not abundant</Clue>
+      <Clue Row="11" Col="8" Num="43" Dir="Across" Ans="SEARAVEN">Spiny fish named after a bird</Clue>
+      <Clue Row="12" Col="1" Num="44" Dir="Across" Ans="TENDED">Babysat</Clue>
+      <Clue Row="12" Col="8" Num="45" Dir="Across" Ans="ARRESTED">Kind of development</Clue>
+      <Clue Row="13" Col="1" Num="46" Dir="Across" Ans="ANGOLA">OPEC nation since 2007</Clue>
+      <Clue Row="13" Col="8" Num="47" Dir="Across" Ans="DENATURE">Render undrinkable, as alcohol</Clue>
+      <Clue Row="14" Col="1" Num="48" Dir="Across" Ans="ROUSEY">Ronda ___, mixed martial arts standout of the 2010s</Clue>
+      <Clue Row="14" Col="9" Num="49" Dir="Across" Ans="DIVEBAR">Seedy establishment</Clue>
+      <Clue Row="15" Col="1" Num="50" Dir="Across" Ans="STEEDS">Rough Riders' rides</Clue>
+      <Clue Row="15" Col="10" Num="51" Dir="Across" Ans="TENETS">Precepts</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="CUSTOM">Made-to-order</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="UNTAPE">Begin to remove, as a diaper</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="SMOKES">Defeats decisively, in slang</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="SIRENS">Some urban noise pollution</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="EXEMPT">Not obligated</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="RESOLE">Do some cobbling work on</Clue>
+      <Clue Row="1" Col="10" Num="7" Dir="Down" Ans="ACQUIRED">With 12-Down, blue cheese and black coffee, typically</Clue>
+      <Clue Row="1" Col="11" Num="8" Dir="Down" Ans="DRUMROLL">Intro to a big announcement</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Down" Ans="JAILABLE">Serious, as an offense</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="UNNAILED">Loose, in a way, as planks or siding</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="SINUSES">Nasal spray targets</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="TASTES">See 7-Down</Clue>
+      <Clue Row="2" Col="7" Num="14" Dir="Down" Ans="DURANGOS">Dodge S.U.V.s</Clue>
+      <Clue Row="3" Col="8" Num="17" Dir="Down" Ans="PENTA">Prefix with -gram</Clue>
+      <Clue Row="7" Col="9" Num="26" Dir="Down" Ans="ZIPPERED">Like many coats with liners</Clue>
+      <Clue Row="8" Col="3" Num="27" Dir="Down" Ans="HARANGUE">Scold at length</Clue>
+      <Clue Row="8" Col="4" Num="28" Dir="Down" Ans="OVERDOSE">Emergency room case</Clue>
+      <Clue Row="8" Col="5" Num="29" Dir="Down" Ans="WEASELED">Acted evasively</Clue>
+      <Clue Row="8" Col="6" Num="30" Dir="Down" Ans="SALEDAYS">Good times for shopping sprees</Clue>
+      <Clue Row="9" Col="2" Num="32" Dir="Down" Ans="HOPENOT">"Heaven forbid!"</Clue>
+      <Clue Row="9" Col="8" Num="33" Dir="Down" Ans="IMSAD">[Boo-hoo!]</Clue>
+      <Clue Row="10" Col="1" Num="34" Dir="Down" Ans="BSTARS">Rigel and Spica</Clue>
+      <Clue Row="10" Col="10" Num="36" Dir="Down" Ans="EARNIT">Deserve something through hard work</Clue>
+      <Clue Row="10" Col="11" Num="37" Dir="Down" Ans="GREAVE">Piece of armor worn over the shin</Clue>
+      <Clue Row="10" Col="12" Num="38" Dir="Down" Ans="FASTEN">Secure</Clue>
+      <Clue Row="10" Col="13" Num="39" Dir="Down" Ans="IVTUBE">Drip source</Clue>
+      <Clue Row="10" Col="14" Num="40" Dir="Down" Ans="LEERAT">Give the eye</Clue>
+      <Clue Row="10" Col="15" Num="41" Dir="Down" Ans="ENDERS">1985 novel "___ Game"</Clue>
+    </Clues>
+    <JimNotes><![CDATA[<p>This is only the sixth NYT crossword where every answer is 5 or more letters long, and the only one that&#39;s a <a href="https://www.xwordinfo.com/Pangrams">pangram</a>. You can see <a href="https://www.xwordinfo.com/Threeless">the other ones here</a>, including two by <a class="hasphoto" href="https://www.xwordinfo.com/Thumbs?author=Patrick+Berry">Patrick Berry</a> and <a href="https://www.xwordinfo.com/Crossword?date=3/20/2010">one more</a> by Mr. Krozel.</p>
+
+<p>The record is still <a href="https://www.xwordinfo.com/Crossword?date=12/15/2001">this amazing grid</a> by <a class="hasphoto" href="https://www.xwordinfo.com/Thumbs?author=Frank+Longo">Frank Longo</a> where every answer is 6 or more letters.</p>
+
+<p>I found this puzzle to be remarkably smooth given the constraints.</p>]]></JimNotes>
+    <JeffNotes><![CDATA[<p>My POW! pick might come as a surprise to some. I enjoyed this one as a constructor, but surprisingly as a solver, too.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Ronda_Rousey" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/5/54/Rrousey.jpg" style="border:1px solid lightgray; float:left; height:250px; margin:6px 12px 6px 0px; width:108px" title="Ronda ROUSEY" /></a></p>
+
+<p>I had low expectations once I saw the huge OPEN floor PLAN of the grid, knowing that I&#39;d have to slog through some glue or weirdness. Pleasantly surprised at how much fun I had! It&#39;s unusual to get snazzy entries in a grid like this, so DRUM ROLL, ACQUIRED / TASTES, and GAZELLES all in a single quadrant made me smile right off the bat.</p>
+
+<p>DIVE BAR too? And HARANGUE? IV DRIP, MPEG FILE, even Ronda ROUSEY, CUSSER, WEASELED = fun stuff. That&#39;s way more pizzazz than I expected. A lot of entertainment and sizzle helped balance out the necessary evils.</p>
+
+<p>I would restart a grid if I had to use BSTARS (or any other _STARS entry), but for one like this, that price seemed reasonable. UNNAILED was the only other one that stuck out as contrived, one of the UN- or RE- or -ER type entries I see all the time in ultra-low-word-count puzzles.</p>
+
+<p>GREAVE was an oddball. But to get only one of these esoteric trivia answers was great.</p>
+
+<p>This type of <a href="https://www.xwordinfo.com/BWStats/FewestWords">ultra-low-word-count</a> is not my favorite themeless genre. But I think this one is close to best in class, and that warrants recognition.</p>]]></JeffNotes>
+  </Puzzle>
+</Puzzles>

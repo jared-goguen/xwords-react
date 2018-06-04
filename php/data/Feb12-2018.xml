@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Monday, February 12, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 2/11/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Mon, Feb 12, 2018</Title>
+    <Author>Michael Black</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>2/12/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>SAWII.ECHO.VANS</Row>
+      <Row>PLANT.DAMP.OBIE</Row>
+      <Row>ELVISANDME.RULE</Row>
+      <Row>WIE.OJAY.RITTER</Row>
+      <Row>SEDAKA..MACE...</Row>
+      <Row>...OAXACAMEXICO</Row>
+      <Row>SPINY.DRYAD.TAZ</Row>
+      <Row>PANE.DEION.GETZ</Row>
+      <Row>UPN.WAXER.CONEY</Row>
+      <Row>DISCOVERSION...</Row>
+      <Row>...ERIC..TOGAED</Row>
+      <Row>UNJAMS.BACK.UVA</Row>
+      <Row>COOS.CARDHOLDER</Row>
+      <Row>LINE.UTAH.FAINT</Row>
+      <Row>ARID.PEND.FOOTS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="SAWII">Horror sequel of 2005</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="ECHO">Reverberation</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="VANS">Movers' vehicles</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="PLANT">Sow, as seeds</Clue>
+      <Clue Row="2" Col="7" Num="15" Dir="Across" Ans="DAMP">Clammy</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="OBIE">Theater award</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="ELVISANDME">Best-selling autobiography by Priscilla Presley</Clue>
+      <Clue Row="3" Col="12" Num="19" Dir="Across" Ans="RULE">Be the best, in slang</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="WIE">Michelle of the L.P.G.A.</Clue>
+      <Clue Row="4" Col="5" Num="21" Dir="Across" Ans="OJAY">Any singer of the 1973 #1 hit "Love Train"</Clue>
+      <Clue Row="4" Col="10" Num="22" Dir="Across" Ans="RITTER">Actor John of "Problem Child"</Clue>
+      <Clue Row="5" Col="1" Num="24" Dir="Across" Ans="SEDAKA">Neil who sang "Laughter in the Rain"</Clue>
+      <Clue Row="5" Col="9" Num="26" Dir="Across" Ans="MACE">Antiriot spray</Clue>
+      <Clue Row="6" Col="4" Num="27" Dir="Across" Ans="OAXACAMEXICO">State capital ESE of Guadalajara</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Across" Ans="SPINY">Like a porcupine</Clue>
+      <Clue Row="7" Col="7" Num="36" Dir="Across" Ans="DRYAD">Woods nymph</Clue>
+      <Clue Row="7" Col="13" Num="37" Dir="Across" Ans="TAZ">Cartoon "devil," informally</Clue>
+      <Clue Row="8" Col="1" Num="38" Dir="Across" Ans="PANE">Window part</Clue>
+      <Clue Row="8" Col="6" Num="39" Dir="Across" Ans="DEION">Sanders in the Pro Football Hall of Fame</Clue>
+      <Clue Row="8" Col="12" Num="40" Dir="Across" Ans="GETZ">Jazzman Stan</Clue>
+      <Clue Row="9" Col="1" Num="41" Dir="Across" Ans="UPN">Onetime competitor of the WB</Clue>
+      <Clue Row="9" Col="5" Num="42" Dir="Across" Ans="WAXER">Machine near the end of a car wash</Clue>
+      <Clue Row="9" Col="11" Num="43" Dir="Across" Ans="CONEY">___ Island (amusement park site)</Clue>
+      <Clue Row="10" Col="1" Num="44" Dir="Across" Ans="DISCOVERSION">Many a 1970s remix</Clue>
+      <Clue Row="11" Col="4" Num="47" Dir="Across" Ans="ERIC">Rock's Clapton or Burdon</Clue>
+      <Clue Row="11" Col="10" Num="48" Dir="Across" Ans="TOGAED">Dressed for a classic fraternity party</Clue>
+      <Clue Row="12" Col="1" Num="52" Dir="Across" Ans="UNJAMS">Fixes, as a photocopier</Clue>
+      <Clue Row="12" Col="8" Num="55" Dir="Across" Ans="BACK">Front's opposite</Clue>
+      <Clue Row="12" Col="13" Num="57" Dir="Across" Ans="UVA">Sch. in Charlottesville</Clue>
+      <Clue Row="13" Col="1" Num="58" Dir="Across" Ans="COOS">Dove calls</Clue>
+      <Clue Row="13" Col="6" Num="59" Dir="Across" Ans="CARDHOLDER">One with credit ... or a literal hint to 17-, 27- and 44-Across</Clue>
+      <Clue Row="14" Col="1" Num="62" Dir="Across" Ans="LINE">Queue</Clue>
+      <Clue Row="14" Col="6" Num="63" Dir="Across" Ans="UTAH">What separates Nevada from Colorado</Clue>
+      <Clue Row="14" Col="11" Num="64" Dir="Across" Ans="FAINT">Barely visible, as a star</Clue>
+      <Clue Row="15" Col="1" Num="65" Dir="Across" Ans="ARID">Rarely getting rain</Clue>
+      <Clue Row="15" Col="6" Num="66" Dir="Across" Ans="PEND">Hang in the balance</Clue>
+      <Clue Row="15" Col="11" Num="67" Dir="Across" Ans="FOOTS">___ the bill (pays for something)</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="SPEWS">Shoots out</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ALLIE">"Kate &amp; ___" of 1980s TV</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="WAVED">Signaled with the hand</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="INI">Singer Kamoze with the 1994 hit "Here Comes the Hotstepper"</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="ITSOKAY">"There, there"</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="EDNA">Author Ferber</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="CADY">Suffragist Elizabeth ___ Stanton</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="HMM">"Lemme think ..."</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="OPERAMAN">1990s "Saturday Night Live" character with a cape</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="VORTEX">Whirlpool</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="ABUT">Touch</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="NILE">Stream near the Great Pyramids</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="SEER">Crystal ball user</Clue>
+      <Clue Row="3" Col="6" Num="18" Dir="Down" Ans="AJAX">Cleanser brand with a name from mythology</Clue>
+      <Clue Row="4" Col="11" Num="23" Dir="Down" Ans="ICED">Like some sprains and tea</Clue>
+      <Clue Row="5" Col="4" Num="25" Dir="Down" Ans="AONE">Primo</Clue>
+      <Clue Row="5" Col="9" Num="26" Dir="Down" Ans="MAYORS">City hall V.I.P.s</Clue>
+      <Clue Row="6" Col="7" Num="28" Dir="Down" Ans="ADEXEC">High muckety-muck on Madison Avenue</Clue>
+      <Clue Row="6" Col="8" Num="29" Dir="Down" Ans="CRIER">Town ___ (colonial figure)</Clue>
+      <Clue Row="6" Col="13" Num="30" Dir="Down" Ans="ITEN">Major Calif.-to-Fla. route</Clue>
+      <Clue Row="6" Col="14" Num="31" Dir="Down" Ans="CATE">Oscar-winning actress Blanchett</Clue>
+      <Clue Row="6" Col="15" Num="32" Dir="Down" Ans="OZZY">Rocker Osbourne</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Down" Ans="SPUD">Tater</Clue>
+      <Clue Row="7" Col="2" Num="34" Dir="Down" Ans="PAPI">Big ___ (longtime Red Sox nickname)</Clue>
+      <Clue Row="7" Col="3" Num="35" Dir="Down" Ans="INNS">B&amp;Bs</Clue>
+      <Clue Row="8" Col="6" Num="39" Dir="Down" Ans="DAVISCUP">Tennis tournament since 1900</Clue>
+      <Clue Row="8" Col="12" Num="40" Dir="Down" Ans="GONG">Percussion in a Buddhist temple</Clue>
+      <Clue Row="9" Col="5" Num="42" Dir="Down" Ans="WORM">Wriggler on a fishhook</Clue>
+      <Clue Row="9" Col="11" Num="43" Dir="Down" Ans="COOKOFF">"Iron Chef" competition</Clue>
+      <Clue Row="10" Col="4" Num="45" Dir="Down" Ans="CEASED">Brought to a halt</Clue>
+      <Clue Row="10" Col="10" Num="46" Dir="Down" Ans="ITCH">Poison ivy symptom</Clue>
+      <Clue Row="11" Col="13" Num="49" Dir="Down" Ans="AUDIO">Sound part of a broadcast</Clue>
+      <Clue Row="11" Col="14" Num="50" Dir="Down" Ans="EVENT">Happening</Clue>
+      <Clue Row="11" Col="15" Num="51" Dir="Down" Ans="DARTS">Pub game</Clue>
+      <Clue Row="12" Col="1" Num="52" Dir="Down" Ans="UCLA">Home of the N.C.A.A.'s Bruins</Clue>
+      <Clue Row="12" Col="2" Num="53" Dir="Down" Ans="NOIR">Pinot ___</Clue>
+      <Clue Row="12" Col="3" Num="54" Dir="Down" Ans="JONI">Folk singer Mitchell</Clue>
+      <Clue Row="12" Col="8" Num="55" Dir="Down" Ans="BRAN">Muffin material</Clue>
+      <Clue Row="12" Col="9" Num="56" Dir="Down" Ans="ADHD">What Ritalin helps treat, for short</Clue>
+      <Clue Row="13" Col="7" Num="60" Dir="Down" Ans="ATE">Had a bite</Clue>
+      <Clue Row="13" Col="12" Num="61" Dir="Down" Ans="LAO">"7 Faces of Dr. ___" (1964 film)</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Now, these are the kinds of &quot;hidden word&quot; finds I like! It seems a little miraculous that something as long as DISCOVER could span two words of a normal phrase. AMEX is shorter and thus easier to work with, but that X ratchets up the difficulty. And even VISA&#39;s VI or VIS is no joke. Three great discoveries made for a great theme, CARDHOLDER a perfect revealer. Delightful!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Discover_Card" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Discover_Card_logo.svg/350px-Discover_Card_logo.svg.png" style="border:none; float:right; height:36px; margin:6px 0px 12px 20px; width:220px" title="Neat DISCOVERies!" /></a></p>
+
+<p>Made me wonder what other possible themers were out there. <strong>VIS A</strong> VIS is the obvious one, but that doesn&#39;t hold a candle to the awesome ELVIS AND ME. There&#39;s NO<strong>VI SA</strong>D, the Serbian city, but that seems hardly crossworthy &mdash; not novice friendly, in any case.</p>
+
+<p>And such a wealth of rare letters in the fill, (mostly) worked in so smoothly! Two Js, three Xs, two Zs, that&#39;s way more than a usual puzzle contains. ITEN was a price to pay for the two Zs in OZZY, but I was okay with that trade-off.</p>
+
+<p>The only hesitation I had before giving this the POW! &hellip; two crossings that I worried might trip up newer solvers:</p>
+
+<ul>
+	<li>INI / SAW II. Not a great way to start the puzzle, especially cluing INI as a person with a hit from over 20 years ago. But what else could that be? VNI would be an unlikely name, and SAW VI &hellip; please, somebody make the franchise stop!</li>
+	<li>OJAY / CADY. I think educated solvers ought to at least have heard of Elizabeth CADY Stanton, but I could understand if someone couldn&#39;t remember the spelling. OJAI / CADI? Not nearly as correct-looking to my eye, but there is a city named OJAI, so I&#39;d be sympathetic to that error, chalking it up to Mike&#39;s fault, not the solver&#39;s.</li>
+</ul>
+
+<p>So the J in AJAX is the one rare letter that I didn&#39;t think was worth it, leading to a tough crossing that might trip up newer solvers.</p>
+
+<p>But overall, I loved the theme DISCOVERies (I did wonder about MASTERCARD to get the full set, but what are you gonna do?) and 95% of the grid execution.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>Well, it&#39;s been a while, but it&#39;s good to be back. This is my fifth puzzle &mdash; <a href="https://www.xwordinfo.com/Crossword?date=1/29/2014">my last one</a> ran a little over four years ago, <a href="https://www.xwordinfo.com/Crossword?date=7/14/2010">my first one</a> ran in 2010. At this rate, I&#39;ll have joined the exclusive &quot;Ten Club&quot; in 2026.</p>
+
+<p>A lot has happened since my last publication &mdash; I became a father, I made my way on air as a news anchor and sports announcer, and I met Will Shortz.</p>
+
+<p>Being that I have more on my plate nowadays, I don&#39;t submit as often as I once did, but if a good idea crosses my mind, I will try to put it to paper.</p>
+
+<p>This idea just sort of popped into my head one day. I thought it was worth trying it out, but admittedly, I had trouble figuring out theme answers for VISA and DISCOVER. Maybe ELVIS ANDRUS for VISA? Maybe if this were a crossword in Baseball Digest.</p>
+
+<p>Truth is, the suggestion box under the Google search bar is what really helped me with these two. I began typing &quot;ELVIS A&quot; to see what would come up and did the same for &quot;DISCO VER.&quot; The results I found seemed like legit answers, and Will apparently agreed.</p>
+
+<p>A couple of cool things I realized recently with this puzzle: by total coincidence, the TEX in VORTEX crosses into RITTER, which is neat. Also by total coincidence, PAPI is at 34-Down, and Big Papi&#39;s number was 34 (my favorite jersey number).</p>
+
+<p>Oh, and I&#39;m sure there will be nitpickers out there who will find fault in my lack of MASTERCARD, but that just wasn&#39;t gonna happen. As the commercial says, that&#39;s for everything else.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

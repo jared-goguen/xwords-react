@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Tuesday, May 15, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/14/2018 at 7:01 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Tue, May 15, 2018</Title>
+    <Author>Garry Trudeau and Ross Trudeau</Author>
+    <CanonicalNames>
+      <Constructor>Garry Trudeau</Constructor>
+      <Constructor>Ross Trudeau</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/15/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>ATARI..JPOP.ADD</Row>
+      <Row>TIMED.BUONO.FRO</Row>
+      <Row>IGIVE.ARGOT.LIE</Row>
+      <Row>LEG.APBIO.AGAVE</Row>
+      <Row>TROLLEYS.STACEY</Row>
+      <Row>...IMDB.DOORDIE</Row>
+      <Row>..ALA.LAIT.FUND</Row>
+      <Row>.STANDUPCOMICS.</Row>
+      <Row>WEEB.JERK.EEK..</Row>
+      <Row>ORANGES.TFAL...</Row>
+      <Row>REWELD.GRANDAMS</Row>
+      <Row>SNARE.ORANG.SUE</Row>
+      <Row>HAY.ASPIC.IRATE</Row>
+      <Row>IDA.MOUSY.RUNTS</Row>
+      <Row>PET.SYST..LEAST</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="ATARI">Pioneering game company behind Tank and Tank II</Clue>
+      <Clue Row="1" Col="8" Num="6" Dir="Across" Ans="JPOP">Music genre for Tokyo teens</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Across" Ans="ADD">Contribute</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Across" Ans="TIMED">By the clock</Clue>
+      <Clue Row="2" Col="7" Num="14" Dir="Across" Ans="BUONO">Good: It.</Clue>
+      <Clue Row="2" Col="13" Num="15" Dir="Across" Ans="FRO">Coif that gets squished by headphones</Clue>
+      <Clue Row="3" Col="1" Num="16" Dir="Across" Ans="IGIVE">"Uncle!"</Clue>
+      <Clue Row="3" Col="7" Num="17" Dir="Across" Ans="ARGOT">Jargon</Clue>
+      <Clue Row="3" Col="13" Num="18" Dir="Across" Ans="LIE">Fib</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="LEG">Something to stand on</Clue>
+      <Clue Row="4" Col="5" Num="20" Dir="Across" Ans="APBIO">H.S. science course for college credit</Clue>
+      <Clue Row="4" Col="11" Num="22" Dir="Across" Ans="AGAVE">Tequila plant</Clue>
+      <Clue Row="5" Col="1" Num="24" Dir="Across" Ans="TROLLEYS">Relatives of cable cars</Clue>
+      <Clue Row="5" Col="10" Num="26" Dir="Across" Ans="STACEY">Actress Dash of "Clueless"</Clue>
+      <Clue Row="6" Col="4" Num="27" Dir="Across" Ans="IMDB">Showbiz reference site</Clue>
+      <Clue Row="6" Col="9" Num="28" Dir="Across" Ans="DOORDIE">Critical, as a situation</Clue>
+      <Clue Row="7" Col="3" Num="29" Dir="Across" Ans="ALA">Neighbor of Miss.</Clue>
+      <Clue Row="7" Col="7" Num="30" Dir="Across" Ans="LAIT">Something to pour dans votre café</Clue>
+      <Clue Row="7" Col="12" Num="32" Dir="Across" Ans="FUND">A philanthropist might set one up</Clue>
+      <Clue Row="8" Col="2" Num="33" Dir="Across" Ans="STANDUPCOMICS">Dave Chappelle and Dane Cook ... or a literal hint to the answers to the eight starred clues</Clue>
+      <Clue Row="9" Col="1" Num="36" Dir="Across" Ans="WEEB">___ Ewbank, 1969 Super Bowl-winning coach</Clue>
+      <Clue Row="9" Col="6" Num="37" Dir="Across" Ans="JERK">Schlemiel</Clue>
+      <Clue Row="9" Col="11" Num="38" Dir="Across" Ans="EEK">Cartoon response to a rodent</Clue>
+      <Clue Row="10" Col="1" Num="39" Dir="Across" Ans="ORANGES">Big Florida export</Clue>
+      <Clue Row="10" Col="9" Num="41" Dir="Across" Ans="TFAL">Kitchenware brand with a hyphenated name</Clue>
+      <Clue Row="11" Col="1" Num="43" Dir="Across" Ans="REWELD">Fix with a blowtorch, say</Clue>
+      <Clue Row="11" Col="8" Num="44" Dir="Across" Ans="GRANDAMS">Classic Pontiacs</Clue>
+      <Clue Row="12" Col="1" Num="48" Dir="Across" Ans="SNARE">Drum used for a drumroll</Clue>
+      <Clue Row="12" Col="7" Num="49" Dir="Across" Ans="ORANG">Cousin of a chimp</Clue>
+      <Clue Row="12" Col="13" Num="50" Dir="Across" Ans="SUE">"Runaround" girl in a 1961 Dion hit</Clue>
+      <Clue Row="13" Col="1" Num="51" Dir="Across" Ans="HAY">Barn bales</Clue>
+      <Clue Row="13" Col="5" Num="52" Dir="Across" Ans="ASPIC">Certain jelly</Clue>
+      <Clue Row="13" Col="11" Num="54" Dir="Across" Ans="IRATE">Like a red-faced cartoon character</Clue>
+      <Clue Row="14" Col="1" Num="56" Dir="Across" Ans="IDA">Neighbor of Mont.</Clue>
+      <Clue Row="14" Col="5" Num="57" Dir="Across" Ans="MOUSY">Timid</Clue>
+      <Clue Row="14" Col="11" Num="58" Dir="Across" Ans="RUNTS">Smallest pups</Clue>
+      <Clue Row="15" Col="1" Num="59" Dir="Across" Ans="PET">Stroke</Clue>
+      <Clue Row="15" Col="5" Num="60" Dir="Across" Ans="SYST">The "S" of GPS: Abbr.</Clue>
+      <Clue Row="15" Col="11" Num="61" Dir="Across" Ans="LEAST">Smallest</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="ATILT">Slanted</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="TIGER">*Feline in a zoo</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="AMIGO">Mexican friend</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="REV">Minister: Abbr.</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="IDEALMAN">Perfect guy</Clue>
+      <Clue Row="1" Col="8" Num="6" Dir="Down" Ans="JURIS">The "J" of J.D.</Clue>
+      <Clue Row="1" Col="9" Num="7" Dir="Down" Ans="POGO">*Bounce on a stick</Clue>
+      <Clue Row="1" Col="10" Num="8" Dir="Down" Ans="ONO">Lennon's love</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="POTATO">Food famously misspelled by Dan Quayle</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="AFLACDUCK">Noted "spokesfowl"</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="DRIVEINS">Alfresco theaters</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="DOEEYED">Innocent-looking</Clue>
+      <Clue Row="2" Col="7" Num="14" Dir="Down" Ans="BABYBLUES">*Dreamy eyes, informally</Clue>
+      <Clue Row="4" Col="6" Num="21" Dir="Down" Ans="PED">___ Xing</Clue>
+      <Clue Row="4" Col="12" Num="23" Dir="Down" Ans="GARFIELD">*President between Hayes and Arthur</Clue>
+      <Clue Row="5" Col="4" Num="25" Dir="Down" Ans="LILABNER">*1959 film set in Dogpatch, U.S.A.</Clue>
+      <Clue Row="5" Col="10" Num="26" Dir="Down" Ans="SOTO">___ speak</Clue>
+      <Clue Row="6" Col="9" Num="28" Dir="Down" Ans="DICKTRACY">*Detective who wore a two-way radio</Clue>
+      <Clue Row="7" Col="3" Num="29" Dir="Down" Ans="ATEAWAYAT">Eroded</Clue>
+      <Clue Row="7" Col="8" Num="31" Dir="Down" Ans="APR">Earth Day's mo.</Clue>
+      <Clue Row="8" Col="2" Num="33" Dir="Down" Ans="SERENADE">Croon beneath a balcony</Clue>
+      <Clue Row="8" Col="6" Num="34" Dir="Down" Ans="DJED">Played at work, informally?</Clue>
+      <Clue Row="8" Col="11" Num="35" Dir="Down" Ans="MEANGIRL">Rachel McAdams or Amanda Seyfried role in a 2004 comedy</Clue>
+      <Clue Row="9" Col="1" Num="36" Dir="Down" Ans="WORSHIP">Deify</Clue>
+      <Clue Row="10" Col="5" Num="40" Dir="Down" Ans="GLEAMS">Shines, as silver</Clue>
+      <Clue Row="10" Col="10" Num="42" Dir="Down" Ans="FAN">Devoted follower</Clue>
+      <Clue Row="11" Col="8" Num="44" Dir="Down" Ans="GRIST">Material for a mill</Clue>
+      <Clue Row="11" Col="13" Num="45" Dir="Down" Ans="ASANA">Sitting position in yoga</Clue>
+      <Clue Row="11" Col="14" Num="46" Dir="Down" Ans="MUTTS">*Mongrels</Clue>
+      <Clue Row="11" Col="15" Num="47" Dir="Down" Ans="SEEST">Look at, as thou might</Clue>
+      <Clue Row="12" Col="7" Num="49" Dir="Down" Ans="OPUS">*Magnum ___</Clue>
+      <Clue Row="13" Col="6" Num="53" Dir="Down" Ans="SOY">Protein source in a vegan diet</Clue>
+      <Clue Row="13" Col="12" Num="55" Dir="Down" Ans="RUE">French street</Clue>
+    </Clues>
+    <Notepad><![CDATA[CELEBRITY CROSSWORD<br />This puzzle is a collaboration by the cartoonist Garry Trudeau, the Pulitzer-winning creator of "Doonesbury," working together with his son Ross Trudeau, a digital media producer in Cambridge, Mass. This is Ross's sixth puzzle for The Times.<br />     More information about the making of today's puzzle appears in the Times's daily crossword column (nytimes.com/column/wordplay).]]></Notepad>
+    <JeffNotes><![CDATA[<p>So cool to find out that Ross, who I&#39;ve come to admire as an up-and-coming constructor, is related to Garry Trudeau, who I&#39;ve long admired! I used to be a huge &quot;Doonesbury&quot; fan. I love it when artists use their power to needle people who need their power checked, and Trudeau got some great zingers in on both Bush 41 and 43.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Doonesbury" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/3/31/Db701026.gif" style="border:1px solid lightgray; float:left; height:71px; margin:6px 12px 6px 0px; width:220px" title="The first Doonesbury strip" /></a></p>
+
+<p>They team up today to give us STAND UP COMICS, i.e. comic strips &quot;standing&quot; in the vertical direction. I liked best the ones that they obfuscated &ndash; GARFIELD masquerades well as the former POTUS, James A. Garfield. BABY BLUES commonly describes a set of &quot;dreamy eyes,&quot; but it&#39;s also the name of a very funny comic strip about a family raising their kids.</p>
+
+<p>And MUTTS! One of my favorite strips of all time. So gentle, the adventures of Mooch and Earl. YESSH!</p>
+
+<p>(If you haven&#39;t heard of BABY BLUES or MUTTS, I give them both a high thumbs-up.)</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Tiger_(comic_strip)">TIGER</a> is &hellip; another comic strip? And OPUS confused me, since I was a daily &quot;Bloom County&quot; reader. But apparently there was a follow-on <a href="https://en.wikipedia.org/wiki/Opus_(comic_strip)">OPUS</a> comic.</p>
+
+<p>DICK TRACY is one I knew right away, even though it&#39;s been years since I read a DICK TRACY strip. But there&#39;s no real way to disguise it, a la GARFIELD or POGO. A bit too obvious, taking away from the a-ha moment at the end.</p>
+
+<p>The clue for STAND UP COMICS confused me &ndash; I&#39;ve seen DC COMICS played upon with <strong>D</strong>ane <strong>C</strong>ook and <strong>D</strong>ave <strong>C</strong>happelle a couple of times now. Why use these guys as examples? Why not Margaret Cho, or George Carlin? It felt misleading to use those two D.C.-initialed guys.</p>
+
+<p>So much bonus fill! AFLAC DUCK, SERENADE, MEAN GIRL, etc. Perhaps shading or circling the theme answers would have made them stand out better, amongst such great background stuff? As much as I loved those extras, they muddled up the puzzle a bit for me today.</p>
+
+<p>Nice addition to the celeb crosswords series. Great that it was so directly tied to Trudeau&#39;s profession.</p>]]></JeffNotes>
+  </Puzzle>
+</Puzzles>

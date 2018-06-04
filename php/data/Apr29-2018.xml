@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Sunday, April 29, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/28/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sun, Apr 29, 2018 MIS-UNABBREVIATED</Title>
+    <Author>Peter Wentz</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/29/2018</Date>
+    <Size>
+      <Rows>21</Rows>
+      <Cols>21</Cols>
+    </Size>
+    <Grid>
+      <Row>JUTS.FAROFF..RUTH.JOY</Row>
+      <Row>ATOM.COOKIE.SYRIA.AMI</Row>
+      <Row>WATERCLOSETFIELDS.NEE</Row>
+      <Row>SHOAL....FIRE.SITWELL</Row>
+      <Row>...REMISS.SIRS.LOOPED</Row>
+      <Row>.PHYSICALTHERAPYBOATS</Row>
+      <Row>BAD.STATUE.DANO.EDU..</Row>
+      <Row>ENDS..REMAP..DWI.ELAN</Row>
+      <Row>ADVANCEDPLACEMENTNEWS</Row>
+      <Row>DADDYO....RAP.LSU.YEA</Row>
+      <Row>...EMMA.VILLA.LANA...</Row>
+      <Row>AHA.EMS.ALA....NINEPM</Row>
+      <Row>POLITICALLYCORRECTLAB</Row>
+      <Row>PELT.TOM..SONIA..ZOLA</Row>
+      <Row>..NAM.TOWN.WAFTED.RAS</Row>
+      <Row>PUBLICSCHOOLILOVEYOU.</Row>
+      <Row>ISAIAH.OATS.RENATA...</Row>
+      <Row>LATCHES.MRIS....EMOJI</Row>
+      <Row>ABE.ANTEMERIDIEMRADIO</Row>
+      <Row>FLA.MEATY.ICANSO.HINT</Row>
+      <Row>SEM.MYNA..SKYCAM.ANNA</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="JUTS">Projects</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="FAROFF">Nowhere close</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Across" Ans="RUTH">First name on the Supreme Court</Clue>
+      <Clue Row="1" Col="19" Num="15" Dir="Across" Ans="JOY">Delight</Clue>
+      <Clue Row="2" Col="1" Num="18" Dir="Across" Ans="ATOM">Supercollider bit</Clue>
+      <Clue Row="2" Col="6" Num="19" Dir="Across" Ans="COOKIE">Online tracker</Clue>
+      <Clue Row="2" Col="13" Num="20" Dir="Across" Ans="SYRIA">Country whose capital lent its name to a fabric</Clue>
+      <Clue Row="2" Col="19" Num="21" Dir="Across" Ans="AMI">"___ reading too much into this?"</Clue>
+      <Clue Row="3" Col="1" Num="22" Dir="Across" Ans="WATERCLOSETFIELDS">Meadows filled with loos?</Clue>
+      <Clue Row="3" Col="19" Num="25" Dir="Across" Ans="NEE">Originally</Clue>
+      <Clue Row="4" Col="1" Num="26" Dir="Across" Ans="SHOAL">Bar that might be dangerous</Clue>
+      <Clue Row="4" Col="10" Num="27" Dir="Across" Ans="FIRE">Ax</Clue>
+      <Clue Row="4" Col="15" Num="28" Dir="Across" Ans="SITWELL">Be agreeable</Clue>
+      <Clue Row="5" Col="4" Num="30" Dir="Across" Ans="REMISS">Negligent</Clue>
+      <Clue Row="5" Col="11" Num="35" Dir="Across" Ans="SIRS">Old letter opener</Clue>
+      <Clue Row="5" Col="16" Num="37" Dir="Across" Ans="LOOPED">Blotto</Clue>
+      <Clue Row="6" Col="2" Num="38" Dir="Across" Ans="PHYSICALTHERAPYBOATS">Where sailors recover from their injuries?</Clue>
+      <Clue Row="7" Col="1" Num="42" Dir="Across" Ans="BAD">No longer edible</Clue>
+      <Clue Row="7" Col="5" Num="43" Dir="Across" Ans="STATUE">Square figure</Clue>
+      <Clue Row="7" Col="12" Num="44" Dir="Across" Ans="DANO">Actor Paul of "There Will Be Blood"</Clue>
+      <Clue Row="7" Col="17" Num="45" Dir="Across" Ans="EDU">Lead-in to -tainment</Clue>
+      <Clue Row="8" Col="1" Num="46" Dir="Across" Ans="ENDS">Quashes</Clue>
+      <Clue Row="8" Col="7" Num="48" Dir="Across" Ans="REMAP">Chart again</Clue>
+      <Clue Row="8" Col="14" Num="50" Dir="Across" Ans="DWI">Checkpoint offense, for short</Clue>
+      <Clue Row="8" Col="18" Num="52" Dir="Across" Ans="ELAN">Gusto</Clue>
+      <Clue Row="9" Col="1" Num="55" Dir="Across" Ans="ADVANCEDPLACEMENTNEWS">Goings-on in accelerated classes?</Clue>
+      <Clue Row="10" Col="1" Num="61" Dir="Across" Ans="DADDYO">"My man"</Clue>
+      <Clue Row="10" Col="11" Num="62" Dir="Across" Ans="RAP">Subject for The Source magazine</Clue>
+      <Clue Row="10" Col="15" Num="63" Dir="Across" Ans="LSU">Sch. of 30,000+ on the Mississippi</Clue>
+      <Clue Row="10" Col="19" Num="64" Dir="Across" Ans="YEA">Bill's support</Clue>
+      <Clue Row="11" Col="4" Num="65" Dir="Across" Ans="EMMA">It dethroned Sophia as the #1 baby girl's name in the U.S. in 2014</Clue>
+      <Clue Row="11" Col="9" Num="67" Dir="Across" Ans="VILLA">Home for a Roman emperor</Clue>
+      <Clue Row="11" Col="15" Num="69" Dir="Across" Ans="LANA">Onetime Bond girl ___ Wood</Clue>
+      <Clue Row="12" Col="1" Num="71" Dir="Across" Ans="AHA">"So obvious!"</Clue>
+      <Clue Row="12" Col="5" Num="74" Dir="Across" Ans="EMS">Common core?</Clue>
+      <Clue Row="12" Col="9" Num="75" Dir="Across" Ans="ALA">Like</Clue>
+      <Clue Row="12" Col="16" Num="76" Dir="Across" Ans="NINEPM">Prime-time time</Clue>
+      <Clue Row="13" Col="1" Num="80" Dir="Across" Ans="POLITICALLYCORRECTLAB">Dog that doesn't offend people?</Clue>
+      <Clue Row="14" Col="1" Num="87" Dir="Across" Ans="PELT">Come down hard, as hail</Clue>
+      <Clue Row="14" Col="6" Num="88" Dir="Across" Ans="TOM">Barnyard male</Clue>
+      <Clue Row="14" Col="11" Num="89" Dir="Across" Ans="SONIA">First name on the Supreme Court</Clue>
+      <Clue Row="14" Col="18" Num="90" Dir="Across" Ans="ZOLA">Dreyfus Affair figure</Clue>
+      <Clue Row="15" Col="3" Num="91" Dir="Across" Ans="NAM">Subject for Ken Burns, briefly</Clue>
+      <Clue Row="15" Col="7" Num="93" Dir="Across" Ans="TOWN">Burg</Clue>
+      <Clue Row="15" Col="12" Num="96" Dir="Across" Ans="WAFTED">Went by air?</Clue>
+      <Clue Row="15" Col="19" Num="99" Dir="Across" Ans="RAS">Dorm monitors</Clue>
+      <Clue Row="16" Col="1" Num="100" Dir="Across" Ans="PUBLICSCHOOLILOVEYOU">Cry of devotion from a non-academy student?</Clue>
+      <Clue Row="17" Col="1" Num="105" Dir="Across" Ans="ISAIAH">Source of the line "They shall beat their swords into plowshares"</Clue>
+      <Clue Row="17" Col="8" Num="106" Dir="Across" Ans="OATS">Things that may be rolled or wild</Clue>
+      <Clue Row="17" Col="13" Num="107" Dir="Across" Ans="RENATA">Soprano Tebaldi</Clue>
+      <Clue Row="18" Col="1" Num="108" Dir="Across" Ans="LATCHES">Some fasteners</Clue>
+      <Clue Row="18" Col="9" Num="110" Dir="Across" Ans="MRIS">They aid in diagnosing A.C.L. tears</Clue>
+      <Clue Row="18" Col="17" Num="112" Dir="Across" Ans="EMOJI">Funny face?</Clue>
+      <Clue Row="19" Col="1" Num="116" Dir="Across" Ans="ABE">Old White House nickname</Clue>
+      <Clue Row="19" Col="5" Num="117" Dir="Across" Ans="ANTEMERIDIEMRADIO">Morning zoo programming?</Clue>
+      <Clue Row="20" Col="1" Num="123" Dir="Across" Ans="FLA">Panama City state: Abbr.</Clue>
+      <Clue Row="20" Col="5" Num="124" Dir="Across" Ans="MEATY">Substantive</Clue>
+      <Clue Row="20" Col="11" Num="125" Dir="Across" Ans="ICANSO">"Don't doubt me!"</Clue>
+      <Clue Row="20" Col="18" Num="126" Dir="Across" Ans="HINT">Clue</Clue>
+      <Clue Row="21" Col="1" Num="127" Dir="Across" Ans="SEM">Divinity sch.</Clue>
+      <Clue Row="21" Col="5" Num="128" Dir="Across" Ans="MYNA">Chatty bird</Clue>
+      <Clue Row="21" Col="11" Num="129" Dir="Across" Ans="SKYCAM">Provider of aerial football views</Clue>
+      <Clue Row="21" Col="18" Num="130" Dir="Across" Ans="ANNA">Actress Kendrick</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="JAWS">Best Picture nominee with three sequels</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="UTAH">Pac-12 school that's not really near the Pacific</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="TOTO">Completely, after "in"</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="SMEARY">Like wet makeup</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="FCC">Media watchdog grp.</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="AOL">Parent co. of HuffPost</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="ROO">Hundred Acre Wood denizen</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="OKS">Agrees to</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="FIEF">Lord's domain</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="FETISH">Fixation</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="RYE">Slice for a Reuben</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="URLS">Things that have slashes</Clue>
+      <Clue Row="1" Col="16" Num="13" Dir="Down" Ans="TIDILY">With nothing out of place</Clue>
+      <Clue Row="1" Col="17" Num="14" Dir="Down" Ans="HASTOBE">"What other explanation is there?!"</Clue>
+      <Clue Row="1" Col="19" Num="15" Dir="Down" Ans="JANEPAULEY">Former "Today" show host</Clue>
+      <Clue Row="1" Col="20" Num="16" Dir="Down" Ans="OMELET">Word before pan or after Spanish</Clue>
+      <Clue Row="1" Col="21" Num="17" Dir="Down" Ans="YIELDS">Investment figures</Clue>
+      <Clue Row="2" Col="13" Num="20" Dir="Down" Ans="SIERRA">GMC truck</Clue>
+      <Clue Row="3" Col="5" Num="23" Dir="Down" Ans="RLESS">Like poor months for oysters, it's said</Clue>
+      <Clue Row="3" Col="12" Num="24" Dir="Down" Ans="FRIED">Mentally wiped</Clue>
+      <Clue Row="4" Col="18" Num="29" Dir="Down" Ans="WOODEN">Stiff</Clue>
+      <Clue Row="5" Col="6" Num="31" Dir="Down" Ans="MIT">Sch. with an annual Mystery Hunt</Clue>
+      <Clue Row="5" Col="7" Num="32" Dir="Down" Ans="ICARE">Words of compassion</Clue>
+      <Clue Row="5" Col="8" Num="33" Dir="Down" Ans="SATED">Stuffed</Clue>
+      <Clue Row="5" Col="9" Num="34" Dir="Down" Ans="SLUMP">Weak period</Clue>
+      <Clue Row="5" Col="14" Num="36" Dir="Down" Ans="SANDM">"Fifty Shades of Grey" subject, briefly</Clue>
+      <Clue Row="6" Col="2" Num="38" Dir="Down" Ans="PANDA">Symbol of China</Clue>
+      <Clue Row="6" Col="3" Num="39" Dir="Down" Ans="HDDVD">Onetime Blu-ray rival</Clue>
+      <Clue Row="6" Col="10" Num="40" Dir="Down" Ans="TEAL">Blue-green</Clue>
+      <Clue Row="6" Col="15" Num="41" Dir="Down" Ans="POWELL">Albright's successor as secretary of state</Clue>
+      <Clue Row="7" Col="1" Num="42" Dir="Down" Ans="BEAD">Craft shop item</Clue>
+      <Clue Row="8" Col="4" Num="47" Dir="Down" Ans="SADE">"The Sweetest Taboo" singer, 1985</Clue>
+      <Clue Row="8" Col="11" Num="49" Dir="Down" Ans="PARLAYS">Combo bets</Clue>
+      <Clue Row="8" Col="16" Num="51" Dir="Down" Ans="INSANE">Absolutely harebrained</Clue>
+      <Clue Row="8" Col="20" Num="53" Dir="Down" Ans="AWE">Astonishment</Clue>
+      <Clue Row="8" Col="21" Num="54" Dir="Down" Ans="NSA">Cryptanalysis org.</Clue>
+      <Clue Row="9" Col="5" Num="56" Dir="Down" Ans="NYMET">Queens player, for short</Clue>
+      <Clue Row="9" Col="6" Num="57" Dir="Down" Ans="COMMIT">Pledge</Clue>
+      <Clue Row="9" Col="12" Num="58" Dir="Down" Ans="CAL">___ Poly</Clue>
+      <Clue Row="9" Col="13" Num="59" Dir="Down" Ans="EPA">Green org.</Clue>
+      <Clue Row="9" Col="17" Num="60" Dir="Down" Ans="TUNIC">Caesar dressing?</Clue>
+      <Clue Row="11" Col="7" Num="66" Dir="Down" Ans="ASCOTS">Some neckwear</Clue>
+      <Clue Row="11" Col="9" Num="67" Dir="Down" Ans="VAL">Italy's ___ d'Orcia</Clue>
+      <Clue Row="11" Col="10" Num="68" Dir="Down" Ans="ILL">Laid up</Clue>
+      <Clue Row="11" Col="18" Num="70" Dir="Down" Ans="ANTZ">Second U.S. feature-length computer-animated movie, after "Toy Story"</Clue>
+      <Clue Row="12" Col="1" Num="71" Dir="Down" Ans="APP">Modern subject of reviews</Clue>
+      <Clue Row="12" Col="2" Num="72" Dir="Down" Ans="HOE">Row maker</Clue>
+      <Clue Row="12" Col="3" Num="73" Dir="Down" Ans="ALLNBATEAM">Elite court group</Clue>
+      <Clue Row="12" Col="19" Num="77" Dir="Down" Ans="ELORO">Ecuadorean coastal province known for its gold</Clue>
+      <Clue Row="12" Col="20" Num="78" Dir="Down" Ans="PALAU">Micronesian land</Clue>
+      <Clue Row="12" Col="21" Num="79" Dir="Down" Ans="MBAS">Some future execs</Clue>
+      <Clue Row="13" Col="4" Num="81" Dir="Down" Ans="ITALIC">Inclined to stress?</Clue>
+      <Clue Row="13" Col="8" Num="82" Dir="Down" Ans="AMOCO">Bygone gas brand with a torch in its logo</Clue>
+      <Clue Row="13" Col="12" Num="83" Dir="Down" Ans="COWL">Druid's head cover</Clue>
+      <Clue Row="13" Col="13" Num="84" Dir="Down" Ans="ONAIR">Studio sign</Clue>
+      <Clue Row="13" Col="14" Num="85" Dir="Down" Ans="RIFLE">Ransack</Clue>
+      <Clue Row="13" Col="15" Num="86" Dir="Down" Ans="RATON">Boca ___</Clue>
+      <Clue Row="15" Col="5" Num="92" Dir="Down" Ans="MIAHAMM">2007 female inductee into the National Soccer Hall of Fame</Clue>
+      <Clue Row="15" Col="9" Num="94" Dir="Down" Ans="WHAMMY">Hex</Clue>
+      <Clue Row="15" Col="10" Num="95" Dir="Down" Ans="NOTRE">Our, in Tours</Clue>
+      <Clue Row="15" Col="16" Num="97" Dir="Down" Ans="EVA">"Uncle Tom's Cabin" girl</Clue>
+      <Clue Row="15" Col="17" Num="98" Dir="Down" Ans="DETER">Stave off</Clue>
+      <Clue Row="16" Col="1" Num="100" Dir="Down" Ans="PILAFS">Rice dishes</Clue>
+      <Clue Row="16" Col="2" Num="101" Dir="Down" Ans="USABLE">Of service</Clue>
+      <Clue Row="16" Col="6" Num="102" Dir="Down" Ans="CHENEY">Gore's successor as vice president</Clue>
+      <Clue Row="16" Col="11" Num="103" Dir="Down" Ans="OSIRIS">Green-skinned god of the underworld</Clue>
+      <Clue Row="16" Col="18" Num="104" Dir="Down" Ans="YAMAHA">Harley-Davidson competitor</Clue>
+      <Clue Row="18" Col="7" Num="109" Dir="Down" Ans="STAN">"___ Against Evil" (IFC series)</Clue>
+      <Clue Row="18" Col="12" Num="111" Dir="Down" Ans="SICK">Totally awesome, in slang</Clue>
+      <Clue Row="18" Col="19" Num="113" Dir="Down" Ans="ODIN">Role in "Thor," 2011</Clue>
+      <Clue Row="18" Col="20" Num="114" Dir="Down" Ans="JINN">Islamic spirit</Clue>
+      <Clue Row="18" Col="21" Num="115" Dir="Down" Ans="IOTA">Second letter after 118-Down</Clue>
+      <Clue Row="19" Col="8" Num="118" Dir="Down" Ans="ETA">Second letter before 115-Down</Clue>
+      <Clue Row="19" Col="13" Num="119" Dir="Down" Ans="DAY">Word with camp or care</Clue>
+      <Clue Row="19" Col="14" Num="120" Dir="Down" Ans="INC">L.L.C. alternative</Clue>
+      <Clue Row="19" Col="15" Num="121" Dir="Down" Ans="ESA">That: Sp.</Clue>
+      <Clue Row="19" Col="16" Num="122" Dir="Down" Ans="MOM">Dr. ___</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Who would have known that so many phrases would have this property, that they start with two letters that stand for something, but those two letters also commonly stand for something else? Neat! PC LAB isn&#39;t &quot;personal computer&quot; but POLITICALLY CORRECT LAB.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Labrador_Retriever" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/ChocolateLabPup.jpg/440px-ChocolateLabPup.jpg" style="border:1px solid lightgray; float:right; height:165px; margin:6px 0px 6px 12px; width:220px" title="Might be POLITICALLY CORRECT, but he's awfully cute!" /></a></p>
+
+<p>Both Jim and I were befuddled by ANTE MERIDIEM DIAL. Neither of us knew what &quot;Morning zoo&quot; was (in the clue) &ndash; apparently, it&#39;s a common type of radio format? Huh.</p>
+
+<p>I was doubly confused because I was SURE that the &quot;a.m.&quot; in times was ANTE MERIDIAN. Drat! I&#39;ve been getting that wrong all these years. It&#39;s confusing because the word ANTE MERIDIAN does mean &quot;before noon.&quot; But a.m. is technically ANTE MERIDIEM.</p>
+
+<p>Few of the resulting themers made me laugh, unfortunately. It&#39;s a lot of real estate taken up by stilted-sounding entries.</p>
+
+<p>Thankfully, Peter is a strong constructor, and the solid grid made for a good solving exercise. Very few gluey bits, only ignorable AMOCO, SEM, FLA kinds of things. I did wonder if the RENATA / EVA crossing was fair. Is RENETA / EVE plausible if you haven&#39;t heard of either person? Probably not, but I&#39;d sympathize with disgruntled solvers getting that square wrong.</p>
+
+<p>Jim likes puzzles where you have to figure out the theme in order to solve the puzzle (or at least to finish it quickly). I appreciated this one from that perspective. I struggled mightily for a good solid 15 minutes without filling in a single themer, so it was a great relief when I finally figured out what was going on, sailing easily home after that. That was pretty cool.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>This puzzle&#39;s genesis sprang from overhearing someone jokingly use the term &quot;PC police&quot;, and being amusing at the thought of an actual militia enforcing a ban on Macs. That one was one letter too long to fit in a Sunday grid, but it opened the flood gates for theme potential.</p>
+
+<p>The first draft needed a few thematic edits, including a breakfast test-violating reference to a popular action figure brand. Thankfully, there were enough two-letter acronyms out there to find a few substitutes, and I&#39;m pleased with the final result. </p>
+
+<p>Hope everyone enjoys and gets a chuckle or two!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

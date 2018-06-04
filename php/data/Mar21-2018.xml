@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Wednesday, March 21, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/21/2018 at 11:46 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Wed, Mar 21, 2018</Title>
+    <Author>Laura Braunstein</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/21/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>AHEAD.BAR.BARKS</Row>
+      <Row>BOCCE.ILE.AVANT</Row>
+      <Row>CORDS.LOS.FIVEO</Row>
+      <Row>.DUCKSOUTOFVIEW</Row>
+      <Row>....SAX.SAL....</Row>
+      <Row>.FLIESINTHEFACE</Row>
+      <Row>GIANTS.YOU.EXAM</Row>
+      <Row>EXITS.IMP.TREVI</Row>
+      <Row>MILE.ODE.HAMLET</Row>
+      <Row>SEALSWITHAKISS.</Row>
+      <Row>....CEO.ERE....</Row>
+      <Row>YAKSONTHEPHONE.</Row>
+      <Row>ELIOT.BAD.OMEGA</Row>
+      <Row>LINDT.OLE.MERGE</Row>
+      <Row>PIDAY.XED.ENDOR</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="AHEAD">In front</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="BAR">Where a person in charge is making the rounds?</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Across" Ans="BARKS">Shouts, as an order</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="BOCCE">Lawn game</Clue>
+      <Clue Row="2" Col="7" Num="15" Dir="Across" Ans="ILE">Suffix with project</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Across" Ans="AVANT">___-garde</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="CORDS">Units of firewood</Clue>
+      <Clue Row="3" Col="7" Num="18" Dir="Across" Ans="LOS">___ Gatos, Calif.</Clue>
+      <Clue Row="3" Col="11" Num="19" Dir="Across" Ans="FIVEO">"Hawaii ___"</Clue>
+      <Clue Row="4" Col="2" Num="20" Dir="Across" Ans="DUCKSOUTOFVIEW">Why the hunter couldn't shoot the mallards?</Clue>
+      <Clue Row="5" Col="5" Num="23" Dir="Across" Ans="SAX">"Wailing" instrument</Clue>
+      <Clue Row="5" Col="9" Num="24" Dir="Across" Ans="SAL">The "she" in the lyric "She's a good old worker and a good old pal"</Clue>
+      <Clue Row="6" Col="2" Num="25" Dir="Across" Ans="FLIESINTHEFACE">Reason a cow swatted herself?</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Across" Ans="GIANTS">AT&amp;T Park team</Clue>
+      <Clue Row="7" Col="8" Num="34" Dir="Across" Ans="YOU">Who's doing this crossword</Clue>
+      <Clue Row="7" Col="12" Num="35" Dir="Across" Ans="EXAM">Appropriate rhyme for "cram"</Clue>
+      <Clue Row="8" Col="1" Num="36" Dir="Across" Ans="EXITS">Leaves</Clue>
+      <Clue Row="8" Col="7" Num="37" Dir="Across" Ans="IMP">Prankster</Clue>
+      <Clue Row="8" Col="11" Num="38" Dir="Across" Ans="TREVI">Rome's ___ Fountain</Clue>
+      <Clue Row="9" Col="1" Num="39" Dir="Across" Ans="MILE">Marathon marking</Clue>
+      <Clue Row="9" Col="6" Num="40" Dir="Across" Ans="ODE">Words of tribute</Clue>
+      <Clue Row="9" Col="10" Num="41" Dir="Across" Ans="HAMLET">His last words were "The rest is silence"</Clue>
+      <Clue Row="10" Col="1" Num="42" Dir="Across" Ans="SEALSWITHAKISS">Circus animals enjoying some chocolate?</Clue>
+      <Clue Row="11" Col="5" Num="45" Dir="Across" Ans="CEO">Fig. in annual reports</Clue>
+      <Clue Row="11" Col="9" Num="46" Dir="Across" Ans="ERE">Lead-in to long</Clue>
+      <Clue Row="12" Col="1" Num="47" Dir="Across" Ans="YAKSONTHEPHONE">Whose conversation might be about shaggy hair and Himalayan peaks?</Clue>
+      <Clue Row="13" Col="1" Num="55" Dir="Across" Ans="ELIOT">Novelist George</Clue>
+      <Clue Row="13" Col="7" Num="56" Dir="Across" Ans="BAD">Spoiled</Clue>
+      <Clue Row="13" Col="11" Num="57" Dir="Across" Ans="OMEGA">The end</Clue>
+      <Clue Row="14" Col="1" Num="59" Dir="Across" Ans="LINDT">Big Swiss chocolatier</Clue>
+      <Clue Row="14" Col="7" Num="60" Dir="Across" Ans="OLE">Stadium cheer</Clue>
+      <Clue Row="14" Col="11" Num="61" Dir="Across" Ans="MERGE">Become one</Clue>
+      <Clue Row="15" Col="1" Num="62" Dir="Across" Ans="PIDAY">Annual math celebration</Clue>
+      <Clue Row="15" Col="7" Num="63" Dir="Across" Ans="XED">Checked off</Clue>
+      <Clue Row="15" Col="11" Num="64" Dir="Across" Ans="ENDOR">Forest moon of the Ewoks</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="ABC">"Black-ish" network</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="HOOD">Home turf</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="ECRU">Wedding dress shade</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="ACDC">"Highway to Hell" band</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="DESKSETS">Combo office accessories</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="BILOXI">"___ Blues" (Neil Simon play)</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="ALOU">Baseball family name</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="RESTSTOP">Traveler's convenience</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="BAFFLE">Confound</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="AVIV">Tel ___</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="RAVI">Sitarist Shankar</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="KNEE">Word with high or hole</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="STOW">Put away</Clue>
+      <Clue Row="4" Col="6" Num="21" Dir="Down" Ans="SASS">Reason for a parental reprimand</Clue>
+      <Clue Row="4" Col="10" Num="22" Dir="Down" Ans="OAHU">Setting for 19-Across</Clue>
+      <Clue Row="6" Col="2" Num="25" Dir="Down" Ans="FIXIE">Many a single-gear bicycle</Clue>
+      <Clue Row="6" Col="3" Num="26" Dir="Down" Ans="LAILA">"The Greatest" daughter?</Clue>
+      <Clue Row="6" Col="4" Num="27" Dir="Down" Ans="INTEL">"Experience what's inside" sloganeer</Clue>
+      <Clue Row="6" Col="8" Num="28" Dir="Down" Ans="NYMET">N.L.'er wearing blue and orange</Clue>
+      <Clue Row="6" Col="12" Num="29" Dir="Down" Ans="FERMI">Physicist Enrico</Clue>
+      <Clue Row="6" Col="13" Num="30" Dir="Down" Ans="AXELS">Skating leaps</Clue>
+      <Clue Row="6" Col="14" Num="31" Dir="Down" Ans="CAVES">Places for Neanderthals</Clue>
+      <Clue Row="6" Col="15" Num="32" Dir="Down" Ans="EMIT">Give off</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Down" Ans="GEMS">Crown inlays</Clue>
+      <Clue Row="8" Col="7" Num="37" Dir="Down" Ans="IDIOTBOX">Boob tube</Clue>
+      <Clue Row="8" Col="11" Num="38" Dir="Down" Ans="TAKEHOME">Not-so-intimidating sort of test</Clue>
+      <Clue Row="9" Col="6" Num="40" Dir="Down" Ans="OWEN">Wilson of "The Royal Tenenbaums"</Clue>
+      <Clue Row="9" Col="10" Num="41" Dir="Down" Ans="HARP">Relative of a zither</Clue>
+      <Clue Row="10" Col="5" Num="43" Dir="Down" Ans="SCOTTY">Who was instructed to "Beam me up" on old TV</Clue>
+      <Clue Row="10" Col="9" Num="44" Dir="Down" Ans="HEEDED">Obeyed</Clue>
+      <Clue Row="12" Col="1" Num="47" Dir="Down" Ans="YELP">Crowdsourced review site</Clue>
+      <Clue Row="12" Col="2" Num="48" Dir="Down" Ans="ALII">Et ___ (and others)</Clue>
+      <Clue Row="12" Col="3" Num="49" Dir="Down" Ans="KIND">Tenderhearted</Clue>
+      <Clue Row="12" Col="4" Num="50" Dir="Down" Ans="SODA">Common mixer</Clue>
+      <Clue Row="12" Col="8" Num="51" Dir="Down" Ans="HALE">In good shape</Clue>
+      <Clue Row="12" Col="12" Num="52" Dir="Down" Ans="OMEN">Unsettling dream, maybe</Clue>
+      <Clue Row="12" Col="13" Num="53" Dir="Down" Ans="NERD">Put-down that nowadays may be worn as a badge of honor</Clue>
+      <Clue Row="12" Col="14" Num="54" Dir="Down" Ans="EGGO">Frozen waffle brand</Clue>
+      <Clue Row="13" Col="15" Num="58" Dir="Down" Ans="AER">___ Lingus</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Fun animal plays today, reinterpreting phrases involving animals that can commonly double as a verb. DUCKS OUT OF VIEW = birds hiding from a hunter, FLIES IN THE FACE eliciting that awful feeling of having gnats swarm you, etc.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Duck" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mallard_drake_.02.jpg/440px-Mallard_drake_.02.jpg" style="border:1px solid lightgray; float:left; height:146px; margin:6px 12px 6px 0px; width:220px" title="DUCK!" /></a></p>
+
+<p>I thought Laura did a fantastic job in grid execution. There are only four themers, but since they&#39;re all long (14 letters), this usually causes problems in the west and east regions, where two long themers have to interact. Beautiful work in the east. Smooth results, and even an X in AXELS, along with the nice FERMI and HAMLET. Now that&#39;s the way to execute in that type of tricky region!</p>
+
+<p>In the west, FIXIE seemed odd to me &ndash; I remember it seeming even odder <a href="https://www.xwordinfo.com/Crossword?date=2/20/2016&amp;g=17&amp;d=A">when I first saw it</a>. But it does seem to be a term in usage.</p>
+
+<p>I imagine Laura tried out different combinations of themers in different locations to figure out what letter placements would best allow for smooth fill. Very nice to have that flexibility, if you can select themers that are all of equal length.</p>
+
+<p>The reason I didn&#39;t consider this POW!-worthy was the awkwardness of the themers. SEALED WITH A KISS is a fantastic phrase. SEALS WITH A KISS, not so much. Same with FLIES IN THE FACE, without &quot;of&quot; to finish it off. And ON THE PHONE felt like filler in order to make YAKS fit the theme. I realize YAKS ON THE PHONE might seem more solid to others, but I doubt I&#39;d strive to use it as fill in another crossword.</p>
+
+<p>Impressive solo debut, though. I&#39;m hoping that we&#39;ll be seeing a lot more from Laura. Her gridwork was much better than stuff I see from many &ndash; perhaps even most &ndash; experienced constructors.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>This puzzle&#39;s theme was inspired by a text. I was chatting with a friend, and he texted, in response to something I said, &quot;Bears repeating!&quot; So I sent back a row of the &quot;bear face&quot; emoji:</p>
+
+<p>🐻🐻🐻🐻🐻</p>
+
+<p>&mdash; bears, repeating. I realized I had a 14-letter phrase, and started looking around for others that began with the criteria &quot;plural animal name that is also a verb.&quot;The original grid had BEARS REPEATING (with the clue [Grizzly, panda, grizzly, panda, grizzly, panda?]), along with SEALS WITH A KISS [Pinniped passion?], YAKS ON THE PHONE [Himalayan cattle call?], and the revealer ANIMAL BEHAVIOR.</p>
+
+<p>This was one of the very first puzzles I submitted to the New York Times, almost a year ago. Will and Joel were very encouraging in their feedback and suggested a second draft in which each entry had a prepositional phrase (bye bye BEARS!) and no revealer. I put together a new version (with much help from Erik Agard and John Lieb, both of whom have been fantastic as mentors and collaborators) which was finally accepted. This is my solo debut in the Times; much has happened since I first started constructing, and I feel very fortunate to be part of the crossword community.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

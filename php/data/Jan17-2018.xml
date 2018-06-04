@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Wednesday, January 17, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/17/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Wed, Jan 17, 2018</Title>
+    <Author>Jules Markey</Author>
+    <CanonicalNames>
+      <Constructor>Jules P. Markey</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/17/2018</Date>
+    <Size>
+      <Rows>16</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>ACELA.STOA.IDEO</Row>
+      <Row>DORAG.EELS.NOVA</Row>
+      <Row>DNASAMPLES.TWIT</Row>
+      <Row>...EMAIL.ABUNCH</Row>
+      <Row>LAW.EXAM.DRIFTS</Row>
+      <Row>ERATO.SEA.ATE..</Row>
+      <Row>DRYOFF.AVIV.ALL</Row>
+      <Row>GINNIE.NAPE.TIA</Row>
+      <Row>EVE.NEMO.ANTHEM</Row>
+      <Row>REG.CLOT.SERENE</Row>
+      <Row>..RAH.WHO.WIRES</Row>
+      <Row>STEREO.EHOW.SET</Row>
+      <Row>LATISH.RIPON...</Row>
+      <Row>ORZO.APOSTROPHE</Row>
+      <Row>WOKS.RUNE.LIRAS</Row>
+      <Row>STYE.EPEE.DRONE</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="ACELA">___ Express (Boston-to-Washington connection)</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="STOA">Site of Zeno's teaching</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="IDEO">Prefix with -logical</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="DORAG">Close-fitting head covering</Clue>
+      <Clue Row="2" Col="7" Num="15" Dir="Across" Ans="EELS">Congers, e.g.</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="NOVA">Salmon at a deli</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="DNASAMPLES">Some evidence collected for trials</Clue>
+      <Clue Row="3" Col="12" Num="19" Dir="Across" Ans="TWIT">Birdbrain</Clue>
+      <Clue Row="4" Col="4" Num="20" Dir="Across" Ans="EMAIL">Texting alternative</Clue>
+      <Clue Row="4" Col="10" Num="21" Dir="Across" Ans="ABUNCH">Boatloads</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Across" Ans="LAW">Police, informally</Clue>
+      <Clue Row="5" Col="5" Num="26" Dir="Across" Ans="EXAM">Part of a doctor's visit</Clue>
+      <Clue Row="5" Col="10" Num="27" Dir="Across" Ans="DRIFTS">Blizzard results</Clue>
+      <Clue Row="6" Col="1" Num="28" Dir="Across" Ans="ERATO">Lyrist of myth</Clue>
+      <Clue Row="6" Col="7" Num="30" Dir="Across" Ans="SEA">Lead-in to dog or horse</Clue>
+      <Clue Row="6" Col="11" Num="32" Dir="Across" Ans="ATE">Made a fast stop?</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Across" Ans="DRYOFF">Towel</Clue>
+      <Clue Row="7" Col="8" Num="35" Dir="Across" Ans="AVIV">Tel ___</Clue>
+      <Clue Row="7" Col="13" Num="37" Dir="Across" Ans="ALL">The works</Clue>
+      <Clue Row="8" Col="1" Num="40" Dir="Across" Ans="GINNIE">___ Mae (bond)</Clue>
+      <Clue Row="8" Col="8" Num="41" Dir="Across" Ans="NAPE">Scruff</Clue>
+      <Clue Row="8" Col="13" Num="42" Dir="Across" Ans="TIA">Madre's hermana</Clue>
+      <Clue Row="9" Col="1" Num="43" Dir="Across" Ans="EVE">Wall-E's love in "Wall-E"</Clue>
+      <Clue Row="9" Col="5" Num="44" Dir="Across" Ans="NEMO">Submarine commander of fiction</Clue>
+      <Clue Row="9" Col="10" Num="46" Dir="Across" Ans="ANTHEM">It's often played before playing</Clue>
+      <Clue Row="10" Col="1" Num="48" Dir="Across" Ans="REG">Rule, informally</Clue>
+      <Clue Row="10" Col="5" Num="49" Dir="Across" Ans="CLOT">Solidify</Clue>
+      <Clue Row="10" Col="10" Num="50" Dir="Across" Ans="SERENE">Tranquil</Clue>
+      <Clue Row="11" Col="3" Num="51" Dir="Across" Ans="RAH">"Hurray!"</Clue>
+      <Clue Row="11" Col="7" Num="53" Dir="Across" Ans="WHO">Question before a name is repeated</Clue>
+      <Clue Row="11" Col="11" Num="55" Dir="Across" Ans="WIRES">Circuitry connectors</Clue>
+      <Clue Row="12" Col="1" Num="56" Dir="Across" Ans="STEREO">Standard equipment on most cars</Clue>
+      <Clue Row="12" Col="8" Num="59" Dir="Across" Ans="EHOW">Website with step-by-step tutorials</Clue>
+      <Clue Row="12" Col="13" Num="61" Dir="Across" Ans="SET">Solidify</Clue>
+      <Clue Row="13" Col="1" Num="62" Dir="Across" Ans="LATISH">A little behind</Clue>
+      <Clue Row="13" Col="8" Num="63" Dir="Across" Ans="RIPON">Bad-mouth</Clue>
+      <Clue Row="14" Col="1" Num="65" Dir="Across" Ans="ORZO">Pasta used in soups and salads</Clue>
+      <Clue Row="14" Col="6" Num="66" Dir="Across" Ans="APOSTROPHE">Maker's mark?</Clue>
+      <Clue Row="15" Col="1" Num="71" Dir="Across" Ans="WOKS">Asian vessels</Clue>
+      <Clue Row="15" Col="6" Num="72" Dir="Across" Ans="RUNE">Tolkien character</Clue>
+      <Clue Row="15" Col="11" Num="73" Dir="Across" Ans="LIRAS">Turkish money</Clue>
+      <Clue Row="16" Col="1" Num="74" Dir="Across" Ans="STYE">Reason to see an ophthalmologist</Clue>
+      <Clue Row="16" Col="6" Num="75" Dir="Across" Ans="EPEE">Need for a modern pentathlon</Clue>
+      <Clue Row="16" Col="11" Num="76" Dir="Across" Ans="DRONE">High-tech package delivery method</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="ADD">Do some arithmetic</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="CON">One side of a debate</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="ERA">Word after many a president's name</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="LASE">Zap, in a way</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="AGAMEOFINCHES">*Baseball, according to some</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="SEPIAS">Old photo tones</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="TELLMEANOTHERONE">*"A likely story!"</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="OLE">"Hurray!"</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="ASSAD">Longtime Syrian strongman</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="INTUIT">Sense</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="DOWNFEATHERS">Warm winter coat contents ... or what is present in the answer to each starred clue?</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="EVICT">Give the boot</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="OATHS">Vows</Clue>
+      <Clue Row="3" Col="6" Num="18" Dir="Down" Ans="MAX">Upper limit, for short</Clue>
+      <Clue Row="4" Col="11" Num="22" Dir="Down" Ans="BRAVENEWWORLD">*Dystopian novel set in the year 2540</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Down" Ans="LEDGER">Book that a bookkeeper keeps</Clue>
+      <Clue Row="5" Col="2" Num="24" Dir="Down" Ans="ARRIVE">Achieve great success</Clue>
+      <Clue Row="5" Col="3" Num="25" Dir="Down" Ans="WAYNEGRETZKY">*Sports legend who was an M.V.P. for eight consecutive seasons</Clue>
+      <Clue Row="6" Col="4" Num="29" Dir="Down" Ans="TON">Boatload</Clue>
+      <Clue Row="6" Col="9" Num="31" Dir="Down" Ans="AVA">Director DuVernay</Clue>
+      <Clue Row="7" Col="6" Num="34" Dir="Down" Ans="FEEL">Sense</Clue>
+      <Clue Row="7" Col="10" Num="36" Dir="Down" Ans="IPAS">Hoppy brews</Clue>
+      <Clue Row="7" Col="14" Num="38" Dir="Down" Ans="LIENEE">Mortgagor, e.g.</Clue>
+      <Clue Row="7" Col="15" Num="39" Dir="Down" Ans="LAMEST">Unlikeliest to be bought</Clue>
+      <Clue Row="9" Col="7" Num="45" Dir="Down" Ans="MOW">Do some lawn work</Clue>
+      <Clue Row="9" Col="12" Num="47" Dir="Down" Ans="TRI">Grueling Olympic race, for short</Clue>
+      <Clue Row="11" Col="4" Num="52" Dir="Down" Ans="ARIOSE">Melodic</Clue>
+      <Clue Row="11" Col="9" Num="54" Dir="Down" Ans="OHISEE">"Now that makes sense!"</Clue>
+      <Clue Row="12" Col="1" Num="56" Dir="Down" Ans="SLOWS">Retards</Clue>
+      <Clue Row="12" Col="2" Num="57" Dir="Down" Ans="TAROT">Deck with 78 cards</Clue>
+      <Clue Row="12" Col="6" Num="58" Dir="Down" Ans="OHARE">Its symbol is ORD</Clue>
+      <Clue Row="12" Col="10" Num="60" Dir="Down" Ans="OPT">Elect (to)</Clue>
+      <Clue Row="13" Col="12" Num="64" Dir="Down" Ans="NOIR">Genre for "Chinatown" or "The Big Sleep"</Clue>
+      <Clue Row="14" Col="7" Num="67" Dir="Down" Ans="PUP">Whelp</Clue>
+      <Clue Row="14" Col="13" Num="68" Dir="Down" Ans="PRO">One side of a debate</Clue>
+      <Clue Row="14" Col="14" Num="69" Dir="Down" Ans="HAN">Solo on the silver screen</Clue>
+      <Clue Row="14" Col="15" Num="70" Dir="Down" Ans="ESE">Cornell-to-Yale dir.</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>DOWN FEATHERS &hellip; equals &quot;birds hidden within themers in the down direction&quot;? I stared at that revealer for a long time, trying to figure out if I was missing something. Where were the feathers? Perhaps they were drawn onto the print version? Now that would have been cool! We see so many shaded and circled squares &mdash; how about some feathered squares!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Atticus_Finch" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/7/77/Atticus_Finch.png" style="border:1px solid lightgray; float:right; height:234px; margin:6px 0px 6px 12px; width:220px" title="HBO's next series: A GAME OF FINCHES" /></a></p>
+
+<p>Some great finds, FINCH inside A GAME O<strong>F INCH</strong>ES, RAVEN inside B<strong>RAVE N</strong>EW WORLD, etc. Love that Jules went with longish birds. It would have been all too easy to use TIT or OWL or EMU.</p>
+
+<p>The puzzle does need a revealer &mdash; something to explain the concept &mdash; but DOWN FEATHERS didn&#39;t work for me. As much as I love a clever revealer, if you can&#39;t find one that feels sharp and/or witty, best to stick with something straightforward like BIRD as your last entry. It won&#39;t win any awards, but at least it&#39;ll do the trick and not confuse people. (BIRD DROPPINGS is hilariously on point, but it&#39;s also pretty gross!)</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Feather" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BWfeather.jpg/340px-BWfeather.jpg" style="border:1px solid lightgray; float:left; height:249px; margin:6px 12px 6px 0px; width:165px" title="Feathered squares!" /></a></p>
+
+<p>Good gridwork, especially considering the five long themers. STOA and IDEO up top worried me, but thankfully, just a bit of ESE and RAH otherwise. I would have expected some glop around the EHOW / RIP ON section due to themer overlap, so the smoothness there was much appreciated.</p>
+
+<p>Down-oriented themers &hellip; a typical drawback is that the revealer comes too early in the puzzle. Gives away the game! But that can&#39;t be helped; just part of a vertical themer layout.</p>
+
+<p>Another problem is that it can be tough to incorporate good long fill, since stuff like DNA SAMPLES (great fill!) tends to get mistaken for theme. Rich Norris over at the LAT frowns upon long across fill like this, and I agree. Best to cap this kind of fill to seven or eight letters, max.</p>
+
+<p>The print edition has so much potential, able to do things that the electronic version can&#39;t. I&#39;d love to see more elements like a feather printed lightly atop squares that can help keep the print newspaper alive. Even distinguish it.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>The inspiration for this puzzle was bird poop, (I was going to end my blurb there, but I&#39;ll go on), which morphed into the more refined bird droppings, which became the original revealer for this puzzle, in which 4 five letter bird names are embedded in long down entries. I mailed in the completed BIRD DROPPINGS grid, and then at the 2017 ACPT I broached the subject with both Will and Joel. There seemed to be a positive vibe from both (well maybe more from Joel than Will), but alas when the email arrived it was along the lines of: We like the idea, but having a puzzle revolve around bird droppings might not sit well with some solvers.</p>
+
+<p>So, I came up with a few alternatives including a fifth themer: CA<strong>JUN CO</strong>OKING while trying to fit BIRD(S) somewhere in the grid, without success. Eventually, I suggested DOWNFEATHERS as the revealer, which was the one accepted. A quick reworking of the grid and voila, today&#39;s puzzle. Thanks to Will and crew for really polishing it up, as usual.</p>
+
+<p>When I got word last week of the impending publish date, I took a look at the puzzle again, and for some reason, the phrase FLYING SOUTH popped into my head which I liked, but alas it was much too late, for at 11 letters it would have required a complete reworking of the grid.</p>
+
+<p>Well, that&#39;s the inside POOP on this one, I am disappointed that BIRD DROPPINGS didn&#39;t make the cut, but one can never POOH-POOH the fact of having their puzzle published in the N.Y. Times. Hope you liked it.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

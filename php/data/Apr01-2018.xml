@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Sunday, April 1, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/31/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sun, Apr 01, 2018 1 + 1 = 5</Title>
+    <Author>Sam Ezersky</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/1/2018</Date>
+    <Size>
+      <Rows>21</Rows>
+      <Cols>21</Cols>
+    </Size>
+    <Grid>
+      <Row>FARFROM.PCBS.PUNITIVE</Row>
+      <Row>ALABAMA.OHOH.AVEMARIA</Row>
+      <Row>KIDINACSTORE.PEXPRESS</Row>
+      <Row>EVA.INSIPID.MCAT.GNAT</Row>
+      <Row>SERF...NICEDAY..GEES.</Row>
+      <Row>..SUITS.EELED.PLOT...</Row>
+      <Row>...CREAM..LCALRISSIAN</Row>
+      <Row>ALLHONDECK.IMBEAT.ADO</Row>
+      <Row>TIEIN..ROAN.ESSIE.MAT</Row>
+      <Row>TVMA.BACKLOT..ASA.WPA</Row>
+      <Row>HEM.YANKEEDOODLED.OTS</Row>
+      <Row>EWE.ERA..STRAITS.AMIE</Row>
+      <Row>BIS.ASSTS.OCHO..BRAVA</Row>
+      <Row>ATE.HOAGIE.HURRICANES</Row>
+      <Row>THEAMAZINGR..SERUM...</Row>
+      <Row>...PAPI.GOGET.SEPIA..</Row>
+      <Row>.GMEN..DISHRAG...SCAR</Row>
+      <Row>PAIR.WEAN.TOBACCO.CUE</Row>
+      <Row>ELASTICB.AFISHCALLEDW</Row>
+      <Row>COMOESTA.DICE.EREADER</Row>
+      <Row>SPINSHOT.STAT.DESCEND</Row>
+    </Grid>
+    <RebusEntries>
+      <Rebus Row="3" Col="7" Short="C">CY</Rebus>
+      <Rebus Row="3" Col="14" Short="P">PA</Rebus>
+      <Rebus Row="7" Col="11" Short="L">LO</Rebus>
+      <Rebus Row="8" Col="4" Short="H">HS</Rebus>
+      <Rebus Row="11" Col="17" Short="D">DY</Rebus>
+      <Rebus Row="14" Col="21" Short="S">SY</Rebus>
+      <Rebus Row="15" Col="11" Short="R">RI</Rebus>
+      <Rebus Row="19" Col="8" Short="B">BS</Rebus>
+      <Rebus Row="19" Col="21" Short="W">WA</Rebus>
+    </RebusEntries>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="FARFROM">Hardly</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Across" Ans="PCBS">Chemicals proscribed by '70s legislation</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Across" Ans="PUNITIVE">Like some legal damages</Clue>
+      <Clue Row="2" Col="1" Num="20" Dir="Across" Ans="ALABAMA">2018 N.C.A.A. football champs</Clue>
+      <Clue Row="2" Col="9" Num="21" Dir="Across" Ans="OHOH">"I know the answer!"</Clue>
+      <Clue Row="2" Col="14" Num="22" Dir="Across" Ans="AVEMARIA">Final song in "Fantasia"</Clue>
+      <Clue Row="3" Col="1" Num="23" Dir="Across" Ans="KIDINACANDYSTORE">Excited sort</Clue>
+      <Clue Row="3" Col="14" Num="25" Dir="Across" Ans="PANDAEXPRESS">Chinese restaurant chain</Clue>
+      <Clue Row="4" Col="1" Num="26" Dir="Across" Ans="EVA">Actress Green of 2006's "Casino Royale"</Clue>
+      <Clue Row="4" Col="5" Num="27" Dir="Across" Ans="INSIPID">Tasteless</Clue>
+      <Clue Row="4" Col="13" Num="28" Dir="Across" Ans="MCAT">7 1/2-hour exam, for short</Clue>
+      <Clue Row="4" Col="18" Num="29" Dir="Across" Ans="GNAT">Component of a summer cloud</Clue>
+      <Clue Row="5" Col="1" Num="30" Dir="Across" Ans="SERF">One doing the lord's work</Clue>
+      <Clue Row="5" Col="8" Num="32" Dir="Across" Ans="NICEDAY">Something you hope people have when they leave?</Clue>
+      <Clue Row="5" Col="17" Num="34" Dir="Across" Ans="GEES">Bee ___</Clue>
+      <Clue Row="6" Col="3" Num="35" Dir="Across" Ans="SUITS">Business bigwigs</Clue>
+      <Clue Row="6" Col="9" Num="39" Dir="Across" Ans="EELED">Caught morays</Clue>
+      <Clue Row="6" Col="15" Num="40" Dir="Across" Ans="PLOT">What a spoiler spoils</Clue>
+      <Clue Row="7" Col="4" Num="42" Dir="Across" Ans="CREAM">Crush</Clue>
+      <Clue Row="7" Col="11" Num="44" Dir="Across" Ans="LANDOCALRISSIAN">Heroic figure in "Star Wars" films</Clue>
+      <Clue Row="8" Col="1" Num="49" Dir="Across" Ans="ALLHANDSONDECK">"I need everyone's help!"</Clue>
+      <Clue Row="8" Col="12" Num="54" Dir="Across" Ans="IMBEAT">"Geez, that was tiring!"</Clue>
+      <Clue Row="8" Col="19" Num="55" Dir="Across" Ans="ADO">Rumpus</Clue>
+      <Clue Row="9" Col="1" Num="56" Dir="Across" Ans="TIEIN">Many a cereal box toy</Clue>
+      <Clue Row="9" Col="8" Num="57" Dir="Across" Ans="ROAN">Speckled horse</Clue>
+      <Clue Row="9" Col="13" Num="59" Dir="Across" Ans="ESSIE">Big name in nail polish</Clue>
+      <Clue Row="9" Col="19" Num="60" Dir="Across" Ans="MAT">Bathtub accessory</Clue>
+      <Clue Row="10" Col="1" Num="61" Dir="Across" Ans="TVMA">Rating for "Game of Thrones" and "House of Cards"</Clue>
+      <Clue Row="10" Col="6" Num="62" Dir="Across" Ans="BACKLOT">Area for filming in Hollywood</Clue>
+      <Clue Row="10" Col="15" Num="65" Dir="Across" Ans="ASA">___ favor</Clue>
+      <Clue Row="10" Col="19" Num="66" Dir="Across" Ans="WPA">Org. that oversaw F.D.R.'s Federal Project Number One</Clue>
+      <Clue Row="11" Col="1" Num="67" Dir="Across" Ans="HEM">Haw's go-with</Clue>
+      <Clue Row="11" Col="5" Num="68" Dir="Across" Ans="YANKEEDOODLEDANDY">Patriotic song lyric before "Mind the music and the step"</Clue>
+      <Clue Row="11" Col="19" Num="71" Dir="Across" Ans="OTS">Regulation followers, in brief</Clue>
+      <Clue Row="12" Col="1" Num="72" Dir="Across" Ans="EWE">Shorn animal</Clue>
+      <Clue Row="12" Col="5" Num="73" Dir="Across" Ans="ERA">An ace has a low one</Clue>
+      <Clue Row="12" Col="10" Num="74" Dir="Across" Ans="STRAITS">Relatives of channels</Clue>
+      <Clue Row="12" Col="18" Num="75" Dir="Across" Ans="AMIE">Gallic gal pal</Clue>
+      <Clue Row="13" Col="1" Num="76" Dir="Across" Ans="BIS">Dumbbell curls build them, for short</Clue>
+      <Clue Row="13" Col="5" Num="77" Dir="Across" Ans="ASSTS">Aides: Abbr.</Clue>
+      <Clue Row="13" Col="11" Num="80" Dir="Across" Ans="OCHO">___ Rios, Jamaica</Clue>
+      <Clue Row="13" Col="17" Num="81" Dir="Across" Ans="BRAVA">Cry to a prima donna</Clue>
+      <Clue Row="14" Col="1" Num="82" Dir="Across" Ans="ATE">Had</Clue>
+      <Clue Row="14" Col="5" Num="83" Dir="Across" Ans="HOAGIE">Hero</Clue>
+      <Clue Row="14" Col="12" Num="85" Dir="Across" Ans="HURRICANESANDY">Natural disaster of 2012</Clue>
+      <Clue Row="15" Col="1" Num="88" Dir="Across" Ans="THEAMAZINGRANDI">Magician known for debunking paranormal claims</Clue>
+      <Clue Row="15" Col="14" Num="91" Dir="Across" Ans="SERUM">IV bag contents</Clue>
+      <Clue Row="16" Col="4" Num="92" Dir="Across" Ans="PAPI">Big ___, nickname of baseball's David Ortiz</Clue>
+      <Clue Row="16" Col="9" Num="93" Dir="Across" Ans="GOGET">Fetch</Clue>
+      <Clue Row="16" Col="15" Num="96" Dir="Across" Ans="SEPIA">Photo-editing option</Clue>
+      <Clue Row="17" Col="2" Num="98" Dir="Across" Ans="GMEN">4-Down personnel, informally</Clue>
+      <Clue Row="17" Col="8" Num="100" Dir="Across" Ans="DISHRAG">Item in a sink</Clue>
+      <Clue Row="17" Col="18" Num="102" Dir="Across" Ans="SCAR">Lasting, unpleasant memory</Clue>
+      <Clue Row="18" Col="1" Num="105" Dir="Across" Ans="PAIR">Match (with)</Clue>
+      <Clue Row="18" Col="6" Num="106" Dir="Across" Ans="WEAN">Move to solid food</Clue>
+      <Clue Row="18" Col="11" Num="108" Dir="Across" Ans="TOBACCO">Something used in a pinch?</Clue>
+      <Clue Row="18" Col="19" Num="112" Dir="Across" Ans="CUE">Social ___</Clue>
+      <Clue Row="19" Col="1" Num="113" Dir="Across" Ans="ELASTICBANDS">Stretchable wrappers</Clue>
+      <Clue Row="19" Col="10" Num="115" Dir="Across" Ans="AFISHCALLEDWANDA">1988 crime comedy rated 93% positive on Rotten Tomatoes</Clue>
+      <Clue Row="20" Col="1" Num="117" Dir="Across" Ans="COMOESTA">Spanish 101 question</Clue>
+      <Clue Row="20" Col="10" Num="118" Dir="Across" Ans="DICE">They may be loaded in a casino</Clue>
+      <Clue Row="20" Col="15" Num="119" Dir="Across" Ans="EREADER">Device many use in bed</Clue>
+      <Clue Row="21" Col="1" Num="120" Dir="Across" Ans="SPINSHOT">Massé, e.g.</Clue>
+      <Clue Row="21" Col="10" Num="121" Dir="Across" Ans="STAT">On the double</Clue>
+      <Clue Row="21" Col="15" Num="122" Dir="Across" Ans="DESCEND">Go down</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="FAKES">Deceptive moves</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ALIVE">Partner of well</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="RADARS">Cockpit devices</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="FBI">"Enemies: A History of the ___" (2012 best seller)</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="RANI">Delhi dignitary</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="OMAN">Country whose total land area is less than .01% forested</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="MACYS">Retailer with a star in its logo</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="POTPIE">Flaky entree</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="CHOICE">A, B, C or D</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="BORDELLO">Brothel</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="SHE">___-crab soup</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="PAPACY">Vatican jurisdiction</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="UVEA">Eye part</Clue>
+      <Clue Row="1" Col="16" Num="14" Dir="Down" Ans="NEXT">Call from behind a counter</Clue>
+      <Clue Row="1" Col="17" Num="15" Dir="Down" Ans="IMP">The "Home Alone" boy, e.g.</Clue>
+      <Clue Row="1" Col="18" Num="16" Dir="Down" Ans="TARGETS">Things to shoot for ... or shoot at</Clue>
+      <Clue Row="1" Col="19" Num="17" Dir="Down" Ans="IRENE">Ryan of "The Beverly Hillbillies"</Clue>
+      <Clue Row="1" Col="20" Num="18" Dir="Down" Ans="VISAS">Embassy issuances</Clue>
+      <Clue Row="1" Col="21" Num="19" Dir="Down" Ans="EAST">Big ___ Conference</Clue>
+      <Clue Row="3" Col="8" Num="24" Dir="Down" Ans="SIN">Sermon topic</Clue>
+      <Clue Row="4" Col="13" Num="28" Dir="Down" Ans="MADAME">Señora, across the Pyrenees</Clue>
+      <Clue Row="5" Col="4" Num="31" Dir="Down" Ans="FUCHSIA">Reddish-purple</Clue>
+      <Clue Row="5" Col="12" Num="33" Dir="Down" Ans="DECI">Prefix with liter</Clue>
+      <Clue Row="5" Col="17" Num="34" Dir="Down" Ans="GOSTEADY">Have an exclusive relationship</Clue>
+      <Clue Row="6" Col="5" Num="36" Dir="Down" Ans="IRON">Nutrient in lentils and liver</Clue>
+      <Clue Row="6" Col="6" Num="37" Dir="Down" Ans="TEN">X</Clue>
+      <Clue Row="6" Col="7" Num="38" Dir="Down" Ans="SAD">Pathetic</Clue>
+      <Clue Row="6" Col="15" Num="40" Dir="Down" Ans="PRESALT">Make easier to plow, in a way</Clue>
+      <Clue Row="6" Col="16" Num="41" Dir="Down" Ans="LIAISES">Makes a connection</Clue>
+      <Clue Row="7" Col="8" Num="43" Dir="Down" Ans="MERCK">Pfizer competitor</Clue>
+      <Clue Row="7" Col="14" Num="45" Dir="Down" Ans="LBS">Dieting units: Abbr.</Clue>
+      <Clue Row="7" Col="19" Num="46" Dir="Down" Ans="IAMWOMAN">Helen Reddy's signature hit</Clue>
+      <Clue Row="7" Col="20" Num="47" Dir="Down" Ans="ADAPTIVE">Malleable</Clue>
+      <Clue Row="7" Col="21" Num="48" Dir="Down" Ans="NOTASEASY">Tougher</Clue>
+      <Clue Row="8" Col="1" Num="49" Dir="Down" Ans="ATTHEBAT">Like a fictional Casey</Clue>
+      <Clue Row="8" Col="2" Num="50" Dir="Down" Ans="LIVEWITH">Have as a housemate</Clue>
+      <Clue Row="8" Col="3" Num="51" Dir="Down" Ans="LEMMESEE">"I wanna look!"</Clue>
+      <Clue Row="8" Col="9" Num="52" Dir="Down" Ans="COKE">___ Zero</Clue>
+      <Clue Row="8" Col="10" Num="53" Dir="Down" Ans="KALES">Leafy vegetables</Clue>
+      <Clue Row="9" Col="11" Num="58" Dir="Down" Ans="NODTO">Acknowledge without words</Clue>
+      <Clue Row="10" Col="6" Num="62" Dir="Down" Ans="BARSOAP">Irish Spring, e.g.</Clue>
+      <Clue Row="10" Col="7" Num="63" Dir="Down" Ans="ANASAZI">Pueblo ancestors</Clue>
+      <Clue Row="10" Col="12" Num="64" Dir="Down" Ans="TORCH">It's lit</Clue>
+      <Clue Row="11" Col="5" Num="68" Dir="Down" Ans="YEAHMAN">"Totally, bro"</Clue>
+      <Clue Row="11" Col="13" Num="69" Dir="Down" Ans="OAHU">Four-letter island name with three syllables</Clue>
+      <Clue Row="11" Col="14" Num="70" Dir="Down" Ans="DIORS">Some expensive gowns</Clue>
+      <Clue Row="12" Col="18" Num="75" Dir="Down" Ans="ARAMIS">Associate of Athos and Porthos</Clue>
+      <Clue Row="13" Col="8" Num="78" Dir="Down" Ans="TGI">___ Fridays</Clue>
+      <Clue Row="13" Col="9" Num="79" Dir="Down" Ans="SINGIN">"___ in the Rain"</Clue>
+      <Clue Row="13" Col="17" Num="81" Dir="Down" Ans="BCUP">Certain bra spec</Clue>
+      <Clue Row="14" Col="10" Num="84" Dir="Down" Ans="EGOS">Big heads</Clue>
+      <Clue Row="14" Col="15" Num="86" Dir="Down" Ans="RES">___ ipsa loquitur</Clue>
+      <Clue Row="14" Col="16" Num="87" Dir="Down" Ans="IRE">Hot state</Clue>
+      <Clue Row="15" Col="4" Num="89" Dir="Down" Ans="APERSON">Each</Clue>
+      <Clue Row="15" Col="11" Num="90" Dir="Down" Ans="RIGHTFIT">Goal for a tailor</Clue>
+      <Clue Row="16" Col="12" Num="94" Dir="Down" Ans="EROICA">Beethoven's Third</Clue>
+      <Clue Row="16" Col="13" Num="95" Dir="Down" Ans="TABSET">Typewriter formatting aid</Clue>
+      <Clue Row="16" Col="19" Num="97" Dir="Down" Ans="ACCEDE">Consent (to)</Clue>
+      <Clue Row="17" Col="2" Num="98" Dir="Down" Ans="GALOP">Ballroom dance in duple time</Clue>
+      <Clue Row="17" Col="3" Num="99" Dir="Down" Ans="MIAMI">City near Biscayne National Park</Clue>
+      <Clue Row="17" Col="8" Num="100" Dir="Down" Ans="DABSAT">Touches, as with a tissue</Clue>
+      <Clue Row="17" Col="14" Num="101" Dir="Down" Ans="GAH">"This is SO frustrating!"</Clue>
+      <Clue Row="17" Col="20" Num="103" Dir="Down" Ans="AUDEN">Poet who wrote "For the Time Being" and "Another Time"</Clue>
+      <Clue Row="17" Col="21" Num="104" Dir="Down" Ans="REWARD">Figure on a poster</Clue>
+      <Clue Row="18" Col="1" Num="105" Dir="Down" Ans="PECS">Bench presses build them, for short</Clue>
+      <Clue Row="18" Col="6" Num="106" Dir="Down" Ans="WISH">Well thought?</Clue>
+      <Clue Row="18" Col="7" Num="107" Dir="Down" Ans="ECTO">Prefix with -derm</Clue>
+      <Clue Row="18" Col="15" Num="109" Dir="Down" Ans="CCED">Kept in the loop, in a way</Clue>
+      <Clue Row="18" Col="16" Num="110" Dir="Down" Ans="CARE">Prudence</Clue>
+      <Clue Row="18" Col="17" Num="111" Dir="Down" Ans="OLES">Whoops?</Clue>
+      <Clue Row="19" Col="5" Num="114" Dir="Down" Ans="TES">French possessive</Clue>
+      <Clue Row="19" Col="10" Num="115" Dir="Down" Ans="ADS">Billboards, e.g.</Clue>
+      <Clue Row="19" Col="18" Num="116" Dir="Down" Ans="LAC">France's ___ du Bourget</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>OMG so frustrating for a good solid 10 minutes! I could not figure out what was going on. I had things like HURRICANE ___, and knew it had to be some sort of rebus. But what? And was I really supposed to remember the names of various hurricanes, for goodness sakes?</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Lando_Calrissian" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/c/cb/Lando6-2.jpg" style="border:1px solid lightgray; float:left; height:130px; margin:6px 12px 6px 0px; width:220px" title="LO, CALRISSIAN! Er, LANDO." /></a></p>
+
+<p>Wow, did everything flip for me when I *finally* got it. HURRICANE SANDY got reimagined as HURRICANE S and Y, the crossing answer using just the SY to complete NOT AS EA(SY). Mind-bendingly clever! Sam does make some PANDA puzzles &ndash; P and A for Puns and Anagrams &mdash; so that should have nudged me toward the puzzle theme much earlier. D&#39;oh!</p>
+
+<p>Jim once mentioned that he loved themes that were necessary to understand to solve the puzzle. I sort of got what he meant, but that notion fully clicked for me today, unable to figure out SANDY until I grokked the theme. Very cool.</p>
+
+<p>I would have thought that the very limiting constraint of &quot;word must follow the X AND Y pattern&quot; would have produced some boring themers. Not so! LANDO CALRISSIAN, PANDA EXPRESS, YANKEE DOODLE DANDY made me a KID IN A CANDY STORE. Wonderful job of uncovering so many great phrases while adhering to a tough constraint.</p>
+
+<p>A couple of minor dings here and there, most notably the GMEN / YEAH MAN dupe (crossing each other, oof), but I didn&#39;t mind at all because I was so delighted by the innovative theme. (Sorry Sam, I&#39;m with Will and Joel on the iffiness of RIGHT FIT.) Along with super solid execution &ndash; some nice COMO ESTA, LEMME SEE, GO STEADY, AVE MARIA bonuses, with a pretty small amount of ignorable TGI, ECTO, DECI gluey bits &ndash; it was a big winner for me. POW!</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>No April fooling; one week after my A.C.P.T. playoff puzzle, I actually have a Sunday publication in the Times! This achievement has eluded me for years, so I&#39;m super stoked to finally <a href="https://www.xwordinfo.com/Cycle">&quot;hit for the cycle&quot;</a> on being published throughout the week.</p>
+
+<p><a href="https://www.xwordinfo.com/images/bonus/20180328original.jpg" style="border:none"><img alt="" src="https://www.xwordinfo.com/images/bonus/20180328original.jpg" style="border:1px solid lightgray; float:left; height:233px; margin:6px 12px 6px 0px; width:220px" title="Sam's original Thursday grid" /></a></p>
+
+<p>Funny enough, I originally built the 15x16 grid below (shown at left), intending the puzzle for a Thursday. I didn&#39;t want a single rebus-ized letter to be repeated anywhere else, and figured the special squares should always appear at the ends of answers. My only hitch was whether or not the last example, THERE&#39;S NOT A LOT I CAN DO, was an unfair inconsistency or a fun final twist.</p>
+
+<p>When I showed it all to Joel on a Subway ride, he not only thought the former was true, but that my other restrictions were unnecessary. He wondered if the idea would be best in Sunday form altogether, and it took me maybe a half-second to excitedly agree.</p>
+
+<p>If I may say, I&#39;m super thrilled with how this thing turned out. These theme answers seem like a fun set in themselves, and I&#39;m glad to have worked in four sets of triple-stacked 8s as well as fun bonuses in YEAH MAN, BAR SOAP and NICE DAY. The clues for TOBACCO and OLES feel like some of my best work, and even the angles for OMAN, ALABAMA and AVE MARIA have a fresh feel. Did anyone catch the &quot;It&#39;s lit&quot; and &quot;Totally, bro&quot; one-two punch? That was &mdash; *sigh* &mdash; very intentional.</p>
+
+<p>Curious to see how people feel about RIGHT FIT. I could&#39;ve easily made this RIGHTFUL, but I thought the former was a interesting, lexical phrase. You hope that a new setting is the right fit for someone, no? Or, as I clued it, that your clothing has the right fit on you? Two certain people that I work with closely seem to feel otherwise ... so I guess I should brace myself for an earful in the comments :)</p>
+
+<p>Happy solving, and may this puzzle not fool you as much as yesterday&#39;s early surprise!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

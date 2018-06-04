@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Monday, April 2, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/1/2018 at 3:05 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Mon, Apr 02, 2018</Title>
+    <Author>Jason Mueller</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/2/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>DESI.KEBABS.KFC</Row>
+      <Row>OMAN.ANODES.ILL</Row>
+      <Row>EIFFELTOWER.ROY</Row>
+      <Row>STERNE.TET.FOOD</Row>
+      <Row>..TOR.THELOUVRE</Row>
+      <Row>SAYNOTO.KERR...</Row>
+      <Row>PONTNEUF..ASKME</Row>
+      <Row>ENE..ARENA..IED</Row>
+      <Row>DETOO..SORBONNE</Row>
+      <Row>...GRIP.NERFGUN</Row>
+      <Row>NOTREDAME.IAM..</Row>
+      <Row>ALOE.ETA.BANISH</Row>
+      <Row>KIN.PARISFRANCE</Row>
+      <Row>EVE.ATONOF.GOAL</Row>
+      <Row>DES.RENEWS.ESTD</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="DESI">Arnaz of "I Love Lucy"</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="KEBABS">Skewered meat dishes</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Across" Ans="KFC">Col. Sanders's restaurant</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="OMAN">Muscat's land</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="ANODES">Battery terminals</Clue>
+      <Clue Row="2" Col="13" Num="16" Dir="Across" Ans="ILL">Not feeling well</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="EIFFELTOWER">62-Across landmark</Clue>
+      <Clue Row="3" Col="13" Num="19" Dir="Across" Ans="ROY">Siegfried's partner in Vegas</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="STERNE">Laurence who wrote "Tristram Shandy"</Clue>
+      <Clue Row="4" Col="8" Num="21" Dir="Across" Ans="TET">Vietnamese holiday</Clue>
+      <Clue Row="4" Col="12" Num="22" Dir="Across" Ans="FOOD">What's thrown in a cafeteria fight</Clue>
+      <Clue Row="5" Col="3" Num="23" Dir="Across" Ans="TOR">Blue Jays' home, for short</Clue>
+      <Clue Row="5" Col="7" Num="24" Dir="Across" Ans="THELOUVRE">62-Across museum</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Across" Ans="SAYNOTO">Turn down, as an offer</Clue>
+      <Clue Row="6" Col="9" Num="29" Dir="Across" Ans="KERR">N.B.A. coach Steve</Clue>
+      <Clue Row="7" Col="1" Num="30" Dir="Across" Ans="PONTNEUF">62-Across bridge</Clue>
+      <Clue Row="7" Col="11" Num="32" Dir="Across" Ans="ASKME">"I know! I know!"</Clue>
+      <Clue Row="8" Col="1" Num="36" Dir="Across" Ans="ENE">Opposite of WSW</Clue>
+      <Clue Row="8" Col="6" Num="37" Dir="Across" Ans="ARENA">Basketball venue</Clue>
+      <Clue Row="8" Col="13" Num="40" Dir="Across" Ans="IED">Roadside bomb, for short</Clue>
+      <Clue Row="9" Col="1" Num="41" Dir="Across" Ans="DETOO">Artoo-___ of "Star Wars"</Clue>
+      <Clue Row="9" Col="8" Num="44" Dir="Across" Ans="SORBONNE">62-Across school</Clue>
+      <Clue Row="10" Col="4" Num="47" Dir="Across" Ans="GRIP">Clutch</Clue>
+      <Clue Row="10" Col="9" Num="50" Dir="Across" Ans="NERFGUN">Toy that shoots foam darts</Clue>
+      <Clue Row="11" Col="1" Num="51" Dir="Across" Ans="NOTREDAME">62-Across cathedral</Clue>
+      <Clue Row="11" Col="11" Num="55" Dir="Across" Ans="IAM">"... or so ___ told"</Clue>
+      <Clue Row="12" Col="1" Num="56" Dir="Across" Ans="ALOE">___ vera</Clue>
+      <Clue Row="12" Col="6" Num="57" Dir="Across" Ans="ETA">Airport guess, for short</Clue>
+      <Clue Row="12" Col="10" Num="58" Dir="Across" Ans="BANISH">Exile</Clue>
+      <Clue Row="13" Col="1" Num="61" Dir="Across" Ans="KIN">Family members</Clue>
+      <Clue Row="13" Col="5" Num="62" Dir="Across" Ans="PARISFRANCE">World capital that's the theme of this puzzle</Clue>
+      <Clue Row="14" Col="1" Num="64" Dir="Across" Ans="EVE">She tasted the forbidden fruit</Clue>
+      <Clue Row="14" Col="5" Num="65" Dir="Across" Ans="ATONOF">Many</Clue>
+      <Clue Row="14" Col="12" Num="66" Dir="Across" Ans="GOAL">One of three in a hat trick</Clue>
+      <Clue Row="15" Col="1" Num="67" Dir="Across" Ans="DES">Dôme ___ Invalides (historic church)</Clue>
+      <Clue Row="15" Col="5" Num="68" Dir="Across" Ans="RENEWS">Extends, as a lease</Clue>
+      <Clue Row="15" Col="12" Num="69" Dir="Across" Ans="ESTD">Abbr. on many a cornerstone</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="DOES">Bucks' mates</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="EMIT">Let out</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="SAFETYNET">Social Security, Medicare, etc., collectively</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="INFRONT">Leading the pack</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="KALE">Green vegetable with tightly curled leaves</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="ENT">Suffix with differ</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="BOOTH">Diner seating option</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="ADWEEK">Trade publication read along Madison Avenue</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="BEETLE">Ladybug or scarab</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="SSR">Ukr., e.g., once</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="KIROV">Big name in Russian ballet</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="FLOOR">Elevator stop</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="CLYDE">Bonnie's partner in crime</Clue>
+      <Clue Row="3" Col="5" Num="18" Dir="Down" Ans="ENRON">Scandal-ridden company of the early 2000s</Clue>
+      <Clue Row="4" Col="12" Num="22" Dir="Down" Ans="FURS">Pelts</Clue>
+      <Clue Row="5" Col="7" Num="24" Dir="Down" Ans="TOUR">Grand ___ (cultural trip around Europe)</Clue>
+      <Clue Row="5" Col="11" Num="25" Dir="Down" Ans="ORA">"... man ___ mouse?"</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Down" Ans="SPED">Zoomed</Clue>
+      <Clue Row="6" Col="2" Num="27" Dir="Down" Ans="AONE">Top-notch</Clue>
+      <Clue Row="6" Col="6" Num="28" Dir="Down" Ans="TEA">Drink that's often iced</Clue>
+      <Clue Row="7" Col="8" Num="31" Dir="Down" Ans="FES">Second-largest city of Morocco, after Casablanca</Clue>
+      <Clue Row="7" Col="13" Num="33" Dir="Down" Ans="KINGMINOS">Mythical ruler of Crete</Clue>
+      <Clue Row="7" Col="14" Num="34" Dir="Down" Ans="MENU">List of options</Clue>
+      <Clue Row="7" Col="15" Num="35" Dir="Down" Ans="EDEN">Genesis garden</Clue>
+      <Clue Row="8" Col="9" Num="38" Dir="Down" Ans="NONE">___ of the above</Clue>
+      <Clue Row="8" Col="10" Num="39" Dir="Down" Ans="ARE">"Vous êtes ici" ("You ___ here")</Clue>
+      <Clue Row="9" Col="4" Num="42" Dir="Down" Ans="OGRE">Shrek, e.g.</Clue>
+      <Clue Row="9" Col="5" Num="43" Dir="Down" Ans="ORE">Galena or bauxite</Clue>
+      <Clue Row="9" Col="11" Num="45" Dir="Down" Ans="BRIAR">Hide-out for Br'er Rabbit</Clue>
+      <Clue Row="9" Col="12" Num="46" Dir="Down" Ans="OFANAGE">At the point in one's life</Clue>
+      <Clue Row="10" Col="6" Num="48" Dir="Down" Ans="IDEATE">Think up</Clue>
+      <Clue Row="10" Col="7" Num="49" Dir="Down" Ans="PATRON">St. Genevieve, for 62-Across</Clue>
+      <Clue Row="11" Col="1" Num="51" Dir="Down" Ans="NAKED">Like a jaybird, in an idiom</Clue>
+      <Clue Row="11" Col="2" Num="52" Dir="Down" Ans="OLIVE">Shade of green</Clue>
+      <Clue Row="11" Col="3" Num="53" Dir="Down" Ans="TONES">Shades of color</Clue>
+      <Clue Row="11" Col="8" Num="54" Dir="Down" Ans="MAINE">State formed as part of the Missouri Compromise</Clue>
+      <Clue Row="12" Col="10" Num="58" Dir="Down" Ans="BFFS">Bosom buddies, in modern lingo</Clue>
+      <Clue Row="12" Col="14" Num="59" Dir="Down" Ans="SCAT">Sing like Ella Fitzgerald</Clue>
+      <Clue Row="12" Col="15" Num="60" Dir="Down" Ans="HELD">Clutched</Clue>
+      <Clue Row="13" Col="5" Num="62" Dir="Down" Ans="PAR">Golf course standard</Clue>
+      <Clue Row="13" Col="9" Num="63" Dir="Down" Ans="SOW">Strew, as seed</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Tribute to PARIS, a listing of its famous landmarks. I visited Paris maybe 30 years ago &mdash; so much to see. THE LOUVRE and NOTRE DAME were amazing. I missed PONT NEUF, but apparently, it&#39;s quite beautiful as well.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Pont_Neuf" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pont_Neuf_at_Sunset.jpg/440px-Pont_Neuf_at_Sunset.jpg" style="border:1px solid lightgray; float:right; height:165px; margin:6px 0px 6px 12px; width:220px" title="Wish I had seen this when I was there. Breathtaking!" /></a></p>
+
+<p>It&#39;s hard to make a list puzzle stand out. More often than not, it comes across like reading a Wikipedia article &mdash; not super interesting. An extra level, whether it be theme tightness, a visual element, or a novel twist, can help it become memorable.</p>
+
+<p>Tightness? That would be if there were a famous tourist term called &quot;the five French landmarks,&quot; and all five were included. In today&#39;s puzzle, why PONT NEUF and not the ARC DE TRIOMPHE? Why the SORBONNE (without THE, like in THE LOUVRE, too) and not MONTMARTRE? These feel like arbitrary choices based solely on the need for crossword symmetry.</p>
+
+<p>Visual element? Perhaps if the EIFFEL TOWEL had been oriented vertically? Or each monument was in the same geographical location as in a map of PARIS?</p>
+
+<p>Novel twist? You tell me! Ideas?</p>
+
+<p>I don&#39;t totally agree with Jason on the fill being solid. Granted, I have a very high bar for Monday puzzles. I think they need to be warm and welcoming to newcomers, allowing for a beautiful feeling of HELL YEAH, I CONQUERED A NYT CROSSWORD! Ultimately, everything in the grid is fair, but I can imagine newer solvers staring at FES, simultaneously at PONT NEUF, and wondering what the heck they had gotten themselves into.</p>
+
+<p>SSR is a gluey bit I might move to &quot;puzzle-killer&quot; status. USSR, sure, but SSR feels like something constructors use when desperate. DES, ENE, ESTD, TOR are much more minor to me, but still, too much in one Monday puzzle. Yes, six themers is a feat, but a feat that usually comes with too many compromises.</p>
+
+<p>Ending with just PARIS, instead of PARIS FRANCE, could have helped. Probably not many people thinking about Paris, Idaho after they uncover the EIFFEL TOWER.</p>
+
+<p>But, I hope everyone gets a chance to see PARIS one day. I liked how the puzzle reminded me of my short time there.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>I wanted to get a good number and variety of landmarks in this puzzle, and with five well-known places plus a revealer, I think I did just that. The fill is solid, with SAFETY NET, KING MINOS, and NERF GUN providing some pizzazz. Also, I&#39;ve never been to Paris.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

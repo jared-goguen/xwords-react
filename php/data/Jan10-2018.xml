@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Wednesday, January 10, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/10/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Wed, Jan 10, 2018</Title>
+    <Author>Sen. Joe Donnelly and Michael S. Maurer</Author>
+    <CanonicalNames>
+      <Constructor>Joe Donnelly</Constructor>
+      <Constructor>Michael S. Maurer</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/10/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>DIALOG..WISEASS</Row>
+      <Row>IMPALA.BANKSHOT</Row>
+      <Row>LAPSAT.ORNATELY</Row>
+      <Row>ALLEYOOPS.TEA..</Row>
+      <Row>TOED..PSAS..DMZ</Row>
+      <Row>ENT.GMC.WELCOME</Row>
+      <Row>SEVAREID.LEAFED</Row>
+      <Row>...FASTBREAK...</Row>
+      <Row>ATHENS.LINSEEDS</Row>
+      <Row>CROWDED.FAT.MEH</Row>
+      <Row>TIO..SEAL..WINO</Row>
+      <Row>..KGB.FREETHROW</Row>
+      <Row>ASSUAGES.CREATE</Row>
+      <Row>FOULLINE.HITTER</Row>
+      <Row>TOPPLED..OBSESS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="DIALOG">Exchange of words</Clue>
+      <Clue Row="1" Col="9" Num="7" Dir="Across" Ans="WISEASS">Smart farm animal?</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="IMPALA">Chevrolet model</Clue>
+      <Clue Row="2" Col="8" Num="15" Dir="Across" Ans="BANKSHOT">Warning during a heist?</Clue>
+      <Clue Row="3" Col="1" Num="16" Dir="Across" Ans="LAPSAT">Washes against, as the shore</Clue>
+      <Clue Row="3" Col="8" Num="17" Dir="Across" Ans="ORNATELY">In baroque fashion</Clue>
+      <Clue Row="4" Col="1" Num="18" Dir="Across" Ans="ALLEYOOPS">Gutterball?</Clue>
+      <Clue Row="4" Col="11" Num="20" Dir="Across" Ans="TEA">Afternoon social</Clue>
+      <Clue Row="5" Col="1" Num="21" Dir="Across" Ans="TOED">Pigeon-___</Clue>
+      <Clue Row="5" Col="7" Num="22" Dir="Across" Ans="PSAS">Filler ads, in brief</Clue>
+      <Clue Row="5" Col="13" Num="24" Dir="Across" Ans="DMZ">Korean border area, for short</Clue>
+      <Clue Row="6" Col="1" Num="27" Dir="Across" Ans="ENT">Sinus doc</Clue>
+      <Clue Row="6" Col="5" Num="28" Dir="Across" Ans="GMC">Yukon or Sierra</Clue>
+      <Clue Row="6" Col="9" Num="30" Dir="Across" Ans="WELCOME">Opening word at many a conference</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Across" Ans="SEVAREID">Eric of old CBS News</Clue>
+      <Clue Row="7" Col="10" Num="36" Dir="Across" Ans="LEAFED">Flipped (through)</Clue>
+      <Clue Row="8" Col="4" Num="37" Dir="Across" Ans="FASTBREAK">Dinner at the end of Ramadan?</Clue>
+      <Clue Row="9" Col="1" Num="39" Dir="Across" Ans="ATHENS">Where Socrates lived</Clue>
+      <Clue Row="9" Col="8" Num="42" Dir="Across" Ans="LINSEEDS">Artists' oil sources</Clue>
+      <Clue Row="10" Col="1" Num="46" Dir="Across" Ans="CROWDED">Like Times Square on New Year's Eve</Clue>
+      <Clue Row="10" Col="9" Num="48" Dir="Across" Ans="FAT">Diet of Jack Sprat's wife</Clue>
+      <Clue Row="10" Col="13" Num="49" Dir="Across" Ans="MEH">"Doesn't excite me"</Clue>
+      <Clue Row="11" Col="1" Num="50" Dir="Across" Ans="TIO">Spanish uncle</Clue>
+      <Clue Row="11" Col="6" Num="51" Dir="Across" Ans="SEAL">Elite team member</Clue>
+      <Clue Row="11" Col="12" Num="53" Dir="Across" Ans="WINO">Bowery boozer</Clue>
+      <Clue Row="12" Col="3" Num="54" Dir="Across" Ans="KGB">"The Spy Who Loved Me" org.</Clue>
+      <Clue Row="12" Col="7" Num="57" Dir="Across" Ans="FREETHROW">Rug store promotion?</Clue>
+      <Clue Row="13" Col="1" Num="60" Dir="Across" Ans="ASSUAGES">Pacifies</Clue>
+      <Clue Row="13" Col="10" Num="63" Dir="Across" Ans="CREATE">Establish</Clue>
+      <Clue Row="14" Col="1" Num="64" Dir="Across" Ans="FOULLINE">Something bleeped out for television?</Clue>
+      <Clue Row="14" Col="10" Num="65" Dir="Across" Ans="HITTER">Successful batter</Clue>
+      <Clue Row="15" Col="1" Num="66" Dir="Across" Ans="TOPPLED">Knocked over</Clue>
+      <Clue Row="15" Col="10" Num="67" Dir="Across" Ans="OBSESS">Think about only one thing</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="DILATES">Works with pupils?</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="IMALONE">"No one's with me"</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="APPLETV">Digital media player that's "big" in New York City?</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="LASED">Operated on, as the eyes</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="OLAY">Beauty product line with the slogan "Ageless"</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="GATO">Cat, to Catarina</Clue>
+      <Clue Row="1" Col="9" Num="7" Dir="Down" Ans="WARSAW">Site of a 1955 "Pact"</Clue>
+      <Clue Row="1" Col="10" Num="8" Dir="Down" Ans="INN">Comfort ___</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="SKAT">32-card card game</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="ESTE">Punta del ___ (Uruguayan resort)</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="AHEADOF">Leading</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="SOL">Fa follower</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="STY">Home on a farm</Clue>
+      <Clue Row="2" Col="8" Num="15" Dir="Down" Ans="BOPS">Noggin knocks</Clue>
+      <Clue Row="4" Col="7" Num="19" Dir="Down" Ans="OPCIT">Footnote abbr.</Clue>
+      <Clue Row="5" Col="10" Num="23" Dir="Down" Ans="SELENA">Jennifer Lopez title role</Clue>
+      <Clue Row="5" Col="14" Num="25" Dir="Down" Ans="MME">___ Tussaud: Abbr.</Clue>
+      <Clue Row="5" Col="15" Num="26" Dir="Down" Ans="ZED">The end of the British monarchy?</Clue>
+      <Clue Row="6" Col="5" Num="28" Dir="Down" Ans="GRAND">Thou</Clue>
+      <Clue Row="6" Col="6" Num="29" Dir="Down" Ans="MESSES">Things babies make</Clue>
+      <Clue Row="6" Col="11" Num="31" Dir="Down" Ans="LEAST">___ of one's worries</Clue>
+      <Clue Row="6" Col="12" Num="32" Dir="Down" Ans="CAKE">One might say "Happy Birthday"</Clue>
+      <Clue Row="7" Col="4" Num="34" Dir="Down" Ans="AFEW">Not many</Clue>
+      <Clue Row="7" Col="8" Num="35" Dir="Down" Ans="DBL">Two-bagger: Abbr.</Clue>
+      <Clue Row="8" Col="9" Num="38" Dir="Down" Ans="RIFLE">Part of N.R.A.</Clue>
+      <Clue Row="9" Col="1" Num="39" Dir="Down" Ans="ACT">SAT alternative</Clue>
+      <Clue Row="9" Col="2" Num="40" Dir="Down" Ans="TRI">Numerical prefix</Clue>
+      <Clue Row="9" Col="3" Num="41" Dir="Down" Ans="HOOKSUP">Has a one-night stand, say</Clue>
+      <Clue Row="9" Col="13" Num="43" Dir="Down" Ans="EMIRATE">Abu Dhabi, for one</Clue>
+      <Clue Row="9" Col="14" Num="44" Dir="Down" Ans="DENOTES">Signifies</Clue>
+      <Clue Row="9" Col="15" Num="45" Dir="Down" Ans="SHOWERS">An ejected player might be sent to them</Clue>
+      <Clue Row="10" Col="7" Num="47" Dir="Down" Ans="DEFEND">Protect against the other team scoring</Clue>
+      <Clue Row="11" Col="8" Num="52" Dir="Down" Ans="ARSE">The end of the British monarchy?</Clue>
+      <Clue Row="11" Col="12" Num="53" Dir="Down" Ans="WHETS">Sharpens</Clue>
+      <Clue Row="12" Col="4" Num="55" Dir="Down" Ans="GULP">More than a sip</Clue>
+      <Clue Row="12" Col="5" Num="56" Dir="Down" Ans="BALL">Spalding or Voit product</Clue>
+      <Clue Row="12" Col="10" Num="58" Dir="Down" Ans="ECHO">Bounce off the wall</Clue>
+      <Clue Row="12" Col="11" Num="59" Dir="Down" Ans="TRIB">Chicago daily, informally</Clue>
+      <Clue Row="13" Col="1" Num="60" Dir="Down" Ans="AFT">Back, on a ship</Clue>
+      <Clue Row="13" Col="2" Num="61" Dir="Down" Ans="SOO">Great Lakes' ___ Canals</Clue>
+      <Clue Row="13" Col="6" Num="62" Dir="Down" Ans="GIE">Bestow, to Burns</Clue>
+    </Clues>
+    <Notepad><![CDATA[CELEBRITY CROSSWORD<br />This puzzle is a collaboration by the basketball-loving senator Joe Donnelly of Indiana, working together with longtime crossword contributor Michael S. (Mickey) Maurer, the owner of the Indianapolis Business Journal. This is Mickey's 25th crossword for The Times.<br />    More information about the making of today's puzzle appears in the Times's daily crossword column (nytimes.com/column/wordplay).]]></Notepad>
+    <JeffNotes><![CDATA[<p>Plays on basketball terms! ALLEY OOPS as a bowling flub made me laugh, as did FOUL LINE = something a censor has to bleep out. </p>
+
+<p><a href="https://en.wikipedia.org/wiki/Bowling" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20151207NixonBowling3000%C3%971995.jpg/550px-20151207NixonBowling3000%C3%971995.jpg" style="border:1px solid lightgray; float:right; height:146px; margin:6px 0px 6px 12px; width:220px" title="Ah, Nixon ... too easy to make fun of." /></a></p>
+
+<p>Great to get so much bonus material, too. The grid was packed with such goodies as WISEASS, APPLE TV, HOOKS UP, and an ejected player hitting the SHOWERS. Along with Eric SEVAREID and a fun wordplay clue in DILATES (eye pupils, not student pupils!), that&#39;s a lot of good stuff.</p>
+
+<p>It almost felt like a little too much. When your themers all have question marked clues, it&#39;s important not to have too many other question marked clues in the grid, for fear of muddying up theme vs. fill. With DILATES and WISEASS in such prominent positions within the grid, I wasn&#39;t sure if I was missing some theme material. I mean, Dennis Rodman is a WISEASS, right?</p>
+
+<p>It&#39;s unusual to put themers in row 2, so that also muddied things up for me. It wasn&#39;t hard to pick out the five themers, but it wasn&#39;t easy, either. I would have liked a more standard layout, with themers in rows 3 / 13 instead of 2 / 14.</p>
+
+<p>I know, us regular solvers are so annoyingly demanding about our crossword conventions!</p>
+
+<p>A bit too much crossword glue in SKAT / ESTE, DBL, SOO, GIE. I can understand the constructors&#39; decision to prioritize snazziness over smoothness, but it felt like the prices I had to pay as a solver were too high. I would have preferred a less audacious grid, perhaps breaking up WISEASS / TOPPLED, and/or SEVAREID / LINSEEDS.</p>
+
+<p>As a big basketball fan myself (well, until I tore my Achilles playing one-on-one last year), I enjoyed the hoops wordplay. I also liked that the constructors selected terms that would be mostly accessible even to non-fans. As much as I like more specialized lingo like <a href="https://www.xwordinfo.com/Crossword?date=2/28/2016">DOUBLE DRIBBLE, or SHOT CLOCK</a>, terms like FAST BREAK are more accessible to a larger number of solvers.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p><strong>MICKEY:</strong> I am delighted when my puzzle appears in the <em>New York Times</em> so I always try to maintain three puzzles in the queue to feed that addiction.</p>
+
+<p>Puns and quips are my favorite crossword puzzle themes. We should all know by now that it is difficult to shoot a quip puzzle idea past Will Shortz. I keep trying. Many of my recent puzzles including this collaboration with Indiana Senator Joe Donnelly are themed puns. Some of these puns made me laugh out loud. See 18 across.</p>
+
+<p>It was a pleasure to work with Senator Joe Donnelly. I am not making a political statement here, but I was not surprised to learn that Senator Donnelly was recognized as the 2<sup>nd</sup> most bipartisan Senator since 1993 by the Lugar Center, McCourt School of Public Policy at Georgetown University. He is easy to work with. I had originally intended to hide his name in the puzzle (don, nelly) but those letters didn&#39;t mesh well with the theme clues.</p>
+
+<p>We chose a basketball theme for Indiana, a basketball crazy state that produced Oscar Robinson, Larry Bird and George McGinnis. McGinnis was recently enshrined in the Naismith Memorial Basketball Hall of Fame (2017). You do not need a deep understanding of the game of basketball to enjoy this puzzle. I hope you like our effort.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

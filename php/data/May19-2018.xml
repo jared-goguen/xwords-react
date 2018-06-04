@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Saturday, May 19, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/18/2018 at 7:01 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sat, May 19, 2018</Title>
+    <Author>John Guzzetta</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/19/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>SLOTCANYON.APPS</Row>
+      <Row>AIRBAZOOKA.SHOP</Row>
+      <Row>FLEAMARKET.LOWE</Row>
+      <Row>ETS.BRAE.TEETER</Row>
+      <Row>...REID.REDWORM</Row>
+      <Row>CAMERA.CARE.BED</Row>
+      <Row>ATOMS.WATERPOLO</Row>
+      <Row>LANI.CASED.LOIN</Row>
+      <Row>ABSTRACTS.MOTTO</Row>
+      <Row>BAT.ELKS.NETHER</Row>
+      <Row>ADEPTLY.ROES...</Row>
+      <Row>STRODE.BOCK.KEG</Row>
+      <Row>HIHO.DOUBLETEAM</Row>
+      <Row>EMIR.IFYOUSAYSO</Row>
+      <Row>SETS.TASTETESTS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="SLOTCANYON">Geological feature of Zion National Park</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Across" Ans="APPS">Pandora and others</Clue>
+      <Clue Row="2" Col="1" Num="15" Dir="Across" Ans="AIRBAZOOKA">Toy that's a type of vortex cannon</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="SHOP">Word with coffee or gift</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="FLEAMARKET">Stalls alongside the road?</Clue>
+      <Clue Row="3" Col="12" Num="18" Dir="Across" Ans="LOWE">E. S. ___, game company that produced Yahtzee and Bingo</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="ETS">&amp; &amp; &amp;, in France</Clue>
+      <Clue Row="4" Col="5" Num="20" Dir="Across" Ans="BRAE">Scottish hillside</Clue>
+      <Clue Row="4" Col="10" Num="21" Dir="Across" Ans="TEETER">Be in danger of falling</Clue>
+      <Clue Row="5" Col="4" Num="23" Dir="Across" Ans="REID">Senate majority leader after Frist</Clue>
+      <Clue Row="5" Col="9" Num="24" Dir="Across" Ans="REDWORM">Common bait for fishing</Clue>
+      <Clue Row="6" Col="1" Num="25" Dir="Across" Ans="CAMERA">Ham go-with?</Clue>
+      <Clue Row="6" Col="8" Num="28" Dir="Across" Ans="CARE">Concern</Clue>
+      <Clue Row="6" Col="13" Num="29" Dir="Across" Ans="BED">Foundation</Clue>
+      <Clue Row="7" Col="1" Num="30" Dir="Across" Ans="ATOMS">Smithereens</Clue>
+      <Clue Row="7" Col="7" Num="31" Dir="Across" Ans="WATERPOLO">Sport featuring the eggbeater kick</Clue>
+      <Clue Row="8" Col="1" Num="33" Dir="Across" Ans="LANI">Activist Guinier</Clue>
+      <Clue Row="8" Col="6" Num="34" Dir="Across" Ans="CASED">Checked out before going in?</Clue>
+      <Clue Row="8" Col="12" Num="35" Dir="Across" Ans="LOIN">Butcher's cut</Clue>
+      <Clue Row="9" Col="1" Num="36" Dir="Across" Ans="ABSTRACTS">Parts of research papers</Clue>
+      <Clue Row="9" Col="11" Num="38" Dir="Across" Ans="MOTTO">Words to live by</Clue>
+      <Clue Row="10" Col="1" Num="39" Dir="Across" Ans="BAT">Diamond club</Clue>
+      <Clue Row="10" Col="5" Num="40" Dir="Across" Ans="ELKS">Fraternal club</Clue>
+      <Clue Row="10" Col="10" Num="41" Dir="Across" Ans="NETHER">Situated beneath the earth's surface</Clue>
+      <Clue Row="11" Col="1" Num="42" Dir="Across" Ans="ADEPTLY">With skill</Clue>
+      <Clue Row="11" Col="9" Num="44" Dir="Across" Ans="ROES">Some deer</Clue>
+      <Clue Row="12" Col="1" Num="45" Dir="Across" Ans="STRODE">Walked confidently</Clue>
+      <Clue Row="12" Col="8" Num="46" Dir="Across" Ans="BOCK">Dark beer</Clue>
+      <Clue Row="12" Col="13" Num="47" Dir="Across" Ans="KEG">Beer holder</Clue>
+      <Clue Row="13" Col="1" Num="50" Dir="Across" Ans="HIHO">Cheery cry</Clue>
+      <Clue Row="13" Col="6" Num="51" Dir="Across" Ans="DOUBLETEAM">Gang up on, in a way</Clue>
+      <Clue Row="14" Col="1" Num="54" Dir="Across" Ans="EMIR">Title meaning "commander"</Clue>
+      <Clue Row="14" Col="6" Num="55" Dir="Across" Ans="IFYOUSAYSO">"I'm not convinced, but ... all right"</Clue>
+      <Clue Row="15" Col="1" Num="56" Dir="Across" Ans="SETS">Firms</Clue>
+      <Clue Row="15" Col="6" Num="57" Dir="Across" Ans="TASTETESTS">Coke and Pepsi have had many of them</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="SAFE">On base</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="LILT">Carousel music</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="ORES">Contents of some dollies</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="TBA">Sched. letters</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="CAMBERS">Slight upward curves, as in roads or beams</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="AZARIA">Voice actor Hank</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="NORAD">Org. based near Colorado Springs</Clue>
+      <Clue Row="1" Col="8" Num="8" Dir="Down" Ans="YOKE">Join</Clue>
+      <Clue Row="1" Col="9" Num="9" Dir="Down" Ans="OKE">Fine and dandy, in old slang</Clue>
+      <Clue Row="1" Col="10" Num="10" Dir="Down" Ans="NATTERED">Blathered on and on</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="ASLEW">Lots</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="PHOTOBOOTH">Where couples may be seen kissing</Clue>
+      <Clue Row="1" Col="14" Num="13" Dir="Down" Ans="POWERELITE">Corporate, military and business leaders, collectively</Clue>
+      <Clue Row="1" Col="15" Num="14" Dir="Down" Ans="SPERMDONOR">One making deposits in a bank?</Clue>
+      <Clue Row="4" Col="11" Num="22" Dir="Down" Ans="EDER">River of central Germany</Clue>
+      <Clue Row="5" Col="4" Num="23" Dir="Down" Ans="REMIT">Pay</Clue>
+      <Clue Row="5" Col="9" Num="24" Dir="Down" Ans="RATES">Sizes up</Clue>
+      <Clue Row="6" Col="1" Num="25" Dir="Down" Ans="CALABASHES">Fruits also known as bottle gourds</Clue>
+      <Clue Row="6" Col="2" Num="26" Dir="Down" Ans="ATABADTIME">Inopportunely</Clue>
+      <Clue Row="6" Col="3" Num="27" Dir="Down" Ans="MONSTERHIT">Mega-seller</Clue>
+      <Clue Row="6" Col="8" Num="28" Dir="Down" Ans="CASTS">Flings</Clue>
+      <Clue Row="7" Col="7" Num="31" Dir="Down" Ans="WACKY">Off-the-wall</Clue>
+      <Clue Row="7" Col="12" Num="32" Dir="Down" Ans="PLOTS">Novel ideas</Clue>
+      <Clue Row="8" Col="6" Num="34" Dir="Down" Ans="CALLEDIT">Guessed right</Clue>
+      <Clue Row="9" Col="5" Num="37" Dir="Down" Ans="RETD">Emeritus: Abbr.</Clue>
+      <Clue Row="9" Col="11" Num="38" Dir="Down" Ans="MEEKEST">Most easy to walk on</Clue>
+      <Clue Row="10" Col="10" Num="41" Dir="Down" Ans="NOCLUE">"I haven't the foggiest!"</Clue>
+      <Clue Row="11" Col="4" Num="43" Dir="Down" Ans="POORS">Half of a stock market index name</Clue>
+      <Clue Row="11" Col="9" Num="44" Dir="Down" Ans="ROBOT">One who acts without thinking</Clue>
+      <Clue Row="12" Col="8" Num="46" Dir="Down" Ans="BUYS">Accepts</Clue>
+      <Clue Row="12" Col="13" Num="47" Dir="Down" Ans="KEYS">Locale for the southernmost part of U.S. Route 1, with "the"</Clue>
+      <Clue Row="12" Col="14" Num="48" Dir="Down" Ans="EAST">Around 90°</Clue>
+      <Clue Row="12" Col="15" Num="49" Dir="Down" Ans="GMOS">Biotech products, for short</Clue>
+      <Clue Row="13" Col="7" Num="52" Dir="Down" Ans="OFA">___ piece</Clue>
+      <Clue Row="13" Col="12" Num="53" Dir="Down" Ans="TAE">Martial arts word meaning "kick"</Clue>
+    </Clues>
+    <JimNotes><![CDATA[The idiom "of a piece" (or "all of a piece") means "of the same kind."]]></JimNotes>
+    <JeffNotes><![CDATA[<p>Some solid entry/clue pairs today. My two favorite:</p>
+
+<ul>
+	<li>FLEA MARKET is good in its own right. Using the word &quot;stalls&quot; to misdirect toward &quot;stalling&quot; instead of &quot;sellers&#39; stalls&quot; makes it brilliant.</li>
+	<li>WATER POLO uses the eggbeater kick? Took me a while to figure out how one would kick like an eggbeater, but it provided me a nice a-ha.</li>
+</ul>
+
+<p><a href="https://en.wikipedia.org/wiki/Air_vortex_cannon" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Airzooka.jpg" style="border:1px solid lightgray; float:right; height:191px; margin:6px 0px 6px 12px; width:220px" title="AIRZOOKA, anyone?" /></a></p>
+
+<p>SPERM DONOR &hellip; yes, a clever clue, in one who makes deposits to a certain bank. I know I shouldn&#39;t get a little breakfast testy here, as SPERM DONORs provide a valuable service. Still, I couldn&#39;t get myself to add it to the list above due to a persisting discomfort. Why did it make me cringe a little? A little too cutesy on the clue? Still not sure.</p>
+
+<p>As a standard 70-word themeless, the long entries must all shine, and there can&#39;t be much of any crossword glue &mdash; the bar has been raised very high for this type of themeless. I thought John did an excellent job with his long entries, only NATTERED and TASTE TESTS feeling neutral to me (Will once called STRESS TESTS &quot;cheap&quot; because of all the uber-common letters).</p>
+
+<p>I did end up liking AIR BAZOOKA, but what a kooky term. (I&#39;ve known it as an &quot;air vortex cannon.&quot;)</p>
+
+<p>And as an engineer, I know the word CAMBER. Vaguely. It does seem odder in the plural.</p>
+
+<p>I don&#39;t mind a bit of crossword glue in the name of making something incredible happen. But for a 70-worder, RETD, EDER (or is that ODER?), OFA (what is &quot;of a piece&quot;?), OKE, TAE is way too much for today&#39;s standards.</p>
+
+<p>Still, an entertaining solve, if with some inelegance in execution.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>For about five years, I&#39;ve managed to take annual trips to Zion. It must be my favorite place in the world to explore (and my kids have been good sports to come along.) So 1A seemed like a natural seed entry. It&#39;s funny that my clue, &quot;Place for the narrows-minded explorer&quot; was changed to mention Zion.</p>
+
+<p>My original grid had a cheater square at the A of APPS, but I noted the possibility of changing it and waited to see what the final decision would be.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

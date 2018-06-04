@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Tuesday, May 29, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/28/2018 at 7:10 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Tue, May 29, 2018</Title>
+    <Author>John Lieb</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/29/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>ODDDUCKS.ABRAMS</Row>
+      <Row>PARANOIA.NOOGIE</Row>
+      <Row>ALANALDA.DHARMA</Row>
+      <Row>LEIA..FREEEMAIL</Row>
+      <Row>SSN.DHL.RAM....</Row>
+      <Row>...SUEANNNIVENS</Row>
+      <Row>WARHORSE..AILEY</Row>
+      <Row>ALOU.SHAPE.PSAS</Row>
+      <Row>SAUNA..LATTEART</Row>
+      <Row>PITTTHEELDER...</Row>
+      <Row>....IAM.MSN.CAM</Row>
+      <Row>DRESSSIZE..HUGE</Row>
+      <Row>RADISH.EDUCATES</Row>
+      <Row>AVENUE.SONATINA</Row>
+      <Row>BINGES.TRIDENTS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="ODDDUCKS">Idiosyncratic sorts</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Across" Ans="ABRAMS">J. J. ___, director of "Star Wars: The Force Awakens"</Clue>
+      <Clue Row="2" Col="1" Num="15" Dir="Across" Ans="PARANOIA">Irrational suspicion</Clue>
+      <Clue Row="2" Col="10" Num="16" Dir="Across" Ans="NOOGIE">Unpleasant accompanier of a headlock</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="ALANALDA">"M*A*S*H" star</Clue>
+      <Clue Row="3" Col="10" Num="18" Dir="Across" Ans="DHARMA">Cosmic order, in Hinduism</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="LEIA">Her first scene is with R2-D2</Clue>
+      <Clue Row="4" Col="7" Num="20" Dir="Across" Ans="FREEEMAIL">Google or Yahoo offering</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="SSN">Payroll ID, for short</Clue>
+      <Clue Row="5" Col="5" Num="23" Dir="Across" Ans="DHL">FedEx alternative</Clue>
+      <Clue Row="5" Col="9" Num="25" Dir="Across" Ans="RAM">Aries animal</Clue>
+      <Clue Row="6" Col="4" Num="26" Dir="Across" Ans="SUEANNNIVENS">Betty White's role on "The Mary Tyler Moore Show"</Clue>
+      <Clue Row="7" Col="1" Num="32" Dir="Across" Ans="WARHORSE">Knight's steed</Clue>
+      <Clue Row="7" Col="11" Num="35" Dir="Across" Ans="AILEY">Choreographer Alvin</Clue>
+      <Clue Row="8" Col="1" Num="36" Dir="Across" Ans="ALOU">Baseball's Felipe, Matty or Jesus</Clue>
+      <Clue Row="8" Col="6" Num="37" Dir="Across" Ans="SHAPE">Many a word ending in -gon</Clue>
+      <Clue Row="8" Col="12" Num="40" Dir="Across" Ans="PSAS">NBC's "The More You Know" spots, e.g.</Clue>
+      <Clue Row="9" Col="1" Num="41" Dir="Across" Ans="SAUNA">Place for a sweater</Clue>
+      <Clue Row="9" Col="8" Num="43" Dir="Across" Ans="LATTEART">Craftsmanship from a barista</Clue>
+      <Clue Row="10" Col="1" Num="45" Dir="Across" Ans="PITTTHEELDER">Moniker of an 18th-century British statesman</Clue>
+      <Clue Row="11" Col="5" Num="48" Dir="Across" Ans="IAM">Answer to "Who is?"</Clue>
+      <Clue Row="11" Col="9" Num="49" Dir="Across" Ans="MSN">AOL alternative</Clue>
+      <Clue Row="11" Col="13" Num="50" Dir="Across" Ans="CAM">Engine part</Clue>
+      <Clue Row="12" Col="1" Num="53" Dir="Across" Ans="DRESSSIZE">Sorting criterion at the women's department</Clue>
+      <Clue Row="12" Col="12" Num="58" Dir="Across" Ans="HUGE">Massive</Clue>
+      <Clue Row="13" Col="1" Num="59" Dir="Across" Ans="RADISH">Vegetable with a pungent taste</Clue>
+      <Clue Row="13" Col="8" Num="60" Dir="Across" Ans="EDUCATES">Teaches</Clue>
+      <Clue Row="14" Col="1" Num="63" Dir="Across" Ans="AVENUE">Word in 17 Monopoly property names</Clue>
+      <Clue Row="14" Col="8" Num="64" Dir="Across" Ans="SONATINA">Short piano piece</Clue>
+      <Clue Row="15" Col="1" Num="65" Dir="Across" Ans="BINGES">Indulges in too much Netflix, say</Clue>
+      <Clue Row="15" Col="8" Num="66" Dir="Across" Ans="TRIDENTS">Certain spears ... or a curious spelling feature of 1-, 20-, 26-, 45- and 53-Across?</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="OPALS">October birthstones</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="DALES">Broad valleys</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="DRAIN">Deplete, as savings</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="DANA">Fox News host Perino</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="UNA">Spanish article</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="COL">Rank above maj.</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="KIDFLASH">Speedy DC Comics sidekick</Clue>
+      <Clue Row="1" Col="8" Num="8" Dir="Down" Ans="SAAR">German coal district</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="ANDEAN">From the mountains of Peru</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="BOHEMIA">European region that lent its name to a nonconforming lifestyle</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="ROAM">Wander</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="AGRA">Taj Mahal city</Clue>
+      <Clue Row="1" Col="14" Num="13" Dir="Down" Ans="MIMI">"Rent" role</Clue>
+      <Clue Row="1" Col="15" Num="14" Dir="Down" Ans="SEAL">Certain Navy specialist</Clue>
+      <Clue Row="4" Col="9" Num="21" Dir="Down" Ans="ERN">Sea eagle</Clue>
+      <Clue Row="5" Col="5" Num="23" Dir="Down" Ans="DUO">Rock's White Stripes, e.g.</Clue>
+      <Clue Row="5" Col="6" Num="24" Dir="Down" Ans="HERS">His and ___</Clue>
+      <Clue Row="6" Col="4" Num="26" Dir="Down" Ans="SHUNT">Railroad switch</Clue>
+      <Clue Row="6" Col="8" Num="27" Dir="Down" Ans="NEALE">Writer Zora ___ Hurston</Clue>
+      <Clue Row="6" Col="12" Num="28" Dir="Down" Ans="VIPER">Dodge model named after a snake</Clue>
+      <Clue Row="6" Col="13" Num="29" Dir="Down" Ans="ELSA">"Let It Go" singer in "Frozen"</Clue>
+      <Clue Row="6" Col="14" Num="30" Dir="Down" Ans="NEAR">In the neighborhood</Clue>
+      <Clue Row="6" Col="15" Num="31" Dir="Down" Ans="SYST">Part of GPS: Abbr.</Clue>
+      <Clue Row="7" Col="1" Num="32" Dir="Down" Ans="WASP">Stinger with a slender "waist"</Clue>
+      <Clue Row="7" Col="2" Num="33" Dir="Down" Ans="ALAI">Jai ___</Clue>
+      <Clue Row="7" Col="3" Num="34" Dir="Down" Ans="ROUT">Lopsided game</Clue>
+      <Clue Row="8" Col="9" Num="38" Dir="Down" Ans="PALMEDOR">Highest prize at the Cannes Film Festival</Clue>
+      <Clue Row="8" Col="10" Num="39" Dir="Down" Ans="ETDS">Snow may push them back, for short</Clue>
+      <Clue Row="9" Col="5" Num="42" Dir="Down" Ans="ATISSUE">Under discussion</Clue>
+      <Clue Row="9" Col="11" Num="44" Dir="Down" Ans="TEN">Number of sides on a decagon</Clue>
+      <Clue Row="10" Col="6" Num="46" Dir="Down" Ans="HASHES">Corned beef dishes</Clue>
+      <Clue Row="10" Col="7" Num="47" Dir="Down" Ans="EMI">Big initials in the recording industry, once</Clue>
+      <Clue Row="11" Col="13" Num="50" Dir="Down" Ans="CUTIN">Interrupt</Clue>
+      <Clue Row="11" Col="14" Num="51" Dir="Down" Ans="AGENT">Hollywood power player</Clue>
+      <Clue Row="11" Col="15" Num="52" Dir="Down" Ans="MESAS">Tablelands</Clue>
+      <Clue Row="12" Col="1" Num="53" Dir="Down" Ans="DRAB">Visually uninspiring</Clue>
+      <Clue Row="12" Col="2" Num="54" Dir="Down" Ans="RAVI">Sitarist Shankar</Clue>
+      <Clue Row="12" Col="3" Num="55" Dir="Down" Ans="EDEN">Genesis locale</Clue>
+      <Clue Row="12" Col="4" Num="56" Dir="Down" Ans="SING">Snitch</Clue>
+      <Clue Row="12" Col="8" Num="57" Dir="Down" Ans="ZEST">Piquancy</Clue>
+      <Clue Row="12" Col="12" Num="58" Dir="Down" Ans="HATE">"Cherish those hearts that ___ thee": Shak.</Clue>
+      <Clue Row="13" Col="10" Num="61" Dir="Down" Ans="UNI">Lead-in to code, on a computer</Clue>
+      <Clue Row="13" Col="11" Num="62" Dir="Down" Ans="CAD">Heel</Clue>
+    </Clues>
+    <JimNotes><![CDATA[The XWord Info Regex search capability is very useful when trying to construct puzzles like this. <a href="https://www.xwordinfo.com/Finder?regex=(\w)\1\1">Here are the words in our database with triple letters</a>. Many are bogus (thematic) but there are several good entries in the results list. (The number of entries you see depends on your account level.)]]></JimNotes>
+    <JeffNotes><![CDATA[<p>I&#39;ve seen plenty of triple-letter themers before, most notably employed by <a href="https://www.xwordinfo.com/Crossword?date=10/31/2000">a Superman theme</a>. I liked John&#39;s take, using TRIDENTS &ndash; think of it as TRI D E N T S &ndash; as a rationale for featuring triple Ds, triple Es, etc.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Trident" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/440px-Flag_of_Barbados.svg.png" style="border:1px solid lightgray; float:right; height:146px; margin:6px 0px 6px 12px; width:220px" title="A TRIDENT on the flag of Barbadddos. Er, Barbados." /></a></p>
+
+<p>I also liked John&#39;s unusual grid layout. It&#39;s rare to start with a long themer at 1-Across because look what it forces: a big chunk of white space up in the NW&#39;s business. That&#39;s a themeless-esque swath, rarely easy to fill, especially when already constrained by a long theme answer.</p>
+
+<p>I was all set to give the thumbs-up, what with delightful PARANOIA / ALAN ALDA, and only UNA and COL as prices to pay.</p>
+
+<p>But ... SAAR.</p>
+
+<p>That&#39;s one of those words I&#39;d think triply about before including in an early-week puzzle. The crossings are fair, but it&#39;s one of those entries that might cause newer solvers a lot of pause. You don&#39;t want to give newbies any reason to do something else. Let&#39;s get &lsquo;em hooked, people!</p>
+
+<p>Usually, I don&#39;t care for long fill in the across direction, as it tends to muddy up theme vs. fill. But today&#39;s theme was easy enough to pick out that I didn&#39;t wonder how WAR HORSE was tied in. I did have a slight pause to count how many Ts were in the middle of LATTE ART, but that was okay too.</p>
+
+<p>I personally much prefer long fill in the down direction, as it&#39;s more easily identified as puzzle snazzification unrelated to theme. I mean, PALME D&#39;OR is great! And BOHEMIA! And &hellip; KID FLASH? I can name all four people who have been the Flash in the DC universe, but KID FLASH is only vaguely familiar. Still, I enjoyed looking him up.</p>
+
+<p>There were too many SAAR, ALAI, ERN, SYST odd ducks for an early-week puzzle, but the theme was interesting enough, and the long fill did mostly sizzle. Reasonable balance.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>The theme for this puzzle is not obvious as one is solving (especially given that my original submission had circles around the tripled letters) so I wonder if this will feel like a 74-word themeless puzzle with some after-the-solve head-scratching about the theme. I look forward to hearing how solvers experience it.</p>
+
+<p>There are many fun things about getting a puzzle published in the Times, but perhaps my favorite aspect is the long-distance cluing tutorial I get from seeing the final product. Comparing the clues I submitted to what Will, Joel and Sam ultimately come up with is a great lesson in cluing. The subtle and major changes they make always improve things and point to how I could have clued entries more appropriately or pithily (Me: NOOGIE = Headlock accompanier, often, Them: NOOGIE = Unpleasant accompanier of a headlock). I often give a mental fist pump when a fun or novel clue I spent lots of time coming up with makes it through intact &mdash; for this puzzle my fist pump went to LEIA.</p>
+
+<p>Finally, thanks to KID FLASH for being a thing. Not much else fits the K??F?A?? pattern, so this grid doesn&#39;t happen without him.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

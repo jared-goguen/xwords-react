@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Sunday, January 7, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/6/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sun, Jan 07, 2018 VOWEL PLAY</Title>
+    <Author>David Steinberg</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/7/2018</Date>
+    <Size>
+      <Rows>21</Rows>
+      <Cols>21</Cols>
+    </Size>
+    <Grid>
+      <Row>JUL.SPAS...SMARM.CORA</Row>
+      <Row>UNI.TORTA.LOADER.APEX</Row>
+      <Row>DEALAMEAL.ANNALS.RIDE</Row>
+      <Row>ASSESS.DIEM.SPICYFOOD</Row>
+      <Row>HYENA...TRIJETS.KIDS.</Row>
+      <Row>...ITO.STINE.SUMER...</Row>
+      <Row>DAMN.FOULCALL.POSEDAS</Row>
+      <Row>ELIS.ATSEA.LIPOS.SALT</Row>
+      <Row>VANTAGE.....MINED.NBA</Row>
+      <Row>..TOREAT.SATIN.SUBGUM</Row>
+      <Row>WHOMI.TRICKSTER.PREMP</Row>
+      <Row>HERBAL.AMICA.LAGEAR..</Row>
+      <Row>ELE.SAHIB.....RADIORA</Row>
+      <Row>LLOD.CANIT.IRWIN.DUIN</Row>
+      <Row>POSITED.CHOCHANG.ESPN</Row>
+      <Row>...GOYAS.ETHEL.SAD...</Row>
+      <Row>.TRIG.GAINSON...TRAIT</Row>
+      <Row>WHATATOOL.ERIS.LAUNCH</Row>
+      <Row>HELI.STROBE.STRINGTIE</Row>
+      <Row>ATOZ.KISSED.HOUND.ESS</Row>
+      <Row>MANE.STEED...PEST.STP</Row>
+    </Grid>
+    <Circles>
+      <Circle Row="3" Col="2" />
+      <Circle Row="3" Col="3" />
+      <Circle Row="3" Col="5" />
+      <Circle Row="3" Col="7" />
+      <Circle Row="3" Col="8" />
+      <Circle Row="4" Col="15" />
+      <Circle Row="4" Col="17" />
+      <Circle Row="4" Col="19" />
+      <Circle Row="4" Col="20" />
+      <Circle Row="7" Col="7" />
+      <Circle Row="7" Col="8" />
+      <Circle Row="7" Col="11" />
+      <Circle Row="8" Col="3" />
+      <Circle Row="8" Col="19" />
+      <Circle Row="11" Col="3" />
+      <Circle Row="11" Col="9" />
+      <Circle Row="11" Col="14" />
+      <Circle Row="11" Col="19" />
+      <Circle Row="13" Col="3" />
+      <Circle Row="13" Col="19" />
+      <Circle Row="14" Col="3" />
+      <Circle Row="14" Col="19" />
+      <Circle Row="15" Col="11" />
+      <Circle Row="15" Col="14" />
+      <Circle Row="18" Col="3" />
+      <Circle Row="18" Col="5" />
+      <Circle Row="18" Col="7" />
+      <Circle Row="18" Col="8" />
+      <Circle Row="19" Col="16" />
+      <Circle Row="19" Col="20" />
+      <Circle Row="19" Col="21" />
+    </Circles>
+    <RebusEntries>
+      <Rebus Row="3" Col="2" Short="E">EA</Rebus>
+      <Rebus Row="3" Col="3" Short="A">AI</Rebus>
+      <Rebus Row="3" Col="5" Short="A">AY</Rebus>
+      <Rebus Row="3" Col="7" Short="E">EA</Rebus>
+      <Rebus Row="3" Col="8" Short="A">AI</Rebus>
+      <Rebus Row="4" Col="15" Short="I">IE</Rebus>
+      <Rebus Row="4" Col="17" Short="Y">YI</Rebus>
+      <Rebus Row="4" Col="19" Short="O">OI</Rebus>
+      <Rebus Row="4" Col="20" Short="O">OE</Rebus>
+      <Rebus Row="7" Col="7" Short="O">OU</Rebus>
+      <Rebus Row="7" Col="8" Short="U">UE</Rebus>
+      <Rebus Row="7" Col="11" Short="A">AE</Rebus>
+      <Rebus Row="8" Col="3" Short="I">IA</Rebus>
+      <Rebus Row="8" Col="19" Short="A">AU</Rebus>
+      <Rebus Row="11" Col="3" Short="O">OA</Rebus>
+      <Rebus Row="11" Col="9" Short="I">IA</Rebus>
+      <Rebus Row="11" Col="14" Short="E">EA</Rebus>
+      <Rebus Row="11" Col="19" Short="E">EA</Rebus>
+      <Rebus Row="13" Col="3" Short="E">EA</Rebus>
+      <Rebus Row="13" Col="19" Short="O">OE</Rebus>
+      <Rebus Row="14" Col="3" Short="O">OY</Rebus>
+      <Rebus Row="14" Col="19" Short="U">UE</Rebus>
+      <Rebus Row="15" Col="11" Short="O">OA</Rebus>
+      <Rebus Row="15" Col="14" Short="A">AI</Rebus>
+      <Rebus Row="18" Col="3" Short="A">AI</Rebus>
+      <Rebus Row="18" Col="5" Short="A">AE</Rebus>
+      <Rebus Row="18" Col="7" Short="O">OA</Rebus>
+      <Rebus Row="18" Col="8" Short="O">OI</Rebus>
+      <Rebus Row="19" Col="16" Short="I">IO</Rebus>
+      <Rebus Row="19" Col="20" Short="I">IE</Rebus>
+      <Rebus Row="19" Col="21" Short="E">EA</Rebus>
+    </RebusEntries>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="JUL">Start of the third qtr.</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Across" Ans="SPAS">Treatment centers?</Clue>
+      <Clue Row="1" Col="12" Num="8" Dir="Across" Ans="SMARM">Sycophant's quality</Clue>
+      <Clue Row="1" Col="18" Num="13" Dir="Across" Ans="CORA">Mr. Dithers's wife in "Blondie"</Clue>
+      <Clue Row="2" Col="1" Num="17" Dir="Across" Ans="UNI">___-ball pens</Clue>
+      <Clue Row="2" Col="5" Num="18" Dir="Across" Ans="TORTA">Ristorante dessert</Clue>
+      <Clue Row="2" Col="11" Num="20" Dir="Across" Ans="LOADER">Construction site vehicle</Clue>
+      <Clue Row="2" Col="18" Num="21" Dir="Across" Ans="APEX">Top</Clue>
+      <Clue Row="3" Col="1" Num="22" Dir="Across" Ans="DEALAMEAL/DAILYMAIL">Richard Simmons diet regimen / London tabloid</Clue>
+      <Clue Row="3" Col="11" Num="24" Dir="Across" Ans="ANNALS">Records</Clue>
+      <Clue Row="3" Col="18" Num="25" Dir="Across" Ans="RIDE">One may have a height restriction</Clue>
+      <Clue Row="4" Col="1" Num="26" Dir="Across" Ans="ASSESS">Gauge</Clue>
+      <Clue Row="4" Col="8" Num="27" Dir="Across" Ans="DIEM">Carpe ___</Clue>
+      <Clue Row="4" Col="13" Num="29" Dir="Across" Ans="SPICYFOOD/SPECIFIED">What a red pepper on a menu may signal / Made clear</Clue>
+      <Clue Row="5" Col="1" Num="31" Dir="Across" Ans="HYENA">Caninelike animal more closely related to a cat than a dog</Clue>
+      <Clue Row="5" Col="9" Num="32" Dir="Across" Ans="TRIJETS">Three-engine planes</Clue>
+      <Clue Row="5" Col="17" Num="34" Dir="Across" Ans="KIDS">Babies grow into them</Clue>
+      <Clue Row="6" Col="4" Num="35" Dir="Across" Ans="ITO">O. J. Simpson trial judge</Clue>
+      <Clue Row="6" Col="8" Num="37" Dir="Across" Ans="STINE">"Goosebumps" author</Clue>
+      <Clue Row="6" Col="14" Num="38" Dir="Across" Ans="SUMER">So-called "cradle of civilization"</Clue>
+      <Clue Row="7" Col="1" Num="40" Dir="Across" Ans="DAMN">Curse</Clue>
+      <Clue Row="7" Col="6" Num="43" Dir="Across" Ans="FOULCALL/FUELCELL">Preceder of free throws / Juice container?</Clue>
+      <Clue Row="7" Col="15" Num="46" Dir="Across" Ans="POSEDAS">Pretended to be</Clue>
+      <Clue Row="8" Col="1" Num="50" Dir="Across" Ans="ELIAS">Inventor Howe</Clue>
+      <Clue Row="8" Col="6" Num="51" Dir="Across" Ans="ATSEA">Discombobulated</Clue>
+      <Clue Row="8" Col="12" Num="52" Dir="Across" Ans="LIPOS">Slimming surgeries, in brief</Clue>
+      <Clue Row="8" Col="18" Num="54" Dir="Across" Ans="SAULT">___ Ste. Marie, Mich.</Clue>
+      <Clue Row="9" Col="1" Num="55" Dir="Across" Ans="VANTAGE">Strategic position</Clue>
+      <Clue Row="9" Col="13" Num="57" Dir="Across" Ans="MINED">Like the data in big data</Clue>
+      <Clue Row="9" Col="19" Num="59" Dir="Across" Ans="NBA">Warriors' org.</Clue>
+      <Clue Row="10" Col="3" Num="60" Dir="Across" Ans="TOREAT">Really bothered</Clue>
+      <Clue Row="10" Col="10" Num="62" Dir="Across" Ans="SATIN">Used, as a chair</Clue>
+      <Clue Row="10" Col="16" Num="65" Dir="Across" Ans="SUBGUM">Chow mein relative</Clue>
+      <Clue Row="11" Col="1" Num="67" Dir="Across" Ans="WHOAMI">Self-reflective question</Clue>
+      <Clue Row="11" Col="7" Num="69" Dir="Across" Ans="TRICKSTER/TRACKSTAR">Fooler / Summer Olympics standout</Clue>
+      <Clue Row="11" Col="17" Num="72" Dir="Across" Ans="PREAMP">Sound signal booster</Clue>
+      <Clue Row="12" Col="1" Num="73" Dir="Across" Ans="HERBAL">Kind of medicine</Clue>
+      <Clue Row="12" Col="8" Num="75" Dir="Across" Ans="AMICA">Lady friend, in Livorno</Clue>
+      <Clue Row="12" Col="14" Num="76" Dir="Across" Ans="LAGEAR">SoCal-based sneaker brand</Clue>
+      <Clue Row="13" Col="1" Num="78" Dir="Across" Ans="ELEA">Zeno of ___</Clue>
+      <Clue Row="13" Col="5" Num="79" Dir="Across" Ans="SAHIB">Colonial Indian title</Clue>
+      <Clue Row="13" Col="15" Num="81" Dir="Across" Ans="RADIOERA">When big bands thrived</Clue>
+      <Clue Row="14" Col="1" Num="84" Dir="Across" Ans="LLOYD">Bridges of old film</Clue>
+      <Clue Row="14" Col="6" Num="86" Dir="Across" Ans="CANIT">"Shush!"</Clue>
+      <Clue Row="14" Col="12" Num="88" Dir="Across" Ans="IRWIN">Writer Shaw</Clue>
+      <Clue Row="14" Col="18" Num="91" Dir="Across" Ans="DUEIN">Scheduled to arrive</Clue>
+      <Clue Row="15" Col="1" Num="92" Dir="Across" Ans="POSITED">Hypothesized</Clue>
+      <Clue Row="15" Col="9" Num="94" Dir="Across" Ans="CHOCHANG/CHACHING">Harry Potter's ex-girlfriend / Register sound</Clue>
+      <Clue Row="15" Col="18" Num="96" Dir="Across" Ans="ESPN">National Spelling Bee airer</Clue>
+      <Clue Row="16" Col="4" Num="97" Dir="Across" Ans="GOYAS">Some prized Prado pieces</Clue>
+      <Clue Row="16" Col="10" Num="99" Dir="Across" Ans="ETHEL">One of the Kennedys</Clue>
+      <Clue Row="16" Col="16" Num="100" Dir="Across" Ans="SAD">Disappointing</Clue>
+      <Clue Row="17" Col="2" Num="102" Dir="Across" Ans="TRIG">Sin subject?</Clue>
+      <Clue Row="17" Col="7" Num="104" Dir="Across" Ans="GAINSON">Lessens the distance between, in a race</Clue>
+      <Clue Row="17" Col="17" Num="106" Dir="Across" Ans="TRAIT">Straight or curly hair, e.g.</Clue>
+      <Clue Row="18" Col="1" Num="110" Dir="Across" Ans="WHATATOOL/WHITETAIL">"He's so lame!" / Deer variety</Clue>
+      <Clue Row="18" Col="11" Num="112" Dir="Across" Ans="ERIS">Golden apple goddess</Clue>
+      <Clue Row="18" Col="16" Num="114" Dir="Across" Ans="LAUNCH">App developer's milestone</Clue>
+      <Clue Row="19" Col="1" Num="115" Dir="Across" Ans="HELI">Prefix with port</Clue>
+      <Clue Row="19" Col="6" Num="116" Dir="Across" Ans="STROBE">Photographer's light</Clue>
+      <Clue Row="19" Col="13" Num="118" Dir="Across" Ans="STRINGTIE/STRONGTEA">Thin neckwear / Assam or Earl Grey</Clue>
+      <Clue Row="20" Col="1" Num="120" Dir="Across" Ans="ATOZ">Complete</Clue>
+      <Clue Row="20" Col="6" Num="121" Dir="Across" Ans="KISSED">Lightly touched</Clue>
+      <Clue Row="20" Col="13" Num="122" Dir="Across" Ans="HOUND">Afghan, e.g.</Clue>
+      <Clue Row="20" Col="19" Num="123" Dir="Across" Ans="ESS">Cursive capital that looks like a flipped "&amp;"</Clue>
+      <Clue Row="21" Col="1" Num="124" Dir="Across" Ans="MANE">Mustang feature</Clue>
+      <Clue Row="21" Col="6" Num="125" Dir="Across" Ans="STEED">Mount</Clue>
+      <Clue Row="21" Col="14" Num="126" Dir="Across" Ans="PEST">Little sibling, often</Clue>
+      <Clue Row="21" Col="19" Num="127" Dir="Across" Ans="STP">Major race sponsor</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="JUDAH">Jerusalem's onetime kingdom</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="UNEASY">Nervous</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="LIAISE">Act the middleman</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Down" Ans="STAYSAT">Visits for a time</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="POMS">Yappy lap dogs, informally</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="AREA">Plane calculation</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="STAID">Unadventurous</Clue>
+      <Clue Row="1" Col="12" Num="8" Dir="Down" Ans="SON">Word after "&amp;" in many a company name</Clue>
+      <Clue Row="1" Col="13" Num="9" Dir="Down" Ans="MANSE">Minister's home</Clue>
+      <Clue Row="1" Col="14" Num="10" Dir="Down" Ans="ADAPTS">Makes into a movie, say</Clue>
+      <Clue Row="1" Col="15" Num="11" Dir="Down" Ans="RELIESUPON">Trusts</Clue>
+      <Clue Row="1" Col="16" Num="12" Dir="Down" Ans="MRSC">Richie's mom on "Happy Days"</Clue>
+      <Clue Row="1" Col="18" Num="13" Dir="Down" Ans="CARFIRES">Flare-ups in the hood?</Clue>
+      <Clue Row="1" Col="19" Num="14" Dir="Down" Ans="OPIOID">OxyContin or Demerol</Clue>
+      <Clue Row="1" Col="20" Num="15" Dir="Down" Ans="REDOES">Fixes the décor of completely</Clue>
+      <Clue Row="1" Col="21" Num="16" Dir="Down" Ans="AXED">Canceled</Clue>
+      <Clue Row="2" Col="9" Num="19" Dir="Down" Ans="ALITTLE">Sort of</Clue>
+      <Clue Row="2" Col="11" Num="20" Dir="Down" Ans="LAMINAE">Thin layers</Clue>
+      <Clue Row="3" Col="4" Num="23" Dir="Down" Ans="LENINSTOMB">Moscow landmark</Clue>
+      <Clue Row="4" Col="10" Num="28" Dir="Down" Ans="ERICA">Writer Jong</Clue>
+      <Clue Row="4" Col="17" Num="30" Dir="Down" Ans="YIKES">"Hoo boy!"</Clue>
+      <Clue Row="5" Col="12" Num="33" Dir="Down" Ans="JELL">Solidify</Clue>
+      <Clue Row="6" Col="6" Num="36" Dir="Down" Ans="OFAGE">18, say</Clue>
+      <Clue Row="6" Col="8" Num="37" Dir="Down" Ans="SUES">Is litigious</Clue>
+      <Clue Row="6" Col="16" Num="39" Dir="Down" Ans="MOSES">Baby in a basket</Clue>
+      <Clue Row="7" Col="1" Num="40" Dir="Down" Ans="DEV">Actor Patel</Clue>
+      <Clue Row="7" Col="2" Num="41" Dir="Down" Ans="ALA">Resembling</Clue>
+      <Clue Row="7" Col="3" Num="42" Dir="Down" Ans="MINTOREOS/MANTARAYS">Cookies filled with green creme / Flattish sea creatures</Clue>
+      <Clue Row="7" Col="7" Num="44" Dir="Down" Ans="OUTEAT">Best at a hot dog contest</Clue>
+      <Clue Row="7" Col="13" Num="45" Dir="Down" Ans="LIMIT">Cap</Clue>
+      <Clue Row="7" Col="19" Num="47" Dir="Down" Ans="DANGEROUS/DUNGAREES">Risky / Denim attire</Clue>
+      <Clue Row="7" Col="20" Num="48" Dir="Down" Ans="ALBUM">See 49-Down</Clue>
+      <Clue Row="7" Col="21" Num="49" Dir="Down" Ans="STAMP">With 48-Down, philatelist's collection</Clue>
+      <Clue Row="8" Col="14" Num="53" Dir="Down" Ans="PINEAL">___ gland (melatonin producer)</Clue>
+      <Clue Row="9" Col="5" Num="56" Dir="Down" Ans="ARIAS">Five things in "La Bohème"</Clue>
+      <Clue Row="9" Col="17" Num="58" Dir="Down" Ans="DUPED">Pulled a fast one on</Clue>
+      <Clue Row="10" Col="8" Num="61" Dir="Down" Ans="TRAIN">Part of a wedding that drags</Clue>
+      <Clue Row="10" Col="10" Num="62" Dir="Down" Ans="SCI">Comp ___ (college major, informally)</Clue>
+      <Clue Row="10" Col="11" Num="63" Dir="Down" Ans="AKC">Dog show initials</Clue>
+      <Clue Row="10" Col="12" Num="64" Dir="Down" Ans="TSA">Grp. with wands</Clue>
+      <Clue Row="10" Col="18" Num="66" Dir="Down" Ans="BRAIDEDRUG">Often-oval floor décor</Clue>
+      <Clue Row="11" Col="1" Num="67" Dir="Down" Ans="WHELP">Puppy</Clue>
+      <Clue Row="11" Col="2" Num="68" Dir="Down" Ans="HELLO">"Are you listening?!"</Clue>
+      <Clue Row="11" Col="9" Num="70" Dir="Down" Ans="IAMBIC">Stressed at the end, in a way</Clue>
+      <Clue Row="11" Col="15" Num="71" Dir="Down" Ans="RARIN">___ to go</Clue>
+      <Clue Row="12" Col="6" Num="74" Dir="Down" Ans="LACEY">Crime-fighting mom of 1980s TV</Clue>
+      <Clue Row="12" Col="16" Num="77" Dir="Down" Ans="GANGS">Jets and others</Clue>
+      <Clue Row="13" Col="7" Num="80" Dir="Down" Ans="HADAGOATIT">Tried something</Clue>
+      <Clue Row="13" Col="20" Num="82" Dir="Down" Ans="RIP">Lambaste</Clue>
+      <Clue Row="13" Col="21" Num="83" Dir="Down" Ans="ANN">Massachusetts' Cape ___</Clue>
+      <Clue Row="14" Col="4" Num="85" Dir="Down" Ans="DIGITIZE">Scan, in a way</Clue>
+      <Clue Row="14" Col="10" Num="87" Dir="Down" Ans="THEN">Storyteller's transition</Clue>
+      <Clue Row="14" Col="12" Num="88" Dir="Down" Ans="ICHOR">Olympian blood</Clue>
+      <Clue Row="14" Col="13" Num="89" Dir="Down" Ans="RHENISH">Like some German wines</Clue>
+      <Clue Row="14" Col="14" Num="90" Dir="Down" Ans="WAIL">Howl</Clue>
+      <Clue Row="15" Col="5" Num="93" Dir="Down" Ans="TOGAE">Garments worn in old Rome</Clue>
+      <Clue Row="15" Col="11" Num="95" Dir="Down" Ans="OATSEED">Future cereal grain</Clue>
+      <Clue Row="16" Col="8" Num="98" Dir="Down" Ans="SAOIRSE">Actress Ronan of "Lady Bird"</Clue>
+      <Clue Row="16" Col="17" Num="101" Dir="Down" Ans="ATANDT">Sprint competitor</Clue>
+      <Clue Row="17" Col="2" Num="102" Dir="Down" Ans="THETA">Second letter in the Greek for "Athens"</Clue>
+      <Clue Row="17" Col="3" Num="103" Dir="Down" Ans="RAILON">Vehemently criticize</Clue>
+      <Clue Row="17" Col="9" Num="105" Dir="Down" Ans="ILOSE">Words of resignation</Clue>
+      <Clue Row="17" Col="19" Num="107" Dir="Down" Ans="ANTES">Potful</Clue>
+      <Clue Row="17" Col="20" Num="108" Dir="Down" Ans="ICIEST">Least warm</Clue>
+      <Clue Row="17" Col="21" Num="109" Dir="Down" Ans="THEASP">Daddy Warbucks's bodyguard</Clue>
+      <Clue Row="18" Col="1" Num="110" Dir="Down" Ans="WHAM">Hard smack</Clue>
+      <Clue Row="18" Col="6" Num="111" Dir="Down" Ans="TSKS">Judgmental sounds</Clue>
+      <Clue Row="18" Col="14" Num="113" Dir="Down" Ans="STOP">Word with "f" or full</Clue>
+      <Clue Row="18" Col="16" Num="114" Dir="Down" Ans="LIONS">First N.F.L. team to go 0-16 for a season, in 2008</Clue>
+      <Clue Row="19" Col="10" Num="117" Dir="Down" Ans="BED">Spring locale</Clue>
+      <Clue Row="19" Col="15" Num="119" Dir="Down" Ans="RUE">___ the day</Clue>
+    </Clues>
+    <Notepad><![CDATA[In the print version of this puzzle, the squares that are circled are instead each divided into two halves with a diagonal line.]]></Notepad>
+    <JimNotes><![CDATA[<p>This is only the fifth time diagonal slashes have been used in NYT daily crosswords. The first was <a href="https://www.xwordinfo.com/PS?date=5/31/1992&amp;g=126&amp;d=A">this 1992 Crytocrossword</a> by Eugene T. Maleska himself which included the awesome word SPLACKNUCKS, followed by <a href="https://www.xwordinfo.com/PS?date=8/9/1992">this Tic-Tac-Toe grid</a> by S. E. Booker.</p>
+
+<p>Before today, the only two in the Shortz Era were <a href="https://www.xwordinfo.com/Crossword?date=1/1/1995">this New Year&#39;s puzzle by Henry Hook</a> in 1995, and a tricky 2011 Trip Payne puzzle called <a href="https://www.xwordinfo.com/Crossword?date=11/20/2011">Figure It Out</a>.</p>
+
+<p>We added helpful slashes to a couple of grids to explain themes, but those slashes didn&#39;t appear in print. In 2012, Ian Livengood pulled a clever trick with <a href="https://www.xwordinfo.com/Crossword?date=7/5/2012">keyboard digits and their shift-key equivalents</a>. Just a few weeks after that, Joel Fagliano tried to confuse us with his <a href="https://www.xwordinfo.com/Crossword?date=7/26/2012">W vs. double-U grid</a>.</p>
+
+<p><strong>Added geeky note:</strong> David Steinberg mentioned <em>Regular Expressions</em>, which is as a way to do complex word pattern searches. And yes, of course, the <a href="https://www.xwordinfo.com/Finder">XWord Info Finder Page</a> supports them!</p>]]></JimNotes>
+    <JeffNotes><![CDATA[<p>Some VOWEL PLAY today (a nice pun on &quot;foul play&quot;). Entries work two ways, using different sets of vowels, and both two vowels in each of the special squares are used in the crossing direction.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Richard_Simmons" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/RichardSimmonsSept2011.jpg/440px-RichardSimmonsSept2011.jpg" style="border:1px solid lightgray; float:right; height:214px; margin:6px 0px 6px 12px; width:220px" title="I love that he wrote a book called &quot;Dance Your Pants Off!&quot;" /></a></p>
+
+<p>Terrible explanation.</p>
+
+<p>An example: 22-Across can be either D<strong>EA</strong>L <strong>A</strong> M<strong>EA</strong>L or D<strong>AI</strong>L<strong>Y</strong> M<strong>AI</strong>L. That second square, either E or A, uses both E and A in the crossing word, UN<strong>EA</strong>SY.</p>
+
+<p>Some fun finds, M<strong>I</strong>NT <strong>O</strong>R<strong>EO</strong>S / M<strong>A</strong>NT<strong>A</strong> R<strong>AY</strong> my favorite. Not as impressed with things like D<strong>A</strong>NG<strong>E</strong>R<strong>OU</strong>S / D<strong>U</strong>NG<strong>A</strong>R<strong>EE</strong>S, as both are fairly utilitarian words.</p>
+
+<p>I wish there had been a better way to present this. In the grid below, it&#39;s so tough to see the words MINT OREOS and MANTA RAY. Maybe if all the themers had been laid out in the across direction, and the diagonal slashes were replaced by horizontal ones?</p>
+
+<p>I liked some of the bonuses in the fill, LENINS TOMB the standout. DIGITIZE was good, too. But I&#39;m used to seeing more in David&#39;s puzzles.</p>
+
+<p>Granted, the theme constraints are huge &mdash; an enormous number of double-letter crossings to work through &mdash; but along with some oddballs in RHENISH, ATANDT (AT&amp;T), and SUBGUM (I eat a lot of Chinese food, but I struggled mightily to fill this in), I might have preferred fewer themers and better overall fill.</p>
+
+<p>I did appreciate how smooth David kept the grid, a tremendous accomplishment given the theme&#39;s technical difficulty. To keep it to some UNI, ESS, JUL, HELI shows a ton of attention to detail.</p>
+
+<p>Some interesting finds in a concept that I don&#39;t remember seeing before. Reminded me a little of &quot;Split Decisions,&quot; a puzzle type <a href="http://www.macnamarasband.com/">Fred Piscop</a> has been making for a while now.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>This puzzle has an unusual construction story: I didn&#39;t come up with any of the theme entries! At least not directly. All I had was an idea, which came from . . . wait for it . . . a Facebook chat! It all started when my bro <a href="https://www.xwordinfo.com/Thumbs?author=Trenton+Charlson" class="hasphoto">Trenton Charlson</a> messaged me an awesome hand-constructed vowelless he&#39;d been working on. He ultimately got stuck on a couple corners, but fortunately, I was able to help: I put on my CS major hat and taught him what I know about regular expressions. After that, he was off and rolling :).</p>
+
+<p>This whole interchange got me thinking. What if I made a puzzle whose theme entries had the same consonants but different vowels? I couldn&#39;t think of any long examples, but I figured there must be a way to write a program to find some (if they existed). A few hours later, I had a working program, and there were a lot of possibilities. In fact, there were so many that I decided to constrain the theme to entries where a) the vowels are in the same positions and b) all the vowels are different. The next challenge was figuring out how to present the puzzle. Should it be a crossword or some sort of variety puzzle? Definitely a crossword. Daily or Sunday? Go big or go home, dude! Separate or merged theme entries? Merged seemed more interesting. Schrodinger squares or rebuses? Rebuses, since I&#39;d probably need slashed clues anyway.</p>
+
+<p>Moral of the story: The hours I spend on social media are OBVIOUSLY worthwhile! Hope you enjoy the puzzle.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Monday, May 7, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/6/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Mon, May 07, 2018</Title>
+    <Author>Julie Bérubé</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/7/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>MTFUJI.DATA.GAL</Row>
+      <Row>POLLEN.OWEN.OLE</Row>
+      <Row>GROUNDSCREW.RVS</Row>
+      <Row>.EEL.EASY.AEGIS</Row>
+      <Row>...AWED..ORLON.</Row>
+      <Row>.EATAPEACH.SNAP</Row>
+      <Row>ASSET..PANE.ZIT</Row>
+      <Row>SPH.TOOLBOX.OLA</Row>
+      <Row>TAB.SUPE..PALES</Row>
+      <Row>IDLE.STAYSAWAY.</Row>
+      <Row>.ROGET..ETTA...</Row>
+      <Row>RINGS.SOAR.SKA.</Row>
+      <Row>OLD.TUNASASHIMI</Row>
+      <Row>ALE.EMIT.TAILOR</Row>
+      <Row>DES.RAPS.IGNORE</Row>
+    </Grid>
+    <Circles>
+      <Circle Row="3" Col="7" />
+      <Circle Row="3" Col="8" />
+      <Circle Row="3" Col="9" />
+      <Circle Row="3" Col="10" />
+      <Circle Row="3" Col="11" />
+      <Circle Row="5" Col="14" />
+      <Circle Row="6" Col="4" />
+      <Circle Row="6" Col="5" />
+      <Circle Row="6" Col="6" />
+      <Circle Row="6" Col="7" />
+      <Circle Row="6" Col="14" />
+      <Circle Row="7" Col="14" />
+      <Circle Row="8" Col="14" />
+      <Circle Row="10" Col="2" />
+      <Circle Row="10" Col="10" />
+      <Circle Row="10" Col="11" />
+      <Circle Row="10" Col="12" />
+      <Circle Row="11" Col="2" />
+      <Circle Row="12" Col="2" />
+      <Circle Row="13" Col="2" />
+      <Circle Row="13" Col="11" />
+      <Circle Row="13" Col="12" />
+      <Circle Row="13" Col="13" />
+      <Circle Row="13" Col="14" />
+      <Circle Row="14" Col="2" />
+    </Circles>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="MTFUJI">Peak near Tokyo: Abbr.</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Across" Ans="DATA">Facts and figures</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Across" Ans="GAL">Guy's date</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="POLLEN">Stuff that may make you go "Ah-choo!"</Clue>
+      <Clue Row="2" Col="8" Num="15" Dir="Across" Ans="OWEN">Actor Wilson of "Midnight in Paris"</Clue>
+      <Clue Row="2" Col="13" Num="16" Dir="Across" Ans="OLE">Cheer at a bullfight</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="GROUNDSCREW">Group preparing a ball field for a game</Clue>
+      <Clue Row="3" Col="13" Num="19" Dir="Across" Ans="RVS">Homes on wheels, for short</Clue>
+      <Clue Row="4" Col="2" Num="20" Dir="Across" Ans="EEL">Slippery fish</Clue>
+      <Clue Row="4" Col="6" Num="21" Dir="Across" Ans="EASY">Like Monday crosswords, relatively speaking</Clue>
+      <Clue Row="4" Col="11" Num="22" Dir="Across" Ans="AEGIS">Protection</Clue>
+      <Clue Row="5" Col="4" Num="24" Dir="Across" Ans="AWED">Blown away</Clue>
+      <Clue Row="5" Col="10" Num="26" Dir="Across" Ans="ORLON">DuPont fiber</Clue>
+      <Clue Row="6" Col="2" Num="27" Dir="Across" Ans="EATAPEACH">1972 platinum album by the Allman Brothers Band</Clue>
+      <Clue Row="6" Col="12" Num="31" Dir="Across" Ans="SNAP">"___ out of it!"</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Across" Ans="ASSET">Opposite of a liability</Clue>
+      <Clue Row="7" Col="8" Num="34" Dir="Across" Ans="PANE">Window section</Clue>
+      <Clue Row="7" Col="13" Num="36" Dir="Across" Ans="ZIT">Bit of acne</Clue>
+      <Clue Row="8" Col="1" Num="37" Dir="Across" Ans="SPH">Globe: Abbr.</Clue>
+      <Clue Row="8" Col="5" Num="38" Dir="Across" Ans="TOOLBOX">Locale of all the circled items in this puzzle</Clue>
+      <Clue Row="8" Col="13" Num="41" Dir="Across" Ans="OLA">Suffix with pay</Clue>
+      <Clue Row="9" Col="1" Num="42" Dir="Across" Ans="TAB">Running total at a bar</Clue>
+      <Clue Row="9" Col="5" Num="43" Dir="Across" Ans="SUPE">Apartment building overseer, informally</Clue>
+      <Clue Row="9" Col="11" Num="44" Dir="Across" Ans="PALES">Gets whiter</Clue>
+      <Clue Row="10" Col="1" Num="46" Dir="Across" Ans="IDLE">Not working</Clue>
+      <Clue Row="10" Col="6" Num="48" Dir="Across" Ans="STAYSAWAY">Doesn't get near</Clue>
+      <Clue Row="11" Col="2" Num="51" Dir="Across" Ans="ROGET">Peter who compiled a book of synonyms</Clue>
+      <Clue Row="11" Col="9" Num="53" Dir="Across" Ans="ETTA">James of jazz</Clue>
+      <Clue Row="12" Col="1" Num="54" Dir="Across" Ans="RINGS">The Audi symbol has four of them</Clue>
+      <Clue Row="12" Col="7" Num="55" Dir="Across" Ans="SOAR">Fly high</Clue>
+      <Clue Row="12" Col="12" Num="57" Dir="Across" Ans="SKA">Musical cousin of calypso</Clue>
+      <Clue Row="13" Col="1" Num="60" Dir="Across" Ans="OLD">Ancient</Clue>
+      <Clue Row="13" Col="5" Num="61" Dir="Across" Ans="TUNASASHIMI">Japanese delicacy served in thin slices</Clue>
+      <Clue Row="14" Col="1" Num="65" Dir="Across" Ans="ALE">Hearty brew</Clue>
+      <Clue Row="14" Col="5" Num="66" Dir="Across" Ans="EMIT">Send off, as rays</Clue>
+      <Clue Row="14" Col="10" Num="67" Dir="Across" Ans="TAILOR">One always making adjustments on the job?</Clue>
+      <Clue Row="15" Col="1" Num="68" Dir="Across" Ans="DES">___ Moines, Iowa</Clue>
+      <Clue Row="15" Col="5" Num="69" Dir="Across" Ans="RAPS">Releases of Drake and Cardi B</Clue>
+      <Clue Row="15" Col="10" Num="70" Dir="Across" Ans="IGNORE">Tune out</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="MPG">Fuel economy measure, for short</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="TORE">Ripped</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="FLOE">Ice sheet</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="ULULATE">Wail in grief</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="JEN">Actress Aniston, to friends</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="INDEEP">Seriously involved</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="DOCS">E.R. figures</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="AWRY">Off-kilter</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="TEE">Shirt that might have a slogan on it</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="ANWAR">Egypt's Sadat</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="GORGONZOLA">Blue-veined Italian cheese</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="ALVINAILEY">American Dance Theater founder</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="LESS">Not so much</Clue>
+      <Clue Row="3" Col="7" Num="18" Dir="Down" Ans="SADE">"Smooth Operator" singer, 1985</Clue>
+      <Clue Row="4" Col="12" Num="23" Dir="Down" Ans="ELS">Aboveground trains</Clue>
+      <Clue Row="5" Col="5" Num="25" Dir="Down" Ans="WATTS">Light bulb units</Clue>
+      <Clue Row="5" Col="10" Num="26" Dir="Down" Ans="OHNO">"Say it isn't so!"</Clue>
+      <Clue Row="6" Col="2" Num="27" Dir="Down" Ans="ESPADRILLE">Shoe that ties around the ankle</Clue>
+      <Clue Row="6" Col="3" Num="28" Dir="Down" Ans="ASHBLONDES">Some women with light-colored hair</Clue>
+      <Clue Row="6" Col="8" Num="29" Dir="Down" Ans="APLEA">Cop ___ (confess in return for lighter punishment)</Clue>
+      <Clue Row="6" Col="9" Num="30" Dir="Down" Ans="CAB">Taxi</Clue>
+      <Clue Row="6" Col="15" Num="32" Dir="Down" Ans="PTAS">School grps.</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Down" Ans="ASTI">Sparkling Italian wine</Clue>
+      <Clue Row="7" Col="11" Num="35" Dir="Down" Ans="EXPAT">One living abroad, informally</Clue>
+      <Clue Row="8" Col="6" Num="39" Dir="Down" Ans="OUST">Boot out</Clue>
+      <Clue Row="8" Col="7" Num="40" Dir="Down" Ans="OPT">Make a choice</Clue>
+      <Clue Row="9" Col="12" Num="45" Dir="Down" Ans="AWASHIN">Completely covered with</Clue>
+      <Clue Row="10" Col="4" Num="47" Dir="Down" Ans="EGG">Shape of a Silly Putty container</Clue>
+      <Clue Row="10" Col="9" Num="49" Dir="Down" Ans="YEAS">Affirmative votes</Clue>
+      <Clue Row="10" Col="10" Num="50" Dir="Down" Ans="STRATI">Sheetlike gray clouds</Clue>
+      <Clue Row="11" Col="5" Num="52" Dir="Down" Ans="ESTER">Ending with poly-</Clue>
+      <Clue Row="12" Col="1" Num="54" Dir="Down" Ans="ROAD">The Beatles' "Abbey ___"</Clue>
+      <Clue Row="12" Col="7" Num="55" Dir="Down" Ans="SNIP">Scissors sound</Clue>
+      <Clue Row="12" Col="8" Num="56" Dir="Down" Ans="OATS">Honey Bunches of ___</Clue>
+      <Clue Row="12" Col="13" Num="58" Dir="Down" Ans="KILO">About 2.2 pounds, for short</Clue>
+      <Clue Row="12" Col="14" Num="59" Dir="Down" Ans="AMOR">Latin love</Clue>
+      <Clue Row="13" Col="6" Num="62" Dir="Down" Ans="UMA">Actress Thurman</Clue>
+      <Clue Row="13" Col="11" Num="63" Dir="Down" Ans="SAG">What shoulders may do after a disappointment</Clue>
+      <Clue Row="13" Col="15" Num="64" Dir="Down" Ans="IRE">Fury</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>I&#39;ve had solvers complain when I use the word SHIM. It&#39;s baffling to me &mdash; just like any good mechanical engineer, I used to carry aluminum SHIM stock in my back pocket in case something needed to be leveled. That rickety table? SHIMmed! Someone need something wedged open? SHIMmed!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Espadrille" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mare_de_D%C3%A9u_de_la_Salut_15.jpg/440px-Mare_de_D%C3%A9u_de_la_Salut_15.jpg" style="border:1px solid lightgray; float:left; height:250px; margin:6px 12px 6px 0px; width:140px" title="This is an ESPADRILLE?" /></a></p>
+
+<p>Okay, I&#39;m weird.</p>
+
+<p>A lot packed into the TOOL BOX today. Most felt apt, but I scoffed at people having TAPE and SHIM stock in their TOOLBOXes. Everyone knows that pockets are where you put SHIM stock.</p>
+
+<p>Wait. You&#39;re still reading? Amazing!</p>
+
+<p>I enjoyed some of the finds, SCREW in GROUND<strong>SCREW</strong> delightful. NAIL across ALVI<strong>N AIL</strong>EY, too.</p>
+
+<p>Will has asked me to avoid things like TUNA SA<strong>SHIM</strong>I, where the TUNA part of the answer feels unused. I don&#39;t always agree, but in this case, I&#39;d have preferred something like WI<strong>SH I M</strong>AY.</p>
+
+<p>Or, removing SHIM completely from the theme. Much to this mech E&#39;s dismay, I don&#39;t think it&#39;s nearly as well known as DRILL or NAIL or SCREW.</p>
+
+<p>ESPADRILLE is an interesting word. I didn&#39;t know it, but it seems like something an educated solver ought to be able to piece together through common letter sequences.</p>
+
+<p>I don&#39;t always appreciate themer interlock, but I thought it was neat to have ALVIN AILEY / STAYS AWAY and ESPADRILLE / EAT A PEACH knit together. Not often that you see it in a Monday puzzle, so that was cool.</p>
+
+<p>On the whole, all the objects strewn about gave the puzzle an overly chaotic feel to me. But upon further thought, it seems appropriate to a TOOLBOX. There&#39;s a ton of stuff crammed haphazardly into mine.</p>
+
+<p>Still, I might have preferred just four objects (deleting TAPE and SHIM) to make the grid more Mondayesque, getting rid of the OLA / APLEA, ORLON ESTER glue that&#39;s not friendly to newer solvers.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>I had been working on a puzzle with a musical theme, and my husband, &quot;helpful&quot; as always, had been suggesting all kinds of words that I just had to include. One was &quot;Oscar Hammerstein.&quot; Now, that puzzle was already very difficult to compose, with all kinds of constraints, so I just laughed. &quot;It&#39;s not that easy, you know,&quot; I told him. However, there was a hammer, just there. So, I put aside the musical idea and set to work on this toolbox puzzle &ndash; not that Oscar Hammerstein had any more luck making it into this puzzle than into the first one.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

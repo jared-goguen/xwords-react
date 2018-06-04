@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Tuesday, January 9, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/9/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Tue, Jan 09, 2018</Title>
+    <Author>Peter A. Collins</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/9/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>JOBS.SLAT.SSTAR</Row>
+      <Row>ORAL.PORE.PAUSE</Row>
+      <Row>HERO.RAPT.ANGST</Row>
+      <Row>NORTHAMERICA...</Row>
+      <Row>...HAY.LIVEALIE</Row>
+      <Row>IOS.ICE.SEX.OTB</Row>
+      <Row>ANTITANK...SAAB</Row>
+      <Row>MEETINTHEMIDDLE</Row>
+      <Row>BILE...ZOOTSUIT</Row>
+      <Row>ILL.TBS.SNO.PAS</Row>
+      <Row>CLAMBAKE.KFC...</Row>
+      <Row>...STROBEEFFECT</Row>
+      <Row>INANE.ROSY.LULU</Row>
+      <Row>LIMBS.TOME.ARAB</Row>
+      <Row>EXACT.SKED.TONE</Row>
+    </Grid>
+    <Shades>
+      <Shade Row="4" Col="5">gray</Shade>
+      <Shade Row="4" Col="6">gray</Shade>
+      <Shade Row="4" Col="7">gray</Shade>
+      <Shade Row="5" Col="10">gray</Shade>
+      <Shade Row="5" Col="11">gray</Shade>
+      <Shade Row="5" Col="12">gray</Shade>
+      <Shade Row="5" Col="13">gray</Shade>
+      <Shade Row="11" Col="2">gray</Shade>
+      <Shade Row="11" Col="3">gray</Shade>
+      <Shade Row="11" Col="4">gray</Shade>
+      <Shade Row="11" Col="5">gray</Shade>
+      <Shade Row="12" Col="8">gray</Shade>
+      <Shade Row="12" Col="9">gray</Shade>
+      <Shade Row="12" Col="10">gray</Shade>
+      <Shade Row="12" Col="11">gray</Shade>
+    </Shades>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="JOBS">Perennial campaign issue</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="SLAT">Airplane wing feature</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Across" Ans="SSTAR">Cool, giant sun</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="ORAL">Taken by mouth</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="PORE">Sweat spot</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Across" Ans="PAUSE">Remote control button</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="HERO">Grinder</Clue>
+      <Clue Row="3" Col="6" Num="18" Dir="Across" Ans="RAPT">Totally focused</Clue>
+      <Clue Row="3" Col="11" Num="19" Dir="Across" Ans="ANGST">Brooding worry</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="NORTHAMERICA">Big part of the New World</Clue>
+      <Clue Row="5" Col="4" Num="23" Dir="Across" Ans="HAY">It's pitched with a pitchfork</Clue>
+      <Clue Row="5" Col="8" Num="24" Dir="Across" Ans="LIVEALIE">Present oneself falsely</Clue>
+      <Clue Row="6" Col="1" Num="28" Dir="Across" Ans="IOS">Greek island in the Aegean Sea</Clue>
+      <Clue Row="6" Col="5" Num="31" Dir="Across" Ans="ICE">Common supply for a party</Clue>
+      <Clue Row="6" Col="9" Num="33" Dir="Across" Ans="SEX">One cause for an R rating</Clue>
+      <Clue Row="6" Col="13" Num="34" Dir="Across" Ans="OTB">Wagering venue, briefly</Clue>
+      <Clue Row="7" Col="1" Num="35" Dir="Across" Ans="ANTITANK">Like some missiles</Clue>
+      <Clue Row="7" Col="12" Num="38" Dir="Across" Ans="SAAB">Onetime Volvo competitor</Clue>
+      <Clue Row="8" Col="1" Num="39" Dir="Across" Ans="MEETINTHEMIDDLE">Compromise ... or a phonetic hint to this puzzle's shaded squares</Clue>
+      <Clue Row="9" Col="1" Num="43" Dir="Across" Ans="BILE">Bad temper</Clue>
+      <Clue Row="9" Col="8" Num="44" Dir="Across" Ans="ZOOTSUIT">Flashy 1940s men's attire</Clue>
+      <Clue Row="10" Col="1" Num="45" Dir="Across" Ans="ILL">Lead-in to bred or behaved</Clue>
+      <Clue Row="10" Col="5" Num="46" Dir="Across" Ans="TBS">Channel for "Conan"</Clue>
+      <Clue Row="10" Col="9" Num="49" Dir="Across" Ans="SNO">___-Caps (theater candy)</Clue>
+      <Clue Row="10" Col="13" Num="50" Dir="Across" Ans="PAS">Faux ___</Clue>
+      <Clue Row="11" Col="1" Num="51" Dir="Across" Ans="CLAMBAKE">Seaside cookout</Clue>
+      <Clue Row="11" Col="10" Num="54" Dir="Across" Ans="KFC">Fast-food chain with a goateed spokesman</Clue>
+      <Clue Row="12" Col="4" Num="56" Dir="Across" Ans="STROBEEFFECT">Flashing light phenomenon</Clue>
+      <Clue Row="13" Col="1" Num="61" Dir="Across" Ans="INANE">Ridiculous</Clue>
+      <Clue Row="13" Col="7" Num="64" Dir="Across" Ans="ROSY">Pink</Clue>
+      <Clue Row="13" Col="12" Num="65" Dir="Across" Ans="LULU">Humdinger</Clue>
+      <Clue Row="14" Col="1" Num="66" Dir="Across" Ans="LIMBS">Arms and legs</Clue>
+      <Clue Row="14" Col="7" Num="67" Dir="Across" Ans="TOME">"The Complete Works of William Shakespeare," e.g.</Clue>
+      <Clue Row="14" Col="12" Num="68" Dir="Across" Ans="ARAB">10-Down resident</Clue>
+      <Clue Row="15" Col="1" Num="69" Dir="Across" Ans="EXACT">On the nose</Clue>
+      <Clue Row="15" Col="7" Num="70" Dir="Across" Ans="SKED">What's happening and when, informally</Clue>
+      <Clue Row="15" Col="12" Num="71" Dir="Across" Ans="TONE">Recorded message prompt</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="JOHN">Donald ___ Trump</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="OREO">___ Blizzard (Dairy Queen offering)</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="BARR">Roseanne of "Roseanne"</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="SLOTH">Animal that hangs upside down in trees</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="SPRAYCAN">Graffiti artist's tool</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="LOAM">Rich soil</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="ARPEL">Big name in beauty products</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="TETRIS">Game craze of the late 1980s and '90s</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="SPACEX">Falcon rocket launcher</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="SANAA">Yemen's capital</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="TUG">Pull</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="ASS">Nativity scene figure</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="RET">Emeritus: Abbr.</Clue>
+      <Clue Row="4" Col="5" Num="21" Dir="Down" Ans="HAITI">Country to which Frederick Douglass was a U.S. ambassador</Clue>
+      <Clue Row="4" Col="10" Num="22" Dir="Down" Ans="IVE">Natalie Cole's "___ Got Love on My Mind"</Clue>
+      <Clue Row="5" Col="13" Num="25" Dir="Down" Ans="LOADUP">Pack, as a car for travel</Clue>
+      <Clue Row="5" Col="14" Num="26" Dir="Down" Ans="ITALIA">Napoli's nation</Clue>
+      <Clue Row="5" Col="15" Num="27" Dir="Down" Ans="EBBETS">Field where Jackie Robinson played</Clue>
+      <Clue Row="6" Col="1" Num="28" Dir="Down" Ans="IAMBIC">Like the meter in sonnets</Clue>
+      <Clue Row="6" Col="2" Num="29" Dir="Down" Ans="ONEILL">Ed of "Modern Family"</Clue>
+      <Clue Row="6" Col="3" Num="30" Dir="Down" Ans="STELLA">Popular Belgian beer, for short</Clue>
+      <Clue Row="6" Col="7" Num="32" Dir="Down" Ans="ENT">Fictional tree creature</Clue>
+      <Clue Row="7" Col="4" Num="36" Dir="Down" Ans="ITE">Carmel finish?</Clue>
+      <Clue Row="7" Col="8" Num="37" Dir="Down" Ans="KHZ">Letters on an AM dial</Clue>
+      <Clue Row="7" Col="12" Num="38" Dir="Down" Ans="SDS">1960s radical grp.</Clue>
+      <Clue Row="8" Col="9" Num="40" Dir="Down" Ans="EOS">Canon model</Clue>
+      <Clue Row="8" Col="10" Num="41" Dir="Down" Ans="MONKEYED">Tinkered (with)</Clue>
+      <Clue Row="8" Col="11" Num="42" Dir="Down" Ans="ITOFF">"Knock ___!"</Clue>
+      <Clue Row="10" Col="5" Num="46" Dir="Down" Ans="TBTEST">Intradermal diagnostic, for short</Clue>
+      <Clue Row="10" Col="6" Num="47" Dir="Down" Ans="BAR">Many a lounge</Clue>
+      <Clue Row="10" Col="7" Num="48" Dir="Down" Ans="SKORTS">Some tennis wear</Clue>
+      <Clue Row="11" Col="4" Num="52" Dir="Down" Ans="MSNBC">"___ Live" (daytime news program)</Clue>
+      <Clue Row="11" Col="8" Num="53" Dir="Down" Ans="EBOOK">Kindle material</Clue>
+      <Clue Row="11" Col="12" Num="55" Dir="Down" Ans="CFLAT">B equivalent</Clue>
+      <Clue Row="12" Col="9" Num="57" Dir="Down" Ans="ESME">Salinger dedicatee</Clue>
+      <Clue Row="12" Col="13" Num="58" Dir="Down" Ans="EURO">Tip of France?</Clue>
+      <Clue Row="12" Col="14" Num="59" Dir="Down" Ans="CLAN">Family</Clue>
+      <Clue Row="12" Col="15" Num="60" Dir="Down" Ans="TUBE">Idiot box</Clue>
+      <Clue Row="13" Col="1" Num="61" Dir="Down" Ans="ILE">___-de-France</Clue>
+      <Clue Row="13" Col="2" Num="62" Dir="Down" Ans="NIX">Put the kibosh on</Clue>
+      <Clue Row="13" Col="3" Num="63" Dir="Down" Ans="AMA">Operator's org.?</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>MEAT IN THE MIDDLE really ought to be a thing. A restaurant chain specializing in turduckens?</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Lamb_and_mutton" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/British_Lamb_Cuts.svg/700px-British_Lamb_Cuts.svg.png" style="border:none; float:right; height:166px; margin:6px 0px 6px 12px; width:220px" title="MEAT in the middle ... colorful!" /></a></p>
+
+<p>A couple of good finds, BEEF in the middle of STRO<strong>BE EF</strong>FECT particularly strong. Always neat to see longer words with rare(ish) letters smack dab in the middle of snazzy phrases. VEAL inside LI<strong>VE A L</strong>IE was good too.</p>
+
+<p>I wasn&#39;t as hot on LAMB inside C<strong>LAMB</strong>AKE as 1.) it&#39;s not as interesting to me to have a word hidden completely inside a single word (across two words feels more fun), and 2.) isn&#39;t CLAM another type of meat? Sort of? The other, <em>other</em> white meat? Felt a little odd to have the double meatiness.</p>
+
+<p>And HAM is easier to find within phrases like FIFTH AMENDMENT, LAUGH A MINUTE, ALPHA MALE, etc. Three-letter hidden words don&#39;t catch my attention as much since they&#39;re easier to uncover.</p>
+
+<p>I loved ANTI TANK and ZOOT SUIT! Great bonuses. Typically I&#39;d be worried about them laid out in the across direction since that could muddy up theme vs. fill. But since there aren&#39;t any shaded letters in these guys, it&#39;s fine.</p>
+
+<p>Other goodies in SPRAY CAN, SKORTS, and SPACE X. Excellent bonuses for all the vegetarian solvers out there!</p>
+
+<p>Not as smooth as I&#39;d like in an early-week puzzle, though. I hitched early on with ARPEL, but thank goodness all the crossings were easy. I&#39;m okay to learn a new brand name. Not as okay to run into OTB, SDS (I think it&#39;s a fine entry, but many newer solvers might not be familiar with Students for a Democratic Society), IT OFF, SNO, ITE, SKED. Two or three of these and a puzzle loses its feeling of elegance and craftsmanship.</p>
+
+<p>It&#39;s hard to say what might have helped. Maybe not stacking NORTH AMERICA and LIVE A LIE? Putting LIVE A LIE in row 3 and NORTH AMERICA in row 5 might have spaced things out better.</p>
+
+<p>Overall, a solid hidden-word theme using a fun reVEALer, but I would have liked some rework to improve smoothness, even if it meant reducing some of the snazziness.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>Puzzle ideas can pop up in the strangest places. This idea for one puzzle was generated a little less than a year ago while doing the <a href="http://crosswordfiend.com/2017/01/24/wednesday-january-25-2017/#la">January 25, 2017 Los Angeles Times puzzle</a> by my friend and sometimes co-constructor <a href="https://www.xwordinfo.com/Thumbs?author=Bruce+Haight" class="hasphoto">Bruce Haight</a>. The first two themed answers I got in Bruce&#39;s puzzle were LIVE A LITTLE and MEET IN THE MIDDLE. For some reason the VEAL inside LIVE A LITTLE jumped out at me, so I thought to myself, &quot;I see where you&#39;re going, Bruce!&quot;. I figured there would be various meats (like VEAL) hidden inside longer phrases, with MEET IN THE MIDDLE as the revealer.</p>
+
+<p>As it turned out, Bruce&#39;s theme was entirely different. It consisted of five phrases that ended in the five fingers on one&#39;s hand: LITTLE, INDEX, MIDDLE, RING, and THUMB. So I took what I thought was Bruce&#39;s concept and turned it into this puzzle.</p>
+
+<p>My original submission didn&#39;t have circles or shaded squares, but I guess on a Tuesday they&#39;re probably necessary.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

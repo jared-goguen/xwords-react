@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Sunday, March 4, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/3/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sun, Mar 04, 2018 CHARACTER BUILDING</Title>
+    <Author>Byron Walden</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/4/2018</Date>
+    <Size>
+      <Rows>21</Rows>
+      <Cols>21</Cols>
+    </Size>
+    <Grid>
+      <Row>STHELENA.ACTSON.SPAMS</Row>
+      <Row>TEATIMES.LOVATO.ARTOO</Row>
+      <Row>INTHOUGHTASMUCH.GODNO</Row>
+      <Row>FUTONS.BONMOT..LABATT</Row>
+      <Row>FRIST.SINSOMESMALLWAY</Row>
+      <Row>SEP.AVON....SEAN.ENG.</Row>
+      <Row>...EMIT.WEEP.GRAMM...</Row>
+      <Row>.RABID.SINGOFOMISSION</Row>
+      <Row>PAREN.CATDOOR...GENRE</Row>
+      <Row>STINGINTHESHOWER.CALI</Row>
+      <Row>HAZE.FEY.....RAN.TWAS</Row>
+      <Row>ATOZ.STRINGOPERATIONS</Row>
+      <Row>WANES...COYNESS.HORDE</Row>
+      <Row>STARINGQUARTET.KENDO.</Row>
+      <Row>...STOLI.HOOK.HIPS...</Row>
+      <Row>.AMC.LENA....PEDI.COG</Row>
+      <Row>STARTINGDAGGERS.ASANA</Row>
+      <Row>AEROBE..DREAMY.ANIMAS</Row>
+      <Row>BALOO.STARTLINGLINEUP</Row>
+      <Row>ESIGN.OHMAMA.NOISETTE</Row>
+      <Row>RENEE.YESYES.EASTWOOD</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="STHELENA">Where Napoleon died in exile</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Across" Ans="ACTSON">Pursues, as a hunch</Clue>
+      <Clue Row="1" Col="17" Num="15" Dir="Across" Ans="SPAMS">Assails with emails</Clue>
+      <Clue Row="2" Col="1" Num="20" Dir="Across" Ans="TEATIMES">Pauses for service</Clue>
+      <Clue Row="2" Col="10" Num="21" Dir="Across" Ans="LOVATO">Demi with the 2012 hit "Give Your Heart a Break"</Clue>
+      <Clue Row="2" Col="17" Num="22" Dir="Across" Ans="ARTOO">Droid with a holographic projector, informally</Clue>
+      <Clue Row="3" Col="1" Num="23" Dir="Across" Ans="INTHOUGHTASMUCH">Equally pensive?</Clue>
+      <Clue Row="3" Col="17" Num="25" Dir="Across" Ans="GODNO">"Heaven forbid!"</Clue>
+      <Clue Row="4" Col="1" Num="26" Dir="Across" Ans="FUTONS">Foldable beds</Clue>
+      <Clue Row="4" Col="8" Num="27" Dir="Across" Ans="BONMOT">Witticism</Clue>
+      <Clue Row="4" Col="16" Num="28" Dir="Across" Ans="LABATT">Canada's largest brewer</Clue>
+      <Clue Row="5" Col="1" Num="29" Dir="Across" Ans="FRIST">Daschle's successor as Senate majority leader</Clue>
+      <Clue Row="5" Col="7" Num="30" Dir="Across" Ans="SINSOMESMALLWAY">Commit a peccadillo?</Clue>
+      <Clue Row="6" Col="1" Num="33" Dir="Across" Ans="SEP">Mo. with Constitution Day</Clue>
+      <Clue Row="6" Col="5" Num="34" Dir="Across" Ans="AVON">"___ calling"</Clue>
+      <Clue Row="6" Col="13" Num="36" Dir="Across" Ans="SEAN">Irish "John"</Clue>
+      <Clue Row="6" Col="18" Num="37" Dir="Across" Ans="ENG">Part of E.S.L.: Abbr.</Clue>
+      <Clue Row="7" Col="4" Num="38" Dir="Across" Ans="EMIT">Shoot off</Clue>
+      <Clue Row="7" Col="9" Num="39" Dir="Across" Ans="WEEP">Break down, in a way</Clue>
+      <Clue Row="7" Col="14" Num="43" Dir="Across" Ans="GRAMM">1980s-2000s Texas senator Phil</Clue>
+      <Clue Row="8" Col="2" Num="45" Dir="Across" Ans="RABID">Beyond passionate</Clue>
+      <Clue Row="8" Col="8" Num="47" Dir="Across" Ans="SINGOFOMISSION">Perform the hit "Things I Should Have Said"?</Clue>
+      <Clue Row="9" Col="1" Num="52" Dir="Across" Ans="PAREN">Symbol over 9 or 0 on a keyboard, for short</Clue>
+      <Clue Row="9" Col="7" Num="53" Dir="Across" Ans="CATDOOR">Pet portal</Clue>
+      <Clue Row="9" Col="17" Num="54" Dir="Across" Ans="GENRE">Horror, e.g.</Clue>
+      <Clue Row="10" Col="1" Num="55" Dir="Across" Ans="STINGINTHESHOWER">The Police frontman filming a shampoo commercial?</Clue>
+      <Clue Row="10" Col="18" Num="60" Dir="Across" Ans="CALI">Golden State, informally</Clue>
+      <Clue Row="11" Col="1" Num="61" Dir="Across" Ans="HAZE">The night before, to a hard partier?</Clue>
+      <Clue Row="11" Col="6" Num="62" Dir="Across" Ans="FEY">Whimsical</Clue>
+      <Clue Row="11" Col="14" Num="63" Dir="Across" Ans="RAN">Bolted</Clue>
+      <Clue Row="11" Col="18" Num="64" Dir="Across" Ans="TWAS">"___ autumn, and a clear and placid day": Wordsworth</Clue>
+      <Clue Row="12" Col="1" Num="65" Dir="Across" Ans="ATOZ">All-inclusive</Clue>
+      <Clue Row="12" Col="6" Num="66" Dir="Across" Ans="STRINGOPERATIONS">Tying packages, securing helium balloons, etc.?</Clue>
+      <Clue Row="13" Col="1" Num="73" Dir="Across" Ans="WANES">Lessens in force</Clue>
+      <Clue Row="13" Col="9" Num="75" Dir="Across" Ans="COYNESS">Flirtatious quality</Clue>
+      <Clue Row="13" Col="17" Num="76" Dir="Across" Ans="HORDE">Throng</Clue>
+      <Clue Row="14" Col="1" Num="77" Dir="Across" Ans="STARINGQUARTET">The Beatles showing absolute amazement?</Clue>
+      <Clue Row="14" Col="16" Num="81" Dir="Across" Ans="KENDO">Martial art with bamboo swords</Clue>
+      <Clue Row="15" Col="4" Num="82" Dir="Across" Ans="STOLI">Ketel One rival, familiarly</Clue>
+      <Clue Row="15" Col="10" Num="83" Dir="Across" Ans="HOOK">Selling point</Clue>
+      <Clue Row="15" Col="15" Num="84" Dir="Across" Ans="HIPS">Handholds while slow-dancing</Clue>
+      <Clue Row="16" Col="2" Num="85" Dir="Across" Ans="AMC">"The Walking Dead" channel</Clue>
+      <Clue Row="16" Col="6" Num="87" Dir="Across" Ans="LENA">Headey of "Game of Thrones"</Clue>
+      <Clue Row="16" Col="14" Num="89" Dir="Across" Ans="PEDI">Salon offering, familiarly</Clue>
+      <Clue Row="16" Col="19" Num="90" Dir="Across" Ans="COG">Important but sometimes ignored piece</Clue>
+      <Clue Row="17" Col="1" Num="93" Dir="Across" Ans="STARTINGDAGGERS">First weapons used in a knife fight?</Clue>
+      <Clue Row="17" Col="17" Num="99" Dir="Across" Ans="ASANA">Yoga pose</Clue>
+      <Clue Row="18" Col="1" Num="101" Dir="Across" Ans="AEROBE">Oxygen-reliant organism</Clue>
+      <Clue Row="18" Col="9" Num="102" Dir="Across" Ans="DREAMY">Oh-so-handsome</Clue>
+      <Clue Row="18" Col="16" Num="103" Dir="Across" Ans="ANIMAS">Jungian souls</Clue>
+      <Clue Row="19" Col="1" Num="104" Dir="Across" Ans="BALOO">Disney bear</Clue>
+      <Clue Row="19" Col="7" Num="105" Dir="Across" Ans="STARTLINGLINEUP">Surprising group of suspects?</Clue>
+      <Clue Row="20" Col="1" Num="108" Dir="Across" Ans="ESIGN">Endorse digitally</Clue>
+      <Clue Row="20" Col="7" Num="109" Dir="Across" Ans="OHMAMA">"Baby, baby, baby!"</Clue>
+      <Clue Row="20" Col="14" Num="110" Dir="Across" Ans="NOISETTE">Lean fillet, as of lamb</Clue>
+      <Clue Row="21" Col="1" Num="111" Dir="Across" Ans="RENEE">"Walk Away ___" (1966 hit)</Clue>
+      <Clue Row="21" Col="7" Num="112" Dir="Across" Ans="YESYES">Enthusiastic consent</Clue>
+      <Clue Row="21" Col="14" Num="113" Dir="Across" Ans="EASTWOOD">"The 15:17 to Paris" director, 2018</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="STIFFS">Doesn't pay</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="TENURE">___ track</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="HATTIP">Metaphoric acknowledgment</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="ETHOS">Shared values</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="LIONTAMING">Performance for which one might grab a chair</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="EMUS">Tridactyl birds</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="NEG">Blood type modifier, for short</Clue>
+      <Clue Row="1" Col="8" Num="8" Dir="Down" Ans="ASHBIN">Waste receptacle</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="ALANS">Astronauts Bean and Shepard</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="COSMO">Mag featuring "Fun Fearless Females"</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="TVMOM">Clair Huxtable or Peg Bundy</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="SAUTES">Browns</Clue>
+      <Clue Row="1" Col="14" Num="13" Dir="Down" Ans="OTC">Nonprescription, briefly</Clue>
+      <Clue Row="1" Col="15" Num="14" Dir="Down" Ans="NOH">Drama with many fans</Clue>
+      <Clue Row="1" Col="17" Num="15" Dir="Down" Ans="SAGAL">Katey who played Peg Bundy</Clue>
+      <Clue Row="1" Col="18" Num="16" Dir="Down" Ans="PROBLEMSECTIONS">Parts of math textbooks</Clue>
+      <Clue Row="1" Col="19" Num="17" Dir="Down" Ans="ATDAWN">When duelers may meet</Clue>
+      <Clue Row="1" Col="20" Num="18" Dir="Down" Ans="MONTAG">Beginning of the German workweek</Clue>
+      <Clue Row="1" Col="21" Num="19" Dir="Down" Ans="SOOTY">Like chimneys</Clue>
+      <Clue Row="3" Col="9" Num="24" Dir="Down" Ans="TON">Truckload</Clue>
+      <Clue Row="4" Col="16" Num="28" Dir="Down" Ans="LANAI">Island veranda</Clue>
+      <Clue Row="5" Col="7" Num="30" Dir="Down" Ans="SOT">Barfly</Clue>
+      <Clue Row="5" Col="14" Num="31" Dir="Down" Ans="SEGO">Kind of lily</Clue>
+      <Clue Row="5" Col="15" Num="32" Dir="Down" Ans="MARM">School closing?</Clue>
+      <Clue Row="6" Col="6" Num="35" Dir="Down" Ans="VID">Snapchat posting, for short</Clue>
+      <Clue Row="7" Col="4" Num="38" Dir="Down" Ans="EBENEZERSCROOGE">One seeing ghosts</Clue>
+      <Clue Row="7" Col="9" Num="39" Dir="Down" Ans="WITH">Including</Clue>
+      <Clue Row="7" Col="10" Num="40" Dir="Down" Ans="ENDE">Michael who wrote "The Neverending Story"</Clue>
+      <Clue Row="7" Col="11" Num="41" Dir="Down" Ans="EGOS">Things that clash in Washington</Clue>
+      <Clue Row="7" Col="12" Num="42" Dir="Down" Ans="POOH">Pouty exclamation</Clue>
+      <Clue Row="7" Col="17" Num="44" Dir="Down" Ans="MSG">"No ___"</Clue>
+      <Clue Row="8" Col="2" Num="45" Dir="Down" Ans="RATATAT">Rap sound</Clue>
+      <Clue Row="8" Col="3" Num="46" Dir="Down" Ans="ARIZONA">The 48th star</Clue>
+      <Clue Row="8" Col="8" Num="47" Dir="Down" Ans="SATYR">Woodland god</Clue>
+      <Clue Row="8" Col="13" Num="48" Dir="Down" Ans="FRO">Do with a pick, maybe</Clue>
+      <Clue Row="8" Col="19" Num="49" Dir="Down" Ans="INAWORD">Briefly</Clue>
+      <Clue Row="8" Col="20" Num="50" Dir="Down" Ans="ORLANDO">The Theme Park Capital of the World</Clue>
+      <Clue Row="8" Col="21" Num="51" Dir="Down" Ans="NEISSE">German border river</Clue>
+      <Clue Row="9" Col="1" Num="52" Dir="Down" Ans="PSHAWS">Quaint dismissals</Clue>
+      <Clue Row="9" Col="7" Num="53" Dir="Down" Ans="CNET">Tech news website</Clue>
+      <Clue Row="10" Col="6" Num="56" Dir="Down" Ans="IFS">Hypotheticals</Clue>
+      <Clue Row="10" Col="14" Num="57" Dir="Down" Ans="WREST">Take with force</Clue>
+      <Clue Row="10" Col="15" Num="58" Dir="Down" Ans="EARS">Bears ___ (national monument in Utah)</Clue>
+      <Clue Row="10" Col="16" Num="59" Dir="Down" Ans="RNA">Messenger ___</Clue>
+      <Clue Row="12" Col="9" Num="67" Dir="Down" Ans="ICU">Post-op stop</Clue>
+      <Clue Row="12" Col="10" Num="68" Dir="Down" Ans="NOAH">One releasing a dove in the Bible</Clue>
+      <Clue Row="12" Col="11" Num="69" Dir="Down" Ans="GYRO">Food truck menu item</Clue>
+      <Clue Row="12" Col="12" Num="70" Dir="Down" Ans="ONTO">Not tricked by</Clue>
+      <Clue Row="12" Col="13" Num="71" Dir="Down" Ans="PEEK">Advance look, say</Clue>
+      <Clue Row="12" Col="17" Num="72" Dir="Down" Ans="THEPIANIST">Film for which Adrien Brody won Best Actor</Clue>
+      <Clue Row="13" Col="5" Num="74" Dir="Down" Ans="SIT">"Park it"</Clue>
+      <Clue Row="14" Col="6" Num="78" Dir="Down" Ans="NOLIE">"Honestly"</Clue>
+      <Clue Row="14" Col="7" Num="79" Dir="Down" Ans="GLEN">Verdant spot</Clue>
+      <Clue Row="14" Col="8" Num="80" Dir="Down" Ans="QING">Last Chinese dynasty</Clue>
+      <Clue Row="14" Col="16" Num="81" Dir="Down" Ans="KID">Not be serious</Clue>
+      <Clue Row="15" Col="15" Num="84" Dir="Down" Ans="HES">"___ Just Not That Into You" (2009 rom-com)</Clue>
+      <Clue Row="16" Col="2" Num="85" Dir="Down" Ans="ATEASE">Relaxing</Clue>
+      <Clue Row="16" Col="3" Num="86" Dir="Down" Ans="MARLIN">Catch in "The Old Man and the Sea"</Clue>
+      <Clue Row="16" Col="9" Num="88" Dir="Down" Ans="ADDAMS">Title family name in old TV</Clue>
+      <Clue Row="16" Col="14" Num="89" Dir="Down" Ans="PRYNNE">Hawthorne heroine</Clue>
+      <Clue Row="16" Col="19" Num="90" Dir="Down" Ans="CAMETO">Snapped out of it</Clue>
+      <Clue Row="16" Col="20" Num="91" Dir="Down" Ans="ONAUTO">Out of control?</Clue>
+      <Clue Row="16" Col="21" Num="92" Dir="Down" Ans="GASPED">Showed shock</Clue>
+      <Clue Row="17" Col="1" Num="93" Dir="Down" Ans="SABER">Cossack weapon</Clue>
+      <Clue Row="17" Col="5" Num="94" Dir="Down" Ans="TBONE">Crash into the side of, informally</Clue>
+      <Clue Row="17" Col="10" Num="95" Dir="Down" Ans="ARRAY">Marshal</Clue>
+      <Clue Row="17" Col="11" Num="96" Dir="Down" Ans="GETME">"You follow?"</Clue>
+      <Clue Row="17" Col="12" Num="97" Dir="Down" Ans="GALAS">Fancy soirees</Clue>
+      <Clue Row="17" Col="13" Num="98" Dir="Down" Ans="EMI">Old record co. conglomerate</Clue>
+      <Clue Row="17" Col="18" Num="100" Dir="Down" Ans="SINEW">Strength</Clue>
+      <Clue Row="18" Col="16" Num="103" Dir="Down" Ans="ALIS">Celebrated boxing family</Clue>
+      <Clue Row="19" Col="7" Num="105" Dir="Down" Ans="SOY">Edamame source</Clue>
+      <Clue Row="19" Col="8" Num="106" Dir="Down" Ans="THE">Alternative to café</Clue>
+      <Clue Row="19" Col="15" Num="107" Dir="Down" Ans="GOA">___ long way</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>How to describe this theme? There&#39;s a letter-adding progression of IN, SIN, SING, STING, STRING, STARING, STARTING, STARTLING &hellip; with each word shifted down one phrase for kooky results? Instead of &quot;sing in the shower,&quot; we get STING IN THE SHOWER.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Sting_(musician)" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Raoni_and_singer_Sting.jpg/440px-Raoni_and_singer_Sting.jpg" style="border:1px solid lightgray; float:right; height:153px; margin:6px 0px 6px 12px; width:220px" title="STING looks like he could use a SHOWER here ..." /></a></p>
+
+<p>It&#39;s pretty impressive that every word in this letter-add sequence can be part of a real phrase. Not an easy task &ndash; I once tried to build a BEARD growth puzzle with Ian Livengood, but it was so tough to find good phrases. A BEAR, you might say.</p>
+
+<p>(groan)</p>
+
+<p>The theme didn&#39;t do much for me &mdash; the notion dragged on too far. The constructor in me was much more interested in the findings than the solver, who got tired of it.</p>
+
+<p>Very nice gridwork! I didn&#39;t notice much crossword glue at all, so it was a huge surprise to see the word count at a low low 132. So few constructors can pull this off. If I were the grid police, Byron would be one of the few people I&#39;d issue a license for sub-140 wording.</p>
+
+<p>To get such nice entries in EBENEZER SCROOGE and PROBLEM SECTIONS (I&#39;m a math dork, so sue me), each running through three themers is great stuff. And TEA TIMES, LION TAMING, THE PIANIST, CAT DOOR &ndash; that&#39;s the way to make the most out of your long slots!</p>
+
+<p>And that clue for TEA TIMES! [Pauses for service] made me think about a tennis server taking a moment to gather his/her strategy before firing. TEA service is much different. (Although it&#39;s fun to imagine a TEA SERVICE service at Wimbledon, with one hand on a racket and the other holding a teacup, with pinky extended.)</p>
+
+<p>Unusual for me to get through an average Sunday puzzle, without slogging through at least 10 dabs of crossword glue, of the ALIS, ENDE, SEP variety. To give me a smooth solve in a colorful, 132-word grid? Fantastic craftsmanship.</p>
+
+<p>Unfortunately, a great grid doesn&#39;t cover up a theme that doesn&#39;t hold one&#39;s attention. Probably would have been better if downsized into a four-themer weekday grid.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>HAT TIP to the puzzle magazines of my long-gone youth. One of them (Dell?) had a little word puzzle where you had to go from STARTLING to I deleting one letter at a time, always forming a new word without anagramming. (BTW, there are two solutions.)</p>
+
+<p>One of my bugaboos is plural names, which I really try to avoid. This one has two! The second one came when I just had to get IN MEM out of the grid and upgraded it with TV MOM. I tried to do something about ALIS. I could replace the corner, but because of the interlock, it would require redoing the whole of the eastern seaboard, and I just couldn&#39;t pull it off. Because of a tough crossing, ALIS needed the easiest clue possible, but I like to tell myself the real clue is the first word of Oregon&#39;s state motto. I&#39;m pretty happy how the rest turned out. Hope you all enjoy it!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

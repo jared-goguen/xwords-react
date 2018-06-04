@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Sunday, January 14, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/13/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sun, Jan 14, 2018 SUPREME INTELLIGENCE</Title>
+    <Author>Joel Fagliano</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/14/2018</Date>
+    <Size>
+      <Rows>21</Rows>
+      <Cols>20</Cols>
+    </Size>
+    <Grid>
+      <Row>DANTONI.NSC..ALIASES</Row>
+      <Row>EMAILED.OPUS.NEWWAVE</Row>
+      <Row>WANNABE.FORT.ASIATIC</Row>
+      <Row>ANNE.SABOTEUR.ANSEL.</Row>
+      <Row>RAYS...IOS.PIBB.HEEL</Row>
+      <Row>....UMPED.GODARK.NSA</Row>
+      <Row>THEPEARL.WAR.RENTSTO</Row>
+      <Row>HENRYVI.AIM...SIR...</Row>
+      <Row>ELLIS.CALLEDIT.VIOLA</Row>
+      <Row>BLIN.PEEL.ORNATE.ROC</Row>
+      <Row>OBSTRUCTIONOFJUSTICE</Row>
+      <Row>SOT.IBANEZ.NUMB.HEAT</Row>
+      <Row>SYSOP.PASADENA.LENTO</Row>
+      <Row>...NPR...RED.HEARTEN</Row>
+      <Row>TOHELEN.AKA.GANYMEDE</Row>
+      <Row>ATE.EGESTS.COLDS....</Row>
+      <Row>BRAS.IDOL.BOT...SHAG</Row>
+      <Row>.ADHOC.CAPUCHIN.OAHU</Row>
+      <Row>ANSONIA.SOTO.MAYORAL</Row>
+      <Row>STUPIDS.TOTO.DIETTIP</Row>
+      <Row>HOPSTEP..HEN.BREYERS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="DANTONI">Mike who was the 2017 N.B.A. Coach of the Year</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Across" Ans="NSC">Presidential advisory grp.</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Across" Ans="ALIASES">Covers</Clue>
+      <Clue Row="2" Col="1" Num="18" Dir="Across" Ans="EMAILED">Worked on some screenwriting?</Clue>
+      <Clue Row="2" Col="9" Num="19" Dir="Across" Ans="OPUS">Major work</Clue>
+      <Clue Row="2" Col="14" Num="21" Dir="Across" Ans="NEWWAVE">Like the French directors Eric Rohmer and Jean-Luc Godard</Clue>
+      <Clue Row="3" Col="1" Num="22" Dir="Across" Ans="WANNABE">Poseur</Clue>
+      <Clue Row="3" Col="9" Num="23" Dir="Across" Ans="FORT">Kid's creation out of pillows</Clue>
+      <Clue Row="3" Col="14" Num="24" Dir="Across" Ans="ASIATIC">Kind of elephant</Clue>
+      <Clue Row="4" Col="1" Num="25" Dir="Across" Ans="ANNE">Last monarch of the House of Stuart</Clue>
+      <Clue Row="4" Col="6" Num="26" Dir="Across" Ans="SABOTEUR">Destructive sort</Clue>
+      <Clue Row="4" Col="15" Num="29" Dir="Across" Ans="ANSEL">Photographer Adams</Clue>
+      <Clue Row="5" Col="1" Num="30" Dir="Across" Ans="RAYS">Lines in geometry</Clue>
+      <Clue Row="5" Col="8" Num="31" Dir="Across" Ans="IOS">Android's counterpart</Clue>
+      <Clue Row="5" Col="12" Num="32" Dir="Across" Ans="PIBB">___ Xtra (soda)</Clue>
+      <Clue Row="5" Col="17" Num="34" Dir="Across" Ans="HEEL">Scoundrel</Clue>
+      <Clue Row="6" Col="5" Num="36" Dir="Across" Ans="UMPED">Worked from home?</Clue>
+      <Clue Row="6" Col="11" Num="39" Dir="Across" Ans="GODARK">Cease communication</Clue>
+      <Clue Row="6" Col="18" Num="41" Dir="Across" Ans="NSA">Bug-studying org.</Clue>
+      <Clue Row="7" Col="1" Num="42" Dir="Across" Ans="THEPEARL">Steinbeck novella set in La Paz</Clue>
+      <Clue Row="7" Col="10" Num="46" Dir="Across" Ans="WAR">Topic for Sun Tzu</Clue>
+      <Clue Row="7" Col="14" Num="47" Dir="Across" Ans="RENTSTO">Has as a tenant</Clue>
+      <Clue Row="8" Col="1" Num="49" Dir="Across" Ans="HENRYVI">Shakespearean king</Clue>
+      <Clue Row="8" Col="9" Num="50" Dir="Across" Ans="AIM">Retired chat service</Clue>
+      <Clue Row="8" Col="15" Num="51" Dir="Across" Ans="SIR">Military term of address</Clue>
+      <Clue Row="9" Col="1" Num="52" Dir="Across" Ans="ELLIS">Perry of fashion</Clue>
+      <Clue Row="9" Col="7" Num="53" Dir="Across" Ans="CALLEDIT">"I knew that would happen!"</Clue>
+      <Clue Row="9" Col="16" Num="58" Dir="Across" Ans="VIOLA">"Twelfth Night" twin</Clue>
+      <Clue Row="10" Col="1" Num="62" Dir="Across" Ans="BLIN">Thin pancake</Clue>
+      <Clue Row="10" Col="6" Num="63" Dir="Across" Ans="PEEL">Spa treatment</Clue>
+      <Clue Row="10" Col="11" Num="64" Dir="Across" Ans="ORNATE">Flowery</Clue>
+      <Clue Row="10" Col="18" Num="66" Dir="Across" Ans="ROC">___ Nation (record label for Jay-Z and J. Cole)</Clue>
+      <Clue Row="11" Col="1" Num="67" Dir="Across" Ans="OBSTRUCTIONOFJUSTICE">Illegal interference ... or what can be found in this puzzle's 1st, 3rd, 7th, 15th, 19th and 21st rows?</Clue>
+      <Clue Row="12" Col="1" Num="71" Dir="Across" Ans="SOT">Stewbum</Clue>
+      <Clue Row="12" Col="5" Num="72" Dir="Across" Ans="IBANEZ">Noted brand of guitars</Clue>
+      <Clue Row="12" Col="12" Num="73" Dir="Across" Ans="NUMB">Use an ice pack on</Clue>
+      <Clue Row="12" Col="17" Num="74" Dir="Across" Ans="HEAT">What a conductor might conduct</Clue>
+      <Clue Row="13" Col="1" Num="75" Dir="Across" Ans="SYSOP">Online admin</Clue>
+      <Clue Row="13" Col="7" Num="77" Dir="Across" Ans="PASADENA">Where a big bowl is found</Clue>
+      <Clue Row="13" Col="16" Num="79" Dir="Across" Ans="LENTO">Indication to bow slowly, say</Clue>
+      <Clue Row="14" Col="4" Num="80" Dir="Across" Ans="NPR">Creator of the "Planet Money" podcast</Clue>
+      <Clue Row="14" Col="10" Num="82" Dir="Across" Ans="RED">Like a boiled lobster</Clue>
+      <Clue Row="14" Col="14" Num="83" Dir="Across" Ans="HEARTEN">Buoy</Clue>
+      <Clue Row="15" Col="1" Num="85" Dir="Across" Ans="TOHELEN">Poe ode</Clue>
+      <Clue Row="15" Col="9" Num="89" Dir="Across" Ans="AKA">Nicknamed</Clue>
+      <Clue Row="15" Col="13" Num="90" Dir="Across" Ans="GANYMEDE">Largest moon in the solar system</Clue>
+      <Clue Row="16" Col="1" Num="91" Dir="Across" Ans="ATE">Got down</Clue>
+      <Clue Row="16" Col="5" Num="92" Dir="Across" Ans="EGESTS">Discharges</Clue>
+      <Clue Row="16" Col="12" Num="94" Dir="Across" Ans="COLDS">Reasons for sneezin'</Clue>
+      <Clue Row="17" Col="1" Num="95" Dir="Across" Ans="BRAS">They might be backless</Clue>
+      <Clue Row="17" Col="6" Num="97" Dir="Across" Ans="IDOL">Fan favorite</Clue>
+      <Clue Row="17" Col="11" Num="98" Dir="Across" Ans="BOT">Frequent Twitter poster</Clue>
+      <Clue Row="17" Col="17" Num="99" Dir="Across" Ans="SHAG">Thick hairstyle</Clue>
+      <Clue Row="18" Col="2" Num="103" Dir="Across" Ans="ADHOC">For the case at hand</Clue>
+      <Clue Row="18" Col="8" Num="105" Dir="Across" Ans="CAPUCHIN">Hooded cloak</Clue>
+      <Clue Row="18" Col="17" Num="109" Dir="Across" Ans="OAHU">Home to the historic Moana Hotel</Clue>
+      <Clue Row="19" Col="1" Num="110" Dir="Across" Ans="ANSONIA">Connecticut city near New Haven</Clue>
+      <Clue Row="19" Col="9" Num="112" Dir="Across" Ans="SOTO">___ speak</Clue>
+      <Clue Row="19" Col="14" Num="113" Dir="Across" Ans="MAYORAL">Kind of race</Clue>
+      <Clue Row="20" Col="1" Num="115" Dir="Across" Ans="STUPIDS">Dum-dums</Clue>
+      <Clue Row="20" Col="9" Num="116" Dir="Across" Ans="TOTO">In ___ (entirely)</Clue>
+      <Clue Row="20" Col="14" Num="117" Dir="Across" Ans="DIETTIP">Bit of advice before taking off?</Clue>
+      <Clue Row="21" Col="1" Num="118" Dir="Across" Ans="HOPSTEP">Evasive basketball move</Clue>
+      <Clue Row="21" Col="10" Num="119" Dir="Across" Ans="HEN">Brooding sort</Clue>
+      <Clue Row="21" Col="14" Num="120" Dir="Across" Ans="BREYERS">Häagen-Dazs alternative</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="DEWAR">Big name in Scotch</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="AMANA">Appliance brand</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="NANNY">Word before goat or state</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="TINES">Sporks have small ones</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="OLA">Suffix with crap</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="NEBS">Bird bills</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="IDEA">Now there's a thought!</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="NOFOOD">Sign by a pool</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="SPOTS">Features of monarch butterfly wings</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="CURE">Add salt to, maybe</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="ANA">Santa ___</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="LESABRES">Former Buick sedans</Clue>
+      <Clue Row="1" Col="16" Num="13" Dir="Down" Ans="IWIN">"Victory is mine!"</Clue>
+      <Clue Row="1" Col="17" Num="14" Dir="Down" Ans="AWASH">Covered with water</Clue>
+      <Clue Row="1" Col="18" Num="15" Dir="Down" Ans="SATEENS">Sleek fabrics</Clue>
+      <Clue Row="1" Col="19" Num="16" Dir="Down" Ans="EVILEST">Closest to base?</Clue>
+      <Clue Row="1" Col="20" Num="17" Dir="Down" Ans="SEC">Dry, as wine</Clue>
+      <Clue Row="2" Col="12" Num="20" Dir="Down" Ans="STUPOR">Daze</Clue>
+      <Clue Row="4" Col="8" Num="27" Dir="Down" Ans="BIEL">Jessica of "The Illusionist"</Clue>
+      <Clue Row="4" Col="13" Num="28" Dir="Down" Ans="RID">Empty</Clue>
+      <Clue Row="5" Col="14" Num="33" Dir="Down" Ans="BAR">Chocolate purchase</Clue>
+      <Clue Row="5" Col="20" Num="35" Dir="Down" Ans="LAO">Language with six tones</Clue>
+      <Clue Row="6" Col="5" Num="36" Dir="Down" Ans="UEYS">180s</Clue>
+      <Clue Row="6" Col="6" Num="37" Dir="Down" Ans="MAV">Dallas pro</Clue>
+      <Clue Row="6" Col="7" Num="38" Dir="Down" Ans="PRICECAP">Limit on what can be charged</Clue>
+      <Clue Row="6" Col="11" Num="39" Dir="Down" Ans="GAMEON">"All right, let's play!"</Clue>
+      <Clue Row="6" Col="16" Num="40" Dir="Down" Ans="KNIVES">Butcher's stock</Clue>
+      <Clue Row="7" Col="1" Num="42" Dir="Down" Ans="THEBOSS">Nickname for Springsteen</Clue>
+      <Clue Row="7" Col="2" Num="43" Dir="Down" Ans="HELLBOY">Comics superhero with filed-off horns</Clue>
+      <Clue Row="7" Col="3" Num="44" Dir="Down" Ans="ENLISTS">Joins forces?</Clue>
+      <Clue Row="7" Col="4" Num="45" Dir="Down" Ans="PRINT">Run off</Clue>
+      <Clue Row="7" Col="10" Num="46" Dir="Down" Ans="WIL">Actor Wheaton</Clue>
+      <Clue Row="7" Col="17" Num="48" Dir="Down" Ans="TRI">Prefix with -nomial</Clue>
+      <Clue Row="8" Col="9" Num="50" Dir="Down" Ans="ALLIES">Joins forces</Clue>
+      <Clue Row="9" Col="8" Num="54" Dir="Down" Ans="AETNA">Insurance giant whose name begins with a silent letter</Clue>
+      <Clue Row="9" Col="12" Num="55" Dir="Down" Ans="DRONED">Spoke tediously, with "on"</Clue>
+      <Clue Row="9" Col="13" Num="56" Dir="Down" Ans="INFUN">Just for laughs</Clue>
+      <Clue Row="9" Col="14" Num="57" Dir="Down" Ans="TAJMAHAL">Marble marvel</Clue>
+      <Clue Row="9" Col="18" Num="59" Dir="Down" Ans="ORIENTE">Cuban province where the Castros were born</Clue>
+      <Clue Row="9" Col="19" Num="60" Dir="Down" Ans="LOCATED">Found (in)</Clue>
+      <Clue Row="9" Col="20" Num="61" Dir="Down" Ans="ACETONE">Nail polish remover</Clue>
+      <Clue Row="10" Col="6" Num="63" Dir="Down" Ans="PUB">Trivia venue</Clue>
+      <Clue Row="10" Col="15" Num="65" Dir="Down" Ans="TUB">Margarine container</Clue>
+      <Clue Row="11" Col="5" Num="68" Dir="Down" Ans="RIPPLE">Sign of wind on water</Clue>
+      <Clue Row="11" Col="10" Num="69" Dir="Down" Ans="OZARKS">Range that's home to the Mark Twain National Forest</Clue>
+      <Clue Row="11" Col="17" Num="70" Dir="Down" Ans="THERM">Unit of 74-Across</Clue>
+      <Clue Row="13" Col="4" Num="76" Dir="Down" Ans="ONE">It stands for January</Clue>
+      <Clue Row="13" Col="11" Num="78" Dir="Down" Ans="DEA">Raiders' org.</Clue>
+      <Clue Row="13" Col="16" Num="79" Dir="Down" Ans="LAYS">Big name in chips</Clue>
+      <Clue Row="14" Col="6" Num="81" Dir="Down" Ans="REGICIDE">Hamlet's plot in "Hamlet"</Clue>
+      <Clue Row="14" Col="15" Num="84" Dir="Down" Ans="END">"To what ___?"</Clue>
+      <Clue Row="15" Col="1" Num="85" Dir="Down" Ans="TAB">Bill</Clue>
+      <Clue Row="15" Col="2" Num="86" Dir="Down" Ans="OTRANTO">Italian castle town</Clue>
+      <Clue Row="15" Col="3" Num="87" Dir="Down" Ans="HEADSUP">Advance warning</Clue>
+      <Clue Row="15" Col="7" Num="88" Dir="Down" Ans="NED">Nancy Drew's boyfriend</Clue>
+      <Clue Row="15" Col="9" Num="89" Dir="Down" Ans="ATLAST">"Finally!"</Clue>
+      <Clue Row="15" Col="13" Num="90" Dir="Down" Ans="GOTH">Roman Empire invader</Clue>
+      <Clue Row="16" Col="8" Num="93" Dir="Down" Ans="SOC">Part of S.S.N.: Abbr.</Clue>
+      <Clue Row="16" Col="12" Num="94" Dir="Down" Ans="COCOON">Wrap tightly</Clue>
+      <Clue Row="17" Col="4" Num="96" Dir="Down" Ans="SHOPS">Looks for purchases</Clue>
+      <Clue Row="17" Col="11" Num="98" Dir="Down" Ans="BUTTE">Crested ___ (Colorado ski resort)</Clue>
+      <Clue Row="17" Col="17" Num="99" Dir="Down" Ans="SOOTY">Like Santa's suit on December 26</Clue>
+      <Clue Row="17" Col="18" Num="100" Dir="Down" Ans="HARTE">Short-story writer Bret</Clue>
+      <Clue Row="17" Col="19" Num="101" Dir="Down" Ans="AHAIR">The slightest margin</Clue>
+      <Clue Row="17" Col="20" Num="102" Dir="Down" Ans="GULPS">Shows nervousness, in a way</Clue>
+      <Clue Row="18" Col="5" Num="104" Dir="Down" Ans="ONIT">Taking action</Clue>
+      <Clue Row="18" Col="10" Num="106" Dir="Down" Ans="POOH">Kids' character who says "People say nothing is impossible, but I do nothing every day"</Clue>
+      <Clue Row="18" Col="14" Num="107" Dir="Down" Ans="IMDB">What has casts of thousands?</Clue>
+      <Clue Row="18" Col="15" Num="108" Dir="Down" Ans="NAIR">Hair removal brand</Clue>
+      <Clue Row="19" Col="1" Num="110" Dir="Down" Ans="ASH">Grate stuff</Clue>
+      <Clue Row="19" Col="7" Num="111" Dir="Down" Ans="ASP">Potent venom source</Clue>
+      <Clue Row="19" Col="16" Num="114" Dir="Down" Ans="YEE">"___-haw!"</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>I&#39;ll admit, I had no idea what was going on until well after I uncovered the OBSTRUCTION OF JUSTICE revealer. Okay, I&#39;ll admit it was well past filling in the last square-- and re-reading the clue for OBSTRUCTION OF JUSTICE several times &mdash; before I finally figured it out.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Sonia_Sotomayor" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sonia_Sotomayor_in_SCOTUS_robe.jpg/440px-Sonia_Sotomayor_in_SCOTUS_robe.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:200px" title="Hard to imagine that such a long name like SONIA SOTOMAYOR could be hidden!" /></a></p>
+
+<p>Check out row 3 &mdash; ABE FORTAS is hiding in there, &quot;obstructed&quot; in two spots by black squares! Same in row 7, with EARL WARREN similarly &quot;obstructed.&quot; So cool to see long, full names hidden throughout the grid. ELENA KAGAN within TO H<strong>ELEN </strong>/<strong> AKA </strong>/ <strong>GAN</strong>YMEDE is beautiful.</p>
+
+<p>So although it took some work and an embarrassingly long time to grok, what a neat a-ha moment when I finally cottoned to the idea. I highlighted the six names below, in case you haven&#39;t found them yet.</p>
+
+<p>How awesome would it have been to get all the nine current Supreme Court justices? I spent some time wondering if that would have been possible &hellip; not really. Not only is it extremely tough to work in 10 themers (nine justices + OBSTRUCTION OF JUSTICE), but how are you going to hide JOHN ROBERTS? Stupid -HNR- string of letters! And good luck with RUTH BADER GINSBURG.</p>
+
+<p>Still, a guy can wish.<strong>*</strong></p>
+
+<p>Grid played out like a solid themeless for me, loving the WANNABE, SABOTEUR, GO DARK, NEW WAVE, TAJ MAHAL, THE BOSS kind of fill (although I didn&#39;t care for the THE dupe, THE BOSS crossing THE PEARL). I enjoyed the solve even without understanding what was going on &mdash; so many good bonuses, with just a bit of OLA, NEBS, ANSONIA (how else are you going to hide SONIA, I guess), etc. Felt like an elegant, well-constructed grid.</p>
+
+<p>If Joel could have figured out a way to make it work with all nine current justices, this would have been an easy POY! (year) choice. As is though, a fun, smooth solve, with a beautiful moment of clarity for this constitutional law lover = POW!</p>
+
+<p><strong>*</strong>I&#39;m lucky enough to count Will as one of my daily readers. He recently wrote me with some feedback, that some of my wish-list ideas come across as too audacious or even impossible, and therefore aren&#39;t that useful. I agree that many of my dreamy notions are impossible, like the one today. Ridiculously impossible! But I&#39;m hoping that these lofty ideas spur on constructors, both veteran and novice, to go on to create bigger and better puzzles. Think big!</p>]]></JeffNotes>
+  </Puzzle>
+</Puzzles>

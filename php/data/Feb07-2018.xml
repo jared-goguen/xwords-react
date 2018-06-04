@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Wednesday, February 7, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 2/7/2018 at 9:32 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Wed, Feb 07, 2018</Title>
+    <Author>Stu Ockman</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>2/7/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>HANS.GIZMO.PLAY</Row>
+      <Row>UTAH.ONION.LENE</Row>
+      <Row>MAKECONNECTIONS</Row>
+      <Row>OBERON...DIETED</Row>
+      <Row>RODEO.TEA.CRATE</Row>
+      <Row>MILE.PULLA.SRTA</Row>
+      <Row>ELY.OREILLY.DER</Row>
+      <Row>....WIS.ETA....</Row>
+      <Row>DYS.LEDAWAY.WAS</Row>
+      <Row>RATA.RADII.TAMP</Row>
+      <Row>AMOCO.YOS.RHYME</Row>
+      <Row>FARCRY...GOESON</Row>
+      <Row>THETIESTHATBIND</Row>
+      <Row>EARN.CHAIR.EDIE</Row>
+      <Row>ESSO.HONEY.SEAR</Row>
+    </Grid>
+    <Circles>
+      <Circle Row="4" Col="4" />
+      <Circle Row="4" Col="12" />
+      <Circle Row="5" Col="5" />
+      <Circle Row="5" Col="11" />
+      <Circle Row="6" Col="6" />
+      <Circle Row="6" Col="10" />
+      <Circle Row="7" Col="7" />
+      <Circle Row="7" Col="9" />
+      <Circle Row="9" Col="7" />
+      <Circle Row="9" Col="9" />
+      <Circle Row="10" Col="6" />
+      <Circle Row="10" Col="10" />
+      <Circle Row="11" Col="5" />
+      <Circle Row="11" Col="11" />
+      <Circle Row="12" Col="4" />
+      <Circle Row="12" Col="12" />
+    </Circles>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="HANS">Prince in "Frozen"</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="GIZMO">Doohickey</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="PLAY">DVD remote button</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="UTAH">Home of the historic Desolation Canyon</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="ONION">Hamburger helper?</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="LENE">Voiceless consonant like "b" or "p"</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="MAKECONNECTIONS">Network</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="OBERON">Fairy king in "A Midsummer Night's Dream"</Clue>
+      <Clue Row="4" Col="10" Num="21" Dir="Across" Ans="DIETED">Started to downsize?</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="RODEO">Event at which spectators may sit on straw bales</Clue>
+      <Clue Row="5" Col="7" Num="23" Dir="Across" Ans="TEA">Afternoon gathering</Clue>
+      <Clue Row="5" Col="11" Num="26" Dir="Across" Ans="CRATE">Jalopy</Clue>
+      <Clue Row="6" Col="1" Num="27" Dir="Across" Ans="MILE">A miss is as good as one, they say</Clue>
+      <Clue Row="6" Col="6" Num="28" Dir="Across" Ans="PULLA">Words with "fast one" or "muscle"</Clue>
+      <Clue Row="6" Col="12" Num="30" Dir="Across" Ans="SRTA">Mlle., over the Pyrénées</Clue>
+      <Clue Row="7" Col="1" Num="31" Dir="Across" Ans="ELY">"Tarzan" actor Ron</Clue>
+      <Clue Row="7" Col="5" Num="32" Dir="Across" Ans="OREILLY">Radar of "M*A*S*H"</Clue>
+      <Clue Row="7" Col="13" Num="34" Dir="Across" Ans="DER">Wagner's "___ Fliegende Holländer"</Clue>
+      <Clue Row="8" Col="5" Num="35" Dir="Across" Ans="WIS">Where the Ringling Bros. circus began: Abbr.</Clue>
+      <Clue Row="8" Col="9" Num="36" Dir="Across" Ans="ETA">H, on a fraternity house</Clue>
+      <Clue Row="9" Col="1" Num="37" Dir="Across" Ans="DYS">Start to function?</Clue>
+      <Clue Row="9" Col="5" Num="40" Dir="Across" Ans="LEDAWAY">Ushered out</Clue>
+      <Clue Row="9" Col="13" Num="42" Dir="Across" Ans="WAS">"Time ___ ..."</Clue>
+      <Clue Row="10" Col="1" Num="45" Dir="Across" Ans="RATA">Pro ___</Clue>
+      <Clue Row="10" Col="6" Num="47" Dir="Across" Ans="RADII">Ulnae neighbors</Clue>
+      <Clue Row="10" Col="12" Num="48" Dir="Across" Ans="TAMP">Pack (down)</Clue>
+      <Clue Row="11" Col="1" Num="49" Dir="Across" Ans="AMOCO">Classic gas brand with a red, white, blue and black logo</Clue>
+      <Clue Row="11" Col="7" Num="51" Dir="Across" Ans="YOS">Bros' hellos</Clue>
+      <Clue Row="11" Col="11" Num="52" Dir="Across" Ans="RHYME">Fun, for one</Clue>
+      <Clue Row="12" Col="1" Num="53" Dir="Across" Ans="FARCRY">Very different thing (from)</Clue>
+      <Clue Row="12" Col="10" Num="55" Dir="Across" Ans="GOESON">Continues</Clue>
+      <Clue Row="13" Col="1" Num="56" Dir="Across" Ans="THETIESTHATBIND">Shared beliefs ... like this puzzle's circled four-letter words?</Clue>
+      <Clue Row="14" Col="1" Num="60" Dir="Across" Ans="EARN">Bring home</Clue>
+      <Clue Row="14" Col="6" Num="61" Dir="Across" Ans="CHAIR">Board runner</Clue>
+      <Clue Row="14" Col="12" Num="62" Dir="Across" Ans="EDIE">Sedgwick of Warhol films</Clue>
+      <Clue Row="15" Col="1" Num="63" Dir="Across" Ans="ESSO">Old "Happy Motoring" brand</Clue>
+      <Clue Row="15" Col="6" Num="64" Dir="Across" Ans="HONEY">Food sweetener</Clue>
+      <Clue Row="15" Col="12" Num="65" Dir="Across" Ans="SEAR">Blacken, in a way</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="HUMORME">"Just try it"</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ATABOIL">Seething</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="NAKEDLY">Sans clothing</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="SHEREE">Whitfield of "The Real Housewives of Atlanta"</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="GOON">Mob henchman</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="INN">Bucolic hotel</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="ZIN">Certain red wine, informally</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="MOE">"Calvin and Hobbes" bully</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="ONCD">How a lot of music got sold in the 1990s and early 2000s</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="PLIERS">Electrician's tool</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="LEOTARD">Ballerina's wear</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="ANNETTE">Actress Bening</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="YESDEAR">Marriage agreement?</Clue>
+      <Clue Row="3" Col="5" Num="18" Dir="Down" Ans="COO">Whisper sweet nothings</Clue>
+      <Clue Row="3" Col="11" Num="19" Dir="Down" Ans="TIC">Nervous twitch</Clue>
+      <Clue Row="5" Col="7" Num="23" Dir="Down" Ans="TUESDAY">What the "Mardi" of Mardi Gras means</Clue>
+      <Clue Row="5" Col="8" Num="24" Dir="Down" Ans="ELI">___ Lilly (Fortune 500 company)</Clue>
+      <Clue Row="5" Col="9" Num="25" Dir="Down" Ans="ALLEWIS">Actor who played Grandpa Munster</Clue>
+      <Clue Row="6" Col="6" Num="28" Dir="Down" Ans="PRIER">Inquisitive one</Clue>
+      <Clue Row="6" Col="10" Num="29" Dir="Down" Ans="ALTAI">Asia's ___ Mountains</Clue>
+      <Clue Row="7" Col="5" Num="32" Dir="Down" Ans="OWL">Fly-by-night sort?</Clue>
+      <Clue Row="7" Col="11" Num="33" Dir="Down" Ans="YAY">"Huzzah!"</Clue>
+      <Clue Row="9" Col="1" Num="37" Dir="Down" Ans="DRAFTEE">Involuntary soldier</Clue>
+      <Clue Row="9" Col="2" Num="38" Dir="Down" Ans="YAMAHAS">Some keyboards and motorcycles</Clue>
+      <Clue Row="9" Col="3" Num="39" Dir="Down" Ans="STORERS">Warehouse workers</Clue>
+      <Clue Row="9" Col="8" Num="41" Dir="Down" Ans="ADO">Ballyhoo</Clue>
+      <Clue Row="9" Col="13" Num="42" Dir="Down" Ans="WAYSIDE">Edge of a road</Clue>
+      <Clue Row="9" Col="14" Num="43" Dir="Down" Ans="AMMONIA">Major component of Windex</Clue>
+      <Clue Row="9" Col="15" Num="44" Dir="Down" Ans="SPENDER">High roller</Clue>
+      <Clue Row="10" Col="4" Num="46" Dir="Down" Ans="ACCTNO">Bank ID: Abbr.</Clue>
+      <Clue Row="10" Col="12" Num="48" Dir="Down" Ans="THEBES">Ancient city on the Nile</Clue>
+      <Clue Row="11" Col="5" Num="50" Dir="Down" Ans="ORI">"Either she goes ___ go!"</Clue>
+      <Clue Row="11" Col="11" Num="52" Dir="Down" Ans="ROT">Spoil</Clue>
+      <Clue Row="12" Col="6" Num="54" Dir="Down" Ans="YECH">"Ick!"</Clue>
+      <Clue Row="12" Col="10" Num="55" Dir="Down" Ans="GARY">Personal aide to Selina Meyer on "Veep"</Clue>
+      <Clue Row="13" Col="7" Num="57" Dir="Down" Ans="SHO">Starz competitor, for short</Clue>
+      <Clue Row="13" Col="8" Num="58" Dir="Down" Ans="TAN">Color of coffee ice cream</Clue>
+      <Clue Row="13" Col="9" Num="59" Dir="Down" Ans="HIE">Rush</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Beautifully eye-catching pattern! There have been very few puzzles that have sectioned off the grid into two (or more) separate pieces, and the best ones have a deliberate and clever reason for doing so. I liked the idea behind this one, THE TIES THAT BIND explaining that there are four types of &quot;tie&quot; that serve to sort of connect the two subsections. MAKE CONNECTIONS isn&#39;t that snazzy of an entry &mdash; most people say &quot;network&quot; &mdash; but it does the job to reinforce THE TIES THAT BIND.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Amoco" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/f/fc/Amoco-NewLogo.png" style="border:none; float:right; height:178px; margin:6px 0px 6px 12px; width:219px" title="Good news, constructors — apparently the AMOCO brand is returning!" /></a></p>
+
+<p>Oof, the fill. Oof, I repeat. Let&#39;s study one corner and figure out what happened.</p>
+
+<p>The SW stood out for me, with STORERS an awkward word taking up valuable real estate, along with RATA (hard to clue in any other way besides [Pro ___]), a prefix in DYS, ORI partial, and not just ESSO but a second gas brand, AMOCO &mdash; this one (mostly) bygone.</p>
+
+<p>FAR CRY felt partialish, but I can give that a pass. ACCT NO is something I see on documents, so okay by me although not great.</p>
+
+<p>As a constructor, you have to be brave to put YECH in your own puzzle.</p>
+
+<p>Why so much, so concentrated? The CO of CORD does fix some things into place. The bigger issue is that the 6x4 space is already tough to fill on its own &mdash; I try to find ways of avoiding big spaces like this &mdash; and when you run a long themer through it AND fix two other letters into place, you&#39;re asking for trouble.</p>
+
+<p>I don&#39;t see a good way to fix it, though. There are already so many 3-letter words in the puzzle, making the solve feel choppy, that the usual solutions &mdash; moving the black squares under ORI to the left or adding black cheater squares &mdash; would make that problem even worse.</p>
+
+<p>I did like some fill &mdash; HUMOR ME and LEOTARD in particular.</p>
+
+<p>It&#39;s an innovative concept, but I&#39;m not sure it&#39;s possible to execute it elegantly enough to live up to NYT standards. I did appreciate reading Stu&#39;s thoughts, and how hard they worked in a valiant attempt to get there.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>I can&#39;t believe we pulled this one off. Another example of a good idea turned into an even better puzzle with the help of Will and the crew. <a href="https://www.xwordinfo.com/images/bonus/20180207original1.jpg">The original submittal</a> had one and two letter words. But, I was hopeful that the overarching idea would be important enough to allow them (after all, they&#39;ve appeared in NY Times grids before). I even made sure there were no unchecked squares by providing clues for each of these outliers. Here are the clues for the one-letter words, something you don&#39;t see every day:</p>
+
+<p>16A, Me, myself and ___ :: I</p>
+
+<p>58A, Special ___ :: K</p>
+
+<p>12D, Fork in the road :: Y</p>
+
+<p>61D, The scarlet letter:: A</p>
+
+<p>It turns out that even a single one or two letter word was a puzzle killer, and I had four of each. Still, Joel volunteered that it was a &lsquo;cute idea&#39; so I stumbled around looking for a better grid. Four tries later, I arrived at <a href="https://www.xwordinfo.com/images/bonus/20180207original2.jpg">another version</a>. Per Joel, it was &quot;more promising &hellip; However, it would need a symmetrical counterpart that&#39;s thematic for Will to say yes on this one.&quot; A symmetrical counterpart; how do you come up with a thematic 15-letter phrase? Is there a search engine I haven&#39;t heard about? I was pretty sure this one was toast. Fortunately, I was able to MAKE CONNECTIONS and clean up the fill. The reward was a nice note from Will:</p>
+
+<p>&quot;The theme is unusual, and the fill now is relatively clean. So ... the answer is yes.&quot;</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

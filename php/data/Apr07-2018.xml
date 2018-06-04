@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Saturday, April 7, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/6/2018 at 7:22 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sat, Apr 07, 2018</Title>
+    <Author>Mark Diehl</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/7/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>COFFEEMATE.TOJO</Row>
+      <Row>ONIONBAGEL.UPON</Row>
+      <Row>BEERGARITA.NEVE</Row>
+      <Row>RANKIN.TANZANIA</Row>
+      <Row>ALDEN.TANDEMS..</Row>
+      <Row>...DEPUTY.NEWEL</Row>
+      <Row>RIM.NINE.POLITE</Row>
+      <Row>IREFUSE.LOSTDOG</Row>
+      <Row>PANAMA.DOUP.ENO</Row>
+      <Row>SQUIB.RUBRAW...</Row>
+      <Row>..PRECESS.RICHE</Row>
+      <Row>NBADRAFT.MANNER</Row>
+      <Row>YOGI.COPIEDDOWN</Row>
+      <Row>ALEC.TRAMROUTES</Row>
+      <Row>HOSE.IMNOEXPERT</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="COFFEEMATE">Nestlé product first sold in 1961</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Across" Ans="TOJO">Leader among the Axis powers</Clue>
+      <Clue Row="2" Col="1" Num="15" Dir="Across" Ans="ONIONBAGEL">Classic deli order</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="UPON">Shortly after</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="BEERGARITA">Corona with tequila and fruit juice, e.g.</Clue>
+      <Clue Row="3" Col="12" Num="18" Dir="Across" Ans="NEVE">Actress Campbell</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="RANKIN">Jeannette ___, first U.S. congresswoman</Clue>
+      <Clue Row="4" Col="8" Num="20" Dir="Across" Ans="TANZANIA">Country formed by a 1964 merger</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="ALDEN">John of the Plymouth Colony</Clue>
+      <Clue Row="5" Col="7" Num="23" Dir="Across" Ans="TANDEMS">Big rigs</Clue>
+      <Clue Row="6" Col="4" Num="24" Dir="Across" Ans="DEPUTY">#2</Clue>
+      <Clue Row="6" Col="11" Num="26" Dir="Across" Ans="NEWEL">Staircase element</Clue>
+      <Clue Row="7" Col="1" Num="29" Dir="Across" Ans="RIM">Goaltending spot</Clue>
+      <Clue Row="7" Col="5" Num="32" Dir="Across" Ans="NINE">CB radio emergency channel</Clue>
+      <Clue Row="7" Col="10" Num="33" Dir="Across" Ans="POLITE">___ society</Clue>
+      <Clue Row="8" Col="1" Num="34" Dir="Across" Ans="IREFUSE">"Count me out!"</Clue>
+      <Clue Row="8" Col="9" Num="36" Dir="Across" Ans="LOSTDOG">Headline on a neighborhood poster</Clue>
+      <Clue Row="9" Col="1" Num="37" Dir="Across" Ans="PANAMA">Article of apparel not originating where its name would suggest</Clue>
+      <Clue Row="9" Col="8" Num="38" Dir="Across" Ans="DOUP">Fancify</Clue>
+      <Clue Row="9" Col="13" Num="39" Dir="Across" Ans="ENO">"The Ship" composer, 2016</Clue>
+      <Clue Row="10" Col="1" Num="40" Dir="Across" Ans="SQUIB">Small firecracker</Clue>
+      <Clue Row="10" Col="7" Num="41" Dir="Across" Ans="RUBRAW">Redden, in a way</Clue>
+      <Clue Row="11" Col="3" Num="43" Dir="Across" Ans="PRECESS">Spin like a gyroscope</Clue>
+      <Clue Row="11" Col="11" Num="45" Dir="Across" Ans="RICHE">Nouvelle ___</Clue>
+      <Clue Row="12" Col="1" Num="49" Dir="Across" Ans="NBADRAFT">Annual June sports event</Clue>
+      <Clue Row="12" Col="10" Num="51" Dir="Across" Ans="MANNER">Style</Clue>
+      <Clue Row="13" Col="1" Num="52" Dir="Across" Ans="YOGI">Headache for Ranger Smith</Clue>
+      <Clue Row="13" Col="6" Num="53" Dir="Across" Ans="COPIEDDOWN">Transcribed</Clue>
+      <Clue Row="14" Col="1" Num="55" Dir="Across" Ans="ALEC">One of the d'Urbervilles in "Tess of the d'Urbervilles"</Clue>
+      <Clue Row="14" Col="6" Num="56" Dir="Across" Ans="TRAMROUTES">Track at Universal Studios and the like</Clue>
+      <Clue Row="15" Col="1" Num="57" Dir="Across" Ans="HOSE">Pull a con on</Clue>
+      <Clue Row="15" Col="6" Num="58" Dir="Across" Ans="IMNOEXPERT">"You shouldn't rely on me"</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="COBRA">"The Jungle Book" beast</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ONEAL">Jermaine ___, six-time N.B.A. All-Star of the early 2000s</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="FIEND">Real enthusiast</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="FORKED">Split</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="ENGINENUMBER">Fire department ID</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="EBAN">2001 Israel Prize winner</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="MAR">Ding, e.g.</Clue>
+      <Clue Row="1" Col="8" Num="8" Dir="Down" Ans="AGITATE">Cause trouble</Clue>
+      <Clue Row="1" Col="9" Num="9" Dir="Down" Ans="TETANY">Condition caused by abnormal calcium levels</Clue>
+      <Clue Row="1" Col="10" Num="10" Dir="Down" Ans="ELAND">Part of a savanna herd</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="TUNAMELT">Classic diner order</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="OPENSWIDE">Prepares for a drill?</Clue>
+      <Clue Row="1" Col="14" Num="13" Dir="Down" Ans="JOVI">Bon ___</Clue>
+      <Clue Row="1" Col="15" Num="14" Dir="Down" Ans="ONEA">Suited to serve</Clue>
+      <Clue Row="4" Col="11" Num="21" Dir="Down" Ans="ZENOSPARADOX">Early example of reductio ad absurdum</Clue>
+      <Clue Row="5" Col="7" Num="23" Dir="Down" Ans="TUNE">Fix a flat for?</Clue>
+      <Clue Row="6" Col="6" Num="25" Dir="Down" Ans="PISA">Piazza dei Miracoli locale</Clue>
+      <Clue Row="6" Col="14" Num="27" Dir="Down" Ans="ETON">Kind of collar</Clue>
+      <Clue Row="6" Col="15" Num="28" Dir="Down" Ans="LEGO">Block maker</Clue>
+      <Clue Row="7" Col="1" Num="29" Dir="Down" Ans="RIPS">Dangerous currents</Clue>
+      <Clue Row="7" Col="2" Num="30" Dir="Down" Ans="IRAQ">Where dinars buy dinners</Clue>
+      <Clue Row="7" Col="3" Num="31" Dir="Down" Ans="MENUPAGES">They're flipped at diners</Clue>
+      <Clue Row="7" Col="10" Num="33" Dir="Down" Ans="POUR">Come down in buckets</Clue>
+      <Clue Row="8" Col="4" Num="35" Dir="Down" Ans="FAIRDICE">Things that can't be loaded</Clue>
+      <Clue Row="8" Col="9" Num="36" Dir="Down" Ans="LOBS">Sends in a high arc</Clue>
+      <Clue Row="9" Col="8" Num="38" Dir="Down" Ans="DUSTPAN">Janitor's item</Clue>
+      <Clue Row="10" Col="7" Num="41" Dir="Down" Ans="REFORM">Go straight</Clue>
+      <Clue Row="10" Col="12" Num="42" Dir="Down" Ans="WINDUP">End ... or start</Clue>
+      <Clue Row="11" Col="6" Num="44" Dir="Down" Ans="CACTI">Scenery features in a Road Runner cartoon</Clue>
+      <Clue Row="11" Col="13" Num="46" Dir="Down" Ans="CNOTE">"Hundo"</Clue>
+      <Clue Row="11" Col="14" Num="47" Dir="Down" Ans="HEWER">Lumberjack at work</Clue>
+      <Clue Row="11" Col="15" Num="48" Dir="Down" Ans="ERNST">Bond villain ___ Stavro Blofeld</Clue>
+      <Clue Row="12" Col="1" Num="49" Dir="Down" Ans="NYAH">When repeated, a taunt</Clue>
+      <Clue Row="12" Col="2" Num="50" Dir="Down" Ans="BOLO">Tie out West</Clue>
+      <Clue Row="12" Col="10" Num="51" Dir="Down" Ans="MERE">Just</Clue>
+      <Clue Row="13" Col="9" Num="54" Dir="Down" Ans="IMO">"Methinks," in texts</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>ZENO&#39;S PARADOX! When running a race, you must get halfway there. And then halfway of the remaining distance. And then halfway again. And so on &hellip; so it&#39;s impossible to actually finish.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Coffee-Mate" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/b/b1/Coffee-Mate_logo.png" style="border:none; float:right; height:227px; margin:6px 0px 6px 12px; width:200px" title="Stuff that can last for two years without refrigeration ... eew." /></a></p>
+
+<p>My mind was blown when my dad told me this a kid. Blown!</p>
+
+<p>I love it when themelesses have a couple of these standout entries, making them memorable. Nothing else quite hit that same mark for me &ndash; NBA DRAFT is great, but it&#39;s been used a couple of times now &ndash; but that&#39;s not a surprise in 68-word puzzles. So tough to get both sizzle and smoothness.</p>
+
+<p>BEERGARITA came close. I&#39;d never heard of it, but it&#39;s certainly inferable. Beer + margarita = refreshing drink, or completely disgusting? Maybe if I were younger ...</p>
+
+<p>I&#39;ve felt like some of Mark&#39;s puzzles, especially lower word-count ones, have contained a few iffy-sounding entries. Today, MENU PAGES didn&#39;t land for me, nor did TRAM ROUTES. In the end I convinced myself that they&#39;re both fine overall, but even then, they felt more workmanlike, filler that helped keep the puzzle together without having to resort to too much ONEA / HEWER type crossword glue.</p>
+
+<p>I also wondered about FAIR DICE. Ultimately, I decided that it was a good entry. LOADED DICE feels much more like a colorful term (not-loaded dice are just called DICE). But the term FAIR DICE is certainly used in mathematical analyses.</p>
+
+<p>A couple of toughies in PRECESS and TETANY. I love the former, as precession is a common phenomenon in physics. Yay, physics! But I can see how some solvers would give it the stink-eye &ndash; just like I did for TETANY. I thought that one was fair since it&#39;s related to tetanus &hellip; <a href="https://en.wikipedia.org/wiki/Tetany">except that it&#39;s not</a>! Huh.</p>
+
+<p>Ultimately, a solid 68-worder, stuff like COFFEEMATE / IM NO EXPERT making it enjoyable. And a nice insider&#39;s nod to Diehl the dentist, OPENS WIDE with a great clue in [Prepares for a drill?]. This non-<a href="https://www.youtube.com/watch?v=ythrdCsOFJU">anti-dentite</a> loved that one.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>On occasion, I&#39;ve been ahead of the puzzle realm curve at the NYT with the use of a specific crossword entry.</p>
+
+<p>In 2011 I had a grid with BUTT DIALED rejected as being unfamiliar, only to see its debut by someone else in 2013. The faucet manufacturer MOEN sunk the first version of one of my puzzles in the late 90s, but the brand has appeared 18 times since then. This puzzle initially featured the classic SLOW ZOMBIE at 1-Across (as opposed to the FAST ZOMBIES of &quot;28 Days Later&quot; or &quot;World War Z&quot;) &mdash; I guess it will remain to be seen whether the zombie dichotomy will be deemed relevant by the NYT during some future apocalypse. So hold off adding SLOW ZOMBIE and FAST ZOMBIE to the XWord Info Word List just yet, Jeff.</p>
+
+<p>In this revamped version I kept the grid pattern from the failed undead ZOMBIE draft and the entry ZENO&#39;S PARADOX but scooched it from its original 5-Down position to the opposing 21-Down slot. The surrounding fill evolved from that seeded entry until this completely different puzzle emerged &mdash; hopefully a lively and enjoyable solve.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

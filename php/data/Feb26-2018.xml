@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Monday, February 26, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 2/25/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Mon, Feb 26, 2018</Title>
+    <Author>Andrea Carla Michaels and Mark Diehl</Author>
+    <CanonicalNames>
+      <Constructor>Andrea Carla Michaels</Constructor>
+      <Constructor>Mark Diehl</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>2/26/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>ARF.SAABS.PHOTO</Row>
+      <Row>MAO.MILLI.LETIN</Row>
+      <Row>AIL.ORLON.AISLE</Row>
+      <Row>STILLKICKING...</Row>
+      <Row>STOODIN..VELCRO</Row>
+      <Row>...WES.COAT.LOU</Row>
+      <Row>WATERSDOWN.DEUS</Row>
+      <Row>HEARS.OUI.GIANT</Row>
+      <Row>AIMS.RUNERRANDS</Row>
+      <Row>ROE.KURT.EEL...</Row>
+      <Row>FURIES..ORWORSE</Row>
+      <Row>...DEEPTHOUGHTS</Row>
+      <Row>MASON.LEGUP.YRS</Row>
+      <Row>STALL.USETO.MAE</Row>
+      <Row>NEWSY.SHEEN.EPS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="ARF">Sound from a pound</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Across" Ans="SAABS">Discontinued Swedish cars</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Across" Ans="PHOTO">Snapshot</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="MAO">___ Zedong</Clue>
+      <Clue Row="2" Col="5" Num="15" Dir="Across" Ans="MILLI">___ Vanilli, group with three #1 hits in 1989</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Across" Ans="LETIN">Open the door for</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="AIL">Be sick</Clue>
+      <Clue Row="3" Col="5" Num="18" Dir="Across" Ans="ORLON">Drip-dry fabric</Clue>
+      <Clue Row="3" Col="11" Num="19" Dir="Across" Ans="AISLE">Preferred seat request in an airplane</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="STILLKICKING">Not dead yet!</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Across" Ans="STOODIN">Substituted (for)</Clue>
+      <Clue Row="5" Col="10" Num="24" Dir="Across" Ans="VELCRO">Laceless shoe fastener</Clue>
+      <Clue Row="6" Col="4" Num="28" Dir="Across" Ans="WES">Horror director Craven</Clue>
+      <Clue Row="6" Col="8" Num="29" Dir="Across" Ans="COAT">Warm winter wear</Clue>
+      <Clue Row="6" Col="13" Num="31" Dir="Across" Ans="LOU">Baseball's Gehrig</Clue>
+      <Clue Row="7" Col="1" Num="32" Dir="Across" Ans="WATERSDOWN">Dilutes</Clue>
+      <Clue Row="7" Col="12" Num="36" Dir="Across" Ans="DEUS">___ ex machina</Clue>
+      <Clue Row="8" Col="1" Num="37" Dir="Across" Ans="HEARS">Listens to</Clue>
+      <Clue Row="8" Col="7" Num="38" Dir="Across" Ans="OUI">Sí : Spain :: ___ : France</Clue>
+      <Clue Row="8" Col="11" Num="39" Dir="Across" Ans="GIANT">"Fee-fi-fo-fum" sayer</Clue>
+      <Clue Row="9" Col="1" Num="40" Dir="Across" Ans="AIMS">Objectives</Clue>
+      <Clue Row="9" Col="6" Num="41" Dir="Across" Ans="RUNERRANDS">Pick up dry cleaning, go to the post office, etc.</Clue>
+      <Clue Row="10" Col="1" Num="43" Dir="Across" Ans="ROE">___ v. Wade</Clue>
+      <Clue Row="10" Col="5" Num="44" Dir="Across" Ans="KURT">Author Vonnegut</Clue>
+      <Clue Row="10" Col="10" Num="45" Dir="Across" Ans="EEL">Snakelike fish</Clue>
+      <Clue Row="11" Col="1" Num="46" Dir="Across" Ans="FURIES">Avenging spirits of Greek myth</Clue>
+      <Clue Row="11" Col="9" Num="48" Dir="Across" Ans="ORWORSE">With possibly even direr consequences</Clue>
+      <Clue Row="12" Col="4" Num="52" Dir="Across" Ans="DEEPTHOUGHTS">"What is life?," "Why are we here?," etc.</Clue>
+      <Clue Row="13" Col="1" Num="55" Dir="Across" Ans="MASON">Bricklayer, e.g.</Clue>
+      <Clue Row="13" Col="7" Num="58" Dir="Across" Ans="LEGUP">Slight advantage</Clue>
+      <Clue Row="13" Col="13" Num="59" Dir="Across" Ans="YRS">Soph. and jr.</Clue>
+      <Clue Row="14" Col="1" Num="60" Dir="Across" Ans="STALL">Bathroom unit</Clue>
+      <Clue Row="14" Col="7" Num="61" Dir="Across" Ans="USETO">Be of ___ (avail)</Clue>
+      <Clue Row="14" Col="13" Num="62" Dir="Across" Ans="MAE">Fannie ___ (mortgage company)</Clue>
+      <Clue Row="15" Col="1" Num="63" Dir="Across" Ans="NEWSY">Full of the latest</Clue>
+      <Clue Row="15" Col="7" Num="64" Dir="Across" Ans="SHEEN">Glossy finish</Clue>
+      <Clue Row="15" Col="13" Num="65" Dir="Across" Ans="EPS">Midlength records, for short</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="AMASS">Stockpile</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="RAITT">Bonnie who sang "I Can't Make You Love Me"</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="FOLIO">First ___ (Shakespeare volume)</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Down" Ans="SMOLDERS">Burns slowly</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="AIRKISS">Simulated smooch</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="ALLIN">Like a poker player who's either very confident or really bluffing</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="BLOC">Like-minded voting group</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="SINK">Swim's alternative</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="PLANET">Mercury or Mars</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="HEIGL">Katherine of "27 Dresses"</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="OTS">Settlers of tied games, for short</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="TIL">Michael Jackson's "Don't Stop ___ You Get Enough"</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="ONE">Tip jar bill</Clue>
+      <Clue Row="4" Col="4" Num="21" Dir="Down" Ans="LOWERS">Brings to half-mast</Clue>
+      <Clue Row="4" Col="10" Num="22" Dir="Down" Ans="IVAN">___ the Terrible</Clue>
+      <Clue Row="5" Col="13" Num="25" Dir="Down" Ans="CLEAN">Fresh from the laundry</Clue>
+      <Clue Row="5" Col="14" Num="26" Dir="Down" Ans="ROUND">Circular</Clue>
+      <Clue Row="5" Col="15" Num="27" Dir="Down" Ans="OUSTS">Ejects</Clue>
+      <Clue Row="6" Col="8" Num="29" Dir="Down" Ans="COUNT">Go "1, 2, 3, 4 ..."</Clue>
+      <Clue Row="6" Col="9" Num="30" Dir="Down" Ans="OWIE">Injury, in totspeak</Clue>
+      <Clue Row="7" Col="1" Num="32" Dir="Down" Ans="WHARF">Where ships dock</Clue>
+      <Clue Row="7" Col="2" Num="33" Dir="Down" Ans="AEIOU">"Wheel of Fortune" purchases</Clue>
+      <Clue Row="7" Col="3" Num="34" Dir="Down" Ans="TAMER">Circus whip-cracker</Clue>
+      <Clue Row="7" Col="7" Num="35" Dir="Down" Ans="DOUR">Gloomy</Clue>
+      <Clue Row="7" Col="12" Num="36" Dir="Down" Ans="DIALOG">Conversation</Clue>
+      <Clue Row="8" Col="11" Num="39" Dir="Down" Ans="GREWUPON">Enjoyed frequently as a child</Clue>
+      <Clue Row="9" Col="6" Num="41" Dir="Down" Ans="RUSE">Trick</Clue>
+      <Clue Row="9" Col="10" Num="42" Dir="Down" Ans="REROUTE">Send on a detour, say</Clue>
+      <Clue Row="10" Col="5" Num="44" Dir="Down" Ans="KEENLY">With enthusiasm</Clue>
+      <Clue Row="11" Col="4" Num="47" Dir="Down" Ans="IDOLS">Personal heroes</Clue>
+      <Clue Row="11" Col="9" Num="48" Dir="Down" Ans="OHGEE">"Well, shucks!"</Clue>
+      <Clue Row="11" Col="13" Num="49" Dir="Down" Ans="RHYME">What the first, second and fifth lines in a limerick do</Clue>
+      <Clue Row="11" Col="14" Num="50" Dir="Down" Ans="STRAP">Pocketbook part</Clue>
+      <Clue Row="11" Col="15" Num="51" Dir="Down" Ans="ESSES">Slalom curves</Clue>
+      <Clue Row="12" Col="7" Num="53" Dir="Down" Ans="PLUS">+</Clue>
+      <Clue Row="12" Col="8" Num="54" Dir="Down" Ans="TESH">Pianist/radio host John</Clue>
+      <Clue Row="13" Col="1" Num="55" Dir="Down" Ans="MSN">AOL alternative</Clue>
+      <Clue Row="13" Col="2" Num="56" Dir="Down" Ans="ATE">Breakfasted or lunched</Clue>
+      <Clue Row="13" Col="3" Num="57" Dir="Down" Ans="SAW">Wise old saying ... like the first words of 20-, 32-, 41- and 52-Across</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>I&#39;ve definitely heard the phrase STILL WATERS RUN DEEP before ... but I embarrassingly had to look up what it exactly meant. Apparently &quot;a quiet or placid manner may conceal a more passionate nature.&quot; Huh!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Transformers" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/8/8d/Transformers_Marvel_Comics_Spider-Man_vs._Megatron.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:162px" title="Robots in the sky ..." /></a></p>
+
+<p>To me, a &quot;maxim hidden at the starts of theme phrases&quot; puzzle is best when there&#39;s a revealer that describes the maxim in a snazzy way. SAW is too generic for my taste. Problem is, I can&#39;t think of a colorful phrase that describes STILL WATERS RUN DEEP.</p>
+
+<p>Heck, I can&#39;t even think of a non-snazzy way of describing it, besides just saying STILL WATERS RUN DEEP! Perhaps MORE THAN MEETS THE EYE?</p>
+
+<p>(Doubly embarrassed that I just quoted the &quot;Transformers&quot; theme song.)</p>
+
+<p>Anyhoo, good choices for theme answers. Funny to imagine older people say I&#39;m STILL KICKING! And DEEP THOUGHTS was one of my favorite segments back when I watched SNL.</p>
+
+<p>WATERS DOWN and RUN ERRANDS didn&#39;t pop as much &ndash; about as exciting as RUNning errands. But they work fine. There&#39;s not much you can do with WATERS as a starting word.</p>
+
+<p>I&#39;m curious if switching the maxim to final words would have been better? That would have put ETHEL WATERS into play. AND ... if you ran the themers vertically, you could bury the maxim at the bottoms of the theme phrases &hellip; making them RUN DEEP!</p>
+
+<p>Okay, maybe I still don&#39;t totally get what the maxim means.</p>
+
+<p>Good gridwork for a Monday. ORLON is a toughie, but I think it&#39;s worth the price of SMOLDERS next to an AIR KISS.</p>
+
+<p>I wasn&#39;t as much a fan of STOOD IN intersecting ALL IN &ndash; feels inelegant to have the crossing dupe &ndash; and I didn&#39;t care for ESSES &hellip; I wonder if black squares at the end of AMASS and the start of ESSES could have cleaned things up.</p>
+
+<p>All in all, a cleanly-executed maxim theme, the saying well-hidden at the start of the themers until the revealer told me what was going on. I just wish the revealer had more pop &hellip; perhaps not the best maxim to build a puzzle around.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p><strong>MARK:</strong> I sent Andrea a congratulatory e-mail on her <a href="https://www.xwordinfo.com/Crossword?date=3/20/2017">celeb-paired Monday puzzle with NdGT (03/20/17)</a> and floated the idea of a collaborative Monday puzzle based on the old adage &quot;still waters run deep&quot; &mdash; four words that felt like strong candidates when used individually. Andrea liked the idea, and I liked the possibility that, with her help, I might finally score a Monday puzzle in the NYT. We batted around phrases beginning and ending with each of those four words for a day or so until Andrea lit upon the possible combo of:</p>
+
+<p>STILLKICKING 12<br />
+WATERSDOWN 10 (which was the only WATERS... we could think of)<br />
+RUNONEMPTY 10 or RUNINPLACE 10<br />
+DEEPTHOUGHTS 12</p>
+
+<p>Since the American Crossword Puzzle Tournament was now in a couple of days and my dear wife, Lee Ann, and I had decided to try and attend as helpers/judges every year possible &mdash; I stuck a pin in the project from my end. Then, while helping to organize registration packets on Thursday for the tourney we found that Andrea was entered to compete! That spurred me on &mdash; so I sketched out a couple of workable grids on slips from a complementary Stamford Marriott notepad and presented them to Andrea at the registration table the next day. Some more enjoyable back-and-forth followed, Andrea clued it all up, and I changed only the clue for SAW to make it a revealer before mailing our opus off to Will.</p>
+
+<p><strong>ANDREA:</strong> Mark was so easy to work with and such a delight that we did a second one immediately after Will accepted this one.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

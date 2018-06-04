@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Friday, January 5, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/5/2018 at 6:30 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Fri, Jan 05, 2018</Title>
+    <Author>Ned White</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/5/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>SMACKDOWN.WHALE</Row>
+      <Row>TAMALEPIE.HOMEY</Row>
+      <Row>RHINEGOLD.IRENE</Row>
+      <Row>ART.EARL.ITSSAD</Row>
+      <Row>YEOW.STANDEE...</Row>
+      <Row>..BAH.OREOS.SPF</Row>
+      <Row>BALLET.DONATETO</Row>
+      <Row>ONALARK.SOLOCUP</Row>
+      <Row>WEMADEIT.TETRIS</Row>
+      <Row>EWE.CAROM.SEE..</Row>
+      <Row>...NOTSPAM.STAT</Row>
+      <Row>BADGUY.GRAS.WHO</Row>
+      <Row>OCEAN.BEACHCOMB</Row>
+      <Row>ORBIT.CACAOTREE</Row>
+      <Row>ROTOS.CRAWDADDY</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="SMACKDOWN">Professional wrestling program since 1999</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Across" Ans="WHALE">Orion : Hunter :: Cetus : ___</Clue>
+      <Clue Row="2" Col="1" Num="15" Dir="Across" Ans="TAMALEPIE">Southwestern casserole with a cornbread crust</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Across" Ans="HOMEY">Comfortable</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="RHINEGOLD">Part of Wagner's "Ring" cycle, with "The"</Clue>
+      <Clue Row="3" Col="11" Num="18" Dir="Across" Ans="IRENE">The "she" in the line "To Sherlock Holmes she is always THE woman"</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="ART">"All ___ is autobiographical": Fellini</Clue>
+      <Clue Row="4" Col="5" Num="20" Dir="Across" Ans="EARL">Rank below marquis</Clue>
+      <Clue Row="4" Col="10" Num="21" Dir="Across" Ans="ITSSAD">"What a shame"</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="YEOW">"That hurts!"</Clue>
+      <Clue Row="5" Col="6" Num="24" Dir="Across" Ans="STANDEE">One up?</Clue>
+      <Clue Row="6" Col="3" Num="26" Dir="Across" Ans="BAH">"Tommyrot!"</Clue>
+      <Clue Row="6" Col="7" Num="28" Dir="Across" Ans="OREOS">Little sandwiches for dessert</Clue>
+      <Clue Row="6" Col="13" Num="29" Dir="Across" Ans="SPF">Coppertone no.</Clue>
+      <Clue Row="7" Col="1" Num="32" Dir="Across" Ans="BALLET">Activity next to a bar</Clue>
+      <Clue Row="7" Col="8" Num="35" Dir="Across" Ans="DONATETO">Fund</Clue>
+      <Clue Row="8" Col="1" Num="37" Dir="Across" Ans="ONALARK">Just for the fun of it</Clue>
+      <Clue Row="8" Col="9" Num="39" Dir="Across" Ans="SOLOCUP">Popular beer pong container</Clue>
+      <Clue Row="9" Col="1" Num="40" Dir="Across" Ans="WEMADEIT">Cry at the end of a family trip</Clue>
+      <Clue Row="9" Col="10" Num="42" Dir="Across" Ans="TETRIS">Game you never want to get your fill of?</Clue>
+      <Clue Row="10" Col="1" Num="43" Dir="Across" Ans="EWE">Milk source</Clue>
+      <Clue Row="10" Col="5" Num="44" Dir="Across" Ans="CAROM">Ricochet</Clue>
+      <Clue Row="10" Col="11" Num="46" Dir="Across" Ans="SEE">"Get it?"</Clue>
+      <Clue Row="11" Col="4" Num="47" Dir="Across" Ans="NOTSPAM">Email button that moves a message to one's inbox</Clue>
+      <Clue Row="11" Col="12" Num="49" Dir="Across" Ans="STAT">"On the double!"</Clue>
+      <Clue Row="12" Col="1" Num="52" Dir="Across" Ans="BADGUY">Villain</Clue>
+      <Clue Row="12" Col="8" Num="55" Dir="Across" Ans="GRAS">Fat, to François</Clue>
+      <Clue Row="12" Col="13" Num="57" Dir="Across" Ans="WHO">Radio station call letters that ask a question?</Clue>
+      <Clue Row="13" Col="1" Num="58" Dir="Across" Ans="OCEAN">___ State (Rhode Island nickname)</Clue>
+      <Clue Row="13" Col="7" Num="59" Dir="Across" Ans="BEACHCOMB">Hunt for treasure, in a way</Clue>
+      <Clue Row="14" Col="1" Num="61" Dir="Across" Ans="ORBIT">Revolution</Clue>
+      <Clue Row="14" Col="7" Num="62" Dir="Across" Ans="CACAOTREE">Chocolate source</Clue>
+      <Clue Row="15" Col="1" Num="63" Dir="Across" Ans="ROTOS">Old newspaper photo sections, informally</Clue>
+      <Clue Row="15" Col="7" Num="64" Dir="Across" Ans="CRAWDADDY">Crustacean in Creole cuisine</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="STRAY">Drift</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="MAHRE">1980s skiing champ Phil</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="AMITOBLAME">Question of responsibility</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="CAN">Heinie</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="KLEE">Bauhaus figure</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="DEGAS">"Dancers at the Bar" painter</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="OPORTO">City north of Lisbon</Clue>
+      <Clue Row="1" Col="8" Num="8" Dir="Down" Ans="WILLARD">Captain in "Apocalypse Now"</Clue>
+      <Clue Row="1" Col="9" Num="9" Dir="Down" Ans="NED">Homer's neighbor</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="WHITESALES">Traditional January events</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="HORSE">Play (around)</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="AMES">Actor Leon of "The Postman Always Rings Twice"</Clue>
+      <Clue Row="1" Col="14" Num="13" Dir="Down" Ans="LENA">"Girls" creator/star Dunham</Clue>
+      <Clue Row="1" Col="15" Num="14" Dir="Down" Ans="EYED">Sized up</Clue>
+      <Clue Row="4" Col="10" Num="21" Dir="Down" Ans="IDONOT">Defensive retort</Clue>
+      <Clue Row="5" Col="4" Num="23" Dir="Down" Ans="WALLA">When repeated, a Northwest city</Clue>
+      <Clue Row="5" Col="9" Num="25" Dir="Down" Ans="NEOS">Modernists, briefly</Clue>
+      <Clue Row="6" Col="5" Num="27" Dir="Down" Ans="HEADCOUNTS">Attendance inventories</Clue>
+      <Clue Row="6" Col="13" Num="29" Dir="Down" Ans="SECRETWORD">Staple feature of Groucho Marx's "You Bet Your Life"</Clue>
+      <Clue Row="6" Col="14" Num="30" Dir="Down" Ans="PTUI">Spittoon sound</Clue>
+      <Clue Row="6" Col="15" Num="31" Dir="Down" Ans="FOPS">Dandies</Clue>
+      <Clue Row="7" Col="1" Num="32" Dir="Down" Ans="BOWE">Heavyweight champ Riddick</Clue>
+      <Clue Row="7" Col="2" Num="33" Dir="Down" Ans="ANEW">Over</Clue>
+      <Clue Row="7" Col="6" Num="34" Dir="Down" Ans="TREATY">Accord</Clue>
+      <Clue Row="7" Col="12" Num="36" Dir="Down" Ans="TOTES">Completely, in modern slang</Clue>
+      <Clue Row="8" Col="7" Num="38" Dir="Down" Ans="KIRS">White wine cocktails</Clue>
+      <Clue Row="9" Col="8" Num="41" Dir="Down" Ans="TOPGEAR">Popular BBC car series</Clue>
+      <Clue Row="10" Col="9" Num="45" Dir="Down" Ans="MARACA">Hand-held percussion instrument</Clue>
+      <Clue Row="11" Col="4" Num="47" Dir="Down" Ans="NGAIO">Mystery writer Marsh</Clue>
+      <Clue Row="11" Col="10" Num="48" Dir="Down" Ans="MACAW">Colorful talker</Clue>
+      <Clue Row="11" Col="14" Num="50" Dir="Down" Ans="AHMED">"Arabian Nights" prince</Clue>
+      <Clue Row="11" Col="15" Num="51" Dir="Down" Ans="TOBEY">Actor Maguire</Clue>
+      <Clue Row="12" Col="1" Num="52" Dir="Down" Ans="BOOR">Yahoo</Clue>
+      <Clue Row="12" Col="2" Num="53" Dir="Down" Ans="ACRO">Prefix with phobia</Clue>
+      <Clue Row="12" Col="3" Num="54" Dir="Down" Ans="DEBT">Economic concern</Clue>
+      <Clue Row="12" Col="11" Num="56" Dir="Down" Ans="SHOD">No longer barefoot</Clue>
+      <Clue Row="13" Col="7" Num="59" Dir="Down" Ans="BCC">Include discreetly, in a way</Clue>
+      <Clue Row="13" Col="12" Num="60" Dir="Down" Ans="CTA">'L' overseer</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>SMACKDOWN above RHINEGOLD &mdash; talk about something for everyone! Love the variety.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/WWE_SmackDown" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Smackdown_2015_Logo.png" style="border:none; float:right; height:100px; margin:6px 0px 6px 12px; width:220px" title="Ricky &quot;The Dragon&quot; Steamboat fans, anyone?" /></a></p>
+
+<p>A 72-word puzzle has to be jazzy, with every single long slot used to its max. I used to watch a ton of WWE as a kid (sad, I know), so SMACKDOWN made me smile. I&#39;m not an opera fan, but I appreciate Wagner. And RHINEGOLD is an interesting word.</p>
+
+<p>BEACH COMB, yes! CACAO TREE yes! (Have you ever seen cacao fruit? Disgusting, hard to imagine how it transforms into chocolate.)</p>
+
+<p>CRAWDADDY &hellip; mostly yes? Seems like this is a term in use, although it didn&#39;t ring true to my ear at first.</p>
+
+<p>STANDEE ... not so much. DONATE TO is fine, but it&#39;s not going to win any awards.</p>
+
+<p>AM I TO BLAME &hellip; I&#39;m not sure on this one. I like it just fine, but is it a standout? NOT SPAM is the same. I see this phrase all the time with Gmail, but there&#39;s something about it that makes it seem slightly iffy as a crossword entry.</p>
+
+<p>And HEADCOUNTS &hellip; occasionally people ask me how many plurals is too many in one puzzle, and I scratch my head. Why does it matter, if they&#39;re all normal words / entries? HEADCOUNTS does feel more sparkly in the singular, though. Totally subjective, since the plural HEADCOUNTS is dictionary supported.</p>
+
+<p>Short fill. A 72-word puzzle must be ultra-clean. A bit of NEOS, GRAS, ROTOS, ACRO wouldn&#39;t be terrible in a tougher construction. But a 72-word themeless is not much of a challenge (unless you&#39;re working in a lot of rare letters, grid-spanning entries, etc.). So it&#39;s way too much in this puzzle.</p>
+
+<p>That SW corner was particularly problematic for me, with ACRO / ROTOS jammed in. (I think NGAIO Marsh is crossworthy.) Maybe a cheater square at the S of HEADCOUNTS would have solved the problem.</p>
+
+<p>Some nice feature entries &mdash; love me some SMACKDOWN! &mdash; but not quite enough sparkle or cleanliness to make the puzzle stand out.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>9-Down and the first half of 10-Down... sheer happenstance. Unforeseen. They just fell into place. Good &mdash; it&#39;s done, no need to squeeze WHITENED into a future puzzle.</p>
+
+<p>I started with SMACKDOWN, cluing it as a verbal broadside that might elicit an &quot;oh, snap.&quot; But the wrestling reference seems more mainstream. Glad to see Will (and Joel and Sam) cluing TOTES as it&#39;s now sometimes used. Like WHATEVS in a puzzle from last week. Is OBVS very far behind? I do check with some of my kids now and again for fresh words and phrases they view as legit. Oh, and 28-Across is a debut for me, either singular or plural, finally breaking my commitment-to-self never to use it.</p>
+
+<p>I do attempt to mix spoken phrases and sentences (AM I TO BLAME, et al.) into the grid, minimize abbreviations (3 here, I think), and allow one partial max per grid (WALLA). I&#39;ve been to both my place names: WALLA Walla twice &mdash; beautiful town, orchard country, with a colorful display of murals; OPORTO also (for ten days or so), where you can cruise through samples of vintage Quinta Do Noval, about the finest thing ever to emerge from a grape.</p>
+
+<p>Fun note: SECRET WORD was originally MADE-UP WORD, which I loved (like nearly anything from &quot;Jabberwocky&quot;), but it was nixed in a previous draft as a, you guessed it, &quot;made-up word.&quot; Minds may change about that down the road.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

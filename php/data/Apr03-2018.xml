@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Tuesday, April 3, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/2/2018 at 7:01 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Tue, Apr 03, 2018</Title>
+    <Author>Damon Gulczynski</Author>
+    <CanonicalNames>
+      <Constructor>Damon J. Gulczynski</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/3/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>16</Cols>
+    </Size>
+    <Grid>
+      <Row>TITHE.FUSSES.ARR</Row>
+      <Row>ARIEL.INTHAT.LEO</Row>
+      <Row>NETFLIXQUEUE.GAG</Row>
+      <Row>GNU.ICEUP.XANADU</Row>
+      <Row>YESYOU.OOF.MYEYE</Row>
+      <Row>...ATS.TROPIC...</Row>
+      <Row>AVER..LESAGE.ALS</Row>
+      <Row>DEADSEA..MARYKAY</Row>
+      <Row>SET.CRUSTY..OATS</Row>
+      <Row>...SUNDEW.ABS...</Row>
+      <Row>KALEL.EMI.BUTWHY</Row>
+      <Row>ALEPPO.ANDOR.AAA</Row>
+      <Row>YON.THINKQUICKLY</Row>
+      <Row>ANN.ONSALE.ATEAM</Row>
+      <Row>KEY.ROUSED.LASSE</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="TITHE">10% donation</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="FUSSES">Makes a to-do about this and that</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Across" Ans="ARR">Air ticket abbr.</Clue>
+      <Clue Row="2" Col="1" Num="15" Dir="Across" Ans="ARIEL">Disney mermaid</Clue>
+      <Clue Row="2" Col="7" Num="16" Dir="Across" Ans="INTHAT">Because</Clue>
+      <Clue Row="2" Col="14" Num="17" Dir="Across" Ans="LEO">"Seinfeld" uncle</Clue>
+      <Clue Row="3" Col="1" Num="18" Dir="Across" Ans="NETFLIXQUEUE">*List for some binge watchers</Clue>
+      <Clue Row="3" Col="14" Num="20" Dir="Across" Ans="GAG">Bit of a comic</Clue>
+      <Clue Row="4" Col="1" Num="21" Dir="Across" Ans="GNU">Bearded beast</Clue>
+      <Clue Row="4" Col="5" Num="22" Dir="Across" Ans="ICEUP">Freeze over</Clue>
+      <Clue Row="4" Col="11" Num="23" Dir="Across" Ans="XANADU">Setting of Kubla Khan's palace</Clue>
+      <Clue Row="5" Col="1" Num="25" Dir="Across" Ans="YESYOU">*Response to "Who, me?"</Clue>
+      <Clue Row="5" Col="8" Num="27" Dir="Across" Ans="OOF">Body blow reaction</Clue>
+      <Clue Row="5" Col="12" Num="29" Dir="Across" Ans="MYEYE">*"Balderdash!"</Clue>
+      <Clue Row="6" Col="4" Num="30" Dir="Across" Ans="ATS">Much-used Twitter symbols</Clue>
+      <Clue Row="6" Col="8" Num="31" Dir="Across" Ans="TROPIC">Line around the globe</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Across" Ans="AVER">State firmly</Clue>
+      <Clue Row="7" Col="7" Num="36" Dir="Across" Ans="LESAGE">"Gil Blas" writer</Clue>
+      <Clue Row="7" Col="14" Num="37" Dir="Across" Ans="ALS">Lou Gehrig's disease, for short</Clue>
+      <Clue Row="8" Col="1" Num="40" Dir="Across" Ans="DEADSEA">*Lowest point on the earth's surface</Clue>
+      <Clue Row="8" Col="10" Num="43" Dir="Across" Ans="MARYKAY">*Avon competitor</Clue>
+      <Clue Row="9" Col="1" Num="45" Dir="Across" Ans="SET">Move low toward the horizon</Clue>
+      <Clue Row="9" Col="5" Num="46" Dir="Across" Ans="CRUSTY">Like a curmudgeon</Clue>
+      <Clue Row="9" Col="13" Num="49" Dir="Across" Ans="OATS">Quaker ___</Clue>
+      <Clue Row="10" Col="4" Num="50" Dir="Across" Ans="SUNDEW">Sticky-leaved plant that feeds on insects</Clue>
+      <Clue Row="10" Col="11" Num="51" Dir="Across" Ans="ABS">"Six-pack"</Clue>
+      <Clue Row="11" Col="1" Num="53" Dir="Across" Ans="KALEL">*Superman's alien name</Clue>
+      <Clue Row="11" Col="7" Num="56" Dir="Across" Ans="EMI">Longtime U.K. record label</Clue>
+      <Clue Row="11" Col="11" Num="57" Dir="Across" Ans="BUTWHY">*"For what reason, though?"</Clue>
+      <Clue Row="12" Col="1" Num="61" Dir="Across" Ans="ALEPPO">War-torn Syrian city</Clue>
+      <Clue Row="12" Col="8" Num="63" Dir="Across" Ans="ANDOR">Flexible conjunction</Clue>
+      <Clue Row="12" Col="14" Num="65" Dir="Across" Ans="AAA">Tow job provider, in brief</Clue>
+      <Clue Row="13" Col="1" Num="66" Dir="Across" Ans="YON">Thither</Clue>
+      <Clue Row="13" Col="5" Num="67" Dir="Across" Ans="THINKQUICKLY">To understand this puzzle's theme, read the ends of the answers to the starred clues and ...</Clue>
+      <Clue Row="14" Col="1" Num="70" Dir="Across" Ans="ANN">___ Dunham, mother of Barack Obama</Clue>
+      <Clue Row="14" Col="5" Num="71" Dir="Across" Ans="ONSALE">Marked down</Clue>
+      <Clue Row="14" Col="12" Num="72" Dir="Across" Ans="ATEAM">First-stringers</Clue>
+      <Clue Row="15" Col="1" Num="73" Dir="Across" Ans="KEY">Crucial</Clue>
+      <Clue Row="15" Col="5" Num="74" Dir="Across" Ans="ROUSED">Excited, as a crowd</Clue>
+      <Clue Row="15" Col="12" Num="75" Dir="Across" Ans="LASSE">"Chocolat" director Hallström</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="TANGY">Having a zesty taste</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="IRENE">Cara who sang "Flashdance ... What a Feeling"</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="TITUS">Emperor who finished the Colosseum</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="HEF">Mag mogul with a mansion</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="ELLIOT">Mama Cass</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="FIXE">Prix ___</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="UNQUOTE">Ending "</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="STUPORS">Drunken dazes</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="SHE">Ship's pronoun</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="EAUX">French waters</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="STEAMIER">More passionate</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="ALGAE">Fish tank buildup</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="READY">Having bags all packed, say</Clue>
+      <Clue Row="1" Col="16" Num="14" Dir="Down" Ans="ROGUE">Animal that has strayed from the herd</Clue>
+      <Clue Row="3" Col="6" Num="19" Dir="Down" Ans="ICUS">Hosp. areas</Clue>
+      <Clue Row="4" Col="13" Num="24" Dir="Down" Ans="NYC">Big Apple inits.</Clue>
+      <Clue Row="5" Col="4" Num="26" Dir="Down" Ans="YARD">Almost a meter</Clue>
+      <Clue Row="5" Col="10" Num="28" Dir="Down" Ans="FOAMY">Like whitecaps</Clue>
+      <Clue Row="6" Col="11" Num="32" Dir="Down" Ans="PGA">Org. concerned with eagles and birdies</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Down" Ans="ADS">First few minutes of many podcasts</Clue>
+      <Clue Row="7" Col="2" Num="34" Dir="Down" Ans="VEE">Geese formation</Clue>
+      <Clue Row="7" Col="3" Num="35" Dir="Down" Ans="EAT">Sup</Clue>
+      <Clue Row="7" Col="7" Num="36" Dir="Down" Ans="LAUDE">Summa cum ___</Clue>
+      <Clue Row="7" Col="14" Num="37" Dir="Down" Ans="AKA">Rap sheet letters</Clue>
+      <Clue Row="7" Col="15" Num="38" Dir="Down" Ans="LAT">Muscle below a delt</Clue>
+      <Clue Row="7" Col="16" Num="39" Dir="Down" Ans="SYS">Lead-in to "ops"</Clue>
+      <Clue Row="8" Col="5" Num="41" Dir="Down" Ans="SCULPTOR">Rodin, for one</Clue>
+      <Clue Row="8" Col="6" Num="42" Dir="Down" Ans="ERN">Suffix with north or south</Clue>
+      <Clue Row="8" Col="13" Num="44" Dir="Down" Ans="YOST">World Series-winning manager Ned</Clue>
+      <Clue Row="9" Col="8" Num="47" Dir="Down" Ans="SEMANAS">Spanish weeks</Clue>
+      <Clue Row="9" Col="9" Num="48" Dir="Down" Ans="TWINKLE">When repeated, what little stars do</Clue>
+      <Clue Row="10" Col="4" Num="50" Dir="Down" Ans="SEP">Equinox mo.</Clue>
+      <Clue Row="10" Col="11" Num="51" Dir="Down" Ans="ABOU">"___ Ben Adhem" (Leigh Hunt poem)</Clue>
+      <Clue Row="10" Col="12" Num="52" Dir="Down" Ans="BURIAL">Interment</Clue>
+      <Clue Row="11" Col="1" Num="53" Dir="Down" Ans="KAYAK">Alternative to Travelocity or Orbitz</Clue>
+      <Clue Row="11" Col="2" Num="54" Dir="Down" Ans="ALONE">Without assistance</Clue>
+      <Clue Row="11" Col="3" Num="55" Dir="Down" Ans="LENNY">Comedian Bruce</Clue>
+      <Clue Row="11" Col="14" Num="58" Dir="Down" Ans="WAKES">Boat trailers?</Clue>
+      <Clue Row="11" Col="15" Num="59" Dir="Down" Ans="HALAS">Papa Bear of Chicago Bears history</Clue>
+      <Clue Row="11" Col="16" Num="60" Dir="Down" Ans="YAYME">"I rule!"</Clue>
+      <Clue Row="12" Col="6" Num="62" Dir="Down" Ans="OHNO">"Egads!"</Clue>
+      <Clue Row="12" Col="10" Num="64" Dir="Down" Ans="DQED">Tossed out of the game, informally</Clue>
+      <Clue Row="13" Col="7" Num="68" Dir="Down" Ans="ISU">The Cyclones of the Big 12 Conf.</Clue>
+      <Clue Row="13" Col="13" Num="69" Dir="Down" Ans="CTA">Windy City rail inits.</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Think fast! Er, THINK QUICKLY &mdash; Damon ends seven phrases with letter homophones spelling out Q U I C K L Y. I&#39;ve seen many letter homophone puzzles before, but I can&#39;t remember this exact take. Enjoyable concept.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Drosera" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Drosera_capensis_bend.JPG/440px-Drosera_capensis_bend.JPG" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:184px" title="The SUNDEW, up close. Pretty!" /></a></p>
+
+<p>I put Damon in rarefied air these days, one of the few constructors with the skills to construct solid puzzles across the full range, from easy early-weekers to tough themelesses. Many people can develop the skills necessary to construct one type of puzzle but aren&#39;t able to successfully stretch themselves like Damon.</p>
+
+<p>However, this Tuesday puzzle wasn&#39;t as smooth as I&#39;d like. Any time you have to call upon ABOU early in the week is not so good. I don&#39;t mind some ALS / SYS or ERN, but toss in some toughies like YOST and LASSE, and the puzzle left me with an overall sense of esoterica.</p>
+
+<p>Of course, it&#39;s super tough to work with eight (!) themers in a 15x15 puzzle. Even tougher when you have to work with the X and Q in NETFLIX QUEUE. And it&#39;s no surprise some of the quirkier answers like YOST crop up in between themers (MARY KAY / BUT WHY). Overall, I think it&#39;s a reasonable result given the very high theme density.</p>
+
+<p>I wanted to give this one the POW! I enjoyed piecing together the letters, a delightful idea. If only THINK QUICKLY had been as snazzy a phrase as THINK FAST, or QUICK THINKING, I probably would have swept the grid glue under the rug and declared this the POW!</p>
+
+<p>Also, with just Q U I C K in QUICK THINKING, the grid would probably have been a lot smoother.</p>
+
+<p>Overall, a strong idea executed almost to POW! territory. But not quite.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>Letters-as-words puzzles have been done before, so I wanted to distinguish this one in two ways: 1) Spell a longish word with fun, Scrabbly letters; 2) make the revealer clue a dual-meaning instruction to the solver. I came up with THINK QUICKLY rather quickly, but it took me a while to flesh out the details. Since there are so many theme answers (8), most of them had to be short, and I was stuck on &lsquo;L&#39; for a long time. Once I thought of KAL-EL everything was super, man. (For more of my crossword-puzzling thoughts, <a href="http://scrabbledamon.blogspot.com/">visit my blog</a>.)</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

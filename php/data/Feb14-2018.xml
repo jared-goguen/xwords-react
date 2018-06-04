@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Wednesday, February 14, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 2/14/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Wed, Feb 14, 2018</Title>
+    <Author>Mary Lou Guizzo</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>2/14/2018</Date>
+    <Size>
+      <Rows>17</Rows>
+      <Cols>17</Cols>
+    </Size>
+    <Grid>
+      <Row>..HAGS.....ALEC..</Row>
+      <Row>.GERUND...PLENUM.</Row>
+      <Row>BOATYARD.GRANDPAS</Row>
+      <Row>LORI.PURSUES.TIRO</Row>
+      <Row>ANTSY.MEATY.NADIA</Row>
+      <Row>CASTER.WIT.HOBSON</Row>
+      <Row>KSTREET.NEVERLAND</Row>
+      <Row>OPRY.PORTRAY.ERRS</Row>
+      <Row>URI.POPOV.NYM.ROO</Row>
+      <Row>TENNIS.TAS.ACROSS</Row>
+      <Row>.EGON.LILAC.JAWS.</Row>
+      <Row>..STATESENATORS..</Row>
+      <Row>...ITWASNTTOBE...</Row>
+      <Row>....APPETITES....</Row>
+      <Row>.....SERIALS.....</Row>
+      <Row>......DINGE......</Row>
+      <Row>.......EEO.......</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="3" Num="1" Dir="Across" Ans="HAGS">Trio in "Macbeth"</Clue>
+      <Clue Row="1" Col="12" Num="5" Dir="Across" Ans="ALEC">Baldwin of "To Rome With Love"</Clue>
+      <Clue Row="2" Col="2" Num="9" Dir="Across" Ans="GERUND">Loving, maybe</Clue>
+      <Clue Row="2" Col="11" Num="11" Dir="Across" Ans="PLENUM">435 members, for the House</Clue>
+      <Clue Row="3" Col="1" Num="13" Dir="Across" Ans="BOATYARD">Marina facility</Clue>
+      <Clue Row="3" Col="10" Num="15" Dir="Across" Ans="GRANDPAS">Sometime babysitters</Clue>
+      <Clue Row="4" Col="1" Num="17" Dir="Across" Ans="LORI">Actress Petty of "Tank Girl"</Clue>
+      <Clue Row="4" Col="6" Num="18" Dir="Across" Ans="PURSUES">Goes after</Clue>
+      <Clue Row="4" Col="14" Num="20" Dir="Across" Ans="TIRO">Beginner: Var.</Clue>
+      <Clue Row="5" Col="1" Num="21" Dir="Across" Ans="ANTSY">Anxious</Clue>
+      <Clue Row="5" Col="7" Num="23" Dir="Across" Ans="MEATY">Suitable for sinking one's teeth into</Clue>
+      <Clue Row="5" Col="13" Num="24" Dir="Across" Ans="NADIA">Gymnastics legend Comaneci</Clue>
+      <Clue Row="6" Col="1" Num="25" Dir="Across" Ans="CASTER">Furniture mover?</Clue>
+      <Clue Row="6" Col="8" Num="27" Dir="Across" Ans="WIT">"There's many a man hath more hair than ___": Shak.</Clue>
+      <Clue Row="6" Col="12" Num="28" Dir="Across" Ans="HOBSON">Thomas who lent his name to a "choice"</Clue>
+      <Clue Row="7" Col="1" Num="29" Dir="Across" Ans="KSTREET">Part of Washington, D.C., known for lobbying firms</Clue>
+      <Clue Row="7" Col="9" Num="31" Dir="Across" Ans="NEVERLAND">Home for Peter Pan</Clue>
+      <Clue Row="8" Col="1" Num="33" Dir="Across" Ans="OPRY">"Grand Ole" thing</Clue>
+      <Clue Row="8" Col="6" Num="34" Dir="Across" Ans="PORTRAY">Act as</Clue>
+      <Clue Row="8" Col="14" Num="36" Dir="Across" Ans="ERRS">Messes up</Clue>
+      <Clue Row="9" Col="1" Num="37" Dir="Across" Ans="URI">Swiss canton where William Tell lived</Clue>
+      <Clue Row="9" Col="5" Num="38" Dir="Across" Ans="POPOV">Vodka with a Russian name</Clue>
+      <Clue Row="9" Col="11" Num="39" Dir="Across" Ans="NYM">Citi Field team, on scoreboards</Clue>
+      <Clue Row="9" Col="15" Num="41" Dir="Across" Ans="ROO">Aussie animal</Clue>
+      <Clue Row="10" Col="1" Num="42" Dir="Across" Ans="TENNIS">Game of "love"</Clue>
+      <Clue Row="10" Col="8" Num="44" Dir="Across" Ans="TAS">Some univ. instructors</Clue>
+      <Clue Row="10" Col="12" Num="46" Dir="Across" Ans="ACROSS">How the answer to this clue goes in the grid</Clue>
+      <Clue Row="11" Col="2" Num="48" Dir="Across" Ans="EGON">Expressionist Schiele</Clue>
+      <Clue Row="11" Col="7" Num="49" Dir="Across" Ans="LILAC">Purple shade</Clue>
+      <Clue Row="11" Col="13" Num="51" Dir="Across" Ans="JAWS">Vise parts</Clue>
+      <Clue Row="12" Col="3" Num="52" Dir="Across" Ans="STATESENATORS">Barack Obama and Jimmy Carter, at the starts of their political careers</Clue>
+      <Clue Row="13" Col="4" Num="55" Dir="Across" Ans="ITWASNTTOBE">"Fate would prove otherwise"</Clue>
+      <Clue Row="14" Col="5" Num="56" Dir="Across" Ans="APPETITES">Hungers</Clue>
+      <Clue Row="15" Col="6" Num="57" Dir="Across" Ans="SERIALS">Stories to be continued</Clue>
+      <Clue Row="16" Col="7" Num="58" Dir="Across" Ans="DINGE">Dark, dirty shade</Clue>
+      <Clue Row="17" Col="8" Num="59" Dir="Across" Ans="EEO">Fair-hiring inits.</Clue>
+      <Clue Row="1" Col="3" Num="1" Dir="Down" Ans="HEARTSTRINGS">Deepest feelings</Clue>
+      <Clue Row="1" Col="4" Num="2" Dir="Down" Ans="ARTISTRY">Brilliant craftsmanship</Clue>
+      <Clue Row="1" Col="5" Num="3" Dir="Down" Ans="GUY">Bloke</Clue>
+      <Clue Row="1" Col="6" Num="4" Dir="Down" Ans="SNAP">Pic</Clue>
+      <Clue Row="1" Col="12" Num="5" Dir="Down" Ans="ALAS">"We need a government, ___, because of the nature of humans": P. J. O'Rourke</Clue>
+      <Clue Row="1" Col="13" Num="6" Dir="Down" Ans="LEN">Actor Cariou</Clue>
+      <Clue Row="1" Col="14" Num="7" Dir="Down" Ans="ENDTABLE">Living room accent piece</Clue>
+      <Clue Row="1" Col="15" Num="8" Dir="Down" Ans="CUPIDSARROWS">They lead to love at first sight</Clue>
+      <Clue Row="2" Col="2" Num="9" Dir="Down" Ans="GOONASPREE">Binge</Clue>
+      <Clue Row="2" Col="7" Num="10" Dir="Down" Ans="DRUM">Beat it!</Clue>
+      <Clue Row="2" Col="11" Num="11" Dir="Down" Ans="PREY">Game</Clue>
+      <Clue Row="2" Col="16" Num="12" Dir="Down" Ans="MARIONROSS">Actress who played Mrs. Cunningham on "Happy Days"</Clue>
+      <Clue Row="3" Col="1" Num="13" Dir="Down" Ans="BLACKOUT">Power failure</Clue>
+      <Clue Row="3" Col="8" Num="14" Dir="Down" Ans="DREW">Attracted</Clue>
+      <Clue Row="3" Col="10" Num="15" Dir="Down" Ans="GUTTER">Bad place for a bowling ball or the mind</Clue>
+      <Clue Row="3" Col="17" Num="16" Dir="Down" Ans="SOANDSOS">Bastards</Clue>
+      <Clue Row="4" Col="9" Num="19" Dir="Down" Ans="SAINTVALENTINE">February honoree</Clue>
+      <Clue Row="5" Col="5" Num="22" Dir="Down" Ans="YEE">Start of a rodeo cry</Clue>
+      <Clue Row="5" Col="13" Num="24" Dir="Down" Ans="NOR">Fish-fowl link</Clue>
+      <Clue Row="6" Col="6" Num="26" Dir="Down" Ans="REPOS">Auto takebacks</Clue>
+      <Clue Row="6" Col="12" Num="28" Dir="Down" Ans="HEYYA">2003 #1 hit for OutKast</Clue>
+      <Clue Row="7" Col="7" Num="30" Dir="Down" Ans="TOP">Best</Clue>
+      <Clue Row="7" Col="11" Num="32" Dir="Down" Ans="VAN">Furniture mover, maybe</Clue>
+      <Clue Row="8" Col="8" Num="35" Dir="Down" Ans="ROTISSERIE">Game's turning point?</Clue>
+      <Clue Row="9" Col="5" Num="38" Dir="Down" Ans="PINATA">One getting smashed at a party?</Clue>
+      <Clue Row="9" Col="13" Num="40" Dir="Down" Ans="MCJOBS">Unfulfilling work assignments</Clue>
+      <Clue Row="10" Col="4" Num="43" Dir="Down" Ans="NOTI">Self-denial?</Clue>
+      <Clue Row="10" Col="10" Num="45" Dir="Down" Ans="SANTIAGO">World capital founded by a conquistador</Clue>
+      <Clue Row="10" Col="14" Num="47" Dir="Down" Ans="RARE">Steak order</Clue>
+      <Clue Row="11" Col="7" Num="49" Dir="Down" Ans="LEAPED">Bounded</Clue>
+      <Clue Row="11" Col="11" Num="50" Dir="Down" Ans="CATTLE">Range rovers</Clue>
+      <Clue Row="12" Col="6" Num="53" Dir="Down" Ans="TWPS">County divisions: Abbr.</Clue>
+      <Clue Row="12" Col="12" Num="54" Dir="Down" Ans="TOES">Parts of the body that may be wiggled</Clue>
+    </Clues>
+    <JimNotes><![CDATA[Non-rectangular grids are rare. Past examples include squares that <a href="https://www.xwordinfo.com/Crossword?date=2/2/1995">pop out of the top</a> or <a href="https://www.xwordinfo.com/Crossword?date=11/2/2004">the bottom</a>, a <a href="https://www.xwordinfo.com/Crossword?date=1/6/2015">DNA molecule</a>, and a <a href="https://www.xwordinfo.com/Crossword?date=10/30/2014">delicious chocolate chip cookie</a>.]]></JimNotes>
+    <JeffNotes><![CDATA[<p>ML got in touch with me last year, asking if I&#39;d help redo this grid, but the concept didn&#39;t resonate. Maybe I just don&#39;t appreciate VDay? Or the themers felt too overt, not playful? Or I couldn&#39;t get past the asymmetry?</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Cupid" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Roman_de_la_Rose_f._13r_%28The_god_of_love_shoots_an_arrow_at_the_lover%29.jpg/440px-Roman_de_la_Rose_f._13r_%28The_god_of_love_shoots_an_arrow_at_the_lover%29.jpg" style="border:1px solid lightgray; float:left; height:151px; margin:6px 12px 6px 0px; width:220px" title="I find the entire premise of CUPIDS ARROWS kind of creepy ..." /></a></p>
+
+<p>I counterproposed a mini-theme that would run as a (mirror symmetry) themeless the Friday before VDay, with something like BOXING G<strong>LOVE</strong>S / GARLIC C<strong>LOVE</strong>S / T<strong>HE ART</strong>S. But Will felt that was too subtle.</p>
+
+<p>What about a heart-shaped grid with LOVE TRUMPS HATE down the middle? Too political. Good point!</p>
+
+<p>So, it just wasn&#39;t for me, and I passed. But I can see how VDay fanatics could dig what&#39;s going on, HEARTSTRINGS / CUPIDS ARROWS / SAINT VALENTINE forming a loose VDay theme. I would have preferred something tighter for a themed puzzle though; a stronger connection between the three themers. Not just &quot;stuff related to VDay.&quot;</p>
+
+<p>Mostly solid gridwork though, snappy entries in GO ON A SPREE, STATE SENATORS, ROTISSERIE, NEVERLAND, even BOATYARD, SO AND SOS and MARION ROSS (hands up for a childhood crush on Mrs. C?).</p>
+
+<p>I don&#39;t mind a bit of EEO and TAS &mdash; I used to see EEO all the time when I was hiring for our startup way back when, and I had plenty of TAS even further back.</p>
+
+<p>TIRO and TWPS are much, much more egregious to me, though. Not just TYRO, but a variant of it? Yikes! And TWPS is &hellip; twerps? TW Power Services of Australia? It&#39;s &quot;townships&quot;?</p>
+
+<p>Huh.</p>
+
+<p>And DINGE. Dingy, sure. But DINGE sticks out like some dinge on the puzzle.</p>
+
+<p>I think the compromises to get the themeless-like feel to the puzzle were okay overall, but oof, did those three bits jar me out of my solve.</p>
+
+<p>I still have a lot of trouble getting past the lack of symmetry inside the puzzle. The annoyingly OCD constructor inside me wants some reason for it, like <a href="https://www.xwordinfo.com/Crossword?date=7/10/2009">Joe Krozel&#39;s clever BROKEN HEART</a> concept. But I can appreciate the novelty of the puzzle, as well as the heartfelt sentiment from ML.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>This puzzle was originally submitted in December 2016 as a 17x diagramless submission. Will surprised me writing:</p>
+
+<p>&quot;Oddly enough, I think this would work better for the regular paper than as a diagramless. As a diagramless the grid is too chunky &mdash; too difficult, I think. As a 69-word regular crossword, this could work as a daily.</p>
+
+<p>However, to run as a daily, the puzzle would have to meet themeless standards, and this grid has a lot of unappealing vocabulary. ...</p>
+
+<p>This doesn&#39;t look like an easy grid to fill. But if somehow you can improve the vocabulary, I&#39;d be happy to take another look.&quot;</p>
+
+<p>After many go-rounds on a very slow, old laptop I managed to come up with a more cleanly filled grid that Will was pleased with except for the upper right corner. A big thank you to Frank Longo who smoothed out the top of the grid and to Will for his patience.</p>
+
+<p>I hope you enjoyed the puzzle. From my heart to yours.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

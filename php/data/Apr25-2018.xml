@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Wednesday, April 25, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/24/2018 at 7:01 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Wed, Apr 25, 2018</Title>
+    <Author>Adam G. Perl</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/25/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>ERGO.MRI..PARAS</Row>
+      <Row>TOREOPEN.SILICA</Row>
+      <Row>NBADRAFT.FRIGHT</Row>
+      <Row>ATT.EAU.SPONGES</Row>
+      <Row>..UNS.SMIDGE...</Row>
+      <Row>.GIST.EAT.IDAHO</Row>
+      <Row>SETFEE.DAD..NOG</Row>
+      <Row>KNOWSEVERYANGLE</Row>
+      <Row>ORU..REM.ELOISE</Row>
+      <Row>RESIN.GAB.IGET.</Row>
+      <Row>...CABANA.EOS..</Row>
+      <Row>BASETEN.NUN.LEX</Row>
+      <Row>ACTSAS.CASEFILE</Row>
+      <Row>BUYINS.INSEASON</Row>
+      <Row>SPENT..OAR.ATNO</Row>
+    </Grid>
+    <Shades>
+      <Shade Row="1" Col="13">gray</Shade>
+      <Shade Row="2" Col="2">gray</Shade>
+      <Shade Row="2" Col="13">gray</Shade>
+      <Shade Row="3" Col="2">gray</Shade>
+      <Shade Row="3" Col="13">gray</Shade>
+      <Shade Row="3" Col="14">gray</Shade>
+      <Shade Row="3" Col="15">gray</Shade>
+      <Shade Row="4" Col="2">gray</Shade>
+      <Shade Row="5" Col="3">gray</Shade>
+      <Shade Row="6" Col="4">gray</Shade>
+      <Shade Row="7" Col="5">gray</Shade>
+      <Shade Row="12" Col="2">gray</Shade>
+      <Shade Row="12" Col="4">gray</Shade>
+      <Shade Row="12" Col="13">gray</Shade>
+      <Shade Row="12" Col="14">gray</Shade>
+      <Shade Row="12" Col="15">gray</Shade>
+      <Shade Row="13" Col="2">gray</Shade>
+      <Shade Row="13" Col="3">gray</Shade>
+      <Shade Row="13" Col="12">gray</Shade>
+      <Shade Row="14" Col="2">gray</Shade>
+      <Shade Row="14" Col="11">gray</Shade>
+      <Shade Row="15" Col="10">gray</Shade>
+    </Shades>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="ERGO">As a result</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="MRI">Dr.'s order</Clue>
+      <Clue Row="1" Col="11" Num="8" Dir="Across" Ans="PARAS">Legal assistants, for short</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Across" Ans="TOREOPEN">Ripped the wrapping off</Clue>
+      <Clue Row="2" Col="10" Num="15" Dir="Across" Ans="SILICA">Glass component</Clue>
+      <Clue Row="3" Col="1" Num="16" Dir="Across" Ans="NBADRAFT">Kings' guards may be taken in it</Clue>
+      <Clue Row="3" Col="10" Num="17" Dir="Across" Ans="FRIGHT">Haunted house feeling</Clue>
+      <Clue Row="4" Col="1" Num="18" Dir="Across" Ans="ATT">QB's stat: Abbr.</Clue>
+      <Clue Row="4" Col="5" Num="19" Dir="Across" Ans="EAU">___ de toilette</Clue>
+      <Clue Row="4" Col="9" Num="20" Dir="Across" Ans="SPONGES">Moochers</Clue>
+      <Clue Row="5" Col="3" Num="21" Dir="Across" Ans="UNS">Young ___</Clue>
+      <Clue Row="5" Col="7" Num="23" Dir="Across" Ans="SMIDGE">Iota</Clue>
+      <Clue Row="6" Col="2" Num="25" Dir="Across" Ans="GIST">Essence</Clue>
+      <Clue Row="6" Col="7" Num="26" Dir="Across" Ans="EAT">"Mangia!"</Clue>
+      <Clue Row="6" Col="11" Num="27" Dir="Across" Ans="IDAHO">Moscow's home</Clue>
+      <Clue Row="7" Col="1" Num="31" Dir="Across" Ans="SETFEE">Flat rate</Clue>
+      <Clue Row="7" Col="8" Num="33" Dir="Across" Ans="DAD">Pops</Clue>
+      <Clue Row="7" Col="13" Num="35" Dir="Across" Ans="NOG">Holiday quaff</Clue>
+      <Clue Row="8" Col="1" Num="36" Dir="Across" Ans="KNOWSEVERYANGLE">Is an expert on this puzzle's theme?</Clue>
+      <Clue Row="9" Col="1" Num="40" Dir="Across" Ans="ORU">Christian inst. in Tulsa</Clue>
+      <Clue Row="9" Col="6" Num="41" Dir="Across" Ans="REM">Sleep stage</Clue>
+      <Clue Row="9" Col="10" Num="42" Dir="Across" Ans="ELOISE">Plaza girl in kid-lit</Clue>
+      <Clue Row="10" Col="1" Num="43" Dir="Across" Ans="RESIN">Amber, e.g.</Clue>
+      <Clue Row="10" Col="7" Num="46" Dir="Across" Ans="GAB">It's a gift</Clue>
+      <Clue Row="10" Col="11" Num="48" Dir="Across" Ans="IGET">"___ that a lot"</Clue>
+      <Clue Row="11" Col="4" Num="49" Dir="Across" Ans="CABANA">Place to change at the beach</Clue>
+      <Clue Row="11" Col="11" Num="51" Dir="Across" Ans="EOS">Goddess of dawn</Clue>
+      <Clue Row="12" Col="1" Num="52" Dir="Across" Ans="BASETEN">Decimal system</Clue>
+      <Clue Row="12" Col="9" Num="55" Dir="Across" Ans="NUN">Novice, perhaps</Clue>
+      <Clue Row="12" Col="13" Num="57" Dir="Across" Ans="LEX">Big Apple subway line, for short</Clue>
+      <Clue Row="13" Col="1" Num="60" Dir="Across" Ans="ACTSAS">Fills in for</Clue>
+      <Clue Row="13" Col="8" Num="61" Dir="Across" Ans="CASEFILE">Set of documents on a legal matter</Clue>
+      <Clue Row="14" Col="1" Num="63" Dir="Across" Ans="BUYINS">Amounts paid to join poker games</Clue>
+      <Clue Row="14" Col="8" Num="64" Dir="Across" Ans="INSEASON">Like peaches around summer and early fall</Clue>
+      <Clue Row="15" Col="1" Num="65" Dir="Across" Ans="SPENT">Totally wiped</Clue>
+      <Clue Row="15" Col="8" Num="66" Dir="Across" Ans="OAR">Galley item</Clue>
+      <Clue Row="15" Col="12" Num="67" Dir="Across" Ans="ATNO">Periodic table fig.</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="ETNA">European smoker</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ROBT">Gen. ___ E. Lee</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="GRATUITOUS">Provided but not asked for</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="OED">Classic work originally in 10 vols.</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="MPAA">Film-rating grp.</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="REFUSE">Decline</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="INT">QB's stat: Abbr.</Clue>
+      <Clue Row="1" Col="11" Num="8" Dir="Down" Ans="PIROGI">Ravioli relative</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Down" Ans="ALINED">Trued up</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="RIGG">Diana ___, 1969 Bond girl</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="ACHE">Long</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="SATS">Concerns for many srs.</Clue>
+      <Clue Row="2" Col="5" Num="14" Dir="Down" Ans="ORESTES">Euripides tragedy</Clue>
+      <Clue Row="2" Col="10" Num="15" Dir="Down" Ans="SFPD">Dirty Harry's org.</Clue>
+      <Clue Row="4" Col="9" Num="20" Dir="Down" Ans="SITAR">Instrument in "Norwegian Wood"</Clue>
+      <Clue Row="5" Col="4" Num="22" Dir="Down" Ans="NSFW">Office-inappropriate, briefly</Clue>
+      <Clue Row="5" Col="8" Num="24" Dir="Down" Ans="MADEMAN">Family guy?</Clue>
+      <Clue Row="6" Col="2" Num="25" Dir="Down" Ans="GENRE">Category</Clue>
+      <Clue Row="6" Col="13" Num="28" Dir="Down" Ans="ANGIESLIST">Online aid for finding a contractor</Clue>
+      <Clue Row="6" Col="14" Num="29" Dir="Down" Ans="HOLST">Gustav who composed "The Planets"</Clue>
+      <Clue Row="6" Col="15" Num="30" Dir="Down" Ans="OGEE">Curved molding</Clue>
+      <Clue Row="7" Col="1" Num="31" Dir="Down" Ans="SKOR">Toffee candy bar</Clue>
+      <Clue Row="7" Col="6" Num="32" Dir="Down" Ans="EER">Ending with auction</Clue>
+      <Clue Row="7" Col="10" Num="34" Dir="Down" Ans="DYE">Indigo, e.g.</Clue>
+      <Clue Row="8" Col="7" Num="37" Dir="Down" Ans="VEGAN">One unlikely to order ham and eggs</Clue>
+      <Clue Row="8" Col="11" Num="38" Dir="Down" Ans="ALIENEE">Heir, legally</Clue>
+      <Clue Row="8" Col="12" Num="39" Dir="Down" Ans="NOGO">Scrubbed</Clue>
+      <Clue Row="10" Col="4" Num="44" Dir="Down" Ans="ICESIN">Strands at a ski chalet, say</Clue>
+      <Clue Row="10" Col="5" Num="45" Dir="Down" Ans="NATANT">Swimming</Clue>
+      <Clue Row="10" Col="9" Num="47" Dir="Down" Ans="BANANA">One of a bunch</Clue>
+      <Clue Row="11" Col="6" Num="50" Dir="Down" Ans="BESS">Gershwin heroine</Clue>
+      <Clue Row="12" Col="1" Num="52" Dir="Down" Ans="BABS">Streisand, familiarly</Clue>
+      <Clue Row="12" Col="2" Num="53" Dir="Down" Ans="ACUP">Small bra size</Clue>
+      <Clue Row="12" Col="3" Num="54" Dir="Down" Ans="STYE">Eyelid ailment</Clue>
+      <Clue Row="12" Col="10" Num="56" Dir="Down" Ans="USSR">Red letters?</Clue>
+      <Clue Row="12" Col="14" Num="58" Dir="Down" Ans="ELON">Musk of SpaceX</Clue>
+      <Clue Row="12" Col="15" Num="59" Dir="Down" Ans="XENO">Prefix with phobia</Clue>
+      <Clue Row="13" Col="8" Num="61" Dir="Down" Ans="CIO">A.F.L.-___</Clue>
+      <Clue Row="13" Col="12" Num="62" Dir="Down" Ans="FAA">"Towering" regulatory grp.?</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>This former mathlete was embarrassed to not know what a REFLEX angle was. Relieved to hear that Jim didn&#39;t recognize it either! And then when Jill (who&#39;s much brighter than me) screwed up her face &hellip; huh.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Angie"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/d/df/Angieslist-logo.png" style="border:1px solid lightgray; float:right; height:60px; margin:6px 0px 6px 12px; width:220px" title="ANGIE looks so similar to ANGLE. Hmm!" /></a></p>
+
+<p>Good concept, visually representing the major types of angles, OBTUSE, RIGHT, ACUTE. REFLEX, bah!</p>
+
+<p>I wanted the revealer to be KNEW ALL THE ANGLES. That would have been perfect. I wasn&#39;t sure if KNOWS EVERY ANGLE was as punchy, although it does seem to be in the language. It&#39;s a minor difference in wording, but it took away some of the impact for me.</p>
+
+<p>For puzzles like these, it&#39;s so important to make your long fill shine. Without good bonuses, the puzzle can lack meatiness. Adam did well with NBA DRAFT, CASE FILE, GRATUITOUS, ANGIES LIST, MADE MAN. Even BASE TEN and SPONGES as [Moochers] helped out. Overall, meatiness achieved!</p>
+
+<p>The drawback for puzzles like these is that there are almost always serious compromises around those shaded letters fixed into tight places. Throw on top of it the need to thread in a bunch of strong long fill, and smoothness is usually gonna get whacked.</p>
+
+<p>I was all ready to say how amazed I was by Adam&#39;s execution around the toughest one, the densely-packed ACUTE. But then I hit NATANT. What an odd word.</p>
+
+<p>REFLEX is tough because of the X, and ANGIES LIST running through it. See ALIENEE, ATNO, I GET.</p>
+
+<p>ALINED was the worst for me, caused by the RIGHT constraints. Seems to be a variant of &quot;aligned.&quot; Ick!</p>
+
+<p>I could have overlooked these wonky trade-offs if the puzzle had felt a tad more spot-on to me. Just the three major angles would have made me feel like I truly did KNOW ALL THE ANGLES. Could have helped smoothify the puzzle, too.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>I woke up one morning one day after a night of heavy partying and just didn&#39;t feel RIGHT. I was groggy and feeling OBTUSE with an ACUTE pain in my head. My REFLEX response was to examine every ANGLE and do a 180 to get myself out of this mood. So I decided to create a crossword puzzle &ndash; which finally put me STRAIGHT!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

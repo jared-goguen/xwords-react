@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Saturday, February 10, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 2/10/2018 at 6:31 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sat, Feb 10, 2018</Title>
+    <Author>Finn Vigeland</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>2/10/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>16</Cols>
+    </Size>
+    <Grid>
+      <Row>ORGAN..OCTAL.AMO</Row>
+      <Row>KOENIG.WHATATRIP</Row>
+      <Row>SANCHO.EATATHOME</Row>
+      <Row>ONEHALF.REDEEMER</Row>
+      <Row>.STOODUP...ASADA</Row>
+      <Row>.....ETRE.LPS...</Row>
+      <Row>LINMANUELMIRANDA</Row>
+      <Row>INALLPROBABILITY</Row>
+      <Row>ZOMBIEAPOCALYPSE</Row>
+      <Row>...DEN.SWAT.....</Row>
+      <Row>CHURN...SWIFFER.</Row>
+      <Row>RARAAVIS.SOLOCUP</Row>
+      <Row>ASIFTOSAY.NICOLE</Row>
+      <Row>STATELINE.SEALER</Row>
+      <Row>HEH.DESKS..DLIST</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="ORGAN">Player in a baseball stadium</Clue>
+      <Clue Row="1" Col="8" Num="6" Dir="Across" Ans="OCTAL">Kind of system in which 64 is 100</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Across" Ans="AMO">"Hold on ___!"</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="KOENIG">"Serial" podcast host Sarah</Clue>
+      <Clue Row="2" Col="8" Num="16" Dir="Across" Ans="WHATATRIP">"Far out!"</Clue>
+      <Clue Row="3" Col="1" Num="18" Dir="Across" Ans="SANCHO">___ Panza, sidekick of Don Quixote</Clue>
+      <Clue Row="3" Col="8" Num="19" Dir="Across" Ans="EATATHOME">Not go out to dinner</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="ONEHALF">&lt;-- ÷ 40</Clue>
+      <Clue Row="4" Col="9" Num="22" Dir="Across" Ans="REDEEMER">Jesus, with "the"</Clue>
+      <Clue Row="5" Col="2" Num="23" Dir="Across" Ans="STOODUP">Went to bat (for)</Clue>
+      <Clue Row="5" Col="12" Num="25" Dir="Across" Ans="ASADA">Adjective on Tex-Mex menus</Clue>
+      <Clue Row="6" Col="6" Num="26" Dir="Across" Ans="ETRE">"Seriez" is a form of it</Clue>
+      <Clue Row="6" Col="11" Num="28" Dir="Across" Ans="LPS">Things with microgrooves</Clue>
+      <Clue Row="7" Col="1" Num="29" Dir="Across" Ans="LINMANUELMIRANDA">Winner of the 2016 Pulitzer Prize for Drama</Clue>
+      <Clue Row="8" Col="1" Num="38" Dir="Across" Ans="INALLPROBABILITY">Almost certainly</Clue>
+      <Clue Row="9" Col="1" Num="39" Dir="Across" Ans="ZOMBIEAPOCALYPSE">Backdrop to AMC's "The Walking Dead"</Clue>
+      <Clue Row="10" Col="4" Num="40" Dir="Across" Ans="DEN">Remote area?</Clue>
+      <Clue Row="10" Col="8" Num="41" Dir="Across" Ans="SWAT">Letters on some bulletproof vests</Clue>
+      <Clue Row="11" Col="1" Num="42" Dir="Across" Ans="CHURN">Mass-produce, with "out"</Clue>
+      <Clue Row="11" Col="9" Num="45" Dir="Across" Ans="SWIFFER">Big name in mops</Clue>
+      <Clue Row="12" Col="1" Num="50" Dir="Across" Ans="RARAAVIS">One of a kind</Clue>
+      <Clue Row="12" Col="10" Num="54" Dir="Across" Ans="SOLOCUP">Beer pong receptacle</Clue>
+      <Clue Row="13" Col="1" Num="56" Dir="Across" Ans="ASIFTOSAY">Seemingly expressing</Clue>
+      <Clue Row="13" Col="11" Num="58" Dir="Across" Ans="NICOLE">Wife in F. Scott Fitzgerald's "Tender Is the Night"</Clue>
+      <Clue Row="14" Col="1" Num="59" Dir="Across" Ans="STATELINE">Fugitive's destination, maybe</Clue>
+      <Clue Row="14" Col="11" Num="60" Dir="Across" Ans="SEALER">Painter's undercoat</Clue>
+      <Clue Row="15" Col="1" Num="61" Dir="Across" Ans="HEH">Sly chuckle</Clue>
+      <Clue Row="15" Col="5" Num="62" Dir="Across" Ans="DESKS">Newspaper divisions</Clue>
+      <Clue Row="15" Col="12" Num="63" Dir="Across" Ans="DLIST">Group of near nobodies</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="OKSO">"Your point being ...?"</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ROANS">Mounts with a little white on top?</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="GENET">French novelist/dramatist associated with the Theater of the Absurd</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="ANCHO">Dried chili pepper on Tex-Mex menus</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="NIHAO">Greeting in Guangzhou</Clue>
+      <Clue Row="1" Col="8" Num="6" Dir="Down" Ans="OWE">Fall behind</Clue>
+      <Clue Row="1" Col="9" Num="7" Dir="Down" Ans="CHAR">Scorch</Clue>
+      <Clue Row="1" Col="10" Num="8" Dir="Down" Ans="TATE">Home to Rodin's "The Kiss," with "the"</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="ATAD">Slightly</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="LATEAPRIL">When Taurus begins</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="AROMA">Oenophile's criterion</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="MIMED">Copied</Clue>
+      <Clue Row="1" Col="16" Num="13" Dir="Down" Ans="OPERA">Word with space or rock</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Down" Ans="GOLDENPEN">British writing award</Clue>
+      <Clue Row="2" Col="13" Num="17" Dir="Down" Ans="THESSALY">Region near Mount Olympus</Clue>
+      <Clue Row="4" Col="7" Num="21" Dir="Down" Ans="FUTURA">Bauhaus-influenced typeface</Clue>
+      <Clue Row="5" Col="8" Num="24" Dir="Down" Ans="PREOPS">Hospital sections, for short</Clue>
+      <Clue Row="6" Col="9" Num="27" Dir="Down" Ans="ELBOWS">Nudges</Clue>
+      <Clue Row="6" Col="11" Num="28" Dir="Down" Ans="LIBATIONS">Celebratory round</Clue>
+      <Clue Row="7" Col="1" Num="29" Dir="Down" Ans="LIZ">Tracy and Jenna's boss on "30 Rock"</Clue>
+      <Clue Row="7" Col="2" Num="30" Dir="Down" Ans="INO">Odysseus' rescuer</Clue>
+      <Clue Row="7" Col="3" Num="31" Dir="Down" Ans="NAM">Marvel series depicting the Tet Offensive, with "The"</Clue>
+      <Clue Row="7" Col="4" Num="32" Dir="Down" Ans="MLBDRAFT">Annual June sports event, informally</Clue>
+      <Clue Row="7" Col="5" Num="33" Dir="Down" Ans="ALIENATED">Cut off</Clue>
+      <Clue Row="7" Col="10" Num="34" Dir="Down" Ans="MACAWS">Colorful birds</Clue>
+      <Clue Row="7" Col="14" Num="35" Dir="Down" Ans="NIP">Bite</Clue>
+      <Clue Row="7" Col="15" Num="36" Dir="Down" Ans="DTS">Letters that come before AA?</Clue>
+      <Clue Row="7" Col="16" Num="37" Dir="Down" Ans="AYE">House call?</Clue>
+      <Clue Row="11" Col="1" Num="42" Dir="Down" Ans="CRASH">Not stay awake any longer</Clue>
+      <Clue Row="11" Col="2" Num="43" Dir="Down" Ans="HASTE">"Manners require time, as nothing is more vulgar than ___": Ralph Waldo Emerson</Clue>
+      <Clue Row="11" Col="3" Num="44" Dir="Down" Ans="URIAH">___ the Hittite, soldier in King David's army</Clue>
+      <Clue Row="11" Col="12" Num="46" Dir="Down" Ans="FLIED">Popped (out)</Clue>
+      <Clue Row="11" Col="13" Num="47" Dir="Down" Ans="FOCAL">Main</Clue>
+      <Clue Row="11" Col="14" Num="48" Dir="Down" Ans="ECOLI">C.D.C. concern</Clue>
+      <Clue Row="11" Col="15" Num="49" Dir="Down" Ans="RULES">Game sheet</Clue>
+      <Clue Row="12" Col="6" Num="51" Dir="Down" Ans="VOLE">Burrowing animal</Clue>
+      <Clue Row="12" Col="7" Num="52" Dir="Down" Ans="ISIS">Pompeii's Temple of ___</Clue>
+      <Clue Row="12" Col="8" Num="53" Dir="Down" Ans="SANK">Made, as a putt</Clue>
+      <Clue Row="12" Col="16" Num="55" Dir="Down" Ans="PERT">Fresh</Clue>
+      <Clue Row="13" Col="9" Num="57" Dir="Down" Ans="YES">Shortest Magic 8 Ball response</Clue>
+    </Clues>
+    <JimNotes><![CDATA[I play in a Hamilton tribute band so LIN-MANUEL MIRANDA is a big part of my life, but I wasn't expecting to see that name in a daily puzzle. It's 16-letters long. Finn Vigeland didn't care, making room for ZOMBIE APOCALYPSE too. Bravo.]]></JimNotes>
+    <JeffNotes><![CDATA[<p>Loved it! I&#39;m always nervous when I see a triple-stack &mdash; way too much crossword glue usually needed, destroying elegance &mdash; but this one was a delight. I mean, ZOMBIE APOCALYPSE! I admit that &quot;28 Days Later&quot; scared the bejeezus out of me, and let&#39;s not even mention &quot;World War Z,&quot; but ZOMBIE APOCALYPSE is a feature entry I would have loved to debut.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Lin-Manuel_Miranda" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Lin-Manuel_Miranda_in_Hamilton.jpg/440px-Lin-Manuel_Miranda_in_Hamilton.jpg" style="border:1px solid lightgray; float:right; height:171px; margin:6px 0px 6px 12px; width:220px" title="Anyone who can pull off the revolutionary look is okay in my book!" /></a></p>
+
+<p>Plus LIN-MANUEL MIRANDA, the guy behind &quot;Hamilton&quot;? IN ALL PROBABILITY, this might be one of my favorite triple-stacks of all time. Especially considering Finn pulled it off with just an INO and the DTS.</p>
+
+<p>Okay, I admit I didn&#39;t know Miranda until people made fun of me for that at the ACPT a few years ago. But now I know him! Prolific writer, even hosting SNL. Amazing guy.</p>
+
+<p>And Finn kept the rest of the grid wide open, running the awesome MLB DRAFT, GOLDEN PEN (didn&#39;t know it, but what a great award name!), LIBATIONS, THESSALY through the stack. Such flowing grid design, never bottlenecking.</p>
+
+<p>Heck, even the NW and SE corners have some sizzle, especially that SE with SWIFFER, SOLO CUP, and D LIST. The NW didn&#39;t have much sparkle, but the clue for ORGAN was awesome &mdash; [Player in a baseball stadium] is so innocently misdirectional.</p>
+
+<p>The one sticking point I had was LATE APRIL. We recently had MID MARCH, and I didn&#39;t like the arbitrary feel of that either. But if LATE APRIL (or APRIL SECOND or END OF APRIL or THIRD WEEK OF APRIL) was required to make the flowing grid keep flowing, I think it&#39;s an okay price to pay.</p>
+
+<p>This is one of my favorite themelesses in recent memory. Elegant to solve, visually stunning, and a technical marvel from a construction standpoint. I give it a Miranda-worthy Standing O.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>Go big or go home, right? For my first published triple-stack, I added an extra column to accommodate my long-time idol (and Twitter follower!) at 29-Across. I think he&#39;s worth it. Lin, I think your way with words would translate well to puzzle construction&mdash;let me know if you&#39;re interested!</p>
+
+<p>I&#39;m a bit sad to see the neutered clues on ZOMBIE APOCALYPSE&mdash;originally [Literary trope that&#39;s getting revived?]&mdash;and MLB DRAFT&mdash;[Occasion to cover one&#39;s bases, familiarly?]. I write a lot of themelesses for fun but often leave them sitting in my drafts folder without cluing them, so I guess I&#39;m still getting used to Will&#39;s style on late-week puzzles. I avoid partial phrases in my puzzles unless there&#39;s really no other option, so I was disappointed that 11-Across&#39;s clue change caused it to be reparsed from the Latin AMO to the two-word A MO. Other than these quibbles, I&#39;m quite pleased with the final version of this puzzle, which underwent several drafts over the last few years. Redoing themelesses until you finally get that golden fill is such a satisfying exercise, so I&#39;m glad I persisted on this one. </p>
+
+<p>Lastly, I&#39;m over the moon that this puzzle is coincidentally being published the same day as the Boston launch event for <em>Down and Across</em>, the debut novel of one of my best friends, Arvin Ahmadi. Arvin began writing the book when we were college roommates, and I&#39;m honored to have served as a bit of a puzzle consultant on it (and reader of several drafts). It&#39;s a great coming-of-age story with complex, diverse characters that will assuredly appeal to puzzle fans of all ages.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

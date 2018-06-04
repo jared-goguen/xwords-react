@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Sunday, March 11, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/10/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sun, Mar 11, 2018 IF FOUND, CALL ...</Title>
+    <Author>Matthew Sewell</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/11/2018</Date>
+    <Size>
+      <Rows>21</Rows>
+      <Cols>21</Cols>
+    </Size>
+    <Grid>
+      <Row>LOSTDOG.BECK..PREEMPT</Row>
+      <Row>ARMOIRE.ALOE.SHANTIES</Row>
+      <Row>TEARGAS.LINT.EASTASIA</Row>
+      <Row>...SIC.ELECT.NEPAL...</Row>
+      <Row>DOROTHYGALE.ADDIN.EBB</Row>
+      <Row>UNOS..OEDIPAL.REGALIA</Row>
+      <Row>BIB.ASKS..THEDARLINGS</Row>
+      <Row>YOYODIETER.ASU..EMOTE</Row>
+      <Row>ANNUAL.STETS.RATS.ROD</Row>
+      <Row>...TPKS.HAI.BAJA.RTE.</Row>
+      <Row>..LITTLEORPHANANNIE..</Row>
+      <Row>.BEE.IONS.SAY.RKOS...</Row>
+      <Row>BAA.PEER.GYROS.IMELDA</Row>
+      <Row>ABDUL..OPE.PUTONANACT</Row>
+      <Row>NICKANDNORA..OVID.SEA</Row>
+      <Row>NEARYOU.REDTAPE..SILL</Row>
+      <Row>SSR.MSNBC.JONARBUCKLE</Row>
+      <Row>...MACAO.MOUNT.AIR...</Row>
+      <Row>GOTOTOWN.EURO.LINEOUT</Row>
+      <Row>TEASERAD.TREY.UTTERED</Row>
+      <Row>ODYSSEY..ENDS.XSANDYS</Row>
+    </Grid>
+    <Shades>
+      <Shade Row="3" Col="15">gray</Shade>
+      <Shade Row="3" Col="16">gray</Shade>
+      <Shade Row="3" Col="17">gray</Shade>
+      <Shade Row="3" Col="18">gray</Shade>
+      <Shade Row="8" Col="4">gray</Shade>
+      <Shade Row="8" Col="5">gray</Shade>
+      <Shade Row="8" Col="6">gray</Shade>
+      <Shade Row="8" Col="7">gray</Shade>
+      <Shade Row="14" Col="16">gray</Shade>
+      <Shade Row="14" Col="17">gray</Shade>
+      <Shade Row="14" Col="18">gray</Shade>
+      <Shade Row="14" Col="19">gray</Shade>
+      <Shade Row="19" Col="3">gray</Shade>
+      <Shade Row="19" Col="4">gray</Shade>
+      <Shade Row="19" Col="5">gray</Shade>
+      <Shade Row="19" Col="6">gray</Shade>
+      <Shade Row="21" Col="16">gray</Shade>
+      <Shade Row="21" Col="17">gray</Shade>
+      <Shade Row="21" Col="18">gray</Shade>
+      <Shade Row="21" Col="19">gray</Shade>
+      <Shade Row="21" Col="20">gray</Shade>
+    </Shades>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="LOSTDOG">Heading on a neighborhood poster</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Across" Ans="BECK">Radio personality Glenn</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Across" Ans="PREEMPT">Bump, as from a schedule</Clue>
+      <Clue Row="2" Col="1" Num="19" Dir="Across" Ans="ARMOIRE">Standing closet</Clue>
+      <Clue Row="2" Col="9" Num="20" Dir="Across" Ans="ALOE">Poison ivy soother</Clue>
+      <Clue Row="2" Col="14" Num="21" Dir="Across" Ans="SHANTIES">Huts</Clue>
+      <Clue Row="3" Col="1" Num="22" Dir="Across" Ans="TEARGAS">Anti-mob tool</Clue>
+      <Clue Row="3" Col="9" Num="23" Dir="Across" Ans="LINT">Dryer buildup</Clue>
+      <Clue Row="3" Col="14" Num="24" Dir="Across" Ans="EASTASIA">"1984" superstate</Clue>
+      <Clue Row="4" Col="4" Num="25" Dir="Across" Ans="SIC">"Get 'em!"</Clue>
+      <Clue Row="4" Col="8" Num="26" Dir="Across" Ans="ELECT">Power up?</Clue>
+      <Clue Row="4" Col="14" Num="27" Dir="Across" Ans="NEPAL">High land</Clue>
+      <Clue Row="5" Col="1" Num="28" Dir="Across" Ans="DOROTHYGALE">Last seen riding in a basket. If found, call ___ [see 106-Across]</Clue>
+      <Clue Row="5" Col="13" Num="32" Dir="Across" Ans="ADDIN">Mix with</Clue>
+      <Clue Row="5" Col="19" Num="33" Dir="Across" Ans="EBB">Fall off</Clue>
+      <Clue Row="6" Col="1" Num="36" Dir="Across" Ans="UNOS">Pizzeria chain, casually</Clue>
+      <Clue Row="6" Col="7" Num="37" Dir="Across" Ans="OEDIPAL">Like a certain Freudian complex</Clue>
+      <Clue Row="6" Col="15" Num="39" Dir="Across" Ans="REGALIA">Graduation attire</Clue>
+      <Clue Row="7" Col="1" Num="41" Dir="Across" Ans="BIB">It goes around the neck</Clue>
+      <Clue Row="7" Col="5" Num="42" Dir="Across" Ans="ASKS">Doesn't just assume</Clue>
+      <Clue Row="7" Col="11" Num="44" Dir="Across" Ans="THEDARLINGS">Last seen in the nursery. If found, call ___ [see 84-Across]</Clue>
+      <Clue Row="8" Col="1" Num="46" Dir="Across" Ans="YOYODIETER">One who can't keep weight off for long</Clue>
+      <Clue Row="8" Col="12" Num="50" Dir="Across" Ans="ASU">Tempe sch.</Clue>
+      <Clue Row="8" Col="17" Num="51" Dir="Across" Ans="EMOTE">Scream or bawl, e.g.</Clue>
+      <Clue Row="9" Col="1" Num="52" Dir="Across" Ans="ANNUAL">Like most holidays</Clue>
+      <Clue Row="9" Col="8" Num="53" Dir="Across" Ans="STETS">Reverses, as a deletion</Clue>
+      <Clue Row="9" Col="14" Num="55" Dir="Across" Ans="RATS">"Darn it all!"</Clue>
+      <Clue Row="9" Col="19" Num="58" Dir="Across" Ans="ROD">It may hold the line</Clue>
+      <Clue Row="10" Col="4" Num="59" Dir="Across" Ans="TPKS">Toll rds.</Clue>
+      <Clue Row="10" Col="9" Num="61" Dir="Across" Ans="HAI">Yokohama "yes"</Clue>
+      <Clue Row="10" Col="13" Num="62" Dir="Across" Ans="BAJA">Tijuana setting, informally</Clue>
+      <Clue Row="10" Col="18" Num="63" Dir="Across" Ans="RTE">Postal abbr. for a rural address</Clue>
+      <Clue Row="11" Col="3" Num="64" Dir="Across" Ans="LITTLEORPHANANNIE">Last seen with a red-haired girl. If found, call ___ [see 119-Across]</Clue>
+      <Clue Row="12" Col="2" Num="68" Dir="Across" Ans="BEE">Drone, for one</Clue>
+      <Clue Row="12" Col="6" Num="69" Dir="Across" Ans="IONS">Cyclotron bits</Clue>
+      <Clue Row="12" Col="11" Num="70" Dir="Across" Ans="SAY">"Here's an idea ..."</Clue>
+      <Clue Row="12" Col="15" Num="71" Dir="Across" Ans="RKOS">Some bygone theaters</Clue>
+      <Clue Row="13" Col="1" Num="72" Dir="Across" Ans="BAA">Bleat</Clue>
+      <Clue Row="13" Col="5" Num="73" Dir="Across" Ans="PEER">Confrere</Clue>
+      <Clue Row="13" Col="10" Num="74" Dir="Across" Ans="GYROS">Food cart offerings</Clue>
+      <Clue Row="13" Col="16" Num="76" Dir="Across" Ans="IMELDA">One of the Marcoses of the Philippines</Clue>
+      <Clue Row="14" Col="1" Num="80" Dir="Across" Ans="ABDUL">Alphabetically first "American Idol" judge across all 16 seasons</Clue>
+      <Clue Row="14" Col="8" Num="82" Dir="Across" Ans="OPE">Go from bud to blossom, to a poet</Clue>
+      <Clue Row="14" Col="12" Num="84" Dir="Across" Ans="PUTONANACT">Pretend</Clue>
+      <Clue Row="15" Col="1" Num="86" Dir="Across" Ans="NICKANDNORA">Last seen chasing down clues. If found, call ___ [see 24-Across]</Clue>
+      <Clue Row="15" Col="14" Num="90" Dir="Across" Ans="OVID">Poet who wrote of Daedalus</Clue>
+      <Clue Row="15" Col="19" Num="91" Dir="Across" Ans="SEA">___-green</Clue>
+      <Clue Row="16" Col="1" Num="92" Dir="Across" Ans="NEARYOU">Theme song of Milton Berle</Clue>
+      <Clue Row="16" Col="9" Num="93" Dir="Across" Ans="REDTAPE">Forms, forms and more forms</Clue>
+      <Clue Row="16" Col="18" Num="96" Dir="Across" Ans="SILL">Sash supporter</Clue>
+      <Clue Row="17" Col="1" Num="97" Dir="Across" Ans="SSR">Any of the Baltic states, once: Abbr.</Clue>
+      <Clue Row="17" Col="5" Num="98" Dir="Across" Ans="MSNBC">What's left on TV?</Clue>
+      <Clue Row="17" Col="11" Num="100" Dir="Across" Ans="JONARBUCKLE">Last seen being mocked by a cat. If found, call ___ [see 46-Across]</Clue>
+      <Clue Row="18" Col="4" Num="103" Dir="Across" Ans="MACAO">Gambling mecca</Clue>
+      <Clue Row="18" Col="10" Num="104" Dir="Across" Ans="MOUNT">Increase</Clue>
+      <Clue Row="18" Col="16" Num="105" Dir="Across" Ans="AIR">Lilt</Clue>
+      <Clue Row="19" Col="1" Num="106" Dir="Across" Ans="GOTOTOWN">Proceed enthusiastically</Clue>
+      <Clue Row="19" Col="10" Num="109" Dir="Across" Ans="EURO">Symbol gotten by typing Option+Shift+2</Clue>
+      <Clue Row="19" Col="15" Num="110" Dir="Across" Ans="LINEOUT">Hit straight to the shortstop, perhaps</Clue>
+      <Clue Row="20" Col="1" Num="114" Dir="Across" Ans="TEASERAD">Promo</Clue>
+      <Clue Row="20" Col="10" Num="115" Dir="Across" Ans="TREY">War loser, usually</Clue>
+      <Clue Row="20" Col="15" Num="116" Dir="Across" Ans="UTTERED">Declared</Clue>
+      <Clue Row="21" Col="1" Num="117" Dir="Across" Ans="ODYSSEY">Storied journey</Clue>
+      <Clue Row="21" Col="10" Num="118" Dir="Across" Ans="ENDS">Puts the kibosh on</Clue>
+      <Clue Row="21" Col="15" Num="119" Dir="Across" Ans="XSANDYS">Algebraic variables</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="LAT">Rowing muscle, for short</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ORE">Iron Range product</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="SMA">Wee, to a Scot</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="TORSOS">Chests' places</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="DIGIT">Sudoku entry</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="ORACH">Herb resembling spinach</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="GES">Some kitchen appliances, for short</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="BALLAD">Adele's "Someone Like You," e.g.</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="ELIELI">Hebrew for "My God! My God!"</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="CONCEPT">Idea</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="KETT">Etta of old comics</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="PHAEDRA">Sister of Ariadne</Clue>
+      <Clue Row="1" Col="16" Num="13" Dir="Down" Ans="RASPIER">More hoarse</Clue>
+      <Clue Row="1" Col="17" Num="14" Dir="Down" Ans="ENTANGLES">Snares</Clue>
+      <Clue Row="1" Col="18" Num="15" Dir="Down" Ans="ETAL">List-reducing abbr.</Clue>
+      <Clue Row="1" Col="19" Num="16" Dir="Down" Ans="MIS">Prefix with play and place</Clue>
+      <Clue Row="1" Col="20" Num="17" Dir="Down" Ans="PEI">Charlottetown's prov.</Clue>
+      <Clue Row="1" Col="21" Num="18" Dir="Down" Ans="TSA">Checkpoint org.</Clue>
+      <Clue Row="2" Col="14" Num="21" Dir="Down" Ans="SEND">Post</Clue>
+      <Clue Row="4" Col="8" Num="26" Dir="Down" Ans="EGESTS">Discharges</Clue>
+      <Clue Row="5" Col="1" Num="28" Dir="Down" Ans="DUBYA">43</Clue>
+      <Clue Row="5" Col="2" Num="29" Dir="Down" Ans="ONION">Kind of dip</Clue>
+      <Clue Row="5" Col="3" Num="30" Dir="Down" Ans="ROBYN">One-named Swedish singer with the Grammy-nominated song "Dancing on My Own"</Clue>
+      <Clue Row="5" Col="7" Num="31" Dir="Down" Ans="YOKE">It goes around the neck</Clue>
+      <Clue Row="5" Col="13" Num="32" Dir="Down" Ans="ALES">Inn stock</Clue>
+      <Clue Row="5" Col="19" Num="33" Dir="Down" Ans="ELNORTE">The U.S., to Mexicans</Clue>
+      <Clue Row="5" Col="20" Num="34" Dir="Down" Ans="BIGTOE">Hallux, more familiarly</Clue>
+      <Clue Row="5" Col="21" Num="35" Dir="Down" Ans="BASED">Stationed (at)</Clue>
+      <Clue Row="6" Col="12" Num="38" Dir="Down" Ans="AHAS">Clicking sounds?</Clue>
+      <Clue Row="6" Col="18" Num="40" Dir="Down" Ans="AIM">Gold medal, to an Olympian</Clue>
+      <Clue Row="7" Col="5" Num="42" Dir="Down" Ans="ADAPT">Repurpose</Clue>
+      <Clue Row="7" Col="6" Num="43" Dir="Down" Ans="SILKTIE">Dressy accessory</Clue>
+      <Clue Row="7" Col="14" Num="45" Dir="Down" Ans="DURAN">Boxing champ Roberto</Clue>
+      <Clue Row="8" Col="4" Num="47" Dir="Down" Ans="OUTIE">Navel type</Clue>
+      <Clue Row="8" Col="9" Num="48" Dir="Down" Ans="ETHOS">Cultural values</Clue>
+      <Clue Row="8" Col="10" Num="49" Dir="Down" Ans="REAR">Where the engine is in a Porsche 911</Clue>
+      <Clue Row="9" Col="11" Num="54" Dir="Down" Ans="TIPSY">A bit stiff</Clue>
+      <Clue Row="9" Col="15" Num="56" Dir="Down" Ans="AJAR">A bit cracked</Clue>
+      <Clue Row="9" Col="16" Num="57" Dir="Down" Ans="TANKINI">Modest two-piece swimsuit</Clue>
+      <Clue Row="10" Col="7" Num="60" Dir="Down" Ans="SLOE">Sharply sour fruit</Clue>
+      <Clue Row="10" Col="13" Num="62" Dir="Down" Ans="BAYOU">Ecosystem endangered by global warming</Clue>
+      <Clue Row="10" Col="18" Num="63" Dir="Down" Ans="RISEN">Up</Clue>
+      <Clue Row="11" Col="3" Num="64" Dir="Down" Ans="LEADCAR">Pacer</Clue>
+      <Clue Row="11" Col="8" Num="65" Dir="Down" Ans="ENRON">2000s corporate scandal subject</Clue>
+      <Clue Row="11" Col="12" Num="66" Dir="Down" Ans="HARP">Heavenly sound?</Clue>
+      <Clue Row="11" Col="17" Num="67" Dir="Down" Ans="NOMAD">Vagabond</Clue>
+      <Clue Row="12" Col="2" Num="68" Dir="Down" Ans="BABIES">Coddles</Clue>
+      <Clue Row="13" Col="1" Num="72" Dir="Down" Ans="BANNS">Marriage announcement</Clue>
+      <Clue Row="13" Col="5" Num="73" Dir="Down" Ans="PLAYMATES">Some centerfolds</Clue>
+      <Clue Row="13" Col="10" Num="74" Dir="Down" Ans="GERE">Golden Globe-winning actor for "Chicago"</Clue>
+      <Clue Row="13" Col="14" Num="75" Dir="Down" Ans="STOPAT">Visit during a trip</Clue>
+      <Clue Row="13" Col="19" Num="77" Dir="Down" Ans="LASIK">Vision-correcting procedure</Clue>
+      <Clue Row="13" Col="20" Num="78" Dir="Down" Ans="DCELL">Big battery</Clue>
+      <Clue Row="13" Col="21" Num="79" Dir="Down" Ans="ATALE">Subtitle of Hawthorne's "Fanshawe"</Clue>
+      <Clue Row="14" Col="4" Num="81" Dir="Down" Ans="UKR">Former part of the U.S.S.R.: Abbr.</Clue>
+      <Clue Row="14" Col="9" Num="83" Dir="Down" Ans="PORC">Alternative to boeuf or jambon</Clue>
+      <Clue Row="14" Col="15" Num="85" Dir="Down" Ans="OVER">[continued]</Clue>
+      <Clue Row="15" Col="6" Num="87" Dir="Down" Ans="NOSCORE">Love all around?</Clue>
+      <Clue Row="15" Col="7" Num="88" Dir="Down" Ans="DUNAWAY">Actress Faye</Clue>
+      <Clue Row="15" Col="11" Num="89" Dir="Down" Ans="ADJOURN">Stop for now</Clue>
+      <Clue Row="16" Col="12" Num="94" Dir="Down" Ans="TOURED">Saw the sights</Clue>
+      <Clue Row="16" Col="13" Num="95" Dir="Down" Ans="ANNOYS">Ruffles</Clue>
+      <Clue Row="16" Col="18" Num="96" Dir="Down" Ans="SCREEN">Moviedom</Clue>
+      <Clue Row="17" Col="8" Num="99" Dir="Down" Ans="BOND">My word, maybe</Clue>
+      <Clue Row="17" Col="16" Num="101" Dir="Down" Ans="BAITS">Lures</Clue>
+      <Clue Row="17" Col="17" Num="102" Dir="Down" Ans="UINTA">Utah's ___ Mountains</Clue>
+      <Clue Row="18" Col="4" Num="103" Dir="Down" Ans="MOSS">Some greenery that's not grass</Clue>
+      <Clue Row="18" Col="10" Num="104" Dir="Down" Ans="METE">Parcel (out)</Clue>
+      <Clue Row="19" Col="1" Num="106" Dir="Down" Ans="GTO">'60s Pontiac</Clue>
+      <Clue Row="19" Col="2" Num="107" Dir="Down" Ans="OED">Webster's Third competitor, for short</Clue>
+      <Clue Row="19" Col="3" Num="108" Dir="Down" Ans="TAY">Scotland's longest river</Clue>
+      <Clue Row="19" Col="15" Num="110" Dir="Down" Ans="LUX">Start of Yale's motto</Clue>
+      <Clue Row="19" Col="19" Num="111" Dir="Down" Ans="ORD">Chicago terminal code</Clue>
+      <Clue Row="19" Col="20" Num="112" Dir="Down" Ans="UEY">Double-back move</Clue>
+      <Clue Row="19" Col="21" Num="113" Dir="Down" Ans="TDS">QB's tally</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>LOST DOGs, their owners listed as theme answers, and the DOGs hidden. Well, &quot;hidden,&quot; since the clues for the owners points out exactly where to find them.</p>
+
+<p>Huh.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/The_Thin_Man_(film)" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/The_Thin_Man_1934_Poster.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:167px" title="I think that's NICK AND NORA?" /></a></p>
+
+<p>Loved the DOROTHY GALE / TOTO pairing, and a solid finding of TOTO within GO TO TOWN. Both the owner and dog easily recognizable. (I didn&#39;t know DOROTHY&#39;s last name was GALE, but it&#39;s so appropriate!)</p>
+
+<p>I was a big &quot;Garfield&quot; fan as a kid &ndash; OKAY FINE I STILL AM! &ndash; so ODIE and JON ARBUCKLE came easily. I can see how ODIE would be esoteric for some solvers.</p>
+
+<p>(BTW, if you haven&#39;t read <a href="http://garfieldminusgarfield.net/">&quot;Garfield Minus Garfield,&quot;</a> it&#39;s a surprisingly deep commentary on JON ARBUCKLE&#39;s life.)</p>
+
+<p>Speaking of esoteric, NANA? <a href="https://en.wikipedia.org/wiki/The_Darlings">THE DARLINGS</a>? Apparently they&#39;re the family from ... &quot;The Andy Griffith Show&quot;? I pride myself on old-time sitcom knowledge (I know, sad), but NANA wasn&#39;t something I knew (even sadder).</p>
+
+<p>Wait! Wikipedia, why dost thou lead me astray! Apparently the children in &quot;Peter Pan&quot; were also &quot;The Darlings.&quot;</p>
+
+<p>They had a dog?</p>
+
+<p>ASTA was familiar since it&#39;s one of those common bits of crossword glue. As a theme answer, though &hellip; it might do more for an older generation of solvers, fans of NICK AND NORA and &quot;The Thin Man.&quot;</p>
+
+<p>XS AND YS? Have I ever heard XS AND YS in any math class &hellip; maybe? Something like YEARS AND YEARS might have been better.</p>
+
+<p>With so much theme material, not a surprise to need some crossword glue to hold the puzzle together. I didn&#39;t mind most of it, the minor MIS, PEI, ORD stuff.</p>
+
+<p>But not so good to have SSR and UKR &ndash; with UKR clued using USSR! Yikes.</p>
+
+<p>I hate hate hate finishing with an error &mdash; BANNS (?) crossing NEAR YOU ... I couldn&#39;t force myself to believe that BANNS was a thing, so BANDS it was. DEAR YOU could be a song title, right?</p>
+
+<p>I do crosswords for that elation of eventually beating the puzzle. So disappointing to fail like this.</p>
+
+<p>Overall, a fun idea. But I wish there had been more familiar dogs &ndash; maybe open it up to cats too, to help with that? &ndash; and smoother execution.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>My suggested title for this puzzle was &quot;Gone Grr.&quot; I&#39;d guess that anybody who reads the NYT constructor comments knows that the puzzles are a team effort, and that editorial changes are made in hopes of hitting the right tone and balance for the audience. I&#39;m grateful for all the ways that process improves the final product &mdash; in this puzzle, for example, the clue for 80-Across is a great and fun addition to what I submitted (which is to say I wish I&#39;d thought of that).</p>
+
+<p>At the same time, the editorially-added clue for 73-Down gives me pause. I don&#39;t object to entries or clues that might touch on sex (3/3/18&#39;s NUDE SCENE with the ingenious clue &quot;Hot take?&quot; doesn&#39;t bother me), but I think PLAYMATES in the <em>Playboy </em>sense evokes an infantilizing attitude toward women that is not ok. I realize that others may respond to the clue differently.</p>
+
+<p>I asked if Will would consider changing it, and he replied with a gracious note to the effect that it was too late to revise, and anyway that <em>Playboy </em>Playmates are part of the world, and thus fair game for the puzzle. I understand that point. But insofar as the clues constitute a series of choices about what are interesting, clever, and/or suitable ways to lead to the correct entry, I think there&#39;s some importance to *which* way the puzzle chooses. In this case, it&#39;s not the path I would&#39;ve taken. Wherever solvers might come down on these issues, though, I hope they enjoyed the puzzle and had fun finding those missing four-legged friends.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

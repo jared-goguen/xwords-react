@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Wednesday, March 28, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/27/2018 at 7:10 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Wed, Mar 28, 2018</Title>
+    <Author>Peter Gordon</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/28/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>RAGS.ASIAN.LAKE</Row>
+      <Row>BPOE.SCALEMODEL</Row>
+      <Row>GREATSALTDESERT</Row>
+      <Row>..SLOAN...LILMO</Row>
+      <Row>ANSARI.AAA.NEIN</Row>
+      <Row>SATBOLTUPRIGHT.</Row>
+      <Row>OVAL..AROMA....</Row>
+      <Row>NEGEV.GIG.NADAL</Row>
+      <Row>....AISLE..LOGO</Row>
+      <Row>.KEPTQUIETABOUT</Row>
+      <Row>FARO.SPA.SNARES</Row>
+      <Row>OHARE...LEANN..</Row>
+      <Row>LASTBUTNOTLEAST</Row>
+      <Row>KNEEBRACES.SINE</Row>
+      <Row>SESS.NIOBE.ELLE</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="RAGS">Cloths used to collect dust</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="ASIAN">___ elephant</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="LAKE">Habitat for a trout</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="BPOE">Org. with a Grand Esteemed Loyal Knight</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="SCALEMODEL">Creation from a kit</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="GREATSALTDESERT">Part of Iran that can get quite hot</Clue>
+      <Clue Row="4" Col="3" Num="19" Dir="Across" Ans="SLOAN">Novelist Wilson who wrote "The Man in the Gray Flannel Suit"</Clue>
+      <Clue Row="4" Col="11" Num="20" Dir="Across" Ans="LILMO">Popular early 2000s R&amp;B artist</Clue>
+      <Clue Row="5" Col="1" Num="21" Dir="Across" Ans="ANSARI">Aziz of "Observe and Report"</Clue>
+      <Clue Row="5" Col="8" Num="23" Dir="Across" Ans="AAA">Org. to call for a jump-start</Clue>
+      <Clue Row="5" Col="12" Num="26" Dir="Across" Ans="NEIN">German dissent</Clue>
+      <Clue Row="6" Col="1" Num="27" Dir="Across" Ans="SATBOLTUPRIGHT">Suddenly showed interest</Clue>
+      <Clue Row="7" Col="1" Num="30" Dir="Across" Ans="OVAL">Shape for a locket</Clue>
+      <Clue Row="7" Col="7" Num="31" Dir="Across" Ans="AROMA">Scent</Clue>
+      <Clue Row="8" Col="1" Num="32" Dir="Across" Ans="NEGEV">Israeli region that includes Eilat</Clue>
+      <Clue Row="8" Col="7" Num="34" Dir="Across" Ans="GIG">Band engagement</Clue>
+      <Clue Row="8" Col="11" Num="35" Dir="Across" Ans="NADAL">2008 Olympic men's tennis gold medalist</Clue>
+      <Clue Row="9" Col="5" Num="40" Dir="Across" Ans="AISLE">Air passenger's request</Clue>
+      <Clue Row="9" Col="12" Num="42" Dir="Across" Ans="LOGO">Bull's-eye, for Target</Clue>
+      <Clue Row="10" Col="2" Num="43" Dir="Across" Ans="KEPTQUIETABOUT">Didn't speak of, as a touchy subject</Clue>
+      <Clue Row="11" Col="1" Num="48" Dir="Across" Ans="FARO">Game similar to baccarat</Clue>
+      <Clue Row="11" Col="6" Num="49" Dir="Across" Ans="SPA">Health resort</Clue>
+      <Clue Row="11" Col="10" Num="50" Dir="Across" Ans="SNARES">Catches in a net</Clue>
+      <Clue Row="12" Col="1" Num="51" Dir="Across" Ans="OHARE">Chicago airport</Clue>
+      <Clue Row="12" Col="9" Num="53" Dir="Across" Ans="LEANN">Rimes with the 2002 hit "Can't Fight the Moonlight"</Clue>
+      <Clue Row="13" Col="1" Num="54" Dir="Across" Ans="LASTBUTNOTLEAST">"Finally, though as important ..."</Clue>
+      <Clue Row="14" Col="1" Num="60" Dir="Across" Ans="KNEEBRACES">Supports for a lower joint</Clue>
+      <Clue Row="14" Col="12" Num="61" Dir="Across" Ans="SINE">___ qua non (essential element)</Clue>
+      <Clue Row="15" Col="1" Num="62" Dir="Across" Ans="SESS">Psychoanalysis appt.</Clue>
+      <Clue Row="15" Col="6" Num="63" Dir="Across" Ans="NIOBE">"Like ___, all tears": Hamlet</Clue>
+      <Clue Row="15" Col="12" Num="64" Dir="Across" Ans="ELLE">Fashion magazine that can be read from back to front?</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="RBG">"Notorious ___" (best seller about a member of the Supreme Court)</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="APR">First full month of D.S.T.</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="GOESSTAG">Attends without an escort</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="SEALABLE">Like something that can be closed tight</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="ASSAIL">Lash out at</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="SCAN">Digitize, as a document</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="IAL">Suffix with president</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="ALT">No. of concern in a cockpit</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="NED">Nascar Hall-of-Famer Jarrett</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="LOSING">Shedding, as weight</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="ADELEH">"The Story of ___" (1975 film by Truffaut)</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="KERMIT">"The Muppet Show" host</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="ELTON">Singer John who was born Reginald Dwight</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Down" Ans="MEL">Sitcom cook who said "Stow it!"</Clue>
+      <Clue Row="3" Col="5" Num="18" Dir="Down" Ans="TORO">Matador's opponent</Clue>
+      <Clue Row="5" Col="1" Num="21" Dir="Down" Ans="ASON">"Chacun ___ goût"</Clue>
+      <Clue Row="5" Col="2" Num="22" Dir="Down" Ans="NAVE">Basilica part</Clue>
+      <Clue Row="5" Col="8" Num="23" Dir="Down" Ans="AURILIA">Ballplayer Rich who started and ended his 15-year career as a Giant</Clue>
+      <Clue Row="5" Col="9" Num="24" Dir="Down" Ans="APOGEE">Farthest point in an orbit</Clue>
+      <Clue Row="5" Col="10" Num="25" Dir="Down" Ans="ARM">Pitcher's asset</Clue>
+      <Clue Row="6" Col="7" Num="28" Dir="Down" Ans="TAGSUP">Retouches after a fly ball is caught</Clue>
+      <Clue Row="6" Col="11" Num="29" Dir="Down" Ans="IAN">McKellen of "The Hobbit"</Clue>
+      <Clue Row="8" Col="5" Num="33" Dir="Down" Ans="VAT">Distillery sight</Clue>
+      <Clue Row="8" Col="12" Num="36" Dir="Down" Ans="ALBANESE">Soprano Licia who performed hundreds of times at the Met</Clue>
+      <Clue Row="8" Col="13" Num="37" Dir="Down" Ans="DOORNAIL">Something in a simile that's dead beyond doubt</Clue>
+      <Clue Row="8" Col="14" Num="38" Dir="Down" Ans="AGUE">Fever fit</Clue>
+      <Clue Row="8" Col="15" Num="39" Dir="Down" Ans="LOTS">Quite a bit</Clue>
+      <Clue Row="9" Col="6" Num="41" Dir="Down" Ans="IQS">Figs. on a Stanford-Binet test</Clue>
+      <Clue Row="10" Col="2" Num="43" Dir="Down" Ans="KAHANE">Rabbi Meir who served in the Knesset</Clue>
+      <Clue Row="10" Col="3" Num="44" Dir="Down" Ans="ERASES">Gets the lead out?</Clue>
+      <Clue Row="10" Col="4" Num="45" Dir="Down" Ans="PORTES">Doors, in Brest</Clue>
+      <Clue Row="10" Col="10" Num="46" Dir="Down" Ans="TSETSE">African pest</Clue>
+      <Clue Row="10" Col="11" Num="47" Dir="Down" Ans="ANAL">Fussy to a fault</Clue>
+      <Clue Row="11" Col="1" Num="48" Dir="Down" Ans="FOLKS">Final word in a Porky Pig short</Clue>
+      <Clue Row="12" Col="5" Num="52" Dir="Down" Ans="EBB">Tidal retreat</Clue>
+      <Clue Row="12" Col="9" Num="53" Dir="Down" Ans="LOEB">Leopold's 1924 co-defendant</Clue>
+      <Clue Row="13" Col="6" Num="55" Dir="Down" Ans="URN">Caterer's coffeepot</Clue>
+      <Clue Row="13" Col="7" Num="56" Dir="Down" Ans="TAI">Red snapper, at a sushi restaurant</Clue>
+      <Clue Row="13" Col="8" Num="57" Dir="Down" Ans="NCO">Cpl. or sgt.</Clue>
+      <Clue Row="13" Col="14" Num="58" Dir="Down" Ans="SNL">Fall '75 TV debut</Clue>
+      <Clue Row="13" Col="15" Num="59" Dir="Down" Ans="TEE">End of each word in 17-, 27-, 43- and 54-Across - as well as every clue (and that's a fact!)</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Who knew there were so many phrases where each word ended in T? Who would have even thought to search for those? I can imagine a constructor coming up with it if there was an actual term like FINALTIES. (T RUMP isn&#39;t bad though!) So kudos to Peter for uncovering a nice concept.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/The_Story_of_Adele_H." style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/c/cb/L%27histoire_d%27Ad%C3%A8le_H..jpg" style="border:1px solid lightgray; float:right; height:249px; margin:6px 0px 6px 12px; width:189px" title="Ah, It's ADELE H, not ADELEH!" /></a></p>
+
+<p>Oof, I had issues with the gridwork, though. I did love KNEE BRACES, SCALE MODEL, GOES STAG, even APOGEE. Great stuff, helping to enhance my solve.</p>
+
+<p>But it&#39;s so tough to fill a themeless-level grid (72 words) with regular theme density, color, and smoothness. It&#39;s an unholy trinity &ndash; you can pick two of those, but you can&#39;t achieve all three. I thought the puzzle suffered in the smoothness category.</p>
+
+<p>The worst for me as the LILMO / ADELEH crossing. I guessed correctly at this square, but I can see a case for many other letters seeming right.</p>
+
+<p>(Jim thought ADELE H ought to be a gimme, a famous work of one of the most impactful movie directors in history. So perhaps I ought to have known that one? Still undecided.)</p>
+
+<p>Then there was ASON. SESS. IAL. AGUE. FARO crossing KAHANE.</p>
+
+<p>Constructors have to make trade-off calls on every puzzle they build. Going to a low word count didn&#39;t work for me in this one; the high prices to pay = not my cup of T.</p>
+
+<p>BTW, all the clues end in T. That didn&#39;t do much for me, since lots and lots of words end in T, making the feat not so impressive.</p>
+
+<p>But I did enjoy the themer findings, the concept itself a delighT.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>The idea for this puzzle came while testing a hangman book for Puzzlewright. The answer to one puzzle was LAST BUT NOT LEAST, and when I noticed that each of the four words ended with a T, I thought I could maybe make a theme out of that. I tried to find other letters that ended all the words in a four-word phrase but got nowhere fast. So then I went back to T and tried to come up with three-word phrases with the same trait. Having three three-word phrases followed by LAST BUT NOT LEAST, which describes itself, felt quite apt.</p>
+
+<p>Having no other T&#39;s anywhere in the grid was, I felt, important. Will Shortz wasn&#39;t particular about that, but asked if I could make every clue end in a T. Having made <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.xwordinfo.com/Crossword?date%3D3/2/2017&amp;source=gmail&amp;ust=1522010729454000&amp;usg=AFQjCNEiWkjc32tZFxO8ftYF9MN8iDA3NQ" href="https://www.xwordinfo.com/Crossword?date=3/2/2017" style="color:#1155cc">a puzzle where every clue was a double dactyl</a>, I figured (correctly) that making one where all the clues ended in a T would be no sweat. Using no other T&#39;s in the grid was a much tougher constraint. But for the clues ending in T, I had the additional self-imposed rule that all of the T-ending words had to be different. With that rule, it was no easy feat.<br />
+<br />
+I had KEGEL (Exercise-developing gynecologist) at 32-Across, making 21-Down ASOK (Intern in &quot;Dilbert&quot;) and 33-Down LAT (Muscle next to a delt). I prefer the ASOK/KEGEL crossing to the partial at 21-Down, but &quot;chacun &agrave; son go&ucirc;t,&quot; right?<br />
+<br />
+Here&#39;s a little puzzle to think about. When a puzzle gets collected into a book, a title often gets added, so I like to suggest a title when I submit it. Can you guess the title I have in mind for this puzzle from this hint? Take the last name of a U.S. president. Add a space so that the last four letters are separate from the first. Still don&#39;t have it at this point? He&#39;s a president who likes to tweet.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

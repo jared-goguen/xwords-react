@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Monday, March 5, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/4/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Mon, Mar 05, 2018</Title>
+    <Author>Lynn Lempel</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/5/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>COBRA.BRASH.COY</Row>
+      <Row>ARIES.ROUTE.HMO</Row>
+      <Row>CITYSLICKER.RIG</Row>
+      <Row>HOE.AIDS.TOYOTA</Row>
+      <Row>ENSUING.ASIAN..</Row>
+      <Row>...BLUESTOCKING</Row>
+      <Row>EMCEES.WON..CEO</Row>
+      <Row>BOARD.JAM.PALED</Row>
+      <Row>BOP..BUY.LONERS</Row>
+      <Row>STUFFEDSHIRT...</Row>
+      <Row>..CURRY.UNKEMPT</Row>
+      <Row>GEHRIG.ANDY.AAA</Row>
+      <Row>AMI.SMARTYPANTS</Row>
+      <Row>GUN.KATIE.INLET</Row>
+      <Row>ASS.SNEAD.GAYLE</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="COBRA">Snake charmer's snake</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="BRASH">Pushy</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Across" Ans="COY">Coquettishly playful</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="ARIES">First zodiac sign</Clue>
+      <Clue Row="2" Col="7" Num="15" Dir="Across" Ans="ROUTE">Highway</Clue>
+      <Clue Row="2" Col="13" Num="16" Dir="Across" Ans="HMO">Network of medical providers, in brief</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="CITYSLICKER">Country bumpkin's counterpart</Clue>
+      <Clue Row="3" Col="13" Num="19" Dir="Across" Ans="RIG">Oil-drilling apparatus</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="HOE">Weed-whacking tool</Clue>
+      <Clue Row="4" Col="5" Num="21" Dir="Across" Ans="AIDS">Assists</Clue>
+      <Clue Row="4" Col="10" Num="22" Dir="Across" Ans="TOYOTA">Prius maker</Clue>
+      <Clue Row="5" Col="1" Num="24" Dir="Across" Ans="ENSUING">Following</Clue>
+      <Clue Row="5" Col="9" Num="26" Dir="Across" Ans="ASIAN">From Shanghai or Mumbai, say</Clue>
+      <Clue Row="6" Col="4" Num="27" Dir="Across" Ans="BLUESTOCKING">Woman having literary interests</Clue>
+      <Clue Row="7" Col="1" Num="31" Dir="Across" Ans="EMCEES">Hosts for roasts</Clue>
+      <Clue Row="7" Col="8" Num="34" Dir="Across" Ans="WON">Carried the day</Clue>
+      <Clue Row="7" Col="13" Num="35" Dir="Across" Ans="CEO">Corporate head, for short</Clue>
+      <Clue Row="8" Col="1" Num="36" Dir="Across" Ans="BOARD">Group choosing a 35-Across</Clue>
+      <Clue Row="8" Col="7" Num="37" Dir="Across" Ans="JAM">Smucker's product</Clue>
+      <Clue Row="8" Col="11" Num="38" Dir="Across" Ans="PALED">Grew ashen</Clue>
+      <Clue Row="9" Col="1" Num="40" Dir="Across" Ans="BOP">Hit on the head</Clue>
+      <Clue Row="9" Col="6" Num="41" Dir="Across" Ans="BUY">Ad exhortation</Clue>
+      <Clue Row="9" Col="10" Num="42" Dir="Across" Ans="LONERS">Solitary sorts</Clue>
+      <Clue Row="10" Col="1" Num="43" Dir="Across" Ans="STUFFEDSHIRT">Pompous person</Clue>
+      <Clue Row="11" Col="3" Num="47" Dir="Across" Ans="CURRY">Usually spicy Indian dish</Clue>
+      <Clue Row="11" Col="9" Num="48" Dir="Across" Ans="UNKEMPT">Disheveled</Clue>
+      <Clue Row="12" Col="1" Num="52" Dir="Across" Ans="GEHRIG">Lou on six winning World Series teams</Clue>
+      <Clue Row="12" Col="8" Num="54" Dir="Across" Ans="ANDY">Soup can painter Warhol</Clue>
+      <Clue Row="12" Col="13" Num="55" Dir="Across" Ans="AAA">Motorists' org.</Clue>
+      <Clue Row="13" Col="1" Num="56" Dir="Across" Ans="AMI">"How ___ doing?"</Clue>
+      <Clue Row="13" Col="5" Num="57" Dir="Across" Ans="SMARTYPANTS">Know-it-all</Clue>
+      <Clue Row="14" Col="1" Num="60" Dir="Across" Ans="GUN">Smith &amp; Wesson product</Clue>
+      <Clue Row="14" Col="5" Num="61" Dir="Across" Ans="KATIE">Swimming phenom Ledecky</Clue>
+      <Clue Row="14" Col="11" Num="62" Dir="Across" Ans="INLET">Fjord, e.g.</Clue>
+      <Clue Row="15" Col="1" Num="63" Dir="Across" Ans="ASS">He hee-haws</Clue>
+      <Clue Row="15" Col="5" Num="64" Dir="Across" Ans="SNEAD">Slammin' Sammy of golf</Clue>
+      <Clue Row="15" Col="11" Num="65" Dir="Across" Ans="GAYLE">King on "CBS This Morning"</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="CACHE">Hidden stash</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ORION">Hunter in the night sky</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="BITES">What fishermen want from fish but not from mosquitoes</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="REY">Heroine of "Star Wars: The Last Jedi"</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="ASSAILED">Attacked vigorously</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="BRIDGE">What you might come across at a river?</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="ROCS">Fierce fliers of myth</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="AUK">Diving bird of the Arctic</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="STETSON">High, wide-brimmed hat</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="HEROIC">Brave</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="CHRONICLE">Historical account</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="OMIT">Skip</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="YOGA">Hindu-inspired exercise</Clue>
+      <Clue Row="3" Col="6" Num="18" Dir="Down" Ans="LINUS">"Peanuts" boy with a security blanket</Clue>
+      <Clue Row="4" Col="12" Num="23" Dir="Down" Ans="YAK">Shaggy Tibetan beast</Clue>
+      <Clue Row="5" Col="4" Num="25" Dir="Down" Ans="UBER">Cab company competitor</Clue>
+      <Clue Row="5" Col="9" Num="26" Dir="Down" Ans="ATOM">Elemental bit</Clue>
+      <Clue Row="6" Col="8" Num="28" Dir="Down" Ans="SWAYS">Persuades</Clue>
+      <Clue Row="6" Col="14" Num="29" Dir="Down" Ans="NEER">___-do-well</Clue>
+      <Clue Row="6" Col="15" Num="30" Dir="Down" Ans="GODS">Mount Olympus residents</Clue>
+      <Clue Row="7" Col="1" Num="31" Dir="Down" Ans="EBBS">Subsides</Clue>
+      <Clue Row="7" Col="2" Num="32" Dir="Down" Ans="MOOT">No longer relevant</Clue>
+      <Clue Row="7" Col="3" Num="33" Dir="Down" Ans="CAPUCHINS">Monkeys named for monks</Clue>
+      <Clue Row="8" Col="7" Num="37" Dir="Down" Ans="JUDY">Children's writer Blume</Clue>
+      <Clue Row="8" Col="11" Num="38" Dir="Down" Ans="PORKYPIG">Looney Tunes character who says "Th-th-th-that's all, folks!"</Clue>
+      <Clue Row="8" Col="12" Num="39" Dir="Down" Ans="ANTE">Card game stake</Clue>
+      <Clue Row="9" Col="6" Num="41" Dir="Down" Ans="BERGMAN">Ingmar who directed "The Seventh Seal"</Clue>
+      <Clue Row="9" Col="10" Num="42" Dir="Down" Ans="LINDY">Lucky ___ (nickname for the Spirit of St. Louis pilot)</Clue>
+      <Clue Row="10" Col="4" Num="44" Dir="Down" Ans="FUR">Taboo for PETA</Clue>
+      <Clue Row="10" Col="5" Num="45" Dir="Down" Ans="FRISKS">Pats down, as a suspect</Clue>
+      <Clue Row="10" Col="9" Num="46" Dir="Down" Ans="HUNTED">Pursued, as prey</Clue>
+      <Clue Row="11" Col="13" Num="49" Dir="Down" Ans="MANLY">Virile</Clue>
+      <Clue Row="11" Col="14" Num="50" Dir="Down" Ans="PATEL">Dev who starred in 2016's "Lion"</Clue>
+      <Clue Row="11" Col="15" Num="51" Dir="Down" Ans="TASTE">One of the five senses</Clue>
+      <Clue Row="12" Col="1" Num="52" Dir="Down" Ans="GAGA">Infatuated</Clue>
+      <Clue Row="12" Col="2" Num="53" Dir="Down" Ans="EMUS">Birds on Australian coins</Clue>
+      <Clue Row="12" Col="8" Num="54" Dir="Down" Ans="ARIA">Operatic solo</Clue>
+      <Clue Row="13" Col="7" Num="58" Dir="Down" Ans="ATE">Cleaned one's plate</Clue>
+      <Clue Row="13" Col="12" Num="59" Dir="Down" Ans="ANA">Santa ___ winds</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Phrases in the form of (adjective + article of clothing = slang term for a person). I&#39;ve seen related themes, using STUFFED SHIRT and SMARTY PANTS. But most of them have been much looser, including stuff like MOVIE SHORTS, YELLOW JACKET, BLACK HAT, etc. So I like the added level of tightness today.</p>
+
+<p>BLUESTOCKING was a new term to me. Fascinating to read up on the history of the Blue Stockings Society, a women&#39;s pro-education movement.</p>
+
+<p>I had a hard time figuring out if CITY SLICKER was out of place, as the only one where the article of clothing changed meaning. But SMARTY PANTS &hellip; appears not to be related to the PANTS one wears? Not sure.</p>
+
+<p>As usual, Lynn gives us <a href="https://en.wikipedia.org/wiki/Elizabeth_Montagu" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Lady_Elizabeth_Montagu%2C_Duchess_of_Buccleuch_and_Queensberry_%281718-1800%29.jpg/440px-Lady_Elizabeth_Montagu%2C_Duchess_of_Buccleuch_and_Queensberry_%281718-1800%29.jpg" style="border:1px solid lightgray; float:left; height:250px; margin:6px 12px 6px 0px; width:201px" title="One of the leaders of the BLUE STOCKINGs Society" /></a>a solid Monday grid. A couple of nice bonuses in PORKY PIG, CAPUCHINS, CHRONICLE. Nothing amazing, but all in all, enough bonuses to keep up my interest.</p>
+
+<p>Most important for a Monday is that it&#39;s accessible to a newer solver, and this one *mostly* fits the bill. Short fill is usually where constructors fall off the wagon, but with just a bit of NEER &ndash; minor, since NEER-do-well is a common enough phrase &ndash; it&#39;s super smooth. Yay!</p>
+
+<p>(There&#39;s an argument to be made that ROCS / AUK might be tricky, but I think these words ought to at least look familiar to educated solvers.)</p>
+
+<p>If it hadn&#39;t been for BLUESTOCKING &hellip; the last thing you want to do as a constructor is to turn off newer solvers, and I wonder if newbs might scratch their heads even after a correct solve, wondering if they need to know stuff like this to be successful at crosswords.</p>
+
+<p>I wondered if BLACK HAT would have been a better inclusion, but stupid crossword symmetry wouldn&#39;t have allowed for that. I couldn&#39;t think of any others to match either BLACK HAT or STUFFED SHIRT. Drat! I suppose I hesitatingly would have ended up making the same decision Lynn did.</p>
+
+<p>Someone make up another term already to appease the crossword gods! How about ... MUSTACHIOED SHORTS (describing a lover of enigmatology, of course)?</p>]]></JeffNotes>
+  </Puzzle>
+</Puzzles>

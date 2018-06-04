@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Friday, January 26, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/26/2018 at 5:41 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Fri, Jan 26, 2018</Title>
+    <Author>Caleb Madison</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/26/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>WIKILEAKS.SPLIT</Row>
+      <Row>ONADOWNER.IRONS</Row>
+      <Row>RARECOINS.TORTA</Row>
+      <Row>DNA.AKON.CINDER</Row>
+      <Row>VITAL.NYRANGERS</Row>
+      <Row>OMELET..EROS...</Row>
+      <Row>MAKESAUTURN.CAP</Row>
+      <Row>ITIS.OPINE.HOBO</Row>
+      <Row>TED.SISTERWIVES</Row>
+      <Row>...APSE..EELERS</Row>
+      <Row>STILETTOS.TORRE</Row>
+      <Row>NAPLES.LOCK.BAS</Row>
+      <Row>ALOUD.HAWAIIANS</Row>
+      <Row>KIDDO.EVERSINCE</Row>
+      <Row>EASES.FIRESIDES</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="WIKILEAKS">Source of embarrassment for some public officials</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Across" Ans="SPLIT">Skedaddled</Clue>
+      <Clue Row="2" Col="1" Num="15" Dir="Across" Ans="ONADOWNER">How buzzkills end things</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Across" Ans="IRONS">Golfer's collection</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="RARECOINS">Numismatist's collection</Clue>
+      <Clue Row="3" Col="11" Num="18" Dir="Across" Ans="TORTA">Mexican sandwich</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="DNA">___ sample</Clue>
+      <Clue Row="4" Col="5" Num="20" Dir="Across" Ans="AKON">One-named singer with the 2007 #1 hit "Don't Matter"</Clue>
+      <Clue Row="4" Col="10" Num="21" Dir="Across" Ans="CINDER">Building block makeup</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="VITAL">Essential</Clue>
+      <Clue Row="5" Col="7" Num="24" Dir="Across" Ans="NYRANGERS">First U.S. team to win the N.H.L. Stanley Cup (1928)</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Across" Ans="OMELET">Diner order that gets filled?</Clue>
+      <Clue Row="6" Col="9" Num="28" Dir="Across" Ans="EROS">Life instinct, in psychology</Clue>
+      <Clue Row="7" Col="1" Num="29" Dir="Across" Ans="MAKESAUTURN">Reverses course</Clue>
+      <Clue Row="7" Col="13" Num="32" Dir="Across" Ans="CAP">Ceiling</Clue>
+      <Clue Row="8" Col="1" Num="35" Dir="Across" Ans="ITIS">"___ said ..."</Clue>
+      <Clue Row="8" Col="6" Num="36" Dir="Across" Ans="OPINE">Write a think piece, say</Clue>
+      <Clue Row="8" Col="12" Num="37" Dir="Across" Ans="HOBO">Drifter</Clue>
+      <Clue Row="9" Col="1" Num="38" Dir="Across" Ans="TED">___ Mosby, main role on "How I Met Your Mother"</Clue>
+      <Clue Row="9" Col="5" Num="39" Dir="Across" Ans="SISTERWIVES">Some polygamous figures</Clue>
+      <Clue Row="10" Col="4" Num="41" Dir="Across" Ans="APSE">Niche form of architecture?</Clue>
+      <Clue Row="10" Col="10" Num="42" Dir="Across" Ans="EELERS">Many workers in Japan's Lake Hamana</Clue>
+      <Clue Row="11" Col="1" Num="43" Dir="Across" Ans="STILETTOS">Sharp-looking footwear?</Clue>
+      <Clue Row="11" Col="11" Num="48" Dir="Across" Ans="TORRE">"The Yankee Years" memoirist</Clue>
+      <Clue Row="12" Col="1" Num="49" Dir="Across" Ans="NAPLES">Home of the first known pizza parlor</Clue>
+      <Clue Row="12" Col="8" Num="50" Dir="Across" Ans="LOCK">Certainty</Clue>
+      <Clue Row="12" Col="13" Num="52" Dir="Across" Ans="BAS">Some undergrad degs.</Clue>
+      <Clue Row="13" Col="1" Num="53" Dir="Across" Ans="ALOUD">Not just in one's head, say</Clue>
+      <Clue Row="13" Col="7" Num="54" Dir="Across" Ans="HAWAIIANS">Kamehameha Day observers</Clue>
+      <Clue Row="14" Col="1" Num="56" Dir="Across" Ans="KIDDO">Little buddy</Clue>
+      <Clue Row="14" Col="7" Num="57" Dir="Across" Ans="EVERSINCE">From that point on</Clue>
+      <Clue Row="15" Col="1" Num="58" Dir="Across" Ans="EASES">Simplifies</Clue>
+      <Clue Row="15" Col="7" Num="59" Dir="Across" Ans="FIRESIDES">Cozy curl-up spots</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="WORDVOMIT">Verbal outpouring, in slang</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="INANIMATE">Dead</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="KARATEKID">Sobriquet for filmdom's Daniel LaRusso, with "The"</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="IDE">Common suffix for 7-Downs</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="LOCALES">Areas</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="EWOK">Ursine sci-fi creature</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="ANION">Atom with an electronic imbalance</Clue>
+      <Clue Row="1" Col="8" Num="8" Dir="Down" Ans="KENNY">G in jazz</Clue>
+      <Clue Row="1" Col="9" Num="9" Dir="Down" Ans="SRS">Students with 300 and 400 classes: Abbr.</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="SITINON">Audit, as a class</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="PRONGS">Sticking points</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="LORDE">One-named singer with the 2013 #1 hit "Royals"</Clue>
+      <Clue Row="1" Col="14" Num="13" Dir="Down" Ans="INTER">Bury</Clue>
+      <Clue Row="1" Col="15" Num="14" Dir="Down" Ans="TSARS">Bulgaria's Simeon I and Simeon II</Clue>
+      <Clue Row="4" Col="10" Num="21" Dir="Down" Ans="CARRERE">Actress Tia of "Wayne's World"</Clue>
+      <Clue Row="5" Col="4" Num="23" Dir="Down" Ans="ALES">They have hops</Clue>
+      <Clue Row="5" Col="9" Num="25" Dir="Down" Ans="REUNE">Get back together</Clue>
+      <Clue Row="6" Col="6" Num="27" Dir="Down" Ans="TAOISTS">Ones who know the way?</Clue>
+      <Clue Row="7" Col="7" Num="30" Dir="Down" Ans="UPSET">Underdog victory</Clue>
+      <Clue Row="7" Col="8" Num="31" Dir="Down" Ans="TIT">"Blue" or "bearded" bird</Clue>
+      <Clue Row="7" Col="13" Num="32" Dir="Down" Ans="COVERBAND">Act without originality</Clue>
+      <Clue Row="7" Col="14" Num="33" Dir="Down" Ans="ABERRANCE">Deviation</Clue>
+      <Clue Row="7" Col="15" Num="34" Dir="Down" Ans="POSSESSES">Has hold of</Clue>
+      <Clue Row="8" Col="12" Num="37" Dir="Down" Ans="HILO">Stud poker variation, informally</Clue>
+      <Clue Row="9" Col="5" Num="39" Dir="Down" Ans="SPEEDOS">Skimpy swimwear</Clue>
+      <Clue Row="9" Col="11" Num="40" Dir="Down" Ans="WETKISS">Sloppy planting job?</Clue>
+      <Clue Row="10" Col="4" Num="41" Dir="Down" Ans="ALLUDE">Refer (to)</Clue>
+      <Clue Row="11" Col="1" Num="43" Dir="Down" Ans="SNAKE">Backstabber</Clue>
+      <Clue Row="11" Col="2" Num="44" Dir="Down" Ans="TALIA">___ al Ghul (Batman foe)</Clue>
+      <Clue Row="11" Col="3" Num="45" Dir="Down" Ans="IPODS">Devices that introduced the click wheel</Clue>
+      <Clue Row="11" Col="8" Num="46" Dir="Down" Ans="OLAVI">Norwegian king until 1000</Clue>
+      <Clue Row="11" Col="9" Num="47" Dir="Down" Ans="SOWER">One spreading seed</Clue>
+      <Clue Row="12" Col="10" Num="51" Dir="Down" Ans="CARE">Something that people wish you would take when you leave</Clue>
+      <Clue Row="13" Col="7" Num="54" Dir="Down" Ans="HEF">Noted mansion man, for short</Clue>
+      <Clue Row="13" Col="12" Num="55" Dir="Down" Ans="III">Jr.'s son</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>WORD VOMIT! Man, do I know a ton of people with this issue &hellip; and COVER BAND, with its fantastically innocent clue: [Act without originality]. That puzzled me for the longest time, but what an a-ha moment when I realized that &quot;act&quot; was a noun, not a verb, in the clue. Two beautiful seed entries.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Talia_al_Ghul" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/d/d6/Talia_al_Ghul_%28The_Dark_Knight_Rises%29.jpg" style="border:1px solid lightgray; float:left; height:250px; margin:6px 12px 6px 0px; width:167px" title="SPOILER ALERT! Is that Miranda Tate ... or TALIA al Ghul?" /></a></p>
+
+<p>Themelesses typically feature 12+ longish answers, and constructors try to spread them out as much as possible, for maximum flexibility. Usually, that means putting three in each corner, so that those four stacks don&#39;t interact with each other.</p>
+
+<p>Today, Caleb goes big, interlocking six long answers in each of the NW and SE corners. It&#39;s so difficult to get six out of six great long answers in a corner like this, without resorting to crossword glue. The NW was pretty darn good &mdash; WIKI LEAKS and RARE COINS to go with WORD VOMIT? Yes please! With just ON A DOWNER feeling like a long partial, and some minor IT IS and SRS = very good results.</p>
+
+<p>I wasn&#39;t as hot on the SE. POSSESSES feels a bit cheap, what with all those Ss and Es. EVER SINCE takes up room more than shines. ABERRANCE is an interesting word, but it didn&#39;t hit me as strongly as COVER BANDS. Still, some nice craftsmanship in that corner to put it together without any crossword glue (EELER generally feels fine to me).</p>
+
+<p>But wait, there&#39;s more! Love that Caleb worked in a couple more long entries, MAKESAUTURN looking awesomely French (makes au turn?), and SISTER WIVES jutting into the middle. I wasn&#39;t familiar with the latter term, but it makes sense. If a bit icky.</p>
+
+<p>It&#39;s too bad that the SW and NE corners felt dull, with so many short words concentrated into those spaces. But a themeless puzzle has to have some shorties, and when you place so many long entries in the other corners, the shorties have to go somewhere.</p>
+
+<p>Overall, a great number of juicy entries. I sometimes feel like a moron doing Caleb&#39;s puzzles &mdash; I&#39;m not hip enough to fully appreciate them &mdash; so I was relieved to only get that feeling from AKON, LORDE, and TALIA al Ghul today. And this Batman fan really ought to have known that last one.</p>]]></JeffNotes>
+  </Puzzle>
+</Puzzles>

@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Friday, February 23, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 2/23/2018 at 8:38 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Fri, Feb 23, 2018</Title>
+    <Author>Trenton Charlson</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>2/23/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>DNALABS.BJNOVAK</Row>
+      <Row>ROSECUT.YOULOSE</Row>
+      <Row>OXIDATE.LUDDITE</Row>
+      <Row>OZS.INEXILE.DAB</Row>
+      <Row>PEAS.OPINE.GIRL</Row>
+      <Row>EMITS.LIE.MONTE</Row>
+      <Row>DADJOKE.SWAGGER</Row>
+      <Row>...ODE...BRR...</Row>
+      <Row>MACHONE.CAKEMIX</Row>
+      <Row>OMANI.ABU.SEEMS</Row>
+      <Row>NIPS.STIES.NAPA</Row>
+      <Row>ART.BAITCAR.NIN</Row>
+      <Row>RICOACT.ADAPTED</Row>
+      <Row>CTHULHU.RISOTTO</Row>
+      <Row>HEATMAP.DEPLOYS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="DNALABS">Matchmaking services?</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Across" Ans="BJNOVAK">Co-star of "The Office" who played Ryan Howard</Clue>
+      <Clue Row="2" Col="1" Num="15" Dir="Across" Ans="ROSECUT">In a classic form of diamond</Clue>
+      <Clue Row="2" Col="9" Num="16" Dir="Across" Ans="YOULOSE">Victor's gloating cry</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="OXIDATE">Rust</Clue>
+      <Clue Row="3" Col="9" Num="18" Dir="Across" Ans="LUDDITE">Technophobe</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="OZS">They may be fluid: Abbr.</Clue>
+      <Clue Row="4" Col="5" Num="20" Dir="Across" Ans="INEXILE">Banished</Clue>
+      <Clue Row="4" Col="13" Num="22" Dir="Across" Ans="DAB">Smidgen</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Across" Ans="PEAS">Shepherd's pie ingredients</Clue>
+      <Clue Row="5" Col="6" Num="25" Dir="Across" Ans="OPINE">Venture a view</Clue>
+      <Clue Row="5" Col="12" Num="26" Dir="Across" Ans="GIRL">Miss</Clue>
+      <Clue Row="6" Col="1" Num="27" Dir="Across" Ans="EMITS">Radiates</Clue>
+      <Clue Row="6" Col="7" Num="29" Dir="Across" Ans="LIE">"No ___ can live forever": Martin Luther King Jr.</Clue>
+      <Clue Row="6" Col="11" Num="30" Dir="Across" Ans="MONTE">Street hustler's game</Clue>
+      <Clue Row="7" Col="1" Num="31" Dir="Across" Ans="DADJOKE">Many a corny pun</Clue>
+      <Clue Row="7" Col="9" Num="33" Dir="Across" Ans="SWAGGER">Bravado</Clue>
+      <Clue Row="8" Col="4" Num="35" Dir="Across" Ans="ODE">Lord Tennyson's "The Eagle," e.g.</Clue>
+      <Clue Row="8" Col="10" Num="36" Dir="Across" Ans="BRR">Shaker's cry?</Clue>
+      <Clue Row="9" Col="1" Num="37" Dir="Across" Ans="MACHONE">Speed of sound</Clue>
+      <Clue Row="9" Col="9" Num="41" Dir="Across" Ans="CAKEMIX">Baker's shortcut</Clue>
+      <Clue Row="10" Col="1" Num="45" Dir="Across" Ans="OMANI">Certain Bedouin</Clue>
+      <Clue Row="10" Col="7" Num="46" Dir="Across" Ans="ABU">Aladdin's simian sidekick</Clue>
+      <Clue Row="10" Col="11" Num="48" Dir="Across" Ans="SEEMS">Looks</Clue>
+      <Clue Row="11" Col="1" Num="49" Dir="Across" Ans="NIPS">Defeats by a hair</Clue>
+      <Clue Row="11" Col="6" Num="50" Dir="Across" Ans="STIES">Dumps</Clue>
+      <Clue Row="11" Col="12" Num="52" Dir="Across" Ans="NAPA">Auto parts giant</Clue>
+      <Clue Row="12" Col="1" Num="53" Dir="Across" Ans="ART">"The enemy of ___ is the absence of limitations": Orson Welles</Clue>
+      <Clue Row="12" Col="5" Num="54" Dir="Across" Ans="BAITCAR">Vehicle used by the police to catch thieves</Clue>
+      <Clue Row="12" Col="13" Num="56" Dir="Across" Ans="NIN">"Delta of Venus" author</Clue>
+      <Clue Row="13" Col="1" Num="57" Dir="Across" Ans="RICOACT">Mob law?</Clue>
+      <Clue Row="13" Col="9" Num="59" Dir="Across" Ans="ADAPTED">Like many screenplays</Clue>
+      <Clue Row="14" Col="1" Num="61" Dir="Across" Ans="CTHULHU">"The Call of ___" (short story by H. P. Lovecraft)</Clue>
+      <Clue Row="14" Col="9" Num="62" Dir="Across" Ans="RISOTTO">Creamy Italian dish</Clue>
+      <Clue Row="15" Col="1" Num="63" Dir="Across" Ans="HEATMAP">Colorful display in a weather report</Clue>
+      <Clue Row="15" Col="9" Num="64" Dir="Across" Ans="DEPLOYS">Places in the field</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="DROOPED">Slumped</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="NOXZEMA">Cream in a cobalt blue jar</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="ASISAID">"Once again ..."</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="LED">Trailblazed</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="ACAI">Four-letter fruit pronounced in three syllables</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="BUTNO">"Au contraire ..."</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="STEEPLE">The point of church above all?</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="BYLINES">Ghostwriters lack them</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="JOULE">Unit of energy</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="NUDE">Like Rodin's "The Thinker"</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="OLD">Dated</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="VOIDING">Rendering useless</Clue>
+      <Clue Row="1" Col="14" Num="13" Dir="Down" Ans="ASTARTE">Phoenician goddess of fertility</Clue>
+      <Clue Row="1" Col="15" Num="14" Dir="Down" Ans="KEEBLER">Snack company that's a subsidiary of Kellogg's</Clue>
+      <Clue Row="4" Col="8" Num="21" Dir="Down" Ans="XII">Top part of a face</Clue>
+      <Clue Row="5" Col="4" Num="24" Dir="Down" Ans="STJOHNS">Capital of Newfoundland and Labrador</Clue>
+      <Clue Row="5" Col="12" Num="26" Dir="Down" Ans="GOGREEN">Reduce one's carbon footprint</Clue>
+      <Clue Row="6" Col="5" Num="28" Dir="Down" Ans="SODOI">Copycat's comment</Clue>
+      <Clue Row="6" Col="11" Num="30" Dir="Down" Ans="MARKS">Targets</Clue>
+      <Clue Row="7" Col="6" Num="32" Dir="Down" Ans="KEN">Comprehension</Clue>
+      <Clue Row="7" Col="10" Num="34" Dir="Down" Ans="WBA">Ring letters</Clue>
+      <Clue Row="9" Col="1" Num="37" Dir="Down" Ans="MONARCH">One referred to as "the crown"</Clue>
+      <Clue Row="9" Col="2" Num="38" Dir="Down" Ans="AMIRITE">"You all agree with me, yes?," in one word</Clue>
+      <Clue Row="9" Col="3" Num="39" Dir="Down" Ans="CAPTCHA">Modern screen test</Clue>
+      <Clue Row="9" Col="7" Num="40" Dir="Down" Ans="EATITUP">Savor the praise</Clue>
+      <Clue Row="9" Col="9" Num="41" Dir="Down" Ans="CUECARD">Stage holdup?</Clue>
+      <Clue Row="9" Col="13" Num="42" Dir="Down" Ans="MEANTTO">Had it in mind</Clue>
+      <Clue Row="9" Col="14" Num="43" Dir="Down" Ans="IMPIETY">Sacrilege</Clue>
+      <Clue Row="9" Col="15" Num="44" Dir="Down" Ans="XSANDOS">Tic-tac-toe plays</Clue>
+      <Clue Row="10" Col="8" Num="47" Dir="Down" Ans="BIT">Smidgen</Clue>
+      <Clue Row="11" Col="6" Num="50" Dir="Down" Ans="SACHA">___ Baron Cohen, player of Borat</Clue>
+      <Clue Row="11" Col="10" Num="51" Dir="Down" Ans="SADIE">Title woman of a Beatles song</Clue>
+      <Clue Row="12" Col="5" Num="54" Dir="Down" Ans="BALM">Lip ___</Clue>
+      <Clue Row="12" Col="11" Num="55" Dir="Down" Ans="RASP">Scrape</Clue>
+      <Clue Row="13" Col="4" Num="58" Dir="Down" Ans="OUT">Published</Clue>
+      <Clue Row="13" Col="12" Num="60" Dir="Down" Ans="POL">Party person, for short</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>I love BJ NOVAK. He&#39;s an absolute genius! From writing for (and acting in) &quot;The Office,&quot; to a book of short stories, to <a href="https://www.penguinrandomhouse.com/books/316868/the-book-with-no-pictures-by-bj-novak/9780803741713">the most hilarious (non-picture) picture book ever</a>, this guy is brilliant.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/B._J._Novak" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/B.J._Novak%2C_Actor.jpg/440px-B.J._Novak%2C_Actor.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:206px" title="Dude is a genius!" /></a></p>
+
+<p>Probably didn&#39;t do much for you if you didn&#39;t know him, though.</p>
+
+<p>And Lovecraft&#39;s <a href="https://en.wikipedia.org/wiki/The_Call_of_Cthulhu">&quot;The Call of CTHULHU&quot;</a>! Another masterpiece, this inducing terrors so horrifying that I can&#39;t begin to describe it without creeping myself out.</p>
+
+<p>Again though, if you didn&#39;t know that, it wouldn&#39;t do much for you. Even worse, that bizarre letter sequence &ndash; something starting with CTHU, really? &ndash; might be aggravating. Annoying, even.</p>
+
+<p>For me, this was a fantastic, A-1 themeless puzzle. Well crafted, with SUCH great use of mid-length slots &ndash; LUDDITE, GO GREEN, SWAGGER, MACH ONE, DAD JOKE, DNA LABS, ROSE CUT, XS AND OS, RISOTTO. Themeless constructors, take note!</p>
+
+<p>THIS IS THE WAY YOU SHOULD BE USING MID-LENGTH SLOTS!</p>
+
+<p>Don&#39;t just be satisfied with having neutral filler in those precious seven-letter slots. Strive to use great material like this.</p>
+
+<p>And CUE CARD is not just a excellent entry in its own right, but what a brilliant clue. At first (and at second and at third) glance, I had no idea what was going on. [Stage holdup?] didn&#39;t have anything to do with Old West robbers? No? A stage of a play? But how is a CUE CARD like a robbery?</p>
+
+<p>*headslap*</p>
+
+<p>It&#39;s literally held up (for actors&#39; benefit) on stage.</p>
+
+<p>For me, POW! The gridsmanship is beautiful. But I can see how it wouldn&#39;t be POW! material for others. For that reason, I hesitated. I&#39;d guess that as NYT themelesses go, it might not be good &mdash; heck, it might even be bad, as it could turn off too many chunks of the solving population. Probably not a lot of intersection in the Venn diagram of BJ NOVAK and CTHULHU fans.</p>
+
+<p>But hey, this is my award to give out, and I really enjoyed this puzzle. So there.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>As I always look forward to the themeless puzzles each week, it&#39;s such a pleasure to be making my themeless debut today! I chose this grid in part for its pleasing symmetry, but also for its versatility. While it&#39;s true that there are no entries in the grid longer than 7 letters, the fact that there are 36 of these slots meant that I had a good amount of flexibility in placing my marquee answers. This 72-word grid also allowed me to incorporate some Scrabbly letters into lively entries without too much difficulty, and to maintain a nice grid flow throughout the puzzle while still being able to work on sections one at a time.</p>
+
+<p>I started in the lower-left with CAPTCHA, which I found yielded promising letter combinations when paired with AMIRITE. The discovery that CTHULHU, another entry on my 7-letter seed list, could fit at 61-Across ended up being the key to finishing the corner, despite its delightfully odd combination of letters (not that I ever doubted the power of the Great Old One, mind you).</p>
+
+<p>I did the upper-left next, seeing as ST JOHNS was one of my few choices for 24-Down. I was glad to be able to fit in DAD JOKE and NOXZEMA, as well as DNA LABS, which I think makes for a nice 1-Across, what with the interesting DN- start and Will and Joel&#39;s fantastic clue. Among other entries in the upper-right, I thought it would be cool to incorporate BJ NOVAK, in order to highlight both his great performance in The Office and the unusual opening letter sequence of BJN- (see a pattern here yet?) As it was the last to go in, filling the lower-right took the most time, but I&#39;m pleased with how it turned out, especially with the unexpected intersection of CAKE MIX and XS AND OS at the X.</p>
+
+<p>AS I SAID, it&#39;s a joy to see this puzzle in the Times&mdash; though I&#39;ve since constructed several other themeless puzzles, this one might still be my favorite. Hope you enjoy solving it as much as I enjoyed creating it!</p>
+
+<div style="text-align:start; -webkit-text-stroke-width:0px">P.S. Here&#39;s a bonus puzzle: purely by happenstance, one entry ended up in a particularly appropriate location &mdash; which one?</div>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

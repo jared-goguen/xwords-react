@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Thursday, April 5, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/4/2018 at 7:07 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Thu, Apr 05, 2018</Title>
+    <Author>David J. Kahn</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/5/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>16</Cols>
+    </Size>
+    <Grid>
+      <Row>KAFKA..MANO.ASEA</Row>
+      <Row>AGAIN.SANANDREAS</Row>
+      <Row>BOTTOMOFTHENINTH</Row>
+      <Row>ORE..ILIE..CAD..</Row>
+      <Row>BASESLOADED.SAGA</Row>
+      <Row>...XKE...WAR.LOU</Row>
+      <Row>COTTER.TWOMENOUT</Row>
+      <Row>AFOOT.SEEK.CONGO</Row>
+      <Row>FULLCOUNT.SARGES</Row>
+      <Row>ESL.HEM...ANT...</Row>
+      <Row>SERT.DOWNBYTHREE</Row>
+      <Row>..OUI..RYAN..UTE</Row>
+      <Row>GRANDSLAMHOMERUN</Row>
+      <Row>AUDIOTAPES.EGADS</Row>
+      <Row>LESS.LOST..HOLEY</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="KAFKA">He wrote "In the fight between you and the world, back the world"</Clue>
+      <Clue Row="1" Col="8" Num="6" Dir="Across" Ans="MANO">Spanish hand</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Across" Ans="ASEA">Making a crossing, e.g.</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="AGAIN">"Do we have to keep doing this?!"</Clue>
+      <Clue Row="2" Col="7" Num="15" Dir="Across" Ans="SANANDREAS">It's California's fault</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="BOTTOMOFTHENINTH">*Bass part in Beethoven's "Choral" Symphony?</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="ORE">Strike with a pickax?</Clue>
+      <Clue Row="4" Col="6" Num="20" Dir="Across" Ans="ILIE">1982 Loretta Lynn song with the lyric "It's not easy to deceive you"</Clue>
+      <Clue Row="4" Col="12" Num="21" Dir="Across" Ans="CAD">Sleazo</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="BASESLOADED">*Result of a lot of drinking in the army?</Clue>
+      <Clue Row="5" Col="13" Num="27" Dir="Across" Ans="SAGA">Yarn that stretches?</Clue>
+      <Clue Row="6" Col="4" Num="30" Dir="Across" Ans="XKE">Classic Jaguar</Clue>
+      <Clue Row="6" Col="10" Num="31" Dir="Across" Ans="WAR">"___ has no use for free speech": Julius Caesar</Clue>
+      <Clue Row="6" Col="14" Num="33" Dir="Across" Ans="LOU">Brock in Cooperstown</Clue>
+      <Clue Row="7" Col="1" Num="34" Dir="Across" Ans="COTTER">Fastening pin</Clue>
+      <Clue Row="7" Col="8" Num="37" Dir="Across" Ans="TWOMENOUT">*A couple of prisoners after an escape from Leavenworth?</Clue>
+      <Clue Row="8" Col="1" Num="40" Dir="Across" Ans="AFOOT">On the move</Clue>
+      <Clue Row="8" Col="7" Num="41" Dir="Across" Ans="SEEK">Request</Clue>
+      <Clue Row="8" Col="12" Num="42" Dir="Across" Ans="CONGO">Neighbor of Burundi</Clue>
+      <Clue Row="9" Col="1" Num="43" Dir="Across" Ans="FULLCOUNT">*Dracula, after stuffing himself?</Clue>
+      <Clue Row="9" Col="11" Num="45" Dir="Across" Ans="SARGES">Looies' subordinates</Clue>
+      <Clue Row="10" Col="1" Num="46" Dir="Across" Ans="ESL">Subj. for some bilinguals</Clue>
+      <Clue Row="10" Col="5" Num="47" Dir="Across" Ans="HEM">Clothes line</Clue>
+      <Clue Row="10" Col="11" Num="48" Dir="Across" Ans="ANT">Caste member</Clue>
+      <Clue Row="11" Col="1" Num="49" Dir="Across" Ans="SERT">Muralist José María ___</Clue>
+      <Clue Row="11" Col="6" Num="51" Dir="Across" Ans="DOWNBYTHREE">*Plan for a midafternoon nap?</Clue>
+      <Clue Row="12" Col="3" Num="58" Dir="Across" Ans="OUI">Parlement assent</Clue>
+      <Clue Row="12" Col="8" Num="60" Dir="Across" Ans="RYAN">All-time career record-holder for strikeouts</Clue>
+      <Clue Row="12" Col="14" Num="61" Dir="Across" Ans="UTE">Western tribe</Clue>
+      <Clue Row="13" Col="1" Num="62" Dir="Across" Ans="GRANDSLAMHOMERUN">What will cause a walk-off win in the situation described by the answers to the starred clues</Clue>
+      <Clue Row="14" Col="1" Num="68" Dir="Across" Ans="AUDIOTAPES">Obsolescent recordings</Clue>
+      <Clue Row="14" Col="12" Num="69" Dir="Across" Ans="EGADS">"Mercy me!"</Clue>
+      <Clue Row="15" Col="1" Num="70" Dir="Across" Ans="LESS">Not as</Clue>
+      <Clue Row="15" Col="6" Num="71" Dir="Across" Ans="LOST">Fell (to)</Clue>
+      <Clue Row="15" Col="12" Num="72" Dir="Across" Ans="HOLEY">Moth-eaten, e.g.</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="KABOB">Food cart offering</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="AGORA">Plaza for Plato</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="FATES">Trio in Plato's "Republic"</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="KIT">Press ___</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="ANO">Need for making soap from sap?</Clue>
+      <Clue Row="1" Col="8" Num="6" Dir="Down" Ans="MAFIA">Family group</Clue>
+      <Clue Row="1" Col="9" Num="7" Dir="Down" Ans="ANTED">Paid (up)</Clue>
+      <Clue Row="1" Col="10" Num="8" Dir="Down" Ans="NAH">"Ain't gonna happen"</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="ONE">Single</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="ARIAS">Met demands?</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="SENDALONG">Forward</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="EAT">"Let's ___!"</Clue>
+      <Clue Row="1" Col="16" Num="13" Dir="Down" Ans="ASH">E-cigarette's lack</Clue>
+      <Clue Row="2" Col="7" Num="15" Dir="Down" Ans="SOLO">Number for 9-Down</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Down" Ans="DNC">Party org. once chaired by Tim Kaine</Clue>
+      <Clue Row="3" Col="6" Num="18" Dir="Down" Ans="MILER">Track team member</Clue>
+      <Clue Row="5" Col="4" Num="23" Dir="Down" Ans="EXTOL">Hail</Clue>
+      <Clue Row="5" Col="5" Num="24" Dir="Down" Ans="SKETCH">Court artist's output</Clue>
+      <Clue Row="5" Col="10" Num="25" Dir="Down" Ans="EWOK">Worshiper of C-3PO in "Return of the Jedi"</Clue>
+      <Clue Row="5" Col="11" Num="26" Dir="Down" Ans="DAM">Arizona's Glen Canyon, for one</Clue>
+      <Clue Row="5" Col="15" Num="28" Dir="Down" Ans="GOUGE">Fleece</Clue>
+      <Clue Row="5" Col="16" Num="29" Dir="Down" Ans="AUTOS">Accords, e.g.</Clue>
+      <Clue Row="6" Col="12" Num="32" Dir="Down" Ans="RECANT">Disavow</Clue>
+      <Clue Row="7" Col="1" Num="34" Dir="Down" Ans="CAFES">Places that may have blackboards</Clue>
+      <Clue Row="7" Col="2" Num="35" Dir="Down" Ans="OFUSE">Worth having</Clue>
+      <Clue Row="7" Col="3" Num="36" Dir="Down" Ans="TOLLROADS">Bypass arteries?</Clue>
+      <Clue Row="7" Col="8" Num="37" Dir="Down" Ans="TEN">Number of World Series rings for Yogi Berra as a player</Clue>
+      <Clue Row="7" Col="9" Num="38" Dir="Down" Ans="WET">Newly painted</Clue>
+      <Clue Row="7" Col="13" Num="39" Dir="Down" Ans="NORTH">0°</Clue>
+      <Clue Row="8" Col="7" Num="41" Dir="Down" Ans="SUMO">Sport in a ring</Clue>
+      <Clue Row="9" Col="6" Num="44" Dir="Down" Ans="OED">Big ref. work</Clue>
+      <Clue Row="9" Col="11" Num="45" Dir="Down" Ans="SAYNO">Refuse</Clue>
+      <Clue Row="11" Col="4" Num="50" Dir="Down" Ans="TUNIS">African capital, lake or gulf</Clue>
+      <Clue Row="11" Col="8" Num="52" Dir="Down" Ans="WRAPS">Alternatives to paninis</Clue>
+      <Clue Row="11" Col="9" Num="53" Dir="Down" Ans="NYMET">N.L. East player</Clue>
+      <Clue Row="11" Col="10" Num="54" Dir="Down" Ans="BAHS">Scroogeisms</Clue>
+      <Clue Row="11" Col="14" Num="55" Dir="Down" Ans="RURAL">In the boonies</Clue>
+      <Clue Row="11" Col="15" Num="56" Dir="Down" Ans="ETUDE">Chopin piece</Clue>
+      <Clue Row="11" Col="16" Num="57" Dir="Down" Ans="EENSY">Very, very small</Clue>
+      <Clue Row="12" Col="5" Num="59" Dir="Down" Ans="IDO">Bridal line?</Clue>
+      <Clue Row="13" Col="1" Num="62" Dir="Down" Ans="GAL">Hoedown date</Clue>
+      <Clue Row="13" Col="2" Num="63" Dir="Down" Ans="RUE">The French way?</Clue>
+      <Clue Row="13" Col="6" Num="64" Dir="Down" Ans="STL">Winner of 11 World Series, for short</Clue>
+      <Clue Row="13" Col="7" Num="65" Dir="Down" Ans="LAO">Dweller on the Mekong</Clue>
+      <Clue Row="13" Col="12" Num="66" Dir="Down" Ans="MEH">"Not so great"</Clue>
+      <Clue Row="13" Col="13" Num="67" Dir="Down" Ans="EGO">Vainglory</Clue>
+    </Clues>
+    <JimNotes><![CDATA[<p>I hate to disagree with Jeff (actually, it&#39;s fun to disagree with Jeff) but each theme answer here is both perfect and necessary. The most dramatic possible walk-off hit requires each of these elements exactly as written. Watering down the scenario just so you could employ re-usable phrases would kill the tension. For this baseball fan (and my oh my, it&#39;s tough to be a baseball fan in Seattle) Mr. Kahn&#39;s puzzle is outstanding.</p>]]></JimNotes>
+    <JeffNotes><![CDATA[<p>I&#39;m not a huge baseball fan, but I do enjoy the lingo. Some of David&#39;s takes on common baseball phrases amused me. And I liked his effort to tie them together into a story. What better way to end the puzzle than a GRAND SLAM HOME RUN?</p>
+
+<p><a href="https://en.wikipedia.org/wiki/San_Andreas_Fault" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Kluft-photo-Carrizo-Plain-Nov-2007-Img_0327.jpg/440px-Kluft-photo-Carrizo-Plain-Nov-2007-Img_0327.jpg" style="border:1px solid lightgray; float:right; height:146px; margin:6px 0px 6px 12px; width:220px" title="This is California's fault!" /></a></p>
+
+<p>I did wonder about TWO MEN OUT and DOWN BY THREE. The former &mdash; don&#39;t most announcers say &quot;two away&quot; or &quot;two out&quot;? It&#39;s been a while since I&#39;ve been to a game, but TWO MEN OUT sounds suspiciously like an answer bulked up for crossword symmetry.</p>
+
+<p>The latter &mdash; I get that it&#39;s a necessary part of the setup for the dramatic conclusion. It just felt arbitrary(ish). Yes, it&#39;s a common deficit, common enough that it&#39;s probably a fine themer. But I would be happy to see BOTTOM OF THE NINTH in any other crossword as fill; not so much for DOWN BY THREE.</p>
+
+<p>Why not ALL TIED UP, leading to a WALK OFF HOME RUN? Both of those are fine phrases I&#39;d use as fill in other crosswords. Much preferable for me. I know the lengths don&#39;t match &ndash; BOTTOM OF THE NINTH is 16 and WALK OFF HOME RUN is 14 &ndash; but perhaps a mirror symmetry arrangement could have worked.</p>
+
+<p>Interesting grid design, slipping in two long horizontal pieces of fill. Love, love, love SAN ANDREAS and its clue. Something so fun about the puzzle saying IT&#39;S CALIFORNIA&#39;S FAULT! Not so hot on the symmetrical entry, AUDIO TAPES, as CASSETTE TAPES feels much more strongly in the language. But overall, I like that David didn&#39;t need to pay much of a price to bring these long bad boys into the grid. Good stuff.</p>
+
+<p>I enjoyed the effort to do something a little different with a baseball theme. A couple of iffy themers, but since the grid was well executed, I found the experience mostly entertaining. Who doesn&#39;t like a good story capped by a dramatic finish?</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>I&#39;ve written two books of baseball-themed puzzles and love the idea of cluing baseball jargon in a nonbaseball way. This puzzle actually relates five answers to a situation you might hear described by a baseball announcer, with the appropriate payoff at the end. The puzzle needed to be a little wider to accommodate the longest answers and I tried to make the answers sound unforced. Looking forward to the 2018 season!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

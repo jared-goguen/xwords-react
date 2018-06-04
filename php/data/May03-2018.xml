@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Thursday, May 3, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/2/2018 at 7:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Thu, May 03, 2018</Title>
+    <Author>Emily Carroll</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/3/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>ACCLAIM.AIL.OAR</Row>
+      <Row>FRAILTY.RNA.PRO</Row>
+      <Row>FUMMIES.MANDELA</Row>
+      <Row>...AIMED.WEANED</Row>
+      <Row>DIDO.SLICE.LADD</Row>
+      <Row>ICAHN.FRO.DINGE</Row>
+      <Row>GENIUS.TIER.DER</Row>
+      <Row>..COMPACTCARS..</Row>
+      <Row>ORE.BATH.OMAHAN</Row>
+      <Row>LEARS.OED.ADULT</Row>
+      <Row>DARE.SMAUG.ITCH</Row>
+      <Row>SLOVAK.PLATS...</Row>
+      <Row>ABUSERS.LEASHES</Row>
+      <Row>WON.REP.ESPOUSE</Row>
+      <Row>SYD.OAF.STENGEL</Row>
+    </Grid>
+    <RebusEntries>
+      <Rebus Row="2" Col="15" Short="O">OPEL</Rebus>
+      <Rebus Row="3" Col="1" Short="F">FORD</Rebus>
+      <Rebus Row="12" Col="6" Short="K">KIA</Rebus>
+      <Rebus Row="12" Col="10" Short="A">AUDI</Rebus>
+    </RebusEntries>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="ACCLAIM">Praise</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Across" Ans="AIL">Have a bug, say</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Across" Ans="OAR">Boathouse item</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="FRAILTY">Weakness</Clue>
+      <Clue Row="2" Col="9" Num="15" Dir="Across" Ans="RNA">Cellular carrier?</Clue>
+      <Clue Row="2" Col="13" Num="16" Dir="Across" Ans="PROPEL">Move along</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="FORDUMMIES">Self-deprecatingly titled instructional book series</Clue>
+      <Clue Row="3" Col="9" Num="18" Dir="Across" Ans="MANDELA">He shared a Nobel Prize with de Klerk</Clue>
+      <Clue Row="4" Col="4" Num="20" Dir="Across" Ans="AIMED">Used a scope</Clue>
+      <Clue Row="4" Col="10" Num="22" Dir="Across" Ans="WEANED">Got off the bottle</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Across" Ans="DIDO">"White Flag" singer, 2003</Clue>
+      <Clue Row="5" Col="6" Num="26" Dir="Across" Ans="SLICE">Golfer's goof</Clue>
+      <Clue Row="5" Col="12" Num="28" Dir="Across" Ans="LADD">Actress Cheryl or Diane</Clue>
+      <Clue Row="6" Col="1" Num="29" Dir="Across" Ans="ICAHN">Financial mogul Carl</Clue>
+      <Clue Row="6" Col="7" Num="31" Dir="Across" Ans="FRO">To's partner</Clue>
+      <Clue Row="6" Col="11" Num="32" Dir="Across" Ans="DINGE">Griminess</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Across" Ans="GENIUS">Brilliance</Clue>
+      <Clue Row="7" Col="8" Num="35" Dir="Across" Ans="TIER">Piece of cake?</Clue>
+      <Clue Row="7" Col="13" Num="37" Dir="Across" Ans="DER">German "the"</Clue>
+      <Clue Row="8" Col="3" Num="38" Dir="Across" Ans="COMPACTCARS">Easy-to-park vehicles ... or what can be found four times in this puzzle</Clue>
+      <Clue Row="9" Col="1" Num="41" Dir="Across" Ans="ORE">It can be hard to process</Clue>
+      <Clue Row="9" Col="5" Num="43" Dir="Across" Ans="BATH">Big loss, figuratively</Clue>
+      <Clue Row="9" Col="10" Num="44" Dir="Across" Ans="OMAHAN">Warren Buffett, notably</Clue>
+      <Clue Row="10" Col="1" Num="47" Dir="Across" Ans="LEARS">Some corporate jets</Clue>
+      <Clue Row="10" Col="7" Num="49" Dir="Across" Ans="OED">It ends with "zyzzyva," in brief</Clue>
+      <Clue Row="10" Col="11" Num="51" Dir="Across" Ans="ADULT">Certain ticket category</Clue>
+      <Clue Row="11" Col="1" Num="52" Dir="Across" Ans="DARE">"... if you ___!"</Clue>
+      <Clue Row="11" Col="6" Num="53" Dir="Across" Ans="SMAUG">Tolkien dragon</Clue>
+      <Clue Row="11" Col="12" Num="55" Dir="Across" Ans="ITCH">Calamine target</Clue>
+      <Clue Row="12" Col="1" Num="56" Dir="Across" Ans="SLOVAKIA">European nation since 1993</Clue>
+      <Clue Row="12" Col="8" Num="58" Dir="Across" Ans="PLAUDITS">Praise</Clue>
+      <Clue Row="13" Col="1" Num="60" Dir="Across" Ans="ABUSERS">Vituperative sorts</Clue>
+      <Clue Row="13" Col="9" Num="62" Dir="Across" Ans="LEASHES">Reins cats and dogs?</Clue>
+      <Clue Row="14" Col="1" Num="66" Dir="Across" Ans="WON">Took first</Clue>
+      <Clue Row="14" Col="5" Num="67" Dir="Across" Ans="REP">Gym unit</Clue>
+      <Clue Row="14" Col="9" Num="68" Dir="Across" Ans="ESPOUSE">Support, as a cause</Clue>
+      <Clue Row="15" Col="1" Num="69" Dir="Across" Ans="SYD">Qantas hub, on tickets</Clue>
+      <Clue Row="15" Col="5" Num="70" Dir="Across" Ans="OAF">Dolt</Clue>
+      <Clue Row="15" Col="9" Num="71" Dir="Across" Ans="STENGEL">"Casey at the Bat" autobiographer</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="AFFORD">Meet the expense of</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="CRU">Word on a magnum</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="CAM">2015 N.F.L. M.V.P. Newton</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="LIMAOHIO">City in which "Glee" is set</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="ALII">Listed "others"</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="ITEMS">Gossip column fodder</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="MYSELF">Walt Whitman's "Song of ___"</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="ARM">The Adriatic vis-à-vis the Mediterranean</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="INAWE">Gobsmacked</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="LANE">Bowling reservation</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="OPENANDSHUT">Easily decided</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="ARLEDGE">Longtime TV exec Roone</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="ROPELADDER">Access to a treehouse, maybe</Clue>
+      <Clue Row="3" Col="12" Num="19" Dir="Down" Ans="DALI">"Lobster Telephone" artist</Clue>
+      <Clue Row="4" Col="8" Num="21" Dir="Down" Ans="DIRTCHEAP">Bargain-priced</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Down" Ans="DIG">Archaeological site</Clue>
+      <Clue Row="5" Col="2" Num="24" Dir="Down" Ans="ICE">Some bling</Clue>
+      <Clue Row="5" Col="3" Num="25" Dir="Down" Ans="DANCEAROUND">Evade, as a sensitive topic</Clue>
+      <Clue Row="5" Col="9" Num="27" Dir="Down" Ans="COIT">San Francisco's ___ Tower</Clue>
+      <Clue Row="6" Col="5" Num="30" Dir="Down" Ans="NUMBS">Puts to sleep, say</Clue>
+      <Clue Row="6" Col="11" Num="32" Dir="Down" Ans="DRAMA">Histrionics</Clue>
+      <Clue Row="7" Col="6" Num="34" Dir="Down" Ans="SPA">Facial spot</Clue>
+      <Clue Row="7" Col="10" Num="36" Dir="Down" Ans="ECO">Start to terrorism or tourism</Clue>
+      <Clue Row="8" Col="7" Num="39" Dir="Down" Ans="ATOM">Tiny power source</Clue>
+      <Clue Row="8" Col="12" Num="40" Dir="Down" Ans="RADISSON">Hilton alternative</Clue>
+      <Clue Row="9" Col="1" Num="41" Dir="Down" Ans="OLDSAWS">Proverbs</Clue>
+      <Clue Row="9" Col="2" Num="42" Dir="Down" Ans="REALBOY">Pinocchio, by the film's conclusion</Clue>
+      <Clue Row="9" Col="14" Num="45" Dir="Down" Ans="ALC">Liquor: Abbr.</Clue>
+      <Clue Row="9" Col="15" Num="46" Dir="Down" Ans="NTH">Last in a math series</Clue>
+      <Clue Row="10" Col="4" Num="48" Dir="Down" Ans="REVS">Intensifies, with "up"</Clue>
+      <Clue Row="10" Col="9" Num="50" Dir="Down" Ans="DULLES">Airport whose main terminal was designed by Eero Saarinen</Clue>
+      <Clue Row="11" Col="6" Num="53" Dir="Down" Ans="SKIAREA">Winter vacation destination</Clue>
+      <Clue Row="11" Col="10" Num="54" Dir="Down" Ans="GAUDIEST">Most over the top</Clue>
+      <Clue Row="12" Col="5" Num="57" Dir="Down" Ans="AERO">Bubble-filled Nestlé chocolate bar</Clue>
+      <Clue Row="12" Col="11" Num="59" Dir="Down" Ans="TAPE">Tailor's aid</Clue>
+      <Clue Row="13" Col="7" Num="61" Dir="Down" Ans="SPF">50 is a very high one, in brief</Clue>
+      <Clue Row="13" Col="13" Num="63" Dir="Down" Ans="HUG">Warm greeting</Clue>
+      <Clue Row="13" Col="14" Num="64" Dir="Down" Ans="ESE">Common linguistic suffix</Clue>
+      <Clue Row="13" Col="15" Num="65" Dir="Down" Ans="SEL">Pommes frites seasoning</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Four cars rebusized today, with an apt COMPACT CARS revealer. <strong>FOR D</strong>UMMIES was fantastic, especially since I plunked in DUMMIES right away, and then was stymied by the crossing AF? pattern. Delightful a-ha there.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Casey_Stengel" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Casey_Stengel_1953.png" style="border:none; float:right; height:250px; margin:6px 0 6px 12px; width:203px" title="Casey at the bat" /></a></p>
+
+<p>R<strong>OPE L</strong>ADDER was another great rebus entry. That&#39;s the way to get some juice out of your themers!</p>
+
+<p>Unfortunately, OPEL stuck out to me, as I see FORDs, KIAs, AUDIs all the time, but I&#39;ve only seen an OPEL in crosswords &mdash; even back when I was traveling all over the world. I would have much-preferred GMC (EGG MCMUFFIN, YOUNG MC), or even VW (ROE V WADE, UV WAVES). Probably others, too.</p>
+
+<p>No doubt the GMC option would have required longer themer rebus answers, but that would have been nice. I enjoy rebuses the most when they&#39;re part of snazzy, long phrases, especially when those phrases are longer than 15 letters &ndash; it&#39;s so infrequent that you see a 16+ letter crossword entry!</p>
+
+<p>In the past, Will has told me that for rebus puzzles, the longest entries in the grid ought to contain rebuses, and I&#39;m fully on board with that now. PLAUDITS and GAUDIEST are fine words, but they&#39;re so short that they pale in comparison to the catchy OPEN AND SHUT and DANCE AROUND.</p>
+
+<p>It also doesn&#39;t seem right that the so-so LIMA OHIO is the same length as GAUDIEST / PLAUDITS, and SLOVAKIA.</p>
+
+<p>Fantastic misdirect on the &quot;Casey at the Bat&quot; clue. I struggled mightily to recall who wrote that (Ernest Thayer). Turns out I skimmed the clue too quickly &ndash; it&#39;s the autobiography of Casey STENGEL. Clever!</p>
+
+<p>[Cellular carrier?] for RNA also shined.</p>
+
+<p>And I appreciated Emily&#39;s effort to include bonuses in the fill. DIRT CHEAP, MANDELA, OLD SAWS helped make up for some of the ALII, SEL, ALC kind of crossword glue.</p>
+
+<p>Overall, a solid rebus concept. These days though, the body of rebus work is so large, that new ones have to shine nearly perfectly or innovate to stand out.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>I love rebus puzzles. Years ago, back when I was more of a casual crossword solver, I remember doing this <a href="https://www.xwordinfo.com/Crossword?date=5/1/2014">alien abduction themed puzzle</a> where several squares had &quot;ET&quot; in the shape of a flying saucer and then there was a bonus &quot;COW&quot; rebus square underneath it. It completely blew my mind.</p>
+
+<p>I think about that puzzle a lot when I&#39;m hitting a writer&#39;s block and want to feel bad about how much more creative and ambitious other constructors can be.</p>
+
+<p>So I&#39;ve been trying to come up with a good rebus theme for a while. I was pleasantly surprised to find that there weren&#39;t any car rebuses in <a href="https://www.xwordinfo.com/Rebus">the XWord Info database</a> because it seemed like every &quot;thing in a box&quot; idea that came to me had already been done before.</p>
+
+<p>Initially I was trying to do something with&quot;boxcars&quot; as the revealer but I found that the 11-letter &quot;compact cars&quot; made for a better grid layout, plus I think is a more fun answer.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

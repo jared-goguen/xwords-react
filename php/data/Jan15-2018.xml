@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Monday, January 15, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/14/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Mon, Jan 15, 2018</Title>
+    <Author>Agnes Davidson and Zhouqin Burnikel</Author>
+    <CanonicalNames>
+      <Constructor>Agnes Davidson</Constructor>
+      <Constructor>Zhouqin Burnikel</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/15/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>STP..CITGO.ODOR</Row>
+      <Row>IHOP.ONION.LENO</Row>
+      <Row>NEWRELEASE.INTO</Row>
+      <Row>.ODES.PRO.AVIAS</Row>
+      <Row>..ELK.TAXEXEMPT</Row>
+      <Row>MERLIN...LEO...</Row>
+      <Row>ICK.MEMORY.IRKS</Row>
+      <Row>THECOASTISCLEAR</Row>
+      <Row>TOGO.RUBBER.ALA</Row>
+      <Row>...SEE...EAGLES</Row>
+      <Row>BEGPARDON.VID..</Row>
+      <Row>EXALT.ARI.AREA.</Row>
+      <Row>GILA.FREEATLAST</Row>
+      <Row>ALLY.RICCI.SLAB</Row>
+      <Row>NESS.INKED..SPA</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="STP">Big advertiser at auto races</Clue>
+      <Clue Row="1" Col="6" Num="4" Dir="Across" Ans="CITGO">Sunoco competitor</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Across" Ans="ODOR">Distinctive smell</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Across" Ans="IHOP">Breakfast restaurant chain</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="ONION">Quarter Pounder topper</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="LENO">Jay who preceded Jimmy Fallon</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="NEWRELEASE">Singer's latest</Clue>
+      <Clue Row="3" Col="12" Num="19" Dir="Across" Ans="INTO">"What's gotten ___ you?"</Clue>
+      <Clue Row="4" Col="2" Num="20" Dir="Across" Ans="ODES">Poems whose titles often start "To a ..."</Clue>
+      <Clue Row="4" Col="7" Num="21" Dir="Across" Ans="PRO">Con's opposite</Clue>
+      <Clue Row="4" Col="11" Num="22" Dir="Across" Ans="AVIAS">Alternatives to Nikes</Clue>
+      <Clue Row="5" Col="3" Num="23" Dir="Across" Ans="ELK">Lodge member</Clue>
+      <Clue Row="5" Col="7" Num="24" Dir="Across" Ans="TAXEXEMPT">Like religious institutions vis-à-vis the I.R.S.</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Across" Ans="MERLIN">King Arthur's magician</Clue>
+      <Clue Row="6" Col="10" Num="29" Dir="Across" Ans="LEO">The lion in summer?</Clue>
+      <Clue Row="7" Col="1" Num="30" Dir="Across" Ans="ICK">"Disgusting!"</Clue>
+      <Clue Row="7" Col="5" Num="31" Dir="Across" Ans="MEMORY">What gigabytes might measure</Clue>
+      <Clue Row="7" Col="12" Num="35" Dir="Across" Ans="IRKS">Vexes</Clue>
+      <Clue Row="8" Col="1" Num="39" Dir="Across" Ans="THECOASTISCLEAR">"We can go safely now"</Clue>
+      <Clue Row="9" Col="1" Num="42" Dir="Across" Ans="TOGO">Like food from a West African drive-through?</Clue>
+      <Clue Row="9" Col="6" Num="43" Dir="Across" Ans="RUBBER">Tire material</Clue>
+      <Clue Row="9" Col="13" Num="44" Dir="Across" Ans="ALA">In the style of</Clue>
+      <Clue Row="10" Col="4" Num="45" Dir="Across" Ans="SEE">Envision</Clue>
+      <Clue Row="10" Col="10" Num="47" Dir="Across" Ans="EAGLES">Scores two under par</Clue>
+      <Clue Row="11" Col="1" Num="49" Dir="Across" Ans="BEGPARDON">"Excuse me?"</Clue>
+      <Clue Row="11" Col="11" Num="55" Dir="Across" Ans="VID">YouTube posting, casually</Clue>
+      <Clue Row="12" Col="1" Num="56" Dir="Across" Ans="EXALT">Praise highly</Clue>
+      <Clue Row="12" Col="7" Num="57" Dir="Across" Ans="ARI">The Diamondbacks, on scoreboards</Clue>
+      <Clue Row="12" Col="11" Num="58" Dir="Across" Ans="AREA">Vicinity</Clue>
+      <Clue Row="13" Col="1" Num="60" Dir="Across" Ans="GILA">___ monster (desert denizen)</Clue>
+      <Clue Row="13" Col="6" Num="61" Dir="Across" Ans="FREEATLAST">Final words of Martin Luther King Jr.'s "I Have a Dream" speech ... or a hint to the endings of 17-, 24-, 39- and 49-Across</Clue>
+      <Clue Row="14" Col="1" Num="64" Dir="Across" Ans="ALLY">Wartime friend</Clue>
+      <Clue Row="14" Col="6" Num="65" Dir="Across" Ans="RICCI">Actress Christina</Clue>
+      <Clue Row="14" Col="12" Num="66" Dir="Across" Ans="SLAB">Chunk of concrete</Clue>
+      <Clue Row="15" Col="1" Num="67" Dir="Across" Ans="NESS">Loch ___ monster</Clue>
+      <Clue Row="15" Col="6" Num="68" Dir="Across" Ans="INKED">Approved, as a contract</Clue>
+      <Clue Row="15" Col="13" Num="69" Dir="Across" Ans="SPA">Resting place?</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="SIN">Covet one's neighbor's wife, e.g.</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="THEO">"The Cosby Show" son</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="POWDERKEG">Volatile situation</Clue>
+      <Clue Row="1" Col="6" Num="4" Dir="Down" Ans="COL">Mustard in the game Clue, e.g.: Abbr.</Clue>
+      <Clue Row="1" Col="7" Num="5" Dir="Down" Ans="INEPT">Bumbling</Clue>
+      <Clue Row="1" Col="8" Num="6" Dir="Down" Ans="TIARA">Queen's crown</Clue>
+      <Clue Row="1" Col="9" Num="7" Dir="Down" Ans="GOSOX">Shout at Fenway Park</Clue>
+      <Clue Row="1" Col="10" Num="8" Dir="Down" Ans="ONE">Final word shouted before "Happy New Year!"</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Down" Ans="OLIVEOIL">Cruet filler at an Italian restaurant</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="DENIM">Jeans material</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="ONTAP">Not bottled, at a bar</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="ROOST">Perch in a chicken house</Clue>
+      <Clue Row="2" Col="4" Num="14" Dir="Down" Ans="PRELL">Green shampoo</Clue>
+      <Clue Row="3" Col="5" Num="18" Dir="Down" Ans="ESKIMO">___ Pie (frozen treat)</Clue>
+      <Clue Row="4" Col="11" Num="22" Dir="Down" Ans="AXE">Tree toppler</Clue>
+      <Clue Row="5" Col="10" Num="25" Dir="Down" Ans="ELYSEE">French president's palace</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Down" Ans="MITT">Catcher's glove</Clue>
+      <Clue Row="6" Col="2" Num="27" Dir="Down" Ans="ECHO">Canyon effect</Clue>
+      <Clue Row="6" Col="6" Num="28" Dir="Down" Ans="NEARER">More proximate</Clue>
+      <Clue Row="7" Col="7" Num="32" Dir="Down" Ans="MSU">East Lansing sch.</Clue>
+      <Clue Row="7" Col="8" Num="33" Dir="Down" Ans="OTB">Gambling parlor, for short</Clue>
+      <Clue Row="7" Col="9" Num="34" Dir="Down" Ans="RIB">Umbrella part</Clue>
+      <Clue Row="7" Col="13" Num="36" Dir="Down" Ans="REALDEALS">Super bargains</Clue>
+      <Clue Row="7" Col="14" Num="37" Dir="Down" Ans="KALE">Vitamin-rich green vegetable</Clue>
+      <Clue Row="7" Col="15" Num="38" Dir="Down" Ans="SRAS">Mmes. of Madrid</Clue>
+      <Clue Row="8" Col="4" Num="40" Dir="Down" Ans="COSPLAYS">Dresses up for a comic con, say</Clue>
+      <Clue Row="8" Col="11" Num="41" Dir="Down" Ans="CRAVAT">Fancy tie</Clue>
+      <Clue Row="10" Col="5" Num="46" Dir="Down" Ans="EAT">Grab a bite</Clue>
+      <Clue Row="10" Col="12" Num="48" Dir="Down" Ans="GIRLS">TV's "2 Broke ___"</Clue>
+      <Clue Row="11" Col="1" Num="49" Dir="Down" Ans="BEGAN">Started</Clue>
+      <Clue Row="11" Col="2" Num="50" Dir="Down" Ans="EXILE">Napoleon, on St. Helena</Clue>
+      <Clue Row="11" Col="3" Num="51" Dir="Down" Ans="GALLS">Vexes</Clue>
+      <Clue Row="11" Col="7" Num="52" Dir="Down" Ans="DARIN">Bobby who sang "Mack the Knife"</Clue>
+      <Clue Row="11" Col="8" Num="53" Dir="Down" Ans="ORECK">Big name in vacuum cleaners</Clue>
+      <Clue Row="11" Col="9" Num="54" Dir="Down" Ans="NIECE">Sister's daughter, e.g.</Clue>
+      <Clue Row="12" Col="14" Num="59" Dir="Down" Ans="ASAP">"Right now!"</Clue>
+      <Clue Row="13" Col="6" Num="61" Dir="Down" Ans="FRI">Payday, often: Abbr.</Clue>
+      <Clue Row="13" Col="10" Num="62" Dir="Down" Ans="AID">Help</Clue>
+      <Clue Row="13" Col="15" Num="63" Dir="Down" Ans="TBA">Letters on an unfinished sched.</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Apt MLK Day theme, reinterpreting the famous FREE AT LAST to mean &quot;phrases whose last words are synonyms for free.&quot; Especially apt that Agnes and C.C. chose the &quot;release&quot; meaning of free (instead of &quot;not busy&quot; or &quot;take a burden from&quot;), given MLK&#39;s goals in life.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Martin_Luther_King_Jr." style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Martin_Luther_King_-_March_on_Washington.jpg/360px-Martin_Luther_King_-_March_on_Washington.jpg" style="border:1px solid lightgray; float:right; height:238px; margin:6px 0px 6px 12px; width:220px" title="MLK giving his famous speech" /></a></p>
+
+<p>NEW RELEASE and THE COAST IS CLEAR worked beautifully for me. Colorful phrases, and perfect synonyms.</p>
+
+<p>BEG PARDON &hellip; perhaps it&#39;s a generational thing, but I don&#39;t ever hear exactly this. I BEG YOUR PARDON, yes. BEG YOUR PARDON, too. (And OH NO YOU DIDN&#39;T all too much.)</p>
+
+<p>TAX EXEMPT is my favorite type of tax! But here, the &quot;free&quot; meaning of exempt didn&#39;t get at the &quot;release&quot; sense of &quot;free&quot; that I associate with MLK&#39;s work.</p>
+
+<p>As always, C.C. gives such nice bonuses &mdash; POWDER KEG, OLIVE OIL, CRAVAT are great. COSPLAYS is a bit odd in the verb form, but it&#39;s legit. REAL DEAL is similarly odd in the plural, but it&#39;s okay too.</p>
+
+<p>I did find the short fill novice unfriendly. CITGO, ELYSEE, DARIN, ORECK are all valid words that educated solvers (mostly probably) ought to know, but so many in one puzzle felt like a heavy concentration.</p>
+
+<p>Usually, these sorts of compromises arise when constructors try too hard to add in bonuses, but curiously, it had nothing to do with those added bonuses today. I would have asked for some rework in the north and south sections, which should be doable without changing black squares.</p>
+
+<p>I wonder if someone might be a SOX fan, striving a bit too hard to work in the odd GO SOX &hellip;</p>
+
+<p>Happy MLK Day! Hope you&#39;re volunteering somewhere, or at least remembering the spirit of the day.</p>]]></JeffNotes>
+  </Puzzle>
+</Puzzles>

@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Wednesday, May 2, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/1/2018 at 7:02 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Wed, May 02, 2018</Title>
+    <Author>Bryant White</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/2/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>JAVA.SATS...FED</Row>
+      <Row>OVID.TURNS.FAIR</Row>
+      <Row>LENA.AEIOU.ALGA</Row>
+      <Row>TROPHYROOM.ASHY</Row>
+      <Row>...TIE.STAB.ETS</Row>
+      <Row>PAW.DDE..COOPS.</Row>
+      <Row>ADATE.NAP.ONAIR</Row>
+      <Row>POLKA.STA.KENDO</Row>
+      <Row>ALLOW.ELI.CREED</Row>
+      <Row>.ESSAY..RCA.LDS</Row>
+      <Row>ESC.YOGA.ASP...</Row>
+      <Row>ECON.WINECELLAR</Row>
+      <Row>RENO.LATCH.AIDE</Row>
+      <Row>INCH.SNORE.NAZI</Row>
+      <Row>ETE...TNUT.TMEN</Row>
+    </Grid>
+    <Circles>
+      <Circle Row="4" Col="5" />
+      <Circle Row="5" Col="5" />
+      <Circle Row="6" Col="5" />
+      <Circle Row="6" Col="6" />
+      <Circle Row="6" Col="7" />
+      <Circle Row="7" Col="7" />
+      <Circle Row="8" Col="7" />
+      <Circle Row="8" Col="8" />
+      <Circle Row="8" Col="9" />
+      <Circle Row="9" Col="9" />
+      <Circle Row="10" Col="9" />
+      <Circle Row="10" Col="10" />
+      <Circle Row="10" Col="11" />
+      <Circle Row="11" Col="11" />
+      <Circle Row="12" Col="11" />
+    </Circles>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="JAVA">Christmas Island's closest neighbor</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="SATS">Rites of passage for college-bound students</Clue>
+      <Clue Row="1" Col="13" Num="9" Dir="Across" Ans="FED">"The X-Files" extra</Clue>
+      <Clue Row="2" Col="1" Num="12" Dir="Across" Ans="OVID">"Metamorphoses" poet</Clue>
+      <Clue Row="2" Col="6" Num="13" Dir="Across" Ans="TURNS">Throws of the dice, maybe</Clue>
+      <Clue Row="2" Col="12" Num="15" Dir="Across" Ans="FAIR">Within bounds</Clue>
+      <Clue Row="3" Col="1" Num="16" Dir="Across" Ans="LENA">___ the Hyena of old comics</Clue>
+      <Clue Row="3" Col="6" Num="17" Dir="Across" Ans="AEIOU">Key parts of a so-called supervocalic word</Clue>
+      <Clue Row="3" Col="12" Num="18" Dir="Across" Ans="ALGA">Seaweed, e.g.</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="TROPHYROOM">Where gold and silver cups may be displayed</Clue>
+      <Clue Row="4" Col="12" Num="21" Dir="Across" Ans="ASHY">Like a hearth</Clue>
+      <Clue Row="5" Col="4" Num="22" Dir="Across" Ans="TIE">Word with twist and neck</Clue>
+      <Clue Row="5" Col="8" Num="23" Dir="Across" Ans="STAB">Impale</Clue>
+      <Clue Row="5" Col="13" Num="25" Dir="Across" Ans="ETS">"The X-Files" extras, for short</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Across" Ans="PAW">Foot with claws</Clue>
+      <Clue Row="6" Col="5" Num="29" Dir="Across" Ans="DDE">W.W. II inits.</Clue>
+      <Clue Row="6" Col="10" Num="31" Dir="Across" Ans="COOPS">Fowl places</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Across" Ans="ADATE">"... ___ which will live in infamy"</Clue>
+      <Clue Row="7" Col="7" Num="35" Dir="Across" Ans="NAP">Snooze</Clue>
+      <Clue Row="7" Col="11" Num="38" Dir="Across" Ans="ONAIR">Broadcasting live</Clue>
+      <Clue Row="8" Col="1" Num="40" Dir="Across" Ans="POLKA">Dance often accompanied by an accordion</Clue>
+      <Clue Row="8" Col="7" Num="41" Dir="Across" Ans="STA">Railroad terminus: Abbr.</Clue>
+      <Clue Row="8" Col="11" Num="42" Dir="Across" Ans="KENDO">Martial art with bamboo swords</Clue>
+      <Clue Row="9" Col="1" Num="43" Dir="Across" Ans="ALLOW">Green-light</Clue>
+      <Clue Row="9" Col="7" Num="44" Dir="Across" Ans="ELI">Automotive pioneer Ransom ___ Olds</Clue>
+      <Clue Row="9" Col="11" Num="45" Dir="Across" Ans="CREED">Guiding set of principles</Clue>
+      <Clue Row="10" Col="2" Num="46" Dir="Across" Ans="ESSAY">Try</Clue>
+      <Clue Row="10" Col="9" Num="48" Dir="Across" Ans="RCA">Nipper's co.</Clue>
+      <Clue Row="10" Col="13" Num="50" Dir="Across" Ans="LDS">Mormon grp.</Clue>
+      <Clue Row="11" Col="1" Num="51" Dir="Across" Ans="ESC">Corner keyboard key</Clue>
+      <Clue Row="11" Col="5" Num="52" Dir="Across" Ans="YOGA">Meditative practice</Clue>
+      <Clue Row="11" Col="10" Num="55" Dir="Across" Ans="ASP">Hieroglyphic figure</Clue>
+      <Clue Row="12" Col="1" Num="57" Dir="Across" Ans="ECON">Nobel Prize subj.</Clue>
+      <Clue Row="12" Col="6" Num="59" Dir="Across" Ans="WINECELLAR">Temperature- and humidity-controlled place</Clue>
+      <Clue Row="13" Col="1" Num="64" Dir="Across" Ans="RENO">City near the California/Nevada border</Clue>
+      <Clue Row="13" Col="6" Num="65" Dir="Across" Ans="LATCH">Gate feature</Clue>
+      <Clue Row="13" Col="12" Num="66" Dir="Across" Ans="AIDE">Number two</Clue>
+      <Clue Row="14" Col="1" Num="67" Dir="Across" Ans="INCH">Creep (along)</Clue>
+      <Clue Row="14" Col="6" Num="68" Dir="Across" Ans="SNORE">Elicit a slug with a pillow, maybe</Clue>
+      <Clue Row="14" Col="12" Num="69" Dir="Across" Ans="NAZI">Extra in "The Producers"</Clue>
+      <Clue Row="15" Col="1" Num="70" Dir="Across" Ans="ETE">Good time for un pique-nique</Clue>
+      <Clue Row="15" Col="7" Num="71" Dir="Across" Ans="TNUT">Fastener with a flange</Clue>
+      <Clue Row="15" Col="12" Num="72" Dir="Across" Ans="TMEN">Tax evasion investigators, quaintly</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="JOLT">What a double shot of caffeine provides</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="AVER">State</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="VINO">Chianti or Asti Spumante</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="ADAPT">Not be a dinosaur</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="STAYED">Didn't leave</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="AUER">Violinist Leopold</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="TRIOS">Quartets after some infighting?</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="SNOOT">High-and-mighty sort</Clue>
+      <Clue Row="1" Col="13" Num="9" Dir="Down" Ans="FALSEPANEL">Something you might secretly push in a 24-Down</Clue>
+      <Clue Row="1" Col="14" Num="10" Dir="Down" Ans="EIGHTSIDED">Octagonal</Clue>
+      <Clue Row="1" Col="15" Num="11" Dir="Down" Ans="DRAYS">Heavy carts</Clue>
+      <Clue Row="2" Col="10" Num="14" Dir="Down" Ans="SUMAC">Poison ___</Clue>
+      <Clue Row="2" Col="12" Num="15" Dir="Down" Ans="FAA">Branch of the Dept. of Transportation</Clue>
+      <Clue Row="4" Col="5" Num="20" Dir="Down" Ans="HIDEAWAY">Secret spot</Clue>
+      <Clue Row="5" Col="11" Num="24" Dir="Down" Ans="BOOKCASE">Where you might adjust the volume?</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Down" Ans="PAPA">Family nickname</Clue>
+      <Clue Row="6" Col="2" Num="27" Dir="Down" Ans="ADOLESCENT">Teen, e.g.</Clue>
+      <Clue Row="6" Col="3" Num="28" Dir="Down" Ans="WALLSCONCE">Something you might secretly push in a 19-Across</Clue>
+      <Clue Row="6" Col="7" Num="30" Dir="Down" Ans="ENSE">Start of Massachusetts' state motto</Clue>
+      <Clue Row="6" Col="12" Num="32" Dir="Down" Ans="ONER">Extraordinary thing, in slang</Clue>
+      <Clue Row="7" Col="4" Num="34" Dir="Down" Ans="TKOS">Some ring decisions</Clue>
+      <Clue Row="7" Col="8" Num="36" Dir="Down" Ans="ATL">CNN's home: Abbr.</Clue>
+      <Clue Row="7" Col="9" Num="37" Dir="Down" Ans="PAIR">Glove purchase</Clue>
+      <Clue Row="7" Col="15" Num="39" Dir="Down" Ans="RODS">Subjects of meltdowns</Clue>
+      <Clue Row="10" Col="6" Num="47" Dir="Down" Ans="YOWLS">Some caterwauling</Clue>
+      <Clue Row="10" Col="10" Num="49" Dir="Down" Ans="CACHET">Prestige</Clue>
+      <Clue Row="11" Col="1" Num="51" Dir="Down" Ans="EERIE">Spooky</Clue>
+      <Clue Row="11" Col="7" Num="53" Dir="Down" Ans="GIANT">"Fee, fi, fo, fum" speaker in a fairy tale</Clue>
+      <Clue Row="11" Col="8" Num="54" Dir="Down" Ans="ANTON">Author Chekhov</Clue>
+      <Clue Row="11" Col="12" Num="56" Dir="Down" Ans="PLANT">Purposely placed evidence</Clue>
+      <Clue Row="12" Col="4" Num="58" Dir="Down" Ans="NOH">Japanese drama</Clue>
+      <Clue Row="12" Col="9" Num="60" Dir="Down" Ans="ECRU">Khaki-like color</Clue>
+      <Clue Row="12" Col="13" Num="61" Dir="Down" Ans="LIAM">One of Hollywood's Hemsworths</Clue>
+      <Clue Row="12" Col="14" Num="62" Dir="Down" Ans="ADZE">Shaping tool</Clue>
+      <Clue Row="12" Col="15" Num="63" Dir="Down" Ans="REIN">Control, with "in"</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>I loved this concept. There&#39;s something so evocative about the HIDDEN STAIRCASE wending its way down from the TROPHY ROOM to the WINE CELLAR. Secret entrances and passageways, opened by pulling a WALL SCONCE or pushing a FALSE PANEL &ndash; fodder for many a fantastic novel!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/The_Hidden_Staircase" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/7/7e/Origndths.jpg" style="border:none; float:right; height:250px; margin:6px 0px 6px 12px; width:163px" title="Why do people always think it's a good idea to go down the eerie HIDDEN STAIRCASE?" /></a></p>
+
+<p>Usually, I find it problematic when a grid gets segmented up, messing with my solving feng shui. But in this case, I didn&#39;t mind that the center is so choked off. In fact, it&#39;s a bonus, considering the theme of narrow, twisty passageways! Bravo, sir.</p>
+
+<p>I wasn&#39;t sure why a TROPHY ROOM would be the start point, or the WINE CELLAR the end. But I enjoyed the Masonic cabal feel that I overlooked this.</p>
+
+<p>What I couldn&#39;t overlook though, was issues with the execution. I enjoyed the Poe-esque conceit so much that I so badly wanted to give it the POW! Couldn&#39;t do it, though.</p>
+
+<p>First, HIDEAWAY / HIDDEN STAIRCASE is duplicative. Then CASE / BOOKCASE too? I could see it if the BOOKCASE was the thing that was pushed back to open up the HIDDEN STAIRCASE! How awesome would that have been? So much more apt than a FALSE PANEL.</p>
+
+<p>Sadly, that wouldn&#39;t have worked, since the BOOKCASE wants to be on top, but the CASE part of the HIDDEN STAIRCASE wants to be on the bottom. So in that CASE, I&#39;d have much preferred the CASE of BOOKCASE to be more well-hidden.</p>
+
+<p>CASE closed?</p>
+
+<p>Nope. Bryant had to close off his middle so much, that the rest of the puzzle was forced to contain huge wide-open spaces. In the NE alone, see DRAYS, LDS, and the Maleskan ONER. That last one is nearly a puzzle-killer to me.</p>
+
+<p>I think changing to shorter theme bonuses &mdash; from BOOKCASE to BOOK, e.g., would have helped.</p>
+
+<p>Overall, fantastic idea. Stupendous. Too many execution problems, though.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>After hurrying downstairs one day, I stubbed my toe &mdash; the resulting pain soared up my leg, roller-coastered around my innards and finally skyrocketed through my head where it exploded like fireworks into the idea for this puzzle&#39;s theme. From pain to eventual pleasure in one not-so-easy step. Normally, I remain stationary and try to think outside the box when considering most themes.</p>
+
+<p>It&#39;s been a couple of decades since the NYT published my last puzzle &mdash; I was a semi-regular contributor for both the NYT and Simon &amp; Schuster throughout the 1990s and late &lsquo;80s (back, it seems, when dirt was just invented) before stopping to pursue other hobbies. Recently, I&#39;ve taken up both writing and cartooning, and have published two e-books apiece in both genres. The lure of crafting crosswords, however, still sings to me with its siren-sweet voice, so I&#39;ve been making puzzles in bunches as of late between other projects. Unfortunately, I&#39;ve been amassing numerous rejections. I might have to try the &lsquo;hurry-down-the-stairs&#39; trick again.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Monday, April 23, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/22/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Mon, Apr 23, 2018</Title>
+    <Author>Lynn Lempel</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/23/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>ATWAR.STEP.MYTH</Row>
+      <Row>LIETO.THAI.COHO</Row>
+      <Row>SCATTERRUG.QUIP</Row>
+      <Row>OKRA.ROO..DUNNE</Row>
+      <Row>..SCRAMBLEDEGGS</Row>
+      <Row>MATHIS..ALEE...</Row>
+      <Row>ASHEN.ALUM.NICE</Row>
+      <Row>WII.GOFIRST.NAY</Row>
+      <Row>SAND.PITA.HASTE</Row>
+      <Row>...EVER..DEBITS</Row>
+      <Row>LEAVENEDBREAD..</Row>
+      <Row>INBOX..IRA.LISA</Row>
+      <Row>EDIT.SHOOTHOOPS</Row>
+      <Row>NUDE.AUDI.INUIT</Row>
+      <Row>SPED.PEEL.PESTO</Row>
+    </Grid>
+    <Circles>
+      <Circle Row="3" Col="1" />
+      <Circle Row="3" Col="2" />
+      <Circle Row="3" Col="3" />
+      <Circle Row="3" Col="4" />
+      <Circle Row="5" Col="3" />
+      <Circle Row="5" Col="4" />
+      <Circle Row="5" Col="5" />
+      <Circle Row="5" Col="6" />
+      <Circle Row="5" Col="7" />
+      <Circle Row="11" Col="1" />
+      <Circle Row="11" Col="2" />
+      <Circle Row="11" Col="3" />
+      <Circle Row="11" Col="4" />
+      <Circle Row="11" Col="5" />
+      <Circle Row="13" Col="6" />
+      <Circle Row="13" Col="7" />
+      <Circle Row="13" Col="8" />
+      <Circle Row="13" Col="9" />
+    </Circles>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="ATWAR">Engaged in country-to-country combat</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="STEP">Dance movement</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="MYTH">Story about Zeus and Hera, e.g.</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="LIETO">Be dishonest with</Clue>
+      <Clue Row="2" Col="7" Num="15" Dir="Across" Ans="THAI">Language of Bangkok</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="COHO">Salmon variety</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="SCATTERRUG">Small floor covering</Clue>
+      <Clue Row="3" Col="12" Num="19" Dir="Across" Ans="QUIP">Witticism</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="OKRA">Gummy gumbo vegetable</Clue>
+      <Clue Row="4" Col="6" Num="21" Dir="Across" Ans="ROO">"Winnie-the-Pooh" baby</Clue>
+      <Clue Row="4" Col="11" Num="22" Dir="Across" Ans="DUNNE">Irene of old Hollywood</Clue>
+      <Clue Row="5" Col="3" Num="23" Dir="Across" Ans="SCRAMBLEDEGGS">Standard breakfast order</Clue>
+      <Clue Row="6" Col="1" Num="27" Dir="Across" Ans="MATHIS">Johnny who sang "Chances Are"</Clue>
+      <Clue Row="6" Col="9" Num="29" Dir="Across" Ans="ALEE">Toward shelter, at sea</Clue>
+      <Clue Row="7" Col="1" Num="30" Dir="Across" Ans="ASHEN">White as a ghost</Clue>
+      <Clue Row="7" Col="7" Num="31" Dir="Across" Ans="ALUM">Legacy student's relative, for short</Clue>
+      <Clue Row="7" Col="12" Num="33" Dir="Across" Ans="NICE">Friendly</Clue>
+      <Clue Row="8" Col="1" Num="37" Dir="Across" Ans="WII">Nintendo game console</Clue>
+      <Clue Row="8" Col="5" Num="38" Dir="Across" Ans="GOFIRST">Lead off ... or a hint to the circled letters</Clue>
+      <Clue Row="8" Col="13" Num="41" Dir="Across" Ans="NAY">Aye's opposite</Clue>
+      <Clue Row="9" Col="1" Num="42" Dir="Across" Ans="SAND">Makings of a castle at the beach</Clue>
+      <Clue Row="9" Col="6" Num="44" Dir="Across" Ans="PITA">Gyro wrap</Clue>
+      <Clue Row="9" Col="11" Num="45" Dir="Across" Ans="HASTE">Waste maker, in a saying</Clue>
+      <Clue Row="10" Col="4" Num="47" Dir="Across" Ans="EVER">At any time</Clue>
+      <Clue Row="10" Col="10" Num="49" Dir="Across" Ans="DEBITS">Entries in the minus column</Clue>
+      <Clue Row="11" Col="1" Num="50" Dir="Across" Ans="LEAVENEDBREAD">Passover no-no</Clue>
+      <Clue Row="12" Col="1" Num="55" Dir="Across" Ans="INBOX">Holder of unread emails</Clue>
+      <Clue Row="12" Col="8" Num="56" Dir="Across" Ans="IRA">Savings plan for old age, in short</Clue>
+      <Clue Row="12" Col="12" Num="57" Dir="Across" Ans="LISA">Kudrow of "Friends"</Clue>
+      <Clue Row="13" Col="1" Num="60" Dir="Across" Ans="EDIT">Cut and paste text, e.g.</Clue>
+      <Clue Row="13" Col="6" Num="61" Dir="Across" Ans="SHOOTHOOPS">Play H-O-R-S-E, say</Clue>
+      <Clue Row="14" Col="1" Num="64" Dir="Across" Ans="NUDE">Michelangelo's "David," for one</Clue>
+      <Clue Row="14" Col="6" Num="65" Dir="Across" Ans="AUDI">German luxury carmaker</Clue>
+      <Clue Row="14" Col="11" Num="66" Dir="Across" Ans="INUIT">Arctic people</Clue>
+      <Clue Row="15" Col="1" Num="67" Dir="Across" Ans="SPED">Put the pedal to the metal</Clue>
+      <Clue Row="15" Col="6" Num="68" Dir="Across" Ans="PEEL">Get over a sunburn, maybe</Clue>
+      <Clue Row="15" Col="11" Num="69" Dir="Across" Ans="PESTO">Green pasta sauce</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="ALSO">Likewise</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="TICK">Sound of a watch</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="WEARSTHIN">Diminishes, as patience</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="ATTACHE">Embassy staffer</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="ROT">"Poppycock!"</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="STROM">Longtime senator Thurmond</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="THROB">Pulsate</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="EAU">French water</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="PIG">Big Bad Wolf's target</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="MCQUEEN">Steve who directed "12 Years a Slave"</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="YOUNG">The "Y" of Michael Jackson's "P.Y.T."</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="THING">The "T" of Michael Jackson's "P.Y.T."</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="HOPES">"High" feelings</Clue>
+      <Clue Row="3" Col="6" Num="18" Dir="Down" Ans="ERAS">Timeline periods</Clue>
+      <Clue Row="4" Col="11" Num="22" Dir="Down" Ans="DDE">J.F.K.'s predecessor</Clue>
+      <Clue Row="5" Col="5" Num="24" Dir="Down" Ans="RING">Age indicator in a tree trunk</Clue>
+      <Clue Row="5" Col="9" Num="25" Dir="Down" Ans="LAURA">Actress Linney in "Kinsey"</Clue>
+      <Clue Row="5" Col="10" Num="26" Dir="Down" Ans="ELMS">Trees attacked by bark beetles</Clue>
+      <Clue Row="6" Col="1" Num="27" Dir="Down" Ans="MAWS">Cavernous openings</Clue>
+      <Clue Row="6" Col="2" Num="28" Dir="Down" Ans="ASIA">Home to 48 countries</Clue>
+      <Clue Row="7" Col="7" Num="31" Dir="Down" Ans="AFIRE">Blazing</Clue>
+      <Clue Row="7" Col="8" Num="32" Dir="Down" Ans="LIT">Blazing</Clue>
+      <Clue Row="7" Col="13" Num="34" Dir="Down" Ans="INSIDIOUS">Sneakily dangerous</Clue>
+      <Clue Row="7" Col="14" Num="35" Dir="Down" Ans="CATT">Suffragist Carrie Chapman ___</Clue>
+      <Clue Row="7" Col="15" Num="36" Dir="Down" Ans="EYES">Baby blues, e.g.</Clue>
+      <Clue Row="8" Col="6" Num="39" Dir="Down" Ans="OPEN">Like most businesses from 9 to 5</Clue>
+      <Clue Row="8" Col="11" Num="40" Dir="Down" Ans="THEE">"Get ___ to a nunnery": Hamlet</Clue>
+      <Clue Row="9" Col="4" Num="43" Dir="Down" Ans="DEVOTED">Totally loyal</Clue>
+      <Clue Row="9" Col="12" Num="46" Dir="Down" Ans="ABALONE">Sea snail with a mother-of-pearl shell</Clue>
+      <Clue Row="10" Col="5" Num="48" Dir="Down" Ans="VEX">Annoy</Clue>
+      <Clue Row="10" Col="10" Num="49" Dir="Down" Ans="DRAT">"Shucks!"</Clue>
+      <Clue Row="11" Col="1" Num="50" Dir="Down" Ans="LIENS">Creditors' claims on property</Clue>
+      <Clue Row="11" Col="2" Num="51" Dir="Down" Ans="ENDUP">Ultimately become</Clue>
+      <Clue Row="11" Col="3" Num="52" Dir="Down" Ans="ABIDE">Bear patiently</Clue>
+      <Clue Row="11" Col="8" Num="53" Dir="Down" Ans="DIODE">Semiconductor device with two terminals</Clue>
+      <Clue Row="11" Col="9" Num="54" Dir="Down" Ans="BROIL">Swelter</Clue>
+      <Clue Row="12" Col="14" Num="58" Dir="Down" Ans="SPIT">Barbecue rod</Clue>
+      <Clue Row="12" Col="15" Num="59" Dir="Down" Ans="ASTO">Concerning</Clue>
+      <Clue Row="13" Col="6" Num="61" Dir="Down" Ans="SAP">Source of maple syrup</Clue>
+      <Clue Row="13" Col="7" Num="62" Dir="Down" Ans="HUE">Choice from a painter's palette</Clue>
+      <Clue Row="13" Col="11" Num="63" Dir="Down" Ans="HIP">Belly dancer's gyrating body part</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p><a href="https://en.wikipedia.org/wiki/Steve_McQueen" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Steve_McQueen_1959.jpg/440px-Steve_McQueen_1959.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:180px" title="Okay, he might be worth ALEE / DDE / DUNNE" /></a></p>
+
+<p>GO FIRST! Because the theme answers start with synonyms for GO. As in DEPART, EXIT &hellip;</p>
+
+<p>Er, more like synonyms for &quot;GO!&quot; SCAT! SCRAM already! Kind of a pushy Monday puzzle, sheesh! Trying to tell us something, hmm, Lynn?</p>
+
+<p>Some neat finds, most of the themers snazzy. I wasn&#39;t sure what a SCATTER RUG was (another term for a throw rug apparently), but I like the sound of it.</p>
+
+<p>I hitched slightly on LEAVENED BREAD, as it&#39;s the only one where the GO! synonym changes pronunciation. It would have been nice for all of them to have a pronunciation change, or none of them, for consistency&#39;s sake. Ah well. The crossword gods can be cruel.</p>
+
+<p>Are GITANO JEANS still a thing?</p>
+
+<p>Now, this is the way to execute on a simple Monday theme. Go up to 78 words if you need to, but make sure to weave in at least a couple of long bonuses &mdash; WEARS THIN, INSIDIOUS, MCQUEEN, even ATTACHE &mdash; while keeping your short stuff from getting noticed. Lynn is so good about using those longer slots to her advantage, elevating the solving experience.</p>
+
+<p>Although, there was one area I felt was subpar for her: the DDE / ALEE / DUNNE region. It would have been fine if it had been any other constructor, but a little-used Presidential monogram, a nautical term, and an actress from &quot;old Hollywood&quot;? Not quite up to Lynn&#39;s bar.</p>
+
+<p>I liked MCQUEEN and the YOUNG / THING pairing. I&#39;d personally have chosen to smoothify the grid by taking one or more of those out. But I can respect Lynn&#39;s choice.</p>
+
+<p>Overall, a fine Monday puzzle. I liked the theme enough that I considered it for the POW! If the revealer had packed more punch, creating a sharper a-ha moment, it might well have been my pick.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>This was an exceedingly rare, once-in-a-blue-moon puzzle for me: Once the phrase &quot;go first&quot; popped into my head, the theme idea and all four theme entries were a done deal within, say,15 minutes. And within an hour, the grid was finished. That just never happens.</p>
+
+<p>I submitted the puzzle close to a year ago, without the circles. I thought the revealer would make everything obvious enough without them, and that people would have a nicer aha moment by seeing it on their own. But yeah, it&#39;s Monday.</p>
+
+<p>Only a pair of clue changes to note&mdash;the Michael Jackson ones at 11- and 12-Down. I could never have written them, never having heard of the song. But then, you all probably knew that!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

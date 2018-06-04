@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Monday, March 26, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/25/2018 at 3:19 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Mon, Mar 26, 2018</Title>
+    <Author>Andy Kravis</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/26/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>PERT.ADDAMS.USE</Row>
+      <Row>AVON.CREDIT.NAG</Row>
+      <Row>VICTORYLANE.TUG</Row>
+      <Row>ELK.NEAT..AMINO</Row>
+      <Row>..CUR.DAVIDLEAN</Row>
+      <Row>PEANUTS.EDYS...</Row>
+      <Row>ELVISH.CEO..CIG</Row>
+      <Row>TOETHEPARTYLINE</Row>
+      <Row>SIS..NEW.OEUVRE</Row>
+      <Row>...OFFS.SORTIES</Row>
+      <Row>MICROLOAN.TEC..</Row>
+      <Row>OTHER..GOAL.DAB</Row>
+      <Row>MAO.CLAIRDELUNE</Row>
+      <Row>MLK.EAGLED.ETNA</Row>
+      <Row>AYE.SPEEDS.DYED</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="PERT">Sassy</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="ADDAMS">"Ooky" TV family name</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Across" Ans="USE">"___ the Force, Luke"</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="AVON">Bell-ringing cosmetics company</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="CREDIT">Cash alternative</Clue>
+      <Clue Row="2" Col="13" Num="16" Dir="Across" Ans="NAG">Pester no end</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="VICTORYLANE">Site of a postrace celebration</Clue>
+      <Clue Row="3" Col="13" Num="19" Dir="Across" Ans="TUG">Yank (on)</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="ELK">Caribou kin</Clue>
+      <Clue Row="4" Col="5" Num="21" Dir="Across" Ans="NEAT">Without ice, at the bar</Clue>
+      <Clue Row="4" Col="11" Num="22" Dir="Across" Ans="AMINO">___ acid (protein component)</Clue>
+      <Clue Row="5" Col="3" Num="24" Dir="Across" Ans="CUR">Snarling dog</Clue>
+      <Clue Row="5" Col="7" Num="26" Dir="Across" Ans="DAVIDLEAN">Director of "Lawrence of Arabia" and "Doctor Zhivago"</Clue>
+      <Clue Row="6" Col="1" Num="29" Dir="Across" Ans="PEANUTS">Snoopy's comic strip</Clue>
+      <Clue Row="6" Col="9" Num="32" Dir="Across" Ans="EDYS">Neighbor of Ben &amp; Jerry's in the freezer section</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Across" Ans="ELVISH">Tolkien language</Clue>
+      <Clue Row="7" Col="8" Num="34" Dir="Across" Ans="CEO">Corporate boss, briefly</Clue>
+      <Clue Row="7" Col="13" Num="35" Dir="Across" Ans="CIG">Salem or Marlboro, slangily</Clue>
+      <Clue Row="8" Col="1" Num="38" Dir="Across" Ans="TOETHEPARTYLINE">Follow one's political group</Clue>
+      <Clue Row="9" Col="1" Num="42" Dir="Across" Ans="SIS">Bro's sibling</Clue>
+      <Clue Row="9" Col="6" Num="43" Dir="Across" Ans="NEW">Still in the shrink-wrap</Clue>
+      <Clue Row="9" Col="10" Num="44" Dir="Across" Ans="OEUVRE">Body of work</Clue>
+      <Clue Row="10" Col="4" Num="45" Dir="Across" Ans="OFFS">Does in, in mob slang</Clue>
+      <Clue Row="10" Col="9" Num="47" Dir="Across" Ans="SORTIES">Military forays</Clue>
+      <Clue Row="11" Col="1" Num="48" Dir="Across" Ans="MICROLOAN">Helping hand for a low-income entrepreneur</Clue>
+      <Clue Row="11" Col="11" Num="52" Dir="Across" Ans="TEC">Investigator, in old film noir</Clue>
+      <Clue Row="12" Col="1" Num="53" Dir="Across" Ans="OTHER">Common last option on a questionnaire</Clue>
+      <Clue Row="12" Col="8" Num="54" Dir="Across" Ans="GOAL">One-third of a hat trick</Clue>
+      <Clue Row="12" Col="13" Num="56" Dir="Across" Ans="DAB">Lightly apply</Clue>
+      <Clue Row="13" Col="1" Num="59" Dir="Across" Ans="MAO">Popularizer of the Chinese tunic suit</Clue>
+      <Clue Row="13" Col="5" Num="60" Dir="Across" Ans="CLAIRDELUNE">Classic Debussy work that translates as "Light of the Moon"</Clue>
+      <Clue Row="14" Col="1" Num="64" Dir="Across" Ans="MLK">"I have a dream" orator, for short</Clue>
+      <Clue Row="14" Col="5" Num="65" Dir="Across" Ans="EAGLED">Shot two under par on</Clue>
+      <Clue Row="14" Col="12" Num="66" Dir="Across" Ans="ETNA">Tallest active volcano in Europe</Clue>
+      <Clue Row="15" Col="1" Num="67" Dir="Across" Ans="AYE">"Yes, captain!"</Clue>
+      <Clue Row="15" Col="5" Num="68" Dir="Across" Ans="SPEEDS">Does 50 in a school zone, say</Clue>
+      <Clue Row="15" Col="12" Num="69" Dir="Across" Ans="DYED">Like Easter eggs</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="PAVE">Finish a drive?</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="EVIL">Fiendish</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="ROCKCAVES">Things spelunkers explore</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="TNT">Detonation producer, for short</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="ACRE">Field measurement</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="DRYADS">Wood nymphs, in myth</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="DELTA">"Keep climbing" sloganeer</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="ADA">Abbr. on toothpaste tubes</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="MIN">Max's opposite</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="STEADY">Like a good surgeon's hands</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="UNTIE">Loosen, as shoelaces</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="SAUNA">Finnish bath</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="EGGON">Goad</Clue>
+      <Clue Row="3" Col="5" Num="18" Dir="Down" Ans="ONRUSH">Deluge</Clue>
+      <Clue Row="4" Col="12" Num="23" Dir="Down" Ans="MLS">Seattle Sounders' org.</Clue>
+      <Clue Row="5" Col="4" Num="25" Dir="Down" Ans="UNIT">Syllabus section</Clue>
+      <Clue Row="5" Col="9" Num="27" Dir="Down" Ans="VEER">Zig or zag</Clue>
+      <Clue Row="5" Col="10" Num="28" Dir="Down" Ans="IDOTOO">"Same here!"</Clue>
+      <Clue Row="6" Col="1" Num="29" Dir="Down" Ans="PETS">Dogs, cats and gerbils</Clue>
+      <Clue Row="6" Col="2" Num="30" Dir="Down" Ans="ELOI">"The Time Machine" race</Clue>
+      <Clue Row="6" Col="6" Num="31" Dir="Down" Ans="THENFL">Org. featured in 2015's "Concussion"</Clue>
+      <Clue Row="7" Col="8" Num="34" Dir="Down" Ans="CAW">Crow's call</Clue>
+      <Clue Row="7" Col="13" Num="35" Dir="Down" Ans="CIVICDUTY">Voting or jury service, e.g.</Clue>
+      <Clue Row="7" Col="14" Num="36" Dir="Down" Ans="INRE">About, at the start of a memo</Clue>
+      <Clue Row="7" Col="15" Num="37" Dir="Down" Ans="GEES">Bee ___ ("Night Fever" group)</Clue>
+      <Clue Row="8" Col="7" Num="39" Dir="Down" Ans="PESO">Cuban currency</Clue>
+      <Clue Row="8" Col="11" Num="40" Dir="Down" Ans="YERTLE">Turtle in a Dr. Seuss title</Clue>
+      <Clue Row="8" Col="12" Num="41" Dir="Down" Ans="LUTE">Renaissance stringed instrument</Clue>
+      <Clue Row="10" Col="4" Num="45" Dir="Down" Ans="ORE">Shipment to a smeltery</Clue>
+      <Clue Row="10" Col="5" Num="46" Dir="Down" Ans="FORCES">Troops</Clue>
+      <Clue Row="10" Col="9" Num="47" Dir="Down" Ans="SNORED">Sawed logs</Clue>
+      <Clue Row="11" Col="1" Num="48" Dir="Down" Ans="MOMMA">"Throw ___ From the Train" (1987 Danny DeVito comedy)</Clue>
+      <Clue Row="11" Col="2" Num="49" Dir="Down" Ans="ITALY">Where the Renaissance began</Clue>
+      <Clue Row="11" Col="3" Num="50" Dir="Down" Ans="CHOKE">Snatch defeat from the jaws of victory</Clue>
+      <Clue Row="11" Col="8" Num="51" Dir="Down" Ans="AGILE">Nimble</Clue>
+      <Clue Row="12" Col="10" Num="55" Dir="Down" Ans="ADDS">Puts two and two together, say</Clue>
+      <Clue Row="12" Col="14" Num="57" Dir="Down" Ans="ANNE">Name shared by two of Henry VIII's wives</Clue>
+      <Clue Row="12" Col="15" Num="58" Dir="Down" Ans="BEAD">Droplet of sweat</Clue>
+      <Clue Row="13" Col="6" Num="61" Dir="Down" Ans="LAP">One of 200 in the Indy 500</Clue>
+      <Clue Row="13" Col="7" Num="62" Dir="Down" Ans="AGE">What the number of birthday candles represents</Clue>
+      <Clue Row="13" Col="12" Num="63" Dir="Down" Ans="LED">Went first</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>The five long vowel sounds represented in LANE, LEAN, LINE, LOAN, LUNE. CLAIR DE LUNE might not be an immediately recognizable title to some solvers, but it was <a href="https://www.youtube.com/watch?v=Cfu9s89C-pc">played in the background at the end of &quot;Ocean&#39;s 11,&quot;</a> as the crew gathers one last time before dispersing. Beautiful scene, beautiful piece of music.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Claude_Debussy" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Claude_Debussy_ca_1908%2C_foto_av_F%C3%A9lix_Nadar.jpg/440px-Claude_Debussy_ca_1908%2C_foto_av_F%C3%A9lix_Nadar.jpg" style="border:1px solid lightgray; float:left; height:250px; margin:6px 12px 6px 0px; width:185px" title="Now that, my friends, is a magnificent goatee." /></a></p>
+
+<p>TOE THE PARTY LINE made for a perfect middle themer &ndash; both colorful and convenient to construct around. There are dozens of other ___ LINE phrases, but choosing one of either 7 or 15 letters makes construction so much easier than working with a 9, 11, or 13. Great selection.</p>
+
+<p>I wouldn&#39;t have made the same choice of DAVID LEAN, preferring EXTRA LEAN, especially since this is a straightforward Monday-ish theme. DAVID LEAN isn&#39;t as well known as Spielberg, but &hellip;</p>
+
+<p>Well, heck, he probably should be! Can you imagine having &quot;Lawrence of Arabia&quot; and &quot;Doctor Zhivago&quot; under your belt? Talk about an artist&#39;s wildest dreams coming true.</p>
+
+<p>VICTORY LANE also was slightly odd-seeming to me. Maybe this is much more recognizable a term for people from Indianapolis?</p>
+
+<p>IMPORTANT NOTE: one of the top hits for VICTORY LANE in my search came up on urban dictionary. Don&#39;t click on that. Just, don&#39;t.</p>
+
+<p>Oh, ELOI. It&#39;s a word even this sci-fi buff shakes his head at. I&#39;d personally put that in the &quot;puzzle-killer&quot; category. It&#39;s too bad &ndash; I don&#39;t think it&#39;s right to judge a puzzle&#39;s craftsmanship by its worst entry, but some little entries seem way worse to me than others. ELOI feels to me like a throwback to the bad old Maleskan days.</p>
+
+<p>It&#39;s a real shame since the rest of the grid was pretty darn good. I&#39;m not sure I buy ROCK CAVES &ndash; just CAVES, yeah? &ndash; but CIVIC DUTY, THE NFL, YERTLE, that&#39;s pretty good stuff. And of course, the dork in me loves ELVISH.</p>
+
+<p>Perhaps if &quot;The Time Machine&quot; had been made by Peter Jackson ...</p>
+
+<p>Long way of saying I&#39;d gladly go without CIVIC DUTY if it meant no ELOI. That&#39;d call for a complete grid redo, unfortunately.</p>
+
+<p>I appreciated the consistency (all final words being four letters) and tightness (covering all five long vowels, in order) of this theme. If either the themers or the grid had excited me a little more, this could have been POW! material.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>I know that some longtime solvers are disenchanted with the vowel progression theme type, but I like seeing it every so often on Monday if the theme answers are all fun and fresh, and if the rest of the grid is clean and breezy.</p>
+
+<p>I hope folks who enjoy Monday puzzles will like this one. I did quite a few revisions of this grid to make sure it was appropriately Monday-ish, but even so, there are still a couple of crosswordese entries like ELOI and TEC that I couldn&#39;t find a way around. I&#39;m in total awe of constructors like Lynn Lempel, Zhouqin Burnikel, and Andrea Carla Michaels who consistently produce fun, top-notch Monday puzzles.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

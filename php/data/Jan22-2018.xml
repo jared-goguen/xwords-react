@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Monday, January 22, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/21/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Mon, Jan 22, 2018</Title>
+    <Author>Paolo Pasco</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/22/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>SCAMS.DAME.AFTS</Row>
+      <Row>OHFUN.RIAL.CLAP</Row>
+      <Row>XACTO.EMMASTONE</Row>
+      <Row>.LEERS.ABIT.OLE</Row>
+      <Row>QUARTERTONE.RID</Row>
+      <Row>VPS.STE..ELNINO</Row>
+      <Row>CATO.ATMS.MATES</Row>
+      <Row>...METRICTON...</Row>
+      <Row>OCTAD.ODOR.ASEA</Row>
+      <Row>BLONDE..RIG.PRY</Row>
+      <Row>LAS.IMEANCOMEON</Row>
+      <Row>APT.EARN.EPICS.</Row>
+      <Row>STANDINGO.ANTIC</Row>
+      <Row>TODO.LILA.SCROD</Row>
+      <Row>SNAG.SEEK.TEENS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="SCAMS">Ponzi schemes, e.g.</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="DAME">Agatha Christie or Maggie Smith</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="AFTS">Times past noon, informally</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="OHFUN">"Sounds exciting ..."</Clue>
+      <Clue Row="2" Col="7" Num="15" Dir="Across" Ans="RIAL">Iranian currency</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="CLAP">Applaud</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="XACTO">Cutting-edge brand?</Clue>
+      <Clue Row="3" Col="7" Num="18" Dir="Across" Ans="EMMASTONE">2016 Best Actress Oscar winner for "La La Land"</Clue>
+      <Clue Row="4" Col="2" Num="20" Dir="Across" Ans="LEERS">Unwelcome looks</Clue>
+      <Clue Row="4" Col="8" Num="22" Dir="Across" Ans="ABIT">Somewhat</Clue>
+      <Clue Row="4" Col="13" Num="23" Dir="Across" Ans="OLE">Encouragement for a matador</Clue>
+      <Clue Row="5" Col="1" Num="24" Dir="Across" Ans="QUARTERTONE">Half of a half step in music</Clue>
+      <Clue Row="5" Col="13" Num="26" Dir="Across" Ans="RID">Relieved (of)</Clue>
+      <Clue Row="6" Col="1" Num="27" Dir="Across" Ans="VPS">Biden and Pence, informally</Clue>
+      <Clue Row="6" Col="5" Num="28" Dir="Across" Ans="STE">Abbr. in an office address</Clue>
+      <Clue Row="6" Col="10" Num="29" Dir="Across" Ans="ELNINO">Pacific source of unusual weather</Clue>
+      <Clue Row="7" Col="1" Num="31" Dir="Across" Ans="CATO">Stoic politician of ancient Rome</Clue>
+      <Clue Row="7" Col="6" Num="33" Dir="Across" Ans="ATMS">Places to get quick cash</Clue>
+      <Clue Row="7" Col="11" Num="36" Dir="Across" Ans="MATES">Chess endings</Clue>
+      <Clue Row="8" Col="4" Num="37" Dir="Across" Ans="METRICTON">Weight unit equal to about 2,205 pounds</Clue>
+      <Clue Row="9" Col="1" Num="40" Dir="Across" Ans="OCTAD">Group of eight</Clue>
+      <Clue Row="9" Col="7" Num="43" Dir="Across" Ans="ODOR">Gym locker emanation</Clue>
+      <Clue Row="9" Col="12" Num="44" Dir="Across" Ans="ASEA">On the briny</Clue>
+      <Clue Row="10" Col="1" Num="48" Dir="Across" Ans="BLONDE">"Legally ___" (Reese Witherspoon film)</Clue>
+      <Clue Row="10" Col="9" Num="50" Dir="Across" Ans="RIG">Fix, as an election</Clue>
+      <Clue Row="10" Col="13" Num="52" Dir="Across" Ans="PRY">Be nosy</Clue>
+      <Clue Row="11" Col="1" Num="53" Dir="Across" Ans="LAS">"Leaving ___ Vegas"</Clue>
+      <Clue Row="11" Col="5" Num="54" Dir="Across" Ans="IMEANCOMEON">"Puh-LEEZE!"</Clue>
+      <Clue Row="12" Col="1" Num="58" Dir="Across" Ans="APT">Like the name "Robin Banks" for a criminal</Clue>
+      <Clue Row="12" Col="5" Num="59" Dir="Across" Ans="EARN">Make, as money</Clue>
+      <Clue Row="12" Col="10" Num="60" Dir="Across" Ans="EPICS">Grand stories</Clue>
+      <Clue Row="13" Col="1" Num="61" Dir="Across" Ans="STANDINGO">Enthusiastic audience response, informally</Clue>
+      <Clue Row="13" Col="11" Num="64" Dir="Across" Ans="ANTIC">Bit of clowning around</Clue>
+      <Clue Row="14" Col="1" Num="66" Dir="Across" Ans="TODO">Title of a list of errands</Clue>
+      <Clue Row="14" Col="6" Num="67" Dir="Across" Ans="LILA">___ Wallace, co-founder of Reader's Digest</Clue>
+      <Clue Row="14" Col="11" Num="68" Dir="Across" Ans="SCROD">Fish typically split before cooking</Clue>
+      <Clue Row="15" Col="1" Num="69" Dir="Across" Ans="SNAG">Sudden problem in a plan</Clue>
+      <Clue Row="15" Col="6" Num="70" Dir="Across" Ans="SEEK">Look for</Clue>
+      <Clue Row="15" Col="11" Num="71" Dir="Across" Ans="TEENS">Ariana Grande's fan base, mostly</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="SOX">"Red" or "White" baseball team</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="CHALUPA">Deep-fried Mexican dish</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="AFCEAST">Div. for the N.F.L.'s Jets</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="MUTER">Less talkative</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="SNORTS">Laughs through the nose</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="DRE">"Forgot About ___" (2000 rap hit)</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="AIMAT">Put in the cross hairs</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="MAMBO">Caribbean ballroom dance</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="ELAINE">"Seinfeld" character who wrote for the J. Peterman catalog</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="ACT">One of two in "Hamilton"</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="FLOORIT">Go from 0 to 60, say</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="TANLINE">What sunning in a swimsuit leaves</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="SPEEDOS">Racer's swimwear</Clue>
+      <Clue Row="3" Col="11" Num="19" Dir="Down" Ans="STELMO">Sailor's patron</Clue>
+      <Clue Row="4" Col="6" Num="21" Dir="Down" Ans="SETAT">Start to attack</Clue>
+      <Clue Row="5" Col="1" Num="24" Dir="Down" Ans="QVC">Home shopping inits.</Clue>
+      <Clue Row="5" Col="7" Num="25" Dir="Down" Ans="RETRO">Back in style</Clue>
+      <Clue Row="6" Col="12" Num="30" Dir="Down" Ans="NANA">Grandmother, affectionately</Clue>
+      <Clue Row="7" Col="4" Num="32" Dir="Down" Ans="OMAN">Muscat is its capital</Clue>
+      <Clue Row="7" Col="8" Num="34" Dir="Down" Ans="MID">Prefix with life or wife</Clue>
+      <Clue Row="7" Col="9" Num="35" Dir="Down" Ans="SCORN">Look down on</Clue>
+      <Clue Row="8" Col="5" Num="38" Dir="Down" Ans="EDDIED">Swirled</Clue>
+      <Clue Row="8" Col="10" Num="39" Dir="Down" Ans="TRICE">Jiffy</Clue>
+      <Clue Row="9" Col="1" Num="40" Dir="Down" Ans="OBLASTS">Administrative regions in Russia</Clue>
+      <Clue Row="9" Col="2" Num="41" Dir="Down" Ans="CLAPTON">Eric who sang "Layla"</Clue>
+      <Clue Row="9" Col="3" Num="42" Dir="Down" Ans="TOSTADA">Deep-fried Mexican dish</Clue>
+      <Clue Row="9" Col="13" Num="45" Dir="Down" Ans="SPECTRE">Bond film after "Skyfall"</Clue>
+      <Clue Row="9" Col="14" Num="46" Dir="Down" Ans="EROSION">Natural process illustrated by the last words of 18-, 24-, 37-, 54- and 61-Across</Clue>
+      <Clue Row="9" Col="15" Num="47" Dir="Down" Ans="AYN">Novelist Rand</Clue>
+      <Clue Row="10" Col="6" Num="49" Dir="Down" Ans="EMAILS">Inbox buildup</Clue>
+      <Clue Row="10" Col="11" Num="51" Dir="Down" Ans="GOPAST">Exceed</Clue>
+      <Clue Row="11" Col="7" Num="55" Dir="Down" Ans="ERNIE">"Sesame Street" character long rumored to be Bert's lover</Clue>
+      <Clue Row="11" Col="8" Num="56" Dir="Down" Ans="ANGLE">Something acute or obtuse</Clue>
+      <Clue Row="11" Col="12" Num="57" Dir="Down" Ans="MINCE">Chop finely</Clue>
+      <Clue Row="13" Col="4" Num="62" Dir="Down" Ans="NOG">Holiday drink</Clue>
+      <Clue Row="13" Col="9" Num="63" Dir="Down" Ans="OAK">Tree with acorns</Clue>
+      <Clue Row="13" Col="15" Num="65" Dir="Down" Ans="CDS">Successors to LPs</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>EROSION wearing away at the last words of themers today, STONE to TONE to TON to ON to O. Neat how well this works, always shaving off a letter from one of the sides (not from the middle). And the EROSION revealer, so appropriate! Great Monday theme.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Ernie_(Sesame_Street)" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/f/f1/Bert_and_Ernie.JPG" style="border:1px solid lightgray; float:right; height:164px; margin:6px 0px 6px 12px; width:220px" title="Yay for Ernie!" /></a></p>
+
+<p>I debated whether this should get the POW! or not. Simple theme, just right for a Monday, but also clever and interesting. Pretty strong themers, too, I MEAN, COME ON delightful and STANDING O just as good. Not a lot of crossword glue, either.</p>
+
+<p>And the clues! Loved the one for ERNIE, hinting at the possibility that they&#39;re more than just roommates. APT giving an example of &quot;Robin Banks&quot; for a criminal? Paolo&#39;s &quot;Seinfeld&quot; obsession showing through again, with details on ELAINE&#39;s job at J. Peterman? Delightful!</p>
+
+<p>So why did I pause? While I think the fill is ultimately all fair &mdash; I don&#39;t see any squares that might seem equally plausible if filled with a different letter &mdash; CHALUPA is a toughie. Educated solvers ought to have heard of CATO before, so entering COTO / CHALUPO or CETO / CHALUPE feels like it&#39;d be the solver&#39;s fault, not Paolo&#39;s. But it&#39;s close.</p>
+
+<p>OBLASTS, too. OCTAD is inferable given the OCT- beginning, so no ambiguous squares.</p>
+
+<p>But along with SCROD, the RIAL, LILA Wallace, the grid left me hesitating as to whether I&#39;d give this one to a novice, attempting to get them hooked on crosswords. Didn&#39;t pass that test for me, so I felt like I couldn&#39;t give it the POW!</p>
+
+<p>Overall though, strong work in the theme idea, themer selections, even in the bonuses like CLAPTON, SPECTRE, FLOOR IT! So close to earning my nod.</p>]]></JeffNotes>
+  </Puzzle>
+</Puzzles>

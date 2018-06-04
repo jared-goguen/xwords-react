@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Tuesday, May 8, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/7/2018 at 7:01 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Tue, May 08, 2018</Title>
+    <Author>Ori Brian</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/8/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>PACK.ATLAS.MAPS</Row>
+      <Row>ICON.HAITI.EVIL</Row>
+      <Row>SUREWHYNOT.MAXI</Row>
+      <Row>APNEA..UNCLESAM</Row>
+      <Row>...CROSSCOUNTRY</Row>
+      <Row>TABASCO.EMIT...</Row>
+      <Row>WRAP.HOP..GOOFS</Row>
+      <Row>ILL.BONJOVI.RIO</Row>
+      <Row>NOLIE..SHE.HALL</Row>
+      <Row>...REBA.OTHELLO</Row>
+      <Row>BACKTOSCHOOL...</Row>
+      <Row>GUESSWHO..DPLUS</Row>
+      <Row>ARCO.STARTAFIRE</Row>
+      <Row>MAIM.TOTHE.UCLA</Row>
+      <Row>ELLE.ONION.LESS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="PACK">Bunch of wolves</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="ATLAS">Book composed of 10-Across</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="MAPS">See 5-Across</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="ICON">Word after computer or fashion</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="HAITI">Port-au-Prince's land</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="EVIL">Satan's doings</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="SUREWHYNOT">"What's there to lose?"</Clue>
+      <Clue Row="3" Col="12" Num="19" Dir="Across" Ans="MAXI">Ankle-length dress</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="APNEA">Sleep disorder</Clue>
+      <Clue Row="4" Col="8" Num="21" Dir="Across" Ans="UNCLESAM">Patriotic finger-pointer</Clue>
+      <Clue Row="5" Col="4" Num="23" Dir="Across" Ans="CROSSCOUNTRY">Way to run or ski</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Across" Ans="TABASCO">Sauce in a Bloody Mary</Clue>
+      <Clue Row="6" Col="9" Num="29" Dir="Across" Ans="EMIT">Radiate</Clue>
+      <Clue Row="7" Col="1" Num="30" Dir="Across" Ans="WRAP">Tortilla sandwich</Clue>
+      <Clue Row="7" Col="6" Num="31" Dir="Across" Ans="HOP">Bunny action</Clue>
+      <Clue Row="7" Col="11" Num="33" Dir="Across" Ans="GOOFS">Wastes time, with "off"</Clue>
+      <Clue Row="8" Col="1" Num="37" Dir="Across" Ans="ILL">Not feeling well</Clue>
+      <Clue Row="8" Col="5" Num="38" Dir="Across" Ans="BONJOVI">Band with the 12x platinum album "Slippery When Wet"</Clue>
+      <Clue Row="8" Col="13" Num="41" Dir="Across" Ans="RIO">2016 Olympics locale</Clue>
+      <Clue Row="9" Col="1" Num="42" Dir="Across" Ans="NOLIE">"I kid you not!"</Clue>
+      <Clue Row="9" Col="8" Num="44" Dir="Across" Ans="SHE">Pronoun for a ship</Clue>
+      <Clue Row="9" Col="12" Num="45" Dir="Across" Ans="HALL">Concert venue</Clue>
+      <Clue Row="10" Col="4" Num="46" Dir="Across" Ans="REBA">Singer McEntire</Clue>
+      <Clue Row="10" Col="9" Num="49" Dir="Across" Ans="OTHELLO">Board game with black-and-white pieces</Clue>
+      <Clue Row="11" Col="1" Num="51" Dir="Across" Ans="BACKTOSCHOOL">Like some August sales</Clue>
+      <Clue Row="12" Col="1" Num="55" Dir="Across" Ans="GUESSWHO">Comment made while covering someone's eyes</Clue>
+      <Clue Row="12" Col="11" Num="56" Dir="Across" Ans="DPLUS">67-69, gradewise</Clue>
+      <Clue Row="13" Col="1" Num="60" Dir="Across" Ans="ARCO">West Coast gas brand</Clue>
+      <Clue Row="13" Col="6" Num="61" Dir="Across" Ans="STARTAFIRE">Ignite something ... or what the first words of 17-, 23-, 38- and 51-Across do?</Clue>
+      <Clue Row="14" Col="1" Num="64" Dir="Across" Ans="MAIM">Seriously wound</Clue>
+      <Clue Row="14" Col="6" Num="65" Dir="Across" Ans="TOTHE">___ point (concise)</Clue>
+      <Clue Row="14" Col="12" Num="66" Dir="Across" Ans="UCLA">Sch. that plays home football games at the Rose Bowl</Clue>
+      <Clue Row="15" Col="1" Num="67" Dir="Across" Ans="ELLE">"Legally Blonde" girl</Clue>
+      <Clue Row="15" Col="6" Num="68" Dir="Across" Ans="ONION">Satirical news site, with "The"</Clue>
+      <Clue Row="15" Col="12" Num="69" Dir="Across" Ans="LESS">Minus</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="PISA">City with a noted tower</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ACUP">"And we'll tak' ___ o' kindness yet": Burns</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="CORN">Ears that can't hear</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="KNEECAP">Patella</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="AHH">Sound of contentment</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="TAY">Scotland's Firth of ___</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="LINUS">"Peanuts" boy with a blanket</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="ATONCE">Immediately</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="SITCOM">"Parks and Recreation," e.g.</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="MEMENTO">Keepsake</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="AVAST">Sailor's cry</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="PIXAR">Animation studio with a lamp mascot</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="SLIMY">Morally reprehensible</Clue>
+      <Clue Row="3" Col="5" Num="18" Dir="Down" Ans="WARS">Hawks push them</Clue>
+      <Clue Row="4" Col="11" Num="22" Dir="Down" Ans="LUIGI">Nintendo brother</Clue>
+      <Clue Row="5" Col="6" Num="24" Dir="Down" Ans="OCHO">Tres y cinco</Clue>
+      <Clue Row="5" Col="7" Num="25" Dir="Down" Ans="SOON">Procrastinator's promise</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Down" Ans="TWIN">Certain bed size</Clue>
+      <Clue Row="6" Col="2" Num="27" Dir="Down" Ans="ARLO">Folk singer Guthrie</Clue>
+      <Clue Row="6" Col="3" Num="28" Dir="Down" Ans="BALL">Event for Cinderella</Clue>
+      <Clue Row="7" Col="8" Num="32" Dir="Down" Ans="PJS">Nighttime attire, briefly</Clue>
+      <Clue Row="7" Col="13" Num="34" Dir="Down" Ans="ORAL">Kind of exam</Clue>
+      <Clue Row="7" Col="14" Num="35" Dir="Down" Ans="FILL">Occupy completely</Clue>
+      <Clue Row="7" Col="15" Num="36" Dir="Down" Ans="SOLO">Han who's the title role of a 2018 film</Clue>
+      <Clue Row="8" Col="5" Num="38" Dir="Down" Ans="BEETS">Borscht ingredients</Clue>
+      <Clue Row="8" Col="9" Num="39" Dir="Down" Ans="OHOH">"Pick me! Pick me!"</Clue>
+      <Clue Row="8" Col="10" Num="40" Dir="Down" Ans="VETO">Presidential prerogative</Clue>
+      <Clue Row="9" Col="4" Num="43" Dir="Down" Ans="IRKSOME">Irritating</Clue>
+      <Clue Row="9" Col="12" Num="45" Dir="Down" Ans="HELPFUL">Lending a hand</Clue>
+      <Clue Row="10" Col="6" Num="47" Dir="Down" Ans="BOWSTO">Greets respectfully</Clue>
+      <Clue Row="10" Col="7" Num="48" Dir="Down" Ans="ASHTON">Kutcher of "That '70s Show"</Clue>
+      <Clue Row="10" Col="11" Num="50" Dir="Down" Ans="HODA">"Today" co-host Kotb</Clue>
+      <Clue Row="11" Col="1" Num="51" Dir="Down" Ans="BGAME">Not one's best effort, in sports</Clue>
+      <Clue Row="11" Col="2" Num="52" Dir="Down" Ans="AURAL">Hearing-related</Clue>
+      <Clue Row="11" Col="3" Num="53" Dir="Down" Ans="CECIL">The "C" of C. S. Forester</Clue>
+      <Clue Row="11" Col="8" Num="54" Dir="Down" Ans="COATI">Relative of a raccoon</Clue>
+      <Clue Row="12" Col="13" Num="57" Dir="Down" Ans="LICE">Canine woe</Clue>
+      <Clue Row="12" Col="14" Num="58" Dir="Down" Ans="URLS">Web addresses</Clue>
+      <Clue Row="12" Col="15" Num="59" Dir="Down" Ans="SEAS">Wet septet</Clue>
+      <Clue Row="13" Col="9" Num="62" Dir="Down" Ans="RHO">Letter after pi</Clue>
+      <Clue Row="13" Col="10" Num="63" Dir="Down" Ans="TEN">Full count</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>I stared at the revealer for an embarrassing amount of time, wondering what a bon fire could be. Some sort of French term for a great flame? Your first love that burned bright?</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Uncle_Sam" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Unclesamwantyou.jpg/440px-Unclesamwantyou.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:188px" title="Uncle fire. Er, UNCLE SAM." /></a></p>
+
+<p>Ah, a BONFIRE.</p>
+
+<p>*headdesk*</p>
+
+<p>&quot;Words that can precede X&quot; theme. I like that Ori was consistent, always choosing words where the resultant FIRE themer was a single word (as in BONFIRE), not a two-word phrase (as in OPEN FIRE). It would have been willy-nilly silly, mixing the two types.</p>
+
+<p>But still, there were a ton of additional choices &mdash; crossfire, Spitfire, hellfire, gunfire, etc. &mdash; so it&#39;s not a very tight set of themers.</p>
+
+<p>I did like the grid execution. Ori worked in so much bonus goodies, super important since this was a theme type that Will has largely said he&#39;s not taking more of. KNEECAP, IRKSOME, UNCLE SAM, SITCOM, GUESS WHO, even LUIGI, who&#39;s always taking a backseat to Mario.</p>
+
+<p>For a second &ndash; okay, more than a second &ndash; I wondered what the heck unclefire and guessfire were. That&#39;s the danger of weaving in bonus fill in the across direction, especially in a theme like this. I would have preferred more bonus fill in the down direction instead. As it was, it almost felt like too much bonus goodness, hazing the distinction between theme and fill.</p>
+
+<p>I appreciated that this wasn&#39;t just a straightforward &quot;words that can precede X&quot; theme, in that Ori used prefixes (ish) that could start snazzy theme phrases. It wasn&#39;t enough for me, though, as this overdone theme type needs a lot to make it feel fresh.</p>]]></JeffNotes>
+  </Puzzle>
+</Puzzles>

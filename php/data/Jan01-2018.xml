@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Monday, January 1, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 12/31/2017 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Mon, Jan 01, 2018</Title>
+    <Author>Matthew Sewell</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/1/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>16</Cols>
+    </Size>
+    <Grid>
+      <Row>MARCO..MOATS.MIG</Row>
+      <Row>OWNUP.VANDAL.ACA</Row>
+      <Row>BLAZEOFGLORY.KEG</Row>
+      <Row>...CRAW.ONT.PECS</Row>
+      <Row>PTBOAT.AAAA.ANAT</Row>
+      <Row>FEE..BURNINGLOVE</Row>
+      <Row>CALAMARI...POSER</Row>
+      <Row>..ETERNALFLAME..</Row>
+      <Row>SPATE...OILSANDS</Row>
+      <Row>LIGHTMYFIRE..SHH</Row>
+      <Row>AQUA.ROAN.WISELY</Row>
+      <Row>SUET.PUT.SYNC...</Row>
+      <Row>HAR.DISCOINFERNO</Row>
+      <Row>ENE.IBEAMS.ENVOY</Row>
+      <Row>STD.ABETS..RESTS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="MARCO">___ Polo, traveler at the court of Kublai Khan</Clue>
+      <Clue Row="1" Col="8" Num="6" Dir="Across" Ans="MOATS">Rings of water around castles</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Across" Ans="MIG">Russian fighter jet</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="OWNUP">Come clean</Clue>
+      <Clue Row="2" Col="7" Num="15" Dir="Across" Ans="VANDAL">Property defacer</Clue>
+      <Clue Row="2" Col="14" Num="16" Dir="Across" Ans="ACA">Signature Obama legislation, for short</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="BLAZEOFGLORY">Jon Bon Jovi torch song?</Clue>
+      <Clue Row="3" Col="14" Num="19" Dir="Across" Ans="KEG">Centerpiece of a frat party</Clue>
+      <Clue Row="4" Col="4" Num="20" Dir="Across" Ans="CRAW">Stick in one's ___</Clue>
+      <Clue Row="4" Col="9" Num="21" Dir="Across" Ans="ONT">Province west of Que.</Clue>
+      <Clue Row="4" Col="13" Num="22" Dir="Across" Ans="PECS">Chest muscles, for short</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Across" Ans="PTBOAT">J.F.K.'s W.W. II command</Clue>
+      <Clue Row="5" Col="8" Num="26" Dir="Across" Ans="AAAA">Tiny battery size</Clue>
+      <Clue Row="5" Col="13" Num="27" Dir="Across" Ans="ANAT">Med. school subject</Clue>
+      <Clue Row="6" Col="1" Num="28" Dir="Across" Ans="FEE">Lawyer's charge</Clue>
+      <Clue Row="6" Col="6" Num="29" Dir="Across" Ans="BURNINGLOVE">Elvis Presley torch song?</Clue>
+      <Clue Row="7" Col="1" Num="32" Dir="Across" Ans="CALAMARI">Squid, in Italian cuisine</Clue>
+      <Clue Row="7" Col="12" Num="35" Dir="Across" Ans="POSER">Tough puzzle</Clue>
+      <Clue Row="8" Col="3" Num="36" Dir="Across" Ans="ETERNALFLAME">Bangles torch song?</Clue>
+      <Clue Row="9" Col="1" Num="40" Dir="Across" Ans="SPATE">Sudden outpouring</Clue>
+      <Clue Row="9" Col="9" Num="42" Dir="Across" Ans="OILSANDS">Some Canadian petroleum deposits</Clue>
+      <Clue Row="10" Col="1" Num="45" Dir="Across" Ans="LIGHTMYFIRE">The Doors torch song?</Clue>
+      <Clue Row="10" Col="14" Num="49" Dir="Across" Ans="SHH">"Lower your voice, please"</Clue>
+      <Clue Row="11" Col="1" Num="50" Dir="Across" Ans="AQUA">Pale blue hue</Clue>
+      <Clue Row="11" Col="6" Num="51" Dir="Across" Ans="ROAN">Horse of a certain color</Clue>
+      <Clue Row="11" Col="11" Num="52" Dir="Across" Ans="WISELY">With prudence</Clue>
+      <Clue Row="12" Col="1" Num="55" Dir="Across" Ans="SUET">Fat used in mincemeat</Clue>
+      <Clue Row="12" Col="6" Num="56" Dir="Across" Ans="PUT">Place</Clue>
+      <Clue Row="12" Col="10" Num="57" Dir="Across" Ans="SYNC">Match up</Clue>
+      <Clue Row="13" Col="1" Num="58" Dir="Across" Ans="HAR">Sarcastic laugh syllable</Clue>
+      <Clue Row="13" Col="5" Num="59" Dir="Across" Ans="DISCOINFERNO">The Trammps torch song?</Clue>
+      <Clue Row="14" Col="1" Num="64" Dir="Across" Ans="ENE">Opposite of WSW</Clue>
+      <Clue Row="14" Col="5" Num="65" Dir="Across" Ans="IBEAMS">Letter-shaped girders</Clue>
+      <Clue Row="14" Col="12" Num="66" Dir="Across" Ans="ENVOY">Diplomat</Clue>
+      <Clue Row="15" Col="1" Num="67" Dir="Across" Ans="STD">Norm: Abbr.</Clue>
+      <Clue Row="15" Col="5" Num="68" Dir="Across" Ans="ABETS">Drives the getaway car for, say</Clue>
+      <Clue Row="15" Col="12" Num="69" Dir="Across" Ans="RESTS">Grabs some Z's</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="MOB">Unruly throng</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="AWL">Leatherworker's punch</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="RNA">Genetic carrier, briefly</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="CUZCO">Ancient Incan capital</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="OPERA">"Madama Butterfly," for one</Clue>
+      <Clue Row="1" Col="8" Num="6" Dir="Down" Ans="MAG">S.I. or GQ</Clue>
+      <Clue Row="1" Col="9" Num="7" Dir="Down" Ans="ONLOAN">Given out for a time</Clue>
+      <Clue Row="1" Col="10" Num="8" Dir="Down" Ans="ADONAI">Hebrew for "my Lord"</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="TARTAN">Scottish pattern</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="SLY">Crafty</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="MAKENOSENSE">Speak gobbledygook</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="ICECAVE">Glacial chamber</Clue>
+      <Clue Row="1" Col="16" Num="13" Dir="Down" Ans="GAGSTER">Joke writer</Clue>
+      <Clue Row="2" Col="7" Num="15" Dir="Down" Ans="VFW">Ex-G.I.'s org.</Clue>
+      <Clue Row="3" Col="6" Num="18" Dir="Down" Ans="OATBAR">Crunchy, healthful snack</Clue>
+      <Clue Row="4" Col="13" Num="22" Dir="Down" Ans="PALOMA">Pablo Picasso's designer daughter</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Down" Ans="PFC">Army E-3: Abbr.</Clue>
+      <Clue Row="5" Col="2" Num="24" Dir="Down" Ans="TEA">Pekoe, for one</Clue>
+      <Clue Row="5" Col="3" Num="25" Dir="Down" Ans="BELEAGUERED">Under siege</Clue>
+      <Clue Row="5" Col="8" Num="26" Dir="Down" Ans="ARIA">"Madama Butterfly" highlight</Clue>
+      <Clue Row="6" Col="7" Num="30" Dir="Down" Ans="URN">Server with a spigot</Clue>
+      <Clue Row="6" Col="12" Num="31" Dir="Down" Ans="GPAS">Transcript figs.</Clue>
+      <Clue Row="7" Col="4" Num="33" Dir="Down" Ans="ATTHAT">To boot</Clue>
+      <Clue Row="7" Col="5" Num="34" Dir="Down" Ans="MEET">Chance upon</Clue>
+      <Clue Row="8" Col="9" Num="37" Dir="Down" Ans="LOIN">Pork cut</Clue>
+      <Clue Row="8" Col="10" Num="38" Dir="Down" Ans="FIR">Christmas tree</Clue>
+      <Clue Row="8" Col="11" Num="39" Dir="Down" Ans="LLEWYN">"Inside ___ Davis" (Coen brothers film)</Clue>
+      <Clue Row="9" Col="1" Num="40" Dir="Down" Ans="SLASHES">Cuts drastically, as prices</Clue>
+      <Clue Row="9" Col="2" Num="41" Dir="Down" Ans="PIQUANT">Pleasingly tangy</Clue>
+      <Clue Row="9" Col="15" Num="43" Dir="Down" Ans="DHL">FedEx competitor</Clue>
+      <Clue Row="9" Col="16" Num="44" Dir="Down" Ans="SHY">Like a wallflower</Clue>
+      <Clue Row="10" Col="6" Num="46" Dir="Down" Ans="MRPIBB">Onetime Dr Pepper rival</Clue>
+      <Clue Row="10" Col="7" Num="47" Dir="Down" Ans="YOUSEE">"Get it?"</Clue>
+      <Clue Row="10" Col="8" Num="48" Dir="Down" Ans="FATCAT">Wealthy sort, informally</Clue>
+      <Clue Row="11" Col="12" Num="53" Dir="Down" Ans="INFER">Derive via logic</Clue>
+      <Clue Row="11" Col="13" Num="54" Dir="Down" Ans="SCENE">Public outburst</Clue>
+      <Clue Row="12" Col="10" Num="57" Dir="Down" Ans="SIS">Kim, to Kourtney or Khloé</Clue>
+      <Clue Row="13" Col="5" Num="59" Dir="Down" Ans="DIA">A day in Spain</Clue>
+      <Clue Row="13" Col="9" Num="60" Dir="Down" Ans="OMS">Yoga chants</Clue>
+      <Clue Row="13" Col="14" Num="61" Dir="Down" Ans="RVS">#vanlife homes, briefly</Clue>
+      <Clue Row="13" Col="15" Num="62" Dir="Down" Ans="NOT">"Let's ___ and say we did"</Clue>
+      <Clue Row="13" Col="16" Num="63" Dir="Down" Ans="OYS">Kvetchers' cries</Clue>
+    </Clues>
+    <JimNotes><![CDATA[<p>You don&#39;t hear the term <em>torch song</em> so much anymore, and that&#39;s too bad. Love song is a rough equivalent, but that term is safe and sappy by comparison. If you&#39;re singing lyrics like &quot;I&#39;m going to love you, like nobody&#39;s love you, <a href="https://www.youtube.com/watch?v=MCj96k1A95g">come rain or come shine</a>,&quot; you&#39;re addressing someone you&#39;re &quot;carrying a torch for.&quot; Love songs imply sweetness and cuddling. Torch songs promise at least the possibility of furniture-busting sex.</p>]]></JimNotes>
+    <JeffNotes><![CDATA[<p>Wordplay on &quot;torch songs&quot; today. Given my severe deficiencies in pop culture, I was thrilled to have recognized Jon Bon Jovi! But BLAZE OF GLORY? Maybe that was some witty reference to his &hellip; horse named Glory? BURNING LOVE ... maybe Elvis burned &hellip; Valentine&#39;s Day hearts? You know ... showing his disdain for the holiday?</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Jon_Bon_Jovi" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Jon_Bon_Jovi_at_the_2009_Tribeca_Film_Festival_3.jpg/440px-Jon_Bon_Jovi_at_the_2009_Tribeca_Film_Festival_3.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:178px" title="Someone tell me he has a horse named BLAZE. Please?" /></a></p>
+
+<p>Okay, maybe you don&#39;t know.</p>
+
+<p>For those who haven&#39;t already snorted their way out of reading the rest of this post, these are all famous songs involving some sort of fire, thus making them a &quot;torch song.&quot;</p>
+
+<p>Putting aside my deficiencies, I imagine this could be a perfect Monday puzzle for pop music fans. Nice and consistent, each song title relating to fire somehow. And each of the songs Matt chose seem famous enough to be crossworthy.</p>
+
+<p>I would have pegged it for a Wednesday puzzle, though, especially given a couple aspects of the fill:</p>
+
+<ul>
+	<li>The trio of PALOMA, OIL SANDS (an &quot;unconventional&quot; petroleum deposit), LLEWYN might elicit a &quot;I have to know trivia&quot; response from novice solvers</li>
+	<li>The ONT / ADONAI crossing could be rough for newbs</li>
+	<li>ANAT, AAAA, PFC, ENE, STD is more crossword glue than I think a newer solver should be subjected to</li>
+</ul>
+
+<p>I did like some of the bonuses, PIQUANT, BELEAGUERED, ICE CAVE, PT BOAT, FAT CAT helping keep my interest through the solve. I&#39;m okay with the trade-offs, paying all the aforementioned prices for all these lovely entries &hellip; in a later-week puzzle. Not as much for a Monday.</p>
+
+<p>Nice idea, good wordplay riffing on the term &quot;torch song.&quot; Didn&#39;t resonate with me, but I think a certain segment of solvers will love it.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>The spark for this was hearing &quot;Burning Love&quot; on the radio. In a flash, I jotted down a few more theme candidates. I hope the relatively adventurous vocabulary for a Monday kindles some interest for solvers. My thanks to Will, Sam, and the NYT puzzle team for fanning this particular flame.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

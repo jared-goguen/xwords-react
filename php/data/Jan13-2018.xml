@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Saturday, January 13, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/13/2018 at 7:06 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sat, Jan 13, 2018</Title>
+    <Author>Alan Derkazarian</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/13/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>FACES...MAJORCA</Row>
+      <Row>ERAGON..USOTOUR</Row>
+      <Row>LANGUOR.STATUTE</Row>
+      <Row>IMIMPRESSED.GTO</Row>
+      <Row>ZINC.MAKER.PHIL</Row>
+      <Row>.SEMIARID.PRIMA</Row>
+      <Row>..SUCRES.WRITER</Row>
+      <Row>...FEAR.HAID...</Row>
+      <Row>SELFIE.BITSEC..</Row>
+      <Row>PLAIN.SORESPOT.</Row>
+      <Row>EDEN.EULER.ALIS</Row>
+      <Row>CUR.UNITEDFRONT</Row>
+      <Row>IQTESTS.SOLANGE</Row>
+      <Row>FUELERS..GODEEP</Row>
+      <Row>YESISEE...WELSH</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="FACES">What a physiognomist studies</Clue>
+      <Clue Row="1" Col="9" Num="6" Dir="Across" Ans="MAJORCA">Palma's island</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Across" Ans="ERAGON">Christopher Paolini best seller</Clue>
+      <Clue Row="2" Col="9" Num="15" Dir="Across" Ans="USOTOUR">Hope was once its driving force</Clue>
+      <Clue Row="3" Col="1" Num="16" Dir="Across" Ans="LANGUOR">Sluggishness</Clue>
+      <Clue Row="3" Col="9" Num="18" Dir="Across" Ans="STATUTE">Act</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="IMIMPRESSED">"Well done!"</Clue>
+      <Clue Row="4" Col="13" Num="21" Dir="Across" Ans="GTO">Something with "three deuces and a four-speed" in a 1964 hit</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="ZINC">30, on a table</Clue>
+      <Clue Row="5" Col="6" Num="23" Dir="Across" Ans="MAKER">God</Clue>
+      <Clue Row="5" Col="12" Num="24" Dir="Across" Ans="PHIL">Golfer Mickelson</Clue>
+      <Clue Row="6" Col="2" Num="25" Dir="Across" Ans="SEMIARID">Dryish</Clue>
+      <Clue Row="6" Col="11" Num="27" Dir="Across" Ans="PRIMA">___ facie (legal phrase)</Clue>
+      <Clue Row="7" Col="3" Num="28" Dir="Across" Ans="SUCRES">Former Ecuadorean "dollars"</Clue>
+      <Clue Row="7" Col="10" Num="29" Dir="Across" Ans="WRITER">London or Manchester</Clue>
+      <Clue Row="8" Col="4" Num="30" Dir="Across" Ans="FEAR">Chicken characteristic</Clue>
+      <Clue Row="8" Col="9" Num="31" Dir="Across" Ans="HAID">Charles of "Hill Street Blues"</Clue>
+      <Clue Row="9" Col="1" Num="32" Dir="Across" Ans="SELFIE">___ stick</Clue>
+      <Clue Row="9" Col="8" Num="35" Dir="Across" Ans="BITSEC">Measure of data transfer speed, for short</Clue>
+      <Clue Row="10" Col="1" Num="37" Dir="Across" Ans="PLAIN">With nothing on top</Clue>
+      <Clue Row="10" Col="7" Num="38" Dir="Across" Ans="SORESPOT">Touchy subject</Clue>
+      <Clue Row="11" Col="1" Num="40" Dir="Across" Ans="EDEN">Successor to Churchill</Clue>
+      <Clue Row="11" Col="6" Num="41" Dir="Across" Ans="EULER">Noted blind mathematician</Clue>
+      <Clue Row="11" Col="12" Num="42" Dir="Across" Ans="ALIS">Noted boxing family</Clue>
+      <Clue Row="12" Col="1" Num="44" Dir="Across" Ans="CUR">Blackguard</Clue>
+      <Clue Row="12" Col="5" Num="45" Dir="Across" Ans="UNITEDFRONT">Alliance of groups against a common enemy</Clue>
+      <Clue Row="13" Col="1" Num="47" Dir="Across" Ans="IQTESTS">Measures of sharpness</Clue>
+      <Clue Row="13" Col="9" Num="49" Dir="Across" Ans="SOLANGE">One-named singer with the 2016 #1 album "A Seat at the Table"</Clue>
+      <Clue Row="14" Col="1" Num="50" Dir="Across" Ans="FUELERS">Parts of pit crews</Clue>
+      <Clue Row="14" Col="10" Num="51" Dir="Across" Ans="GODEEP">Throw a bomb</Clue>
+      <Clue Row="15" Col="1" Num="52" Dir="Across" Ans="YESISEE">"You don't have to explain"</Clue>
+      <Clue Row="15" Col="11" Num="53" Dir="Across" Ans="WELSH">Like an eisteddfod festival</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="FELIZ">Hernando's "happy"</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ARAMIS">A Musketeer</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="CANINES">Foxes, e.g.</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="EGGMCMUFFIN">Croissan'wich alternative</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="SOUP">Make more powerful, with "up"</Clue>
+      <Clue Row="1" Col="9" Num="6" Dir="Down" Ans="MUSSED">Rumpled</Clue>
+      <Clue Row="1" Col="10" Num="7" Dir="Down" Ans="ASTER">Bloom that's often white or lavender</Clue>
+      <Clue Row="1" Col="11" Num="8" Dir="Down" Ans="JOAD">1940 Fonda role</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Down" Ans="OTT">N.H.L. Eastern Conference team, on scoreboards</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="ROUGHIT">Camp out in the wilderness, say</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="CUTTIME">2/2, in music</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="AREOLAR">Pertaining to colored rings</Clue>
+      <Clue Row="2" Col="6" Num="14" Dir="Down" Ans="NORMARAE">Field work</Clue>
+      <Clue Row="3" Col="7" Num="17" Dir="Down" Ans="REARER">Parent, e.g.</Clue>
+      <Clue Row="4" Col="8" Num="20" Dir="Down" Ans="SKIS">Does some runs</Clue>
+      <Clue Row="5" Col="12" Num="24" Dir="Down" Ans="PRIDEPARADE">Annual June celebration</Clue>
+      <Clue Row="6" Col="5" Num="26" Dir="Down" Ans="ICEIN">Strand during a storm, maybe</Clue>
+      <Clue Row="6" Col="11" Num="27" Dir="Down" Ans="PRISS">Stuck-up sort</Clue>
+      <Clue Row="7" Col="10" Num="29" Dir="Down" Ans="WATERDOG">Newfoundland or golden retriever</Clue>
+      <Clue Row="8" Col="9" Num="31" Dir="Down" Ans="HIREES">Staff additions</Clue>
+      <Clue Row="9" Col="1" Num="32" Dir="Down" Ans="SPECIFY">Spell out</Clue>
+      <Clue Row="9" Col="2" Num="33" Dir="Down" Ans="ELDUQUE">Nickname for baseball's Orlando Hernández</Clue>
+      <Clue Row="9" Col="3" Num="34" Dir="Down" Ans="LAERTES">Shakespearean fencer</Clue>
+      <Clue Row="9" Col="8" Num="35" Dir="Down" Ans="BOLT">Leave in a hurry</Clue>
+      <Clue Row="9" Col="13" Num="36" Dir="Down" Ans="COLONEL">Fast-food icon, with "the"</Clue>
+      <Clue Row="10" Col="7" Num="38" Dir="Down" Ans="SUISSE">Neighbor of Allemagne</Clue>
+      <Clue Row="10" Col="14" Num="39" Dir="Down" Ans="TINGES">Hints</Clue>
+      <Clue Row="11" Col="6" Num="41" Dir="Down" Ans="ENTRE">___-deux</Clue>
+      <Clue Row="11" Col="15" Num="43" Dir="Down" Ans="STEPH">Curry of the N.B.A.</Clue>
+      <Clue Row="12" Col="5" Num="45" Dir="Down" Ans="USES">A smartphone has lots of them</Clue>
+      <Clue Row="12" Col="11" Num="46" Dir="Down" Ans="FLOW">Go smoothly</Clue>
+      <Clue Row="13" Col="4" Num="48" Dir="Down" Ans="ELI">Country music's Mike ___</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Eye-catching pattern! Hit my sweet spot of using black squares to create a visually-pleasing backdrop, while not using TOO many. Did you notice that the grid is also symmetric about the SW to NE axis? Elegant!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Norma_Rae" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/7/78/Norma_rae_ver2.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:159px" title="Field work = awesome clue!" /></a></p>
+
+<p>Some great entries, too. Loved PRIDE PARADE / UNITED FRONT and EGG MCMUFFINS / IM IMPRESSED in the longest slots &mdash; now that&#39;s the way to squeeze the most out of those all-important spaces!</p>
+
+<p>Not a lot of other long slots, but they were also well-used in WATER DOG / SORE SPOT and NORMA RAE / SEMIARID &hellip; well, three out of four ain&#39;t bad. SEMIARID is pretty dry. (*rimshot*)</p>
+
+<p>I love how NORMA RAE was elevated by its clue. It&#39;s not a movie that sticks in my head, but to clue it so innocently with [Field work] (it starred Sally Field) makes it shine.</p>
+
+<p>Same goes for USO TOUR. Kind of old-timey feeling as an entry, but again, [Hope was once its driving force] obfuscates innocently away from (Bob) Hope.</p>
+
+<p>Speaking of seven-letter entries, Alan did a nice job of using his mid-length slots. They&#39;re often tough to convert into snazzy material, but IQ TESTS is lovely, as are ROUGH IT, CUT TIME (classical music is often in 4/4 time, and CUT TIME halves it to 2/2).</p>
+
+<p>EL DUQUE &hellip; I vaguely remember him because of his awesome nickname, but I don&#39;t know if he&#39;s crossworthy? Granted, he won four rings, but will he make it to the Hall of Fame? Not sure if he&#39;s someone all educated solvers ought to know.</p>
+
+<p>BIT SEC &hellip; I&#39;m somewhat tech-savvy, but this one&#39;s new for me. Not sure it&#39;s the type of debut entry one should strive for. Mb/sec is more common, yeah?</p>
+
+<p>And Charles HAID &hellip; he had his day, back in the day. But not sure he&#39;s earned his crossworthiness.</p>
+
+<p>Beautiful pattern of black squares, some great feature answers, mostly smooth flow to the puzzle. If Alan had been able to avoid the aforementioned clunkers (plus OTT, ALIS, AREOLAR, REARER), it would have been in POW! contention. It&#39;s so tough to make a wide-open 64-worder like this work without those types of compromises, though.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>My first themeless in the New York Times! O happy day! After having numerous ones rejected you&#39;d think I would now have a better idea of what Will Shortz and company are looking for, but sadly I don&#39;t. Looking over the grid, it looks like a normal themeless of mine, but something must have caught their eye. I do remember in Joel&#39;s acceptance letter he said there were a lot of assets in the puzzle with little dreck. One interesting thing is that it doesn&#39;t appear that this grid pattern has ever been used in the New York Times before. Maybe its different look helped get it accepted? Enjoy!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Wednesday, April 18, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/17/2018 at 7:09 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Wed, Apr 18, 2018</Title>
+    <Author>Peter A. Collins and Bruce Haight</Author>
+    <CanonicalNames>
+      <Constructor>Peter A. Collins</Constructor>
+      <Constructor>Bruce Haight</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/18/2018</Date>
+    <Size>
+      <Rows>16</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>.BAMA.SNOB.RATS</Row>
+      <Row>SODAS.EIRE.ENRY</Row>
+      <Row>TOOTHEXTRACTION</Row>
+      <Row>EMPTYOUT.MOOMOO</Row>
+      <Row>AIT..UPI..TRAPP</Row>
+      <Row>KNEADS..NESTLES</Row>
+      <Row>.GERM.OLES.SIRI</Row>
+      <Row>...MATHEXAM.ASS</Row>
+      <Row>BAA.JOYOUSLY...</Row>
+      <Row>ASPS.MENS.LOTS.</Row>
+      <Row>STEPPES..BEWAIL</Row>
+      <Row>ERROL..STU..CDE</Row>
+      <Row>HOTTEA.CORNCHEX</Row>
+      <Row>IPUTASPELLONYOU</Row>
+      <Row>TORE.TUNE.NEONS</Row>
+      <Row>SPED.IBET.UTNE.</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="2" Num="1" Dir="Across" Ans="BAMA">Southeastern Conference football powerhouse, for short</Clue>
+      <Clue Row="1" Col="7" Num="5" Dir="Across" Ans="SNOB">Pretentious sort</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Across" Ans="RATS">Charlie Brown lamentation</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Across" Ans="SODAS">Ones making a case for drinking?</Clue>
+      <Clue Row="2" Col="7" Num="14" Dir="Across" Ans="EIRE">Cork's land</Clue>
+      <Clue Row="2" Col="12" Num="15" Dir="Across" Ans="ENRY">Mr. 'iggins in "My Fair Lady"</Clue>
+      <Clue Row="3" Col="1" Num="16" Dir="Across" Ans="TOOTHEXTRACTION">It creates an opening at the dentist's office</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="EMPTYOUT">Leave en masse</Clue>
+      <Clue Row="4" Col="10" Num="20" Dir="Across" Ans="MOOMOO">"Old MacDonald" cry</Clue>
+      <Clue Row="5" Col="1" Num="21" Dir="Across" Ans="AIT">River isle</Clue>
+      <Clue Row="5" Col="6" Num="22" Dir="Across" Ans="UPI">News inits.</Clue>
+      <Clue Row="5" Col="11" Num="23" Dir="Across" Ans="TRAPP">___ Family Singers (group that inspired "The Sound of Music")</Clue>
+      <Clue Row="6" Col="1" Num="24" Dir="Across" Ans="KNEADS">Works, as dough</Clue>
+      <Clue Row="6" Col="9" Num="27" Dir="Across" Ans="NESTLES">Gets comfortable</Clue>
+      <Clue Row="7" Col="2" Num="29" Dir="Across" Ans="GERM">Cause of a cold</Clue>
+      <Clue Row="7" Col="7" Num="30" Dir="Across" Ans="OLES">Cheers for toreadors</Clue>
+      <Clue Row="7" Col="12" Num="32" Dir="Across" Ans="SIRI">One who talks on the phone a lot?</Clue>
+      <Clue Row="8" Col="4" Num="33" Dir="Across" Ans="MATHEXAM">It might involve x, y and z</Clue>
+      <Clue Row="8" Col="13" Num="36" Dir="Across" Ans="ASS">Buffoon</Clue>
+      <Clue Row="9" Col="1" Num="37" Dir="Across" Ans="BAA">When repeated, "Old MacDonald" cry</Clue>
+      <Clue Row="9" Col="5" Num="40" Dir="Across" Ans="JOYOUSLY">With glee</Clue>
+      <Clue Row="10" Col="1" Num="42" Dir="Across" Ans="ASPS">Egyptian menaces</Clue>
+      <Clue Row="10" Col="6" Num="44" Dir="Across" Ans="MENS">Section of a clothing catalog</Clue>
+      <Clue Row="10" Col="11" Num="45" Dir="Across" Ans="LOTS">Auction units</Clue>
+      <Clue Row="11" Col="1" Num="48" Dir="Across" Ans="STEPPES">Central Asian plains</Clue>
+      <Clue Row="11" Col="10" Num="50" Dir="Across" Ans="BEWAIL">Loudly mourn</Clue>
+      <Clue Row="12" Col="1" Num="52" Dir="Across" Ans="ERROL">Flynn of film</Clue>
+      <Clue Row="12" Col="8" Num="53" Dir="Across" Ans="STU">Apt name for a worrier</Clue>
+      <Clue Row="12" Col="13" Num="55" Dir="Across" Ans="CDE">Alphabet run</Clue>
+      <Clue Row="13" Col="1" Num="56" Dir="Across" Ans="HOTTEA">Beverage for a flu sufferer</Clue>
+      <Clue Row="13" Col="8" Num="58" Dir="Across" Ans="CORNCHEX">Part of party mix, often</Clue>
+      <Clue Row="14" Col="1" Num="61" Dir="Across" Ans="IPUTASPELLONYOU">Much-covered 1956 Screamin' Jay Hawkins song ... hinting at what happens three times in this puzzle's solution</Clue>
+      <Clue Row="15" Col="1" Num="63" Dir="Across" Ans="TORE">Raced</Clue>
+      <Clue Row="15" Col="6" Num="64" Dir="Across" Ans="TUNE">Adjust, as a piano</Clue>
+      <Clue Row="15" Col="11" Num="65" Dir="Across" Ans="NEONS">Day-Glo colors</Clue>
+      <Clue Row="16" Col="1" Num="66" Dir="Across" Ans="SPED">Raced</Clue>
+      <Clue Row="16" Col="6" Num="67" Dir="Across" Ans="IBET">"Fat chance!"</Clue>
+      <Clue Row="16" Col="11" Num="68" Dir="Across" Ans="UTNE">___ Reader</Clue>
+      <Clue Row="1" Col="2" Num="1" Dir="Down" Ans="BOOMING">Taking off, as business</Clue>
+      <Clue Row="1" Col="3" Num="2" Dir="Down" Ans="ADOPTEE">Pet from a pet shelter, e.g.</Clue>
+      <Clue Row="1" Col="4" Num="3" Dir="Down" Ans="MATT">Groening who created "The Simpsons"</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Down" Ans="ASHY">Wan</Clue>
+      <Clue Row="1" Col="7" Num="5" Dir="Down" Ans="SEXUP">Make more alluring</Clue>
+      <Clue Row="1" Col="8" Num="6" Dir="Down" Ans="NITTI">Frank who was a cohort of Al Capone</Clue>
+      <Clue Row="1" Col="9" Num="7" Dir="Down" Ans="ORR">Hockey great whose jersey number rhymed with his name</Clue>
+      <Clue Row="1" Col="10" Num="8" Dir="Down" Ans="BEAM">Headlight</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Down" Ans="RETORTS">"Fat chance!" and others</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="ANIMALIA">Kingdom that's spread throughout the world</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="TROOPERS">Highway patrollers</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="SYNOPSIS">Quick rundown</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Down" Ans="STEAK">Tuna cut</Clue>
+      <Clue Row="3" Col="6" Num="17" Dir="Down" Ans="EOUS">Suffix with right</Clue>
+      <Clue Row="3" Col="11" Num="18" Dir="Down" Ans="COTS">Items at an emergency shelter</Clue>
+      <Clue Row="6" Col="4" Num="25" Dir="Down" Ans="ARM">Get ready to fight, say</Clue>
+      <Clue Row="6" Col="5" Num="26" Dir="Down" Ans="DMAJ">Key of Pachelbel's Canon: Abbr.</Clue>
+      <Clue Row="6" Col="9" Num="27" Dir="Down" Ans="NEXUS">Meeting point</Clue>
+      <Clue Row="6" Col="10" Num="28" Dir="Down" Ans="ESAS">Those, in Madrid</Clue>
+      <Clue Row="7" Col="7" Num="30" Dir="Down" Ans="OHYES">"Definitely!"</Clue>
+      <Clue Row="7" Col="8" Num="31" Dir="Down" Ans="LEON">Rock's Kings of ___</Clue>
+      <Clue Row="8" Col="6" Num="34" Dir="Down" Ans="TOME">Weighty work</Clue>
+      <Clue Row="8" Col="11" Num="35" Dir="Down" Ans="MLLE">Swiss miss, maybe: Abbr.</Clue>
+      <Clue Row="9" Col="1" Num="37" Dir="Down" Ans="BASEHITS">Singles, doubles and triples</Clue>
+      <Clue Row="9" Col="2" Num="38" Dir="Down" Ans="ASTROPOP">Colorful, conical candy on a stick</Clue>
+      <Clue Row="9" Col="3" Num="39" Dir="Down" Ans="APERTURE">Camera setting</Clue>
+      <Clue Row="9" Col="12" Num="41" Dir="Down" Ans="YOW">"That HURTS!"</Clue>
+      <Clue Row="10" Col="4" Num="43" Dir="Down" Ans="SPOTTED">Like leopards and dominoes</Clue>
+      <Clue Row="10" Col="13" Num="46" Dir="Down" Ans="TACHYON">Hypothetical particle that travels faster than light</Clue>
+      <Clue Row="10" Col="14" Num="47" Dir="Down" Ans="SIDEONE">Location of "Yellow Submarine" on the album "Yellow Submarine"</Clue>
+      <Clue Row="11" Col="5" Num="49" Dir="Down" Ans="PLEA">Court proposition</Clue>
+      <Clue Row="11" Col="10" Num="50" Dir="Down" Ans="BURL">Lump on a trunk</Clue>
+      <Clue Row="11" Col="15" Num="51" Dir="Down" Ans="LEXUS">BMW alternative</Clue>
+      <Clue Row="12" Col="8" Num="53" Dir="Down" Ans="SCENE">Public spat</Clue>
+      <Clue Row="12" Col="9" Num="54" Dir="Down" Ans="TOLET">Flat sign</Clue>
+      <Clue Row="13" Col="6" Num="57" Dir="Down" Ans="ASTI">Italian province known for sparkling wine</Clue>
+      <Clue Row="13" Col="11" Num="59" Dir="Down" Ans="NONU">Like Cockneys, in British lingo</Clue>
+      <Clue Row="13" Col="12" Num="60" Dir="Down" Ans="CNET">Popular tech news site</Clue>
+      <Clue Row="14" Col="7" Num="62" Dir="Down" Ans="PUB">___ crawl</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>I PUT A SPELL ON YOU = HEX atop YOU, three times in the grid. Even though HEX and YOU are both shorties, they&#39;re tough to disguise, so some nice finds. TOOT<strong>H EX</strong>TRACTION made me reflexively wince, but it&#39;s a solid answer. MAT<strong>H EX</strong>AM probably made others wince, but this former mathlete approved. And CORN C<strong>HEX</strong> was a good way to finish it off.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/I_Put_a_Spell_on_You" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/I_Put_a_Spell_on_You_by_Screamin%27_Jay_Hawkins_US_vinyl.jpg/440px-I_Put_a_Spell_on_You_by_Screamin%27_Jay_Hawkins_US_vinyl.jpg" style="padding: 6px; background-color: white; border: 1px solid lightgray; float:right; height:219px; margin:6px 0px 6px 12px; width:220px" title="HEX / YOU!" /></a></p>
+
+<p>EMPT<strong>Y OU</strong>T did a good job of obfuscating YOU, JO<strong>YOU</strong>SLY as well. They&#39;re both long entries, though, and stacking pairs of long theme answers can be problematic. So many pairs of letters to work through!</p>
+
+<p>See: EOUS in top stack, and AIT in close proximity. ESAS / MLLE in middle. BURL / NONU in bottom.</p>
+
+<p>Pete and Bruce made the grid 16 rows high to center MATH EXAM / JOYOUSLY, but I&#39;d have been as happy with MATH EXAM in the center of a 15x15, with something like YOUTH below it. Might have smoothed things out a bit.</p>
+
+<p>Typically, placing long theme answers in rows 3 / 13 (third to last) is the smart choice, giving yourself the most space possible. Here, I think moving them inwards one row apiece could have helped, giving Pete and Bruce more flexibility in filling around all those letter pairs.</p>
+
+<p>For me, EOUS would automatically force me to restart a puzzle. BURL or NONU I might let slide if they were the only offender, but I&#39;d work mightily to make sure there wasn&#39;t some better option.</p>
+
+<p>I did appreciate the big corners in the SW / NE. BASE HITS / ASTROPOP / APERTURE, yes! ANIMALIA / TROOPERS / SYNOPSIS, triple yes! That&#39;s the way to use those relatively unconstrained sections of a grid. I don&#39;t like ENRY much, but I felt it was a price worth paying for the wide-open goodness packed with juicy answers.</p>
+
+<p>I think the best stacked-themer puzzles are ones where you need to figure out the theme in order to finish the puzzle. <a href="https://www.xwordinfo.com/Crossword?date=11/13/2014">Tracy Gray had a memorable such one</a>. Finding the HEX atop YOU instances was more of an afterthought for me.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p><strong>BRUCE:</strong> This was entirely Pete&#39;s spelling brew &mdash; I just got consulted on the fill. I had recently done a <a href="https://www.xwordinfo.com/Crossword?date=2/13/2018">Valentine&#39;s puzzle</a> that utilized stacked central themers in a 16-high grid, so that seemed like a great way to make this difficult construction symmetric. Even so, this was a tough grid to fill cleanly.</p>
+
+<p><strong>PETE:</strong> Yeah, I had the idea for the theme, but I had a heck of a time filling the grid. Those three HEX-on-YOU occurrences really made for some headaches. I finally threw it at Bruce who had the brilliant idea to go with a 16x15 grid. That gave it a little more breathing room (if we can all ignore EOUS &mdash; as in nausEOUS). Plus the supersizing enabled Bruce to place one HEX/YOU pairing smack dab in the center of the grid. I think that&#39;s a nice touch. So, in the end, the grid is 90% Bruce&#39;s handiwork. I think I redid one of the corners &mdash; not that I made the end product any better, but so that I could say I had a hand in filling the grid.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

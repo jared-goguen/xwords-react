@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Saturday, June 2, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 6/1/2018 at 7:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sat, Jun 02, 2018</Title>
+    <Author>Trenton Charlson</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>6/2/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>GODZILLA..CUTEX</Row>
+      <Row>QUEEQUEG.MOHAVE</Row>
+      <Row>TIMESLOT.AWOKEN</Row>
+      <Row>YOU..UNSUNGHERO</Row>
+      <Row>PURPOSE.PHI.AYN</Row>
+      <Row>EIEIO..ODOR.NOG</Row>
+      <Row>...THATSALL.ANA</Row>
+      <Row>CASH.CRATE.APES</Row>
+      <Row>ALP.SHAKESON...</Row>
+      <Row>PTA.NINA..ETUDE</Row>
+      <Row>IAM.ELK.ORDINAL</Row>
+      <Row>TRAVELSIZE..GIN</Row>
+      <Row>ABLAZE.TZATZIKI</Row>
+      <Row>LOOSES.TIREIRON</Row>
+      <Row>BYTES..YESANDNO</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="GODZILLA">Fictional character with a star on the Hollywood Walk of Fame</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Across" Ans="CUTEX">Nail care brand</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="QUEEQUEG">Friend of Ishmael</Clue>
+      <Clue Row="2" Col="10" Num="15" Dir="Across" Ans="MOHAVE">People indigenous to the Colorado River</Clue>
+      <Clue Row="3" Col="1" Num="16" Dir="Across" Ans="TIMESLOT">9/8 Central, e.g.</Clue>
+      <Clue Row="3" Col="10" Num="17" Dir="Across" Ans="AWOKEN">Disturbed, maybe</Clue>
+      <Clue Row="4" Col="1" Num="18" Dir="Across" Ans="YOU">Time's 2006 Person of the Year</Clue>
+      <Clue Row="4" Col="6" Num="19" Dir="Across" Ans="UNSUNGHERO">What someone no longer is as soon as he is identified as one, per George Carlin</Clue>
+      <Clue Row="5" Col="1" Num="21" Dir="Across" Ans="PURPOSE">Reason</Clue>
+      <Clue Row="5" Col="9" Num="24" Dir="Across" Ans="PHI">Golden ratio symbol</Clue>
+      <Clue Row="5" Col="13" Num="25" Dir="Across" Ans="AYN">First name in Objectivism</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Across" Ans="EIEIO">What might come after a cow or a sheep?</Clue>
+      <Clue Row="6" Col="8" Num="27" Dir="Across" Ans="ODOR">Repute</Clue>
+      <Clue Row="6" Col="13" Num="28" Dir="Across" Ans="NOG">Drink often served chilled</Clue>
+      <Clue Row="7" Col="4" Num="29" Dir="Across" Ans="THATSALL">Introduction to folks?</Clue>
+      <Clue Row="7" Col="13" Num="32" Dir="Across" Ans="ANA">Santa ___</Clue>
+      <Clue Row="8" Col="1" Num="33" Dir="Across" Ans="CASH">Till fill</Clue>
+      <Clue Row="8" Col="6" Num="36" Dir="Across" Ans="CRATE">Junk heap</Clue>
+      <Clue Row="8" Col="12" Num="37" Dir="Across" Ans="APES">Some early "astronauts"</Clue>
+      <Clue Row="9" Col="1" Num="38" Dir="Across" Ans="ALP">Habitat for an ibex</Clue>
+      <Clue Row="9" Col="5" Num="39" Dir="Across" Ans="SHAKESON">Closes, in a way</Clue>
+      <Clue Row="10" Col="1" Num="41" Dir="Across" Ans="PTA">Grp. once known as the National Congress of Mothers</Clue>
+      <Clue Row="10" Col="5" Num="42" Dir="Across" Ans="NINA">It "sailed the ocean blue"</Clue>
+      <Clue Row="10" Col="11" Num="43" Dir="Across" Ans="ETUDE">Exercise in dexterity</Clue>
+      <Clue Row="11" Col="1" Num="47" Dir="Across" Ans="IAM">Cartesian conclusion</Clue>
+      <Clue Row="11" Col="5" Num="48" Dir="Across" Ans="ELK">Animal on the Michigan state flag</Clue>
+      <Clue Row="11" Col="9" Num="49" Dir="Across" Ans="ORDINAL">Part of many a street name</Clue>
+      <Clue Row="12" Col="1" Num="51" Dir="Across" Ans="TRAVELSIZE">Good to go?</Clue>
+      <Clue Row="12" Col="13" Num="54" Dir="Across" Ans="GIN">It may be in a sling</Clue>
+      <Clue Row="13" Col="1" Num="55" Dir="Across" Ans="ABLAZE">All fired up?</Clue>
+      <Clue Row="13" Col="8" Num="56" Dir="Across" Ans="TZATZIKI">Sauce made with yogurt and cucumbers</Clue>
+      <Clue Row="14" Col="1" Num="59" Dir="Across" Ans="LOOSES">Sets free</Clue>
+      <Clue Row="14" Col="8" Num="60" Dir="Across" Ans="TIREIRON">Spare item?</Clue>
+      <Clue Row="15" Col="1" Num="61" Dir="Across" Ans="BYTES">Storage units</Clue>
+      <Clue Row="15" Col="8" Num="62" Dir="Across" Ans="YESANDNO">"It's complicated ..."</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="GQTYPE">Well-dressed, photogenic guy</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="OUIOUI">"Absolument!"</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="DEMURE">Modest, as clothing</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="ZEE">Sleep unit?</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="IQS">They're high in the Ivy League</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="LULUS">Lollapaloozas</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="LEONE">Film director Sergio</Clue>
+      <Clue Row="1" Col="8" Num="8" Dir="Down" Ans="AGTS">Go-betweens: Abbr.</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="COWGIRL">Lass with a lasso</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="UHOH">"Eeep!"</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="TAKEANAP">Go out, but not for long?</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="EVERYONE">Critic or comedian, it's said</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="XENONGAS">Strobe stuff</Clue>
+      <Clue Row="2" Col="10" Num="15" Dir="Down" Ans="MANHOLES">Main entrances?</Clue>
+      <Clue Row="4" Col="9" Num="20" Dir="Down" Ans="UPDATE">Many a software download</Clue>
+      <Clue Row="5" Col="4" Num="22" Dir="Down" Ans="PITH">Heart</Clue>
+      <Clue Row="5" Col="5" Num="23" Dir="Down" Ans="OOH">"Impressive!"</Clue>
+      <Clue Row="6" Col="8" Num="27" Dir="Down" Ans="OSAKA">City destroyed by 1-Across</Clue>
+      <Clue Row="7" Col="6" Num="30" Dir="Down" Ans="ACHILLES">He had a heel that wouldn't heal</Clue>
+      <Clue Row="7" Col="7" Num="31" Dir="Down" Ans="TRANKS">Zookeepers' rounds, informally</Clue>
+      <Clue Row="8" Col="1" Num="33" Dir="Down" Ans="CAPITALB">eBay feature</Clue>
+      <Clue Row="8" Col="2" Num="34" Dir="Down" Ans="ALTARBOY">One involved in mass production?</Clue>
+      <Clue Row="8" Col="3" Num="35" Dir="Down" Ans="SPAMALOT">Tony winner after "Avenue Q"</Clue>
+      <Clue Row="8" Col="12" Num="37" Dir="Down" Ans="ANTI">Set against</Clue>
+      <Clue Row="9" Col="5" Num="39" Dir="Down" Ans="SNEEZES">Cold evidence</Clue>
+      <Clue Row="9" Col="11" Num="40" Dir="Down" Ans="OED">It took 70 years to complete, in brief</Clue>
+      <Clue Row="10" Col="13" Num="44" Dir="Down" Ans="UNGIRD">Remove a belt from</Clue>
+      <Clue Row="10" Col="14" Num="45" Dir="Down" Ans="DAIKON">Japanese radish</Clue>
+      <Clue Row="10" Col="15" Num="46" Dir="Down" Ans="ELNINO">Weather phenomenon portrayed by Chris Farley on "S.N.L."</Clue>
+      <Clue Row="11" Col="9" Num="49" Dir="Down" Ans="OZZIE">Harriet's hubby on 1950s-'60s TV</Clue>
+      <Clue Row="11" Col="10" Num="50" Dir="Down" Ans="REARS">Parents</Clue>
+      <Clue Row="12" Col="4" Num="52" Dir="Down" Ans="VASE">Ming dynasty artifact</Clue>
+      <Clue Row="12" Col="8" Num="53" Dir="Down" Ans="ITTY">Minute, informally</Clue>
+      <Clue Row="13" Col="11" Num="57" Dir="Down" Ans="TEA">It might be in the bag</Clue>
+      <Clue Row="13" Col="12" Num="58" Dir="Down" Ans="ZIN">Alternative to a cab</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Trenton used CTHULHU in his last themeless, and I enjoyed it, what with my fascination with HP Lovecraft. It&#39;s such an awesomely bizarre string of letters!</p>
+
+<p>I imagine that other solvers might have hated it &ndash; if you don&#39;t already know it, it&#39;s such a horribly bizarre string of letters!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Queequeg" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Queequeg.JPG/440px-Queequeg.JPG" style="border:1px solid lightgray; float:left; height:250px; margin:6px 12px 6px 0px; width:151px" title="QUEEQUEG" /></a></p>
+
+<p>I bet QUEEQUEG and TZATZIKI will elicit similar responses today. I understand if some solvers rage at the kooky-looking entries, but I loved them. Great way to incorporate rare letters, those Qs and Zs immediately injecting some zing into the solving experience. Plus, QUEEQUEG is from a classic, Moby Dick, so educated solvers ought to at least be familiar with the cast of characters.</p>
+
+<p>Toss in an X in XENON GAS, and another Z in TRAVEL SIZE? Love it! And yet another Z in GODZILLA? Yes! I don&#39;t like it when constructors force in rare letters, glopping glue all over to hold the grid together, so it was a real treat to get so many rare ones with just the negligible AGTS employed.</p>
+
+<p>And let&#39;s not forget about the other great entries Trenton worked in. TIME SLOT. UNSUNG HERO. ALTAR BOY. SPAMALOT. TIRE IRON. YES AND NO? Nope, definitely yes!</p>
+
+<p>Impressively clever clues, too. MANHOLES is a solid entry. Playing on &quot;main&quot; &ndash; in this case, a water main &ndash; made it even better. &quot;Good to go&quot; hinting at TRAVEL SIZE was fantastic, too.</p>
+
+<p>It&#39;s not a revolutionary grid &ndash; not that hard to execute on a 70-word themeless. But Trenton used his four corner stacks so well and knitted everything together so elegantly. A work of art.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>Though this is the third themeless puzzle I constructed, it is the first one where I did not begin with a set grid pattern, but instead built the grid around my initial seed entry. I started in the upper-left corner with QUEEQUEG, and after a decent number of attempts to place it at 1-Across, I realized that as my favorite literary harpooner&#39;s name is 5/8 vowels, it might fit better in the second row. When I noticed that 1-Across would most likely have to start with A, E, I or S, my proclivity toward unusual letter combinations (and contrarianism) led me to wonder if I could get it to begin with something else. Seeing the possibility of 1-Down being GQ MODEL or GQ TYPE, I looked for a solid potential 1-Across answer starting with G, and once I found GODZILLA, the rest of the corner soon fell into place.</p>
+
+<p>Though the corner is a bit more partitioned off than I would prefer (and AGTS isn&#39;t the world&#39;s best entry), it still stands out to me as one of my favorites from my themeless constructions for both its Scrabbliness and sheer unexpectedness. That said, the thing I like most about the upper-left is perhaps the intersection of the consonant-free entries OUI OUI and EIEIO&mdash;how often does that happen?</p>
+
+<p>UNSUNG HERO came next, as it was by far my preferred choice for 19-Across. As I worked my way through the rest of the grid, I was pleased to incorporate, among other entries, XENON GAS, TRAVEL SIZE, TZATZIKI, and YES AND NO, as well as the complementary pair of COWGIRL and ALTAR BOY.</p>
+
+<p>I was pleasantly surprised to see how many of my clues survived this time around. Of my originals, I was particularly glad that 1-Across, 12-Down, 19-Across, 33-Down, 46-Down, and 51-Across made the cut. My favorite, though, has to be &quot;He had a heel that wouldn&#39;t heal&quot; for ACHILLES, which I had thought might be a tad too cutesy to be allowed as a part of the imposing brain-buster that is the NYT Saturday puzzle&mdash; glad I was wrong! On that note, I hope you enjoyed your solving experience (and my ACHILLES clue).</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

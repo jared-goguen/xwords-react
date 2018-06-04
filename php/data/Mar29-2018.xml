@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Thursday, March 29, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/28/2018 at 7:47 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Thu, Mar 29, 2018</Title>
+    <Author>Claire Muscat and David Steinberg</Author>
+    <CanonicalNames>
+      <Constructor>Claire Muscat</Constructor>
+      <Constructor>David Steinberg</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/29/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>SNUG.EDGE.SLOGS</Row>
+      <Row>TERI.GILA.CANOE</Row>
+      <Row>EMBARGOES.ADDLE</Row>
+      <Row>LEANCORNEDBEEF.</Row>
+      <Row>MANTA...IOS.MPH</Row>
+      <Row>ONES.LAWNS.TARO</Row>
+      <Row>...QAEDA.HBONOW</Row>
+      <Row>..BURIALMOUND..</Row>
+      <Row>PLAITS.LOTSA...</Row>
+      <Row>BARD.USERS.MOWS</Row>
+      <Row>SPF.DRE...PERIL</Row>
+      <Row>.LIFEEXPECTANCY</Row>
+      <Row>BAGEL.PIZZAFACE</Row>
+      <Row>ICHAT.OKRA.ETAS</Row>
+      <Row>TETRA.TEAR.WENT</Row>
+    </Grid>
+    <Shades>
+      <Shade Row="4" Col="3">gray</Shade>
+      <Shade Row="4" Col="5">gray</Shade>
+      <Shade Row="4" Col="6">gray</Shade>
+      <Shade Row="4" Col="7">gray</Shade>
+      <Shade Row="4" Col="8">gray</Shade>
+      <Shade Row="8" Col="7">gray</Shade>
+      <Shade Row="8" Col="8">gray</Shade>
+      <Shade Row="8" Col="9">gray</Shade>
+      <Shade Row="8" Col="10">gray</Shade>
+      <Shade Row="8" Col="12">gray</Shade>
+      <Shade Row="8" Col="13">gray</Shade>
+      <Shade Row="12" Col="8">gray</Shade>
+      <Shade Row="12" Col="9">gray</Shade>
+      <Shade Row="12" Col="10">gray</Shade>
+      <Shade Row="12" Col="12">gray</Shade>
+      <Shade Row="12" Col="13">gray</Shade>
+    </Shades>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="SNUG">Tucked in, say</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="EDGE">The answer to this clue is located on one</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Across" Ans="SLOGS">Laborious tasks</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="TERI">Hatcher on TV</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="GILA">___ monster</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Across" Ans="CANOE">Summer camp craft</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="EMBARGOES">Complete blocks</Clue>
+      <Clue Row="3" Col="11" Num="19" Dir="Across" Ans="ADDLE">Scramble</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="LEANCORNEDBEEF">Light deli offering</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="MANTA">Kind of ray</Clue>
+      <Clue Row="5" Col="9" Num="23" Dir="Across" Ans="IOS">Apple platform</Clue>
+      <Clue Row="5" Col="13" Num="24" Dir="Across" Ans="MPH">Dash letters</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Across" Ans="ONES">___ place</Clue>
+      <Clue Row="6" Col="6" Num="27" Dir="Across" Ans="LAWNS">Suburban spreads</Clue>
+      <Clue Row="6" Col="12" Num="30" Dir="Across" Ans="TARO">Powdered ingredient in sweet teas and smoothies</Clue>
+      <Clue Row="7" Col="4" Num="31" Dir="Across" Ans="QAEDA">An end to terrorism?</Clue>
+      <Clue Row="7" Col="10" Num="33" Dir="Across" Ans="HBONOW">Premium 11-Down service</Clue>
+      <Clue Row="8" Col="3" Num="35" Dir="Across" Ans="BURIALMOUND">Traditional grave</Clue>
+      <Clue Row="9" Col="1" Num="37" Dir="Across" Ans="PLAITS">Twisted locks</Clue>
+      <Clue Row="9" Col="8" Num="39" Dir="Across" Ans="LOTSA">A who-o-o-ole bunch of</Clue>
+      <Clue Row="10" Col="1" Num="40" Dir="Across" Ans="BARD">Homer, for one</Clue>
+      <Clue Row="10" Col="6" Num="41" Dir="Across" Ans="USERS">___ manual</Clue>
+      <Clue Row="10" Col="12" Num="43" Dir="Across" Ans="MOWS">Puts blades to blades, say</Clue>
+      <Clue Row="11" Col="1" Num="47" Dir="Across" Ans="SPF">Letters on a beach bottle</Clue>
+      <Clue Row="11" Col="5" Num="48" Dir="Across" Ans="DRE">Andre Young a.k.a. Dr. ___</Clue>
+      <Clue Row="11" Col="11" Num="49" Dir="Across" Ans="PERIL">Endangerment</Clue>
+      <Clue Row="12" Col="2" Num="50" Dir="Across" Ans="LIFEEXPECTANCY">It's longer for women than it is for men</Clue>
+      <Clue Row="13" Col="1" Num="55" Dir="Across" Ans="BAGEL">Roll with a hole</Clue>
+      <Clue Row="13" Col="7" Num="56" Dir="Across" Ans="PIZZAFACE">One with serious acne, pejoratively</Clue>
+      <Clue Row="14" Col="1" Num="57" Dir="Across" Ans="ICHAT">Facebook Messenger precursor</Clue>
+      <Clue Row="14" Col="7" Num="58" Dir="Across" Ans="OKRA">Jambalaya ingredient, at times</Clue>
+      <Clue Row="14" Col="12" Num="59" Dir="Across" Ans="ETAS">Some fraternity members</Clue>
+      <Clue Row="15" Col="1" Num="60" Dir="Across" Ans="TETRA">Prefix with fluoride</Clue>
+      <Clue Row="15" Col="7" Num="61" Dir="Across" Ans="TEAR">Reason for mending</Clue>
+      <Clue Row="15" Col="12" Num="62" Dir="Across" Ans="WENT">Departed</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="STELMO">Patron of the high seas</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="NEMEAN">___ lion (mythical hunter)</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="URBANE">Suave</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="GIANTSQUID">Menace in "Twenty Thousand Leagues Under the Sea"</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="EGGO">Breakfast item in a box</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="DIOR">J'adore perfume maker</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="GLEN">Place for a stream</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="EASEIN">Gently acclimate</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="SCABS">Cut protections</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="LADE">Haul aboard</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="ONDEMAND">Way some movies are seen</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="GOLFPRO">Driving instructor?</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="SEE">Intuit</Clue>
+      <Clue Row="3" Col="5" Num="18" Dir="Down" Ans="RCA">Descendant of the Marconi Wireless Telegraph Company</Clue>
+      <Clue Row="4" Col="10" Num="21" Dir="Down" Ans="DOSHOTS">Get drunk quickly, in a way</Clue>
+      <Clue Row="5" Col="15" Num="25" Dir="Down" Ans="HOW">Modus operandi</Clue>
+      <Clue Row="6" Col="6" Num="27" Dir="Down" Ans="LEISURE">Time off</Clue>
+      <Clue Row="6" Col="7" Num="28" Dir="Down" Ans="ADA">Law with bldg. requirements</Clue>
+      <Clue Row="6" Col="8" Num="29" Dir="Down" Ans="WALLE">Pixar film set in 2805</Clue>
+      <Clue Row="6" Col="12" Num="30" Dir="Down" Ans="TONAMEAFEW">"... just for example"</Clue>
+      <Clue Row="7" Col="5" Num="32" Dir="Down" Ans="ART">Bust, maybe</Clue>
+      <Clue Row="7" Col="11" Num="34" Dir="Down" Ans="BUS">Tour aid</Clue>
+      <Clue Row="8" Col="3" Num="35" Dir="Down" Ans="BARFIGHT">Concern for a bouncer</Clue>
+      <Clue Row="8" Col="9" Num="36" Dir="Down" Ans="MOR">"Eat ___ Chikin" (Chick-Fil-A slogan)</Clue>
+      <Clue Row="9" Col="1" Num="37" Dir="Down" Ans="PBS">"Mystery!" network</Clue>
+      <Clue Row="9" Col="2" Num="38" Dir="Down" Ans="LAPLACE">French astronomer/mathematician who wrote "Traité de Mécanique Céleste"</Clue>
+      <Clue Row="10" Col="7" Num="42" Dir="Down" Ans="SEXPOT">Vamp</Clue>
+      <Clue Row="10" Col="13" Num="44" Dir="Down" Ans="ORNATE">Like the Taj Mahal</Clue>
+      <Clue Row="10" Col="14" Num="45" Dir="Down" Ans="WICCAN">Like good spellers?</Clue>
+      <Clue Row="10" Col="15" Num="46" Dir="Down" Ans="SLYEST">Maximally wily</Clue>
+      <Clue Row="11" Col="5" Num="48" Dir="Down" Ans="DELTA">It's triangle-shaped</Clue>
+      <Clue Row="11" Col="11" Num="49" Dir="Down" Ans="PTA">Org. that might put on a school carnival</Clue>
+      <Clue Row="12" Col="4" Num="51" Dir="Down" Ans="FEAR">Source of a nightmare</Clue>
+      <Clue Row="12" Col="8" Num="52" Dir="Down" Ans="PIKE">Diving position</Clue>
+      <Clue Row="12" Col="9" Num="53" Dir="Down" Ans="EZRA">It begins "Now in the first year of Cyrus king of Persia ..."</Clue>
+      <Clue Row="12" Col="10" Num="54" Dir="Down" Ans="CZAR">Drug ___</Clue>
+      <Clue Row="13" Col="1" Num="55" Dir="Down" Ans="BIT">Fell for the joke</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>I think this may be incredibly clever. But perhaps it takes an incredibly clever person to appreciate it? We get different types of NUTs, growing out of the letters N U T. Thus, the nuts grow from the NUTs? Or maybe it&#39;s some sort of fractal metaphor, that you see the same thing no matter at what scale you&#39;re looking?</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Almond" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Green_almonds.jpg/520px-Green_almonds.jpg" style="border:1px solid lightgray; float:right; height:152px; margin:6px 0px 6px 12px; width:220px" title="A NUT ... within a nut?" /></a></p>
+
+<p>It feels somehow meta. Self-referential.</p>
+
+<p>Kinda? Sorta?</p>
+
+<p>It was an incredibly cool set of findings &mdash; a &quot;words hidden within phrases&quot; type theme, kicked up a notch by the inclusion of the N U Ts. It boggles my mind a bit. It&#39;s hard enough to find most medium-length words within snazzy phrases, period. Toss in an extra letter (an extra constraint), and it&#39;s even tougher. Something very cool about ALMOND stretching to ALMOUND within BURIAL MOUND.</p>
+
+<p>Some might even say it&#39;s buried with that phrase! More meta-ness.</p>
+
+<p>With just three themers, David and Claire had a lot of flexibility in grid design, and they took full advantage of it. Some beauts in GIANT SQUID, BAR FIGHT / DO SHOTS, GOLF PRO, to name a few. TO NAME A FEW!</p>
+
+<p>Eerie, the meta-esque touches.</p>
+
+<p>PiZZA FACE is a colorful phrase, no doubt. But I&#39;m not sure I&#39;d strive to incorporate it. It&#39;s such a mean-sounding entry. Rich Norris over at the LAT once asked me to get rid of FOUR EYES because he wanted readers to come away uplifted from a puzzle, and that phrase potentially did the opposite. PIZZA FACE feels like a whole new level. Bleh.</p>
+
+<p>Overall, I think there&#39;s a very nice crossword concept in here somewhere &mdash; things that grow out of NUTS or something. This particular implementation didn&#39;t do it for me, leaving me scratching my head even after a lot of thinking about it. But I did like the creative, innovative thought behind it, and the solid gridwork.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p><strong>Claire:</strong> The first iteration of this puzzle was actually for a Midi pack that David (who I have been lucky enough to have as my constructing mentor and friend!) and I constructed this summer. For the themed Midis we kept the themes pretty simple, so I decided to try a NUTTY-themed puzzle for fun. I was a pretty green constructor at the time so I accidentally split the grid in half in my attempt to keep the fill clean, not realizing it would be an issue. David got a good kick out of both the silly theme and poorly laid out grid, and so the NUTTY puzzle became a running joke between the two of us.</p>
+
+<p>So when he sent me an idea for an updated, more sophisticated version of my initial idea, I couldn&#39;t help but laugh about how the infamous NUTTY puzzle had come back to haunt me. However, I couldn&#39;t turn the opportunity down! I loved David&#39;s ingenious idea to have the word NUT literally enclosed in the &quot;shell&quot; of the themers, and we spent a good amount of Skype hours working on the grid together to reach our final product. The result is something I think we&#39;re both quite happy with, especially some of the fun fill (PIZZA FACE, GIANT SQUID) that we were able to squeeze in.</p>
+
+<p>I&#39;m most of all thrilled to be making my NYT print debut and am happy to finally be redeemed from my initial attempt. Also, if you haven&#39;t already, please check out <a href="http://queerqrosswords.com/">Queer Qrosswords</a>, a puzzle pack I am so proud to say I contributed to and whose profits go completely to LGBTQ+ charities. Happy solving!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

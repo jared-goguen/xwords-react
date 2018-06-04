@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Saturday, March 31, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/30/2018 at 7:15 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sat, Mar 31, 2018</Title>
+    <Author>Kevin G. Der</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/31/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>STNADER.SDAPSOS</Row>
+      <Row>IHAVETO.BAYLEAF</Row>
+      <Row>TAWORHT.EMNOSTI</Row>
+      <Row>ONEWAYSTREETS..</Row>
+      <Row>....ELAY...SAPS</Row>
+      <Row>INSET..ROBO.THO</Row>
+      <Row>NAMT.LLANIGNIOG</Row>
+      <Row>AROUSAL.DREAMER</Row>
+      <Row>SNOITCERID.TEBA</Row>
+      <Row>AIR.META..MODEL</Row>
+      <Row>DAEB...NALE....</Row>
+      <Row>..TOTALGRIDLOCK</Row>
+      <Row>SDAORNI.OTNIGOL</Row>
+      <Row>HOTZONE.GRANOLA</Row>
+      <Row>ONSETOV.AETEGAS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="REDANTS">Insects of the species Myrmica rubra</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Across" Ans="SOSPADS">Kitchen scrubbers</Clue>
+      <Clue Row="2" Col="1" Num="15" Dir="Across" Ans="IHAVETO">"What are my other choices? There are none"</Clue>
+      <Clue Row="2" Col="9" Num="16" Dir="Across" Ans="BAYLEAF">Food flavorer that's not supposed to be eaten</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="THROWAT">Try to hit with</Clue>
+      <Clue Row="3" Col="9" Num="18" Dir="Across" Ans="ITSONME">"My treat"</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="ONEWAYSTREETS">Most crosstown thoroughfares in Manhattan ... with a hint to this puzzle's theme</Clue>
+      <Clue Row="5" Col="5" Num="21" Dir="Across" Ans="YALE">___ Daily News (paper since 1878)</Clue>
+      <Clue Row="5" Col="12" Num="22" Dir="Across" Ans="SPAS">Employers of masseurs</Clue>
+      <Clue Row="6" Col="1" Num="25" Dir="Across" Ans="INSET">Jeweler's creation</Clue>
+      <Clue Row="6" Col="8" Num="29" Dir="Across" Ans="ROBO">Start of some futuristic toy names</Clue>
+      <Clue Row="6" Col="13" Num="33" Dir="Across" Ans="THO">Short while?</Clue>
+      <Clue Row="7" Col="1" Num="34" Dir="Across" Ans="TMAN">Fed</Clue>
+      <Clue Row="7" Col="6" Num="35" Dir="Across" Ans="GOINGINALL">With 41-Across, proceeding willy-nilly</Clue>
+      <Clue Row="8" Col="1" Num="38" Dir="Across" Ans="AROUSAL">Awakening</Clue>
+      <Clue Row="8" Col="9" Num="40" Dir="Across" Ans="DREAMER">Subject for immigration legislation</Clue>
+      <Clue Row="9" Col="1" Num="41" Dir="Across" Ans="DIRECTIONS">See 35-Across</Clue>
+      <Clue Row="9" Col="12" Num="43" Dir="Across" Ans="ABET">Back on the job?</Clue>
+      <Clue Row="10" Col="1" Num="44" Dir="Across" Ans="AIR">Hang time, to a snowboarder</Clue>
+      <Clue Row="10" Col="5" Num="45" Dir="Across" Ans="META">Like plays about plays, say</Clue>
+      <Clue Row="10" Col="11" Num="46" Dir="Across" Ans="MODEL">Physicist's proposal</Clue>
+      <Clue Row="11" Col="1" Num="47" Dir="Across" Ans="BEAD">Headdress decoration</Clue>
+      <Clue Row="11" Col="8" Num="49" Dir="Across" Ans="ELAN">Sparkle</Clue>
+      <Clue Row="12" Col="3" Num="52" Dir="Across" Ans="TOTALGRIDLOCK">Nightmarish Manhattan traffic situation ... or a possible title for this puzzle</Clue>
+      <Clue Row="13" Col="1" Num="60" Dir="Across" Ans="INROADS">Progress</Clue>
+      <Clue Row="13" Col="9" Num="62" Dir="Across" Ans="LOGINTO">Access, as a computer network</Clue>
+      <Clue Row="14" Col="1" Num="63" Dir="Across" Ans="HOTZONE">Place of danger</Clue>
+      <Clue Row="14" Col="9" Num="64" Dir="Across" Ans="GRANOLA">Yogurt topping</Clue>
+      <Clue Row="15" Col="1" Num="65" Dir="Across" Ans="VOTESNO">Goes against a proposal</Clue>
+      <Clue Row="15" Col="9" Num="66" Dir="Across" Ans="SAGETEA">Chamomile alternative</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="OTIS">Johnny nicknamed "The Godfather of Rhythm and Blues"</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="THAN">Comparison word</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="EWAN">Actor McGregor</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="AVOW">Profess</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="TEARED">Started to cry, with "up"</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="ETHYL">___ alcohol</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="ASTOR">Lady ___, first female member of the British Parliament</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="REBS">Yanks' foes</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="DAME">Woman with a title</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="ENYA">Artist with the 7x platinum album "A Day Without Rain"</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="PLOTS">Emulates Lady Macbeth</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="DEMITASSES">Small coffee cups</Clue>
+      <Clue Row="1" Col="14" Num="13" Dir="Down" Ans="OAT">Morsel a horse'll eat</Clue>
+      <Clue Row="1" Col="15" Num="14" Dir="Down" Ans="IFS">Provisos</Clue>
+      <Clue Row="4" Col="8" Num="20" Dir="Down" Ans="TYRA">Banks on a runway</Clue>
+      <Clue Row="5" Col="14" Num="23" Dir="Down" Ans="PHOEBE">Holden's younger sister in "The Catcher in the Rye"</Clue>
+      <Clue Row="5" Col="15" Num="24" Dir="Down" Ans="LARGOS">Slow and stately compositions</Clue>
+      <Clue Row="6" Col="1" Num="25" Dir="Down" Ans="DASANI">Aquafina competitor</Clue>
+      <Clue Row="6" Col="2" Num="26" Dir="Down" Ans="NARNIA">Realm of Queen Lucy the Valiant</Clue>
+      <Clue Row="6" Col="3" Num="27" Dir="Down" Ans="STATEROOMS">Private ship cabins</Clue>
+      <Clue Row="6" Col="4" Num="28" Dir="Down" Ans="ETUI">Needle case</Clue>
+      <Clue Row="6" Col="9" Num="30" Dir="Down" Ans="IDNO">"___ idea!"</Clue>
+      <Clue Row="6" Col="10" Num="31" Dir="Down" Ans="BIRD">Frequent tweeter</Clue>
+      <Clue Row="6" Col="11" Num="32" Dir="Down" Ans="EGO">The "I" of Constantine I?</Clue>
+      <Clue Row="7" Col="6" Num="35" Dir="Down" Ans="LACE">Fancy collar material</Clue>
+      <Clue Row="7" Col="7" Num="36" Dir="Down" Ans="TELL">Poker giveaway</Clue>
+      <Clue Row="7" Col="12" Num="37" Dir="Down" Ans="NATO">Turkey club?</Clue>
+      <Clue Row="8" Col="5" Num="39" Dir="Down" Ans="MTS">Peaks: Abbr.</Clue>
+      <Clue Row="9" Col="8" Num="42" Dir="Down" Ans="RANG">Tolled</Clue>
+      <Clue Row="10" Col="11" Num="46" Dir="Down" Ans="TANDEM">What bicyclists might ride in</Clue>
+      <Clue Row="11" Col="4" Num="48" Dir="Down" Ans="BOOZE">Hooch</Clue>
+      <Clue Row="11" Col="9" Num="50" Dir="Down" Ans="AGORA">Ancient shopping place</Clue>
+      <Clue Row="11" Col="10" Num="51" Dir="Down" Ans="LITRE">Reading unit</Clue>
+      <Clue Row="12" Col="5" Num="53" Dir="Down" Ans="TORT">___ law</Clue>
+      <Clue Row="12" Col="6" Num="54" Dir="Down" Ans="ANNO">Part of A.D.</Clue>
+      <Clue Row="12" Col="7" Num="55" Dir="Down" Ans="VEIL">Bridal wear</Clue>
+      <Clue Row="12" Col="12" Num="56" Dir="Down" Ans="LINE">Bank annoyance</Clue>
+      <Clue Row="12" Col="13" Num="57" Dir="Down" Ans="GOGO">Rush-rush</Clue>
+      <Clue Row="12" Col="14" Num="58" Dir="Down" Ans="COLA">Pepsi, e.g.</Clue>
+      <Clue Row="12" Col="15" Num="59" Dir="Down" Ans="SALK">Kind of vaccine</Clue>
+      <Clue Row="13" Col="1" Num="60" Dir="Down" Ans="OHS">Honey ___ (Post cereal)</Clue>
+      <Clue Row="13" Col="2" Num="61" Dir="Down" Ans="DON">Get into</Clue>
+    </Clues>
+    <JimNotes><![CDATA[Here are the backward puzzles we've found: <a href="/Backwards">the list</a> or <a href="/Thumbs?select=backwards">thumbnails</a>.]]></JimNotes>
+    <JeffNotes><![CDATA[<p>I imagine that some people will LOVE this puzzle and some will HATE it. We&#39;ve had some puzzles where some entries are reversed. We&#39;ve even had some where every other row is reversed. I don&#39;t think I&#39;ve ever seen one where every other row AND every other column are reversed. Talk about melting the minds of solvers everywhere!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/New_York_City" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Chinatown_manhattan_2009.JPG/346px-Chinatown_manhattan_2009.JPG" style="border:1px solid lightgray; float:right; height:147px; margin:6px 0px 6px 12px; width:220px" title="Not sure why anyone would ever choose to drive in NYC" /></a></p>
+
+<p>I liked most of the thematic material. ONE WAY STREETS was a good descriptor of the puzzle. GOING IN ALL DIRECTIONS, too. TOTAL GRIDLOCK, though &mdash; don&#39;t all crosswords exhibit total gridlock? Interlock and all, yeah? I love it as a phrase, but I don&#39;t think it does a good job describing the conceit.</p>
+
+<p>Okay, maybe there was TOTAL GRIDLOCK in my head as I tried nearly in vain to even crack open one corner of the puzzle.</p>
+
+<p>Some awesome fill: HOT ZONE, STATEROOMS, DEMITASSES. And not much gluey fill for the level of construction difficulty, just some minor ROBO IDNO dings. If it hadn&#39;t been for the cringey ETUI, I would have given Kevin a gold star for near-impeccable craftsmanship. He has written his own software, so it&#39;s easier for him to automate rule-breaking grids like this, but it&#39;s still impressive.</p>
+
+<p>I understand Will&#39;s decision to run this on a Saturday. I had a few brain eruptions during the solving process, gray matter leaking out my ears. Kevin delights in making puzzles that are harder than the hardest of hardies, so I think he wildly succeeded in today.</p>
+
+<p>It&#39;s such a neat and creative rule-breaker that I would have preferred to get it on a Thursday, with the clues GREATLY eased up. It would have made for a delightful a-ha moment, such a tricky delight. And that way, I would have gotten the themeless I&#39;ve come to expect on Saturdays. Give me my hard themeless challenge!</p>
+
+<p>I worry that some (many? most?) solvers will just give up on this one and not appreciate the great idea and strong execution here. Puzzles are meant to be taken on as a challenge and ultimately solved &mdash; not meant to beat the solver senseless and leave him/her to bleed. I probably would have given up if I didn&#39;t want to write about every single NYT puzzle. Just too darn hard by a long shot.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>It&#39;s unclear to me how difficult it will be for solvers to grasp the theme, but I think two things will help: the clue for 19-A pins the answer fairly directly, and each section has answers going down or across in the normal direction which serve as toeholds. To make these toeholds more gettable, the clues are quite straightforward for a Saturday puzzle, and otherwise I suspect the puzzle would be near impossible to complete. Some of the more oblique clues were changed in the interest of solvability &mdash; for example, &quot;Carnival offerings&quot; for STATEROOMS and &quot;One imagining a better future for herself&quot; for DREAMER. Once the theme is revealed, keeping track of which rows and columns are reversed and entering those words backwards adds a twist to the typical themeless experience.</p>
+
+<p>According to my notes, this puzzle sets my personal record for length in the queue &mdash; it was accepted in the summer of 2014 at the same time as the puzzle that ran on October 15, 2015. I think it&#39;s typical for creators of all types to look back on old work and wish for a lot of changes. That&#39;s the case here. In terms of grid design, I would have preferred having four theme entries going in each of the possible directions, but the pair of length 13 makes this difficult because they necessarily intersect the other pair. The 13&#39;s also necessitate a quad stack in the corners which can be mitigated with three sections, but which results in a high word count. I&#39;m also not sure why I chose stacks of seven in each corner rather than eight and six, which I suspect could have resulted in a livelier grid.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

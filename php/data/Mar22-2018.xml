@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Thursday, March 22, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/22/2018 at 9:06 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Thu, Mar 22, 2018</Title>
+    <Author>Ross Trudeau</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/22/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>RIFT.SHAPE.MIRA</Row>
+      <Row>ERIE.AIMEE.AMES</Row>
+      <Row>VALLEYGIRL.GMCS</Row>
+      <Row>SILENTH...MOOLA</Row>
+      <Row>USE.ROCKINROBIN</Row>
+      <Row>PETRI.SEMIS.ING</Row>
+      <Row>...ACC.PAM.GLEE</Row>
+      <Row>.MAJORITYOWNER.</Row>
+      <Row>JAMA.EDM.YEA...</Row>
+      <Row>ODE.DALAI.ATBAT</Row>
+      <Row>FENCEMENDER.EPA</Row>
+      <Row>FLARE...AREAMAN</Row>
+      <Row>ROME.MOTHERDUCK</Row>
+      <Row>EVES.ADHOC.ASHE</Row>
+      <Row>YENS.IDEST.BEER</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="RIFT">Falling-out</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="SHAPE">Mold</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="MIRA">___ Nair, "Mississippi Masala" director</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="ERIE">Lake tribe</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="AIMEE">Mann of pop</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="AMES">Big 12 college town</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="VALLEYGIRL">One with a lot of likes?</Clue>
+      <Clue Row="3" Col="12" Num="19" Dir="Across" Ans="GMCS">Yukons and Envoys</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="SILENTH">Thyme piece?</Clue>
+      <Clue Row="4" Col="11" Num="21" Dir="Across" Ans="MOOLA">Cheddar</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="USE">Employ</Clue>
+      <Clue Row="5" Col="5" Num="23" Dir="Across" Ans="ROCKINROBIN">One with a lot of tweets?</Clue>
+      <Clue Row="6" Col="1" Num="27" Dir="Across" Ans="PETRI">Kind of dish</Clue>
+      <Clue Row="6" Col="7" Num="29" Dir="Across" Ans="SEMIS">Round after the Elite Eight</Clue>
+      <Clue Row="6" Col="13" Num="30" Dir="Across" Ans="ING">Dutch financial giant</Clue>
+      <Clue Row="7" Col="4" Num="31" Dir="Across" Ans="ACC">Blue Devils' grp.</Clue>
+      <Clue Row="7" Col="8" Num="33" Dir="Across" Ans="PAM">Jim's wife on "The Office"</Clue>
+      <Clue Row="7" Col="12" Num="34" Dir="Across" Ans="GLEE">Elation</Clue>
+      <Clue Row="8" Col="2" Num="35" Dir="Across" Ans="MAJORITYOWNER">One with a lot of shares?</Clue>
+      <Clue Row="9" Col="1" Num="39" Dir="Across" Ans="JAMA">Weekly reading for drs.</Clue>
+      <Clue Row="9" Col="6" Num="40" Dir="Across" Ans="EDM">Techno is a subgenre of it, for short</Clue>
+      <Clue Row="9" Col="10" Num="41" Dir="Across" Ans="YEA">___ big</Clue>
+      <Clue Row="10" Col="1" Num="42" Dir="Across" Ans="ODE">Some words from an admirer</Clue>
+      <Clue Row="10" Col="5" Num="43" Dir="Across" Ans="DALAI">___ Lama</Clue>
+      <Clue Row="10" Col="11" Num="45" Dir="Across" Ans="ATBAT">A walk is not counted as one</Clue>
+      <Clue Row="11" Col="1" Num="49" Dir="Across" Ans="FENCEMENDER">One with a lot of posts?</Clue>
+      <Clue Row="11" Col="13" Num="52" Dir="Across" Ans="EPA">Org. established during Nixon's presidency</Clue>
+      <Clue Row="12" Col="1" Num="53" Dir="Across" Ans="FLARE">Aid for a search-and-rescue team</Clue>
+      <Clue Row="12" Col="9" Num="54" Dir="Across" Ans="AREAMAN">Local, in a news article</Clue>
+      <Clue Row="13" Col="1" Num="56" Dir="Across" Ans="ROME">Where "Tosca" is set</Clue>
+      <Clue Row="13" Col="6" Num="57" Dir="Across" Ans="MOTHERDUCK">One with a lot of followers?</Clue>
+      <Clue Row="14" Col="1" Num="60" Dir="Across" Ans="EVES">Times when you might have trouble sleeping</Clue>
+      <Clue Row="14" Col="6" Num="61" Dir="Across" Ans="ADHOC">Kind of committee</Clue>
+      <Clue Row="14" Col="12" Num="62" Dir="Across" Ans="ASHE">Athlete posthumously awarded a Presidential Medal of Freedom</Clue>
+      <Clue Row="15" Col="1" Num="63" Dir="Across" Ans="YENS">Urges</Clue>
+      <Clue Row="15" Col="6" Num="64" Dir="Across" Ans="IDEST">Relative of "exempli gratia"</Clue>
+      <Clue Row="15" Col="12" Num="65" Dir="Across" Ans="BEER">Happy hour order</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="REVSUP">Gets going</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="IRAISE">Poker table declaration</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="FILLET">Salmon cut</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="TELE">Prompter or printer lead-in</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="SAYTO">Tell</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="HIGHCS">Hard-to-hit pitches</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="AMI">"___ crazy?"</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="PER">What "/" might signify</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="EEL">___ sauce (sushi condiment)</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="MAGOO">Master of the cartoon dog McBarker</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="IMMOBILE">Stock-still</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="RECLINER">La-Z-Boy offering</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="ASSANGE">WikiLeaks founder</Clue>
+      <Clue Row="3" Col="5" Num="18" Dir="Down" Ans="ENRICO">"Lucia di Lammermoor" baritone</Clue>
+      <Clue Row="4" Col="11" Num="21" Dir="Down" Ans="MRS">Wifey, with "the"</Clue>
+      <Clue Row="5" Col="8" Num="24" Dir="Down" Ans="KEPTMAN">Gigolo</Clue>
+      <Clue Row="5" Col="9" Num="25" Dir="Down" Ans="IMAY">"It's a possibility for me"</Clue>
+      <Clue Row="5" Col="10" Num="26" Dir="Down" Ans="NIMOY">"I Am Not Spock" memoirist ... who then wrote "I Am Spock" 20 years later</Clue>
+      <Clue Row="6" Col="4" Num="28" Dir="Down" Ans="RAJA">Indian prince</Clue>
+      <Clue Row="7" Col="6" Num="32" Dir="Down" Ans="CREAM">Smash</Clue>
+      <Clue Row="7" Col="12" Num="34" Dir="Down" Ans="GNAT">Little irritant</Clue>
+      <Clue Row="8" Col="2" Num="35" Dir="Down" Ans="MADELOVE">Was physically intimate</Clue>
+      <Clue Row="8" Col="3" Num="36" Dir="Down" Ans="AMENAMEN">"You tell it, preacher!"</Clue>
+      <Clue Row="8" Col="7" Num="37" Dir="Down" Ans="IDLE">Unused</Clue>
+      <Clue Row="8" Col="11" Num="38" Dir="Down" Ans="WEARER">One with something on</Clue>
+      <Clue Row="9" Col="1" Num="39" Dir="Down" Ans="JOFFREY">Boy king on "Game of Thrones"</Clue>
+      <Clue Row="10" Col="5" Num="43" Dir="Down" Ans="DEE">Actor Billy ___ Williams</Clue>
+      <Clue Row="10" Col="9" Num="44" Dir="Down" Ans="IDAHOS">Certain potatoes</Clue>
+      <Clue Row="10" Col="13" Num="46" Dir="Down" Ans="BEMUSE">Baffle</Clue>
+      <Clue Row="10" Col="14" Num="47" Dir="Down" Ans="APACHE">Geronimo's people</Clue>
+      <Clue Row="10" Col="15" Num="48" Dir="Down" Ans="TANKER">Exxon Valdez, e.g.</Clue>
+      <Clue Row="11" Col="4" Num="50" Dir="Down" Ans="CRESS">Salad green</Clue>
+      <Clue Row="11" Col="10" Num="51" Dir="Down" Ans="ERECT">Put up</Clue>
+      <Clue Row="12" Col="12" Num="55" Dir="Down" Ans="ADAB">Not much, as of lotion</Clue>
+      <Clue Row="13" Col="6" Num="57" Dir="Down" Ans="MAI">Final full month before été begins</Clue>
+      <Clue Row="13" Col="7" Num="58" Dir="Down" Ans="ODD">Not quite right</Clue>
+      <Clue Row="13" Col="8" Num="59" Dir="Down" Ans="THE">Not just a</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>A beautiful example of what an early/mid-week puzzle should be. (Yes, I know Thursday isn&#39;t early/mid-week. Stay tuned.) Plays on social media terms &mdash; a VALLEY GIRL has a lot of &quot;likes.&quot; ROCKIN&#39; ROBIN has all sorts of &quot;tweets.&quot; A MAJORITY OWNER has a ton of &quot;shares.&quot; I appreciate that Ross was able to find so many snazzy phrases that I&#39;d happily use in a themeless.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Joffrey_Baratheon" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/b/bd/Joffrey_Baratheon-Jack_Gleeson.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:175px" title="Dude gave me so many creeps I had to stop watching the show" /></a></p>
+
+<p>MOTHER DUCK (with all her &quot;followers&quot;) was good too, but that one I might give the side-eye in any other puzzle.</p>
+
+<p>FENCE MENDER ... thankfully, it&#39;s the only themer that dips into the &quot;definitional&quot; category that plagues this type of theme. Imagine if MAJORITY OWNER had been PERSON OWNING STOCK. Much less fun, yeah?</p>
+
+<p>Some funnage in the fill, too, with King JOFFREY of &quot;Game of Thrones.&quot; Thank goodness dude got his due, AMEN AMEN.</p>
+
+<p>Speaking of aMEN, what&#39;s an AREA MAN, you ask? Good question. The dictionary defines it as &hellip;</p>
+
+<p>Okay, if you have to say &quot;The dictionary defines it as &hellip;&quot; it&#39;s probably not a fantastic grid entry.</p>
+
+<p>KEPT MAN is kind of a colorful term, but a bit cringy. And the dupe of MAN made AREA MAN feel even worse.</p>
+
+<p>EDM is &hellip; &quot;electronic dance music&quot;? It&#39;s still a globby piece of crossword glue since it&#39;s impossible to figure out if you don&#39;t already know it.</p>
+
+<p>I might have considered this for the POW! if it had been run on a Wednesday or Tuesday. It feels like the NYT is falling down with the avant-garde Thursdays that used to help distinguish it; to feature its ability to be clever. Yes, it&#39;s tough to come up with something innovative every week. But others, like the <a href="https://avxwords.com/#/">American Values Club</a> and <a href="http://www.fireballcrosswords.com/">Fireball</a>, have been doing it with a higher rate of success than the NYT recently.</p>
+
+<p>I love the NYT crossword. It&#39;s one of the things that drew me and my wife together. I don&#39;t want to see it slowly lose its cachet. Will, I hope you find a way to solve this problem.</p>
+
+<p>Overall, an easy and mostly lovely &mdash; but so, so, so disappointingly non-cutting-edge &mdash; romp.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>I was admonished not to give a real-life villain the satisfaction of being in the puzzle, unless I was prepared to remind him of how appropriately IMMOBILE he is there in his Ecuadorian RECLINER.</p>
+
+<p>AMEN AMEN.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

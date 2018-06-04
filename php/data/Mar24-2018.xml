@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Saturday, March 24, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/23/2018 at 7:03 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sat, Mar 24, 2018</Title>
+    <Author>Byron Walden</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/24/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>ALERT.CHINASHOP</Row>
+      <Row>GOPER.LEMONLIME</Row>
+      <Row>EVITA.EMPTYEYES</Row>
+      <Row>RECIDIVISM.DALE</Row>
+      <Row>ABILENE..EAGLET</Row>
+      <Row>NOSESPRAY.DELTA</Row>
+      <Row>GATS.ADHERES...</Row>
+      <Row>ETS.TRIESON.MUM</Row>
+      <Row>...LITCRIT.RENO</Row>
+      <Row>ADDER.KONACOAST</Row>
+      <Row>NOOSES..DRAGNET</Row>
+      <Row>GMOS.KATEYSAGAL</Row>
+      <Row>LIVESALIE.SIETE</Row>
+      <Row>ONEPUTTED.INNER</Row>
+      <Row>SIRSPEEDY.SEEDS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="ALERT">Text ___</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="CHINASHOP">No bull market?</Clue>
+      <Clue Row="2" Col="1" Num="15" Dir="Across" Ans="GOPER">Mr. or Mrs. Right?</Clue>
+      <Clue Row="2" Col="7" Num="16" Dir="Across" Ans="LEMONLIME">Like some sodas</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="EVITA">"Another Suitcase in Another Hall" musical</Clue>
+      <Clue Row="3" Col="7" Num="18" Dir="Across" Ans="EMPTYEYES">Little Orphan Annie feature</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="RECIDIVISM">Concern of "three strikes" laws</Clue>
+      <Clue Row="4" Col="12" Num="21" Dir="Across" Ans="DALE">Hollow</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="ABILENE">Home to Dyess Air Force base</Clue>
+      <Clue Row="5" Col="10" Num="23" Dir="Across" Ans="EAGLET">Avian epithet for Napoleon II, with "the"</Clue>
+      <Clue Row="6" Col="1" Num="25" Dir="Across" Ans="NOSESPRAY">Certain flu vaccine medium</Clue>
+      <Clue Row="6" Col="11" Num="28" Dir="Across" Ans="DELTA">Echo preceder</Clue>
+      <Clue Row="7" Col="1" Num="29" Dir="Across" Ans="GATS">Mob pieces</Clue>
+      <Clue Row="7" Col="6" Num="30" Dir="Across" Ans="ADHERES">Cleaves</Clue>
+      <Clue Row="8" Col="1" Num="32" Dir="Across" Ans="ETS">And many times in France?</Clue>
+      <Clue Row="8" Col="5" Num="33" Dir="Across" Ans="TRIESON">Has a fit, maybe?</Clue>
+      <Clue Row="8" Col="13" Num="34" Dir="Across" Ans="MUM">Queen ___</Clue>
+      <Clue Row="9" Col="4" Num="37" Dir="Across" Ans="LITCRIT">Class for an English major, familiarly</Clue>
+      <Clue Row="9" Col="12" Num="38" Dir="Across" Ans="RENO">Home of Triple-A baseball's Aces</Clue>
+      <Clue Row="10" Col="1" Num="39" Dir="Across" Ans="ADDER">Only poisonous snake in Britain</Clue>
+      <Clue Row="10" Col="7" Num="42" Dir="Across" Ans="KONACOAST">Coffee-growing region of Hawaii</Clue>
+      <Clue Row="11" Col="1" Num="44" Dir="Across" Ans="NOOSES">Ones hanging around a haunted house?</Clue>
+      <Clue Row="11" Col="9" Num="46" Dir="Across" Ans="DRAGNET">Street sweep?</Clue>
+      <Clue Row="12" Col="1" Num="47" Dir="Across" Ans="GMOS">Golden rice and others, in brief</Clue>
+      <Clue Row="12" Col="6" Num="48" Dir="Across" Ans="KATEYSAGAL">Sitcom mother portrayer of 1987-97 and (on a different show) 2002-05</Clue>
+      <Clue Row="13" Col="1" Num="51" Dir="Across" Ans="LIVESALIE">Hides who one is</Clue>
+      <Clue Row="13" Col="11" Num="53" Dir="Across" Ans="SIETE">Ocho preceder</Clue>
+      <Clue Row="14" Col="1" Num="54" Dir="Across" Ans="ONEPUTTED">Achieved green efficiency?</Clue>
+      <Clue Row="14" Col="11" Num="55" Dir="Across" Ans="INNER">Like some monologues</Clue>
+      <Clue Row="15" Col="1" Num="56" Dir="Across" Ans="SIRSPEEDY">FedEx Office competitor</Clue>
+      <Clue Row="15" Col="11" Num="57" Dir="Across" Ans="SEEDS">Places in brackets</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="AGERANGE">Toy package info</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="LOVEBOAT">Old TV show set on the Pacific Princess, with "The"</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="EPICISTS">Homer and others</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="RETILES">Fixes, as a shower stall</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="TRADES">Masonry and others</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="CLEVERDICK">Know-it-all, in Britspeak</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="HEMI">Powerful car engine</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="IMPS">Sorts frequently given detention</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="NOTME">Terse denial</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="ANY">"___ regrets?"</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="SLEDGES">Haulers on runners</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="HIYALL">Mobile greeting</Clue>
+      <Clue Row="1" Col="14" Num="13" Dir="Down" Ans="OMELET">To fix this you need to get cracking!</Clue>
+      <Clue Row="1" Col="15" Num="14" Dir="Down" Ans="PESETA">Coin whose name means "small weight"</Clue>
+      <Clue Row="4" Col="6" Num="20" Dir="Down" Ans="INPART">To some extent</Clue>
+      <Clue Row="5" Col="11" Num="24" Dir="Down" Ans="ADEN">City where, according to legend, Cain and Abel are buried</Clue>
+      <Clue Row="6" Col="8" Num="26" Dir="Down" Ans="AHERO">"Don't be ___" (words of caution)</Clue>
+      <Clue Row="6" Col="9" Num="27" Dir="Down" Ans="YESINDEEDY">"Darn tootin'"</Clue>
+      <Clue Row="7" Col="10" Num="31" Dir="Down" Ans="ROTARY">Pre-cell?</Clue>
+      <Clue Row="8" Col="5" Num="33" Dir="Down" Ans="TIRE">Begin to give out</Clue>
+      <Clue Row="8" Col="13" Num="34" Dir="Down" Ans="MEANGENE">Rhyming nickname for wrestling Hall-of-Famer Okerlund</Clue>
+      <Clue Row="8" Col="14" Num="35" Dir="Down" Ans="UNSEATED">Booted out</Clue>
+      <Clue Row="8" Col="15" Num="36" Dir="Down" Ans="MOTTLERS">Paintbrushes for applying spots and blotches</Clue>
+      <Clue Row="9" Col="4" Num="37" Dir="Down" Ans="LESSEPS">Ferdinand de ___, developer of the Suez Canal</Clue>
+      <Clue Row="9" Col="12" Num="38" Dir="Down" Ans="ROGAINE">"Use it or lose it" sloganeer</Clue>
+      <Clue Row="10" Col="1" Num="39" Dir="Down" Ans="ANGLOS">Whites</Clue>
+      <Clue Row="10" Col="2" Num="40" Dir="Down" Ans="DOMINI">D, on a cornerstone</Clue>
+      <Clue Row="10" Col="3" Num="41" Dir="Down" Ans="DOOVER">Mulligan</Clue>
+      <Clue Row="10" Col="11" Num="43" Dir="Down" Ans="CASSIS">Black currant liqueur</Clue>
+      <Clue Row="11" Col="6" Num="45" Dir="Down" Ans="SKATE">Relative of a stingray</Clue>
+      <Clue Row="12" Col="7" Num="49" Dir="Down" Ans="ALTE">___ Oper (historic concert hall in Frankfurt, Germany)</Clue>
+      <Clue Row="12" Col="8" Num="50" Dir="Down" Ans="TIED">Even</Clue>
+      <Clue Row="13" Col="5" Num="52" Dir="Down" Ans="SUP">"How's it hangin'?"</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Big ol&#39; white spaces, a Byron Walden special! He and <a href="https://www.xwordinfo.com/Thumbs?author=Mark+Diehl">Mark Diehl</a> are two of the few constructors that regularly delve into this territory, using few or no extra black (&quot;cheater&quot;) squares. I always look forward to their work &ndash; with a healthy dose of fear, wondering if I&#39;ll be able to complete the puzzle.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Gene_Okerlund" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mene_Gene_Okerlund.jpg/440px-Mene_Gene_Okerlund.jpg" style="border:1px solid lightgray; float:right; height:220px; margin:6px 0px 6px 12px; width:220px" title="He doesn't look so MEAN" /></a></p>
+
+<p>With Byron&#39;s low-word-count themelesses, I often find myself playing a role akin to the line judge in tennis:</p>
+
+<ul>
+	<li>CHINA SHOP, cleverly hinted at by &quot;bull market&quot; &ndash; IN!</li>
+	<li>NOSE SPRAY. &quot;Nasal spray,&quot; more commonly, yeah? It does seem to be a real term though ... ON THE LINE!</li>
+	<li>MOTTLERS &ndash; OUT! A roll-your-own -ERS addition. Well, wait. Let&#39;s go to replay. Apparently, a MOTTLER is a real type of paintbrush? Seems to only show up on art websites, but it does appear to be legit. Ruling overturned. IN!</li>
+	<li>The LOVE BOAT, IN! I can&#39;t believe my parents let me watch this when I was seven.</li>
+	<li>CLEVER DICK &hellip; in? I mean, IN! Authoritatively! (running to Wikipedia) Yes, IN! This is a real term. (Apparently.)</li>
+	<li>GOPER &ndash; OUT! Took me forever to parse this as GOP&#39;er. Ugh. Ugh ugh ugh. This entry hit someone in the stands in the face, right in the EMPTY EYES.</li>
+	<li>EMPTY EYES &hellip; in? Out? Let&#39;s look the other way.</li>
+	<li>LESSEPS? MEAN GENE? This line judge likes explorers and LOVES &ndash; I mean LOVED, ahem &ndash; pro wrestling. Unfamiliar. But definitely IN!</li>
+	<li>YES INDEEDY, that&#39;s an ACE! My favorite entry of the puzzle.</li>
+</ul>
+
+<p>Line judge ended the match mostly happy.</p>
+
+<p>I appreciate how much care Byron takes to avoid short crossword glue. With low word-count puzzles though, there are almost always compromises, and some of his longer material suffered. Still, mostly a winner, if after a lot of back and forth.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>For three or so years, I&#39;ve been the second most published Saturday constructor in the Times. With great fanfare, I can now say I have one half &mdash; that&#39;s a big 50% &mdash; as many Saturdays as the all-time king and all-time great <a class="hasphoto" href="https://www.xwordinfo.com/Thumbs?author=Rich+Norris">Rich Norris</a>. And it was possible to get halfway there only because he&#39;s taken a ten-year breather. Maybe it&#39;s like competing with Milton Berle &mdash; if I ever get close, he can just crank out a few more Saturdays for us. (Oh, that reminds me, in case there&#39;s any confusion, the second half of 6-Down is just the proper name, not an epithet.)</p>
+
+<p>This puzzle started with CHINA SHOP. My clue was [Bull market?], so this is probably the first time the edited clue was the exact opposite of mine. I get the change, in that the norm is that the bull wouldn&#39;t be there. But norms that proscribe wanton wreckage are not quite in vogue these days, so my version might be a bit more zeitgeisty.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

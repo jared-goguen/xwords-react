@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Saturday, April 21, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/20/2018 at 7:45 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sat, Apr 21, 2018</Title>
+    <Author>Daniel Nierenberg</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/21/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>EROTICNOVEL.BIC</Row>
+      <Row>GENETHERAPY.UNO</Row>
+      <Row>ESTATESALES.BEE</Row>
+      <Row>STORY..LIEINBED</Row>
+      <Row>TSPS.NCIS.SOLD.</Row>
+      <Row>....CORSET.NEHI</Row>
+      <Row>OHSTOPIT.HEATED</Row>
+      <Row>REHIRES.FERRELL</Row>
+      <Row>CLARET.DEMOTAPE</Row>
+      <Row>AIDE.STILES....</Row>
+      <Row>.POOR.HOLD.KILT</Row>
+      <Row>LOWFIBER..LOSER</Row>
+      <Row>ORB.GREATDIVIDE</Row>
+      <Row>GTO.GAYMARRIAGE</Row>
+      <Row>OSX.SEEATTACHED</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="EROTICNOVEL">"Fifty Shades of Grey," e.g.</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Across" Ans="BIC">Wite-Out manufacturer</Clue>
+      <Clue Row="2" Col="1" Num="15" Dir="Across" Ans="GENETHERAPY">Procedure that targets mutations</Clue>
+      <Clue Row="2" Col="13" Num="16" Dir="Across" Ans="UNO">Card game cry</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="ESTATESALES">Events of interest to antiquers</Clue>
+      <Clue Row="3" Col="13" Num="18" Dir="Across" Ans="BEE">Bud drinker?</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="STORY">Child's request</Clue>
+      <Clue Row="4" Col="8" Num="20" Dir="Across" Ans="LIEINBED">What people rarely do with shoes on</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="TSPS">Qtys. for chefs</Clue>
+      <Clue Row="5" Col="6" Num="23" Dir="Across" Ans="NCIS">Spinoff of TV's "JAG"</Clue>
+      <Clue Row="5" Col="11" Num="25" Dir="Across" Ans="SOLD">Convinced</Clue>
+      <Clue Row="6" Col="5" Num="26" Dir="Across" Ans="CORSET">Aid for achieving a flat stomach?</Clue>
+      <Clue Row="6" Col="12" Num="28" Dir="Across" Ans="NEHI">___ Corporation, predecessor of RC Cola's Royal Crown Company</Clue>
+      <Clue Row="7" Col="1" Num="30" Dir="Across" Ans="OHSTOPIT">"You flatter me"</Clue>
+      <Clue Row="7" Col="10" Num="34" Dir="Across" Ans="HEATED">Like some blankets and arguments</Clue>
+      <Clue Row="8" Col="1" Num="36" Dir="Across" Ans="REHIRES">Familiar work force add-ons, maybe</Clue>
+      <Clue Row="8" Col="9" Num="37" Dir="Across" Ans="FERRELL">"Zoolander" co-star, 2001</Clue>
+      <Clue Row="9" Col="1" Num="38" Dir="Across" Ans="CLARET">Purplish-red hue</Clue>
+      <Clue Row="9" Col="8" Num="39" Dir="Across" Ans="DEMOTAPE">Rock sample?</Clue>
+      <Clue Row="10" Col="1" Num="40" Dir="Across" Ans="AIDE">Second hand</Clue>
+      <Clue Row="10" Col="6" Num="41" Dir="Across" Ans="STILES">Revolving barriers</Clue>
+      <Clue Row="11" Col="2" Num="43" Dir="Across" Ans="POOR">Have-nots, with "the"</Clue>
+      <Clue Row="11" Col="7" Num="45" Dir="Across" Ans="HOLD">No-no for an offensive lineman</Clue>
+      <Clue Row="11" Col="12" Num="46" Dir="Across" Ans="KILT">Attire that's often checkered</Clue>
+      <Clue Row="12" Col="1" Num="50" Dir="Across" Ans="LOWFIBER">Like many easy-to-digest foods</Clue>
+      <Clue Row="12" Col="11" Num="52" Dir="Across" Ans="LOSER">Juvenile put-down</Clue>
+      <Clue Row="13" Col="1" Num="53" Dir="Across" Ans="ORB">Baseball or basketball</Clue>
+      <Clue Row="13" Col="5" Num="54" Dir="Across" Ans="GREATDIVIDE">Passage between life and death</Clue>
+      <Clue Row="14" Col="1" Num="57" Dir="Across" Ans="GTO">Motor Trend's 1968 Car of the Year</Clue>
+      <Clue Row="14" Col="5" Num="58" Dir="Across" Ans="GAYMARRIAGE">Subject of the Supreme Court case Obergefell v. Hodges</Clue>
+      <Clue Row="15" Col="1" Num="59" Dir="Across" Ans="OSX">Windows alternative</Clue>
+      <Clue Row="15" Col="5" Num="60" Dir="Across" Ans="SEEATTACHED">Common two-word email</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="EGEST">Purge</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="RESTS">Pauses</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="ONTOP">#1 in the standings</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="TEARS">Show of emotion</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="ITTY">Minute, in baby talk</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="CHE">Marxist from Argentina</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="NES">Super Mario Bros. platform</Clue>
+      <Clue Row="1" Col="8" Num="8" Dir="Down" Ans="ORALIST">Teacher of lip-reading to the deaf</Clue>
+      <Clue Row="1" Col="9" Num="9" Dir="Down" Ans="VALISE">Bag</Clue>
+      <Clue Row="1" Col="10" Num="10" Dir="Down" Ans="EPEE">Competition whose opponents try to touch each other</Clue>
+      <Clue Row="1" Col="11" Num="11" Dir="Down" Ans="LYSIS">Ending with electro-</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="BUBBLETEA">Fruity Asian drink</Clue>
+      <Clue Row="1" Col="14" Num="13" Dir="Down" Ans="INEEDHELP">Words accompanying a raised hand, maybe</Clue>
+      <Clue Row="1" Col="15" Num="14" Dir="Down" Ans="COED">Mixed, in a way</Clue>
+      <Clue Row="4" Col="12" Num="21" Dir="Down" Ans="NONART">Dada, to its critics</Clue>
+      <Clue Row="5" Col="6" Num="23" Dir="Down" Ans="NOPETS">Hotel room restriction</Clue>
+      <Clue Row="5" Col="7" Num="24" Dir="Down" Ans="CRIS">N.F.L. Hall-of-Famer Carter</Clue>
+      <Clue Row="6" Col="5" Num="26" Dir="Down" Ans="CORE">Heart</Clue>
+      <Clue Row="6" Col="10" Num="27" Dir="Down" Ans="THEMED">Topical</Clue>
+      <Clue Row="6" Col="15" Num="29" Dir="Down" Ans="IDLE">Not doing too much</Clue>
+      <Clue Row="7" Col="1" Num="30" Dir="Down" Ans="ORCA">Predator of penguins</Clue>
+      <Clue Row="7" Col="2" Num="31" Dir="Down" Ans="HELIPORTS">Sites for some touchdowns</Clue>
+      <Clue Row="7" Col="3" Num="32" Dir="Down" Ans="SHADOWBOX">Punch the air</Clue>
+      <Clue Row="7" Col="4" Num="33" Dir="Down" Ans="TIREOF">Get bored with</Clue>
+      <Clue Row="7" Col="11" Num="35" Dir="Down" Ans="EROS">Fourth god to exist, in Greek myth</Clue>
+      <Clue Row="8" Col="9" Num="37" Dir="Down" Ans="FELL">Dropped</Clue>
+      <Clue Row="9" Col="8" Num="39" Dir="Down" Ans="DIORAMA">Science fair display</Clue>
+      <Clue Row="10" Col="7" Num="42" Dir="Down" Ans="THEEYE">A dirty look</Clue>
+      <Clue Row="11" Col="5" Num="44" Dir="Down" Ans="RIGGS">One of the detectives in "Lethal Weapon"</Clue>
+      <Clue Row="11" Col="12" Num="46" Dir="Down" Ans="KOVIC">Ron who wrote "Born on the Fourth of July"</Clue>
+      <Clue Row="11" Col="13" Num="47" Dir="Down" Ans="ISIAH">Pistons great Thomas</Clue>
+      <Clue Row="11" Col="14" Num="48" Dir="Down" Ans="LEDGE">Starting point for rappelling</Clue>
+      <Clue Row="11" Col="15" Num="49" Dir="Down" Ans="TREED">Stuck, in a way</Clue>
+      <Clue Row="12" Col="1" Num="50" Dir="Down" Ans="LOGO">Expense for a business start-up</Clue>
+      <Clue Row="12" Col="6" Num="51" Dir="Down" Ans="BRAE">Landform near a loch</Clue>
+      <Clue Row="12" Col="11" Num="52" Dir="Down" Ans="LIRA">Currency unit equal to 100 kurus</Clue>
+      <Clue Row="13" Col="9" Num="55" Dir="Down" Ans="TAT">Body image, for short</Clue>
+      <Clue Row="13" Col="10" Num="56" Dir="Down" Ans="DRT">Gynecologist of cinema</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>I&#39;ve enjoyed corresponding with Daniel. He keeps on calling me &quot;Mr. Chen,&quot; which I find infinitely amusing. Sort of like Marcy calling Peppermint Patty &quot;sir.&quot; I&#39;ve appreciated how polite he is with his inquiries, taking care to never infringe too much on my time, so it&#39;s a pleasure to see him make his debut.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/5/5e/50ShadesofGreyCoverArt.jpg" style="border:1px solid lightgray; float:left; height:250px; margin:6px 12px 6px 0px; width:166px" title="It may not be a literary classic, but it sure is popular!" /></a></p>
+
+<p>That SE triple-stack is a beaut. GREAT DIVIDE is a great entry in its own right. GAY MARRIAGE, love it! And the common SEE ATTACHED rounds it out. I&#39;m not a fan of DR T, who doesn&#39;t feel crossworthy, or BRAE, which is a bit of an odd word, but those were well worth the price of admission into that corner.</p>
+
+<p>The opposite corner was pretty strong too. I wasn&#39;t sure if EROTIC NOVEL was truly a genre, like GOTHIC NOVEL, but some Googling proved me very wrong. Sometimes I forget that romance / erotic novels are WAY more popular than stuff worth reading. I mean, other stuff. Ahem.</p>
+
+<p>I would have liked some of these marquee entries to get clever clues, though. Referencing &quot;Fifty Shades of Grey&quot; for EROTIC NOVEL felt like a let-down, when there could be so many plays on the word &quot;blue.&quot;</p>
+
+<p>Some entries must get a definitional or otherwise easy clue &ndash; GREAT DIVIDE would be tough to riff on, since it may not be immediately known to some solvers, for example. But entries like EROTIC NOVEL or GENE THERAPY left a lot of great cluing potential on the table; plays on &quot;strands&quot; or &quot;bases&quot; for the latter.</p>
+
+<p>DEMO TAPE was a perfect example of clever cluing hitting the mark. The question mark in [Rock sample?] gave away part of the game, but I still enjoyed the repurposing of a common phrase into a completely different meaning.</p>
+
+<p>There are a couple of shorties I debated internally. LYSIS is common enough in biology, something I heard all the time in my second career (in pharma). Clued as a suffix, it&#39;s definitely gluey. But as a scientific word? Hmm. Still probably esoteric for most. EGEST is similar.</p>
+
+<p>Overall, very nice debut! Mr. Chen approves.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>Hello, fellow Cruciverbalists!</p>
+
+<p>When I&#39;m not puzzling away, I&#39;m working on my Ph.D. in molecular biology with a focus on breast cancer treatment via nanotechnology. I got started in puzzles because of my grandfather, who always did the Sunday NYT crossword ever since I could remember. For some reason when I was a youngster, it always seemed to me that grinding away at a crossword was such a grown-up thing to do. So I took the challenge and gave the Friday through Sunday puzzles a shot with much computer assistance, since my family had the Fri-Sun package deal for the Times.</p>
+
+<p>After a while, I weaned myself off the computer and can now do most of weekend puzzles solo. I still need my grandfather to help out when I get stuck, which is not too often ;) , since he&#39;s way better than me in filling out proper nouns.</p>
+
+<p>But what got me into construction was having a lot of time to kill in the lab. Back in undergrad, I used to work with bacteria, and for several weeks each day, I had to wait 3-4 hours for the bacteria to grow enough to do my experiments. So eventually it dawned on me to attempt making crosswords during this time at the campus library. My first submission was a mother goose theme that I made on graph paper.</p>
+
+<p>Themeless puzzles were especially difficult at the start when I was trying to determine, for instance, the kinds of long phrases that Rich (at the LA Times) and Will liked and the appropriate single to multi-word answer ratio in triple stacks.</p>
+
+<p>Anyway, to make a long story short, on my eighth attempt I got accepted in the LA Times and my tenth or more (I think) the NY Times. So to all you aspiring constructors out there, keep at it, and don&#39;t give up!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

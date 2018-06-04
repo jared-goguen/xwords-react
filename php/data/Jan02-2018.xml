@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Tuesday, January 2, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/2/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Tue, Jan 02, 2018</Title>
+    <Author>Zhouqin Burnikel</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/2/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>COMA.ORCAS.PREP</Row>
+      <Row>SLAM.NEALE.COME</Row>
+      <Row>TAKEITSLOW.SOAR</Row>
+      <Row>.VOLGA.LENS.KIT</Row>
+      <Row>...INPEN..PAIL.</Row>
+      <Row>SINAI.MOVEAHEAD</Row>
+      <Row>AHA.TAIWAN.LYLE</Row>
+      <Row>RAP.EGG.LDS.EEL</Row>
+      <Row>ADAM.ERNEST.ART</Row>
+      <Row>HAVEASEAT.AORTA</Row>
+      <Row>.BATS..ISBNS...</Row>
+      <Row>ALL.KIEV.OZAWA.</Row>
+      <Row>BALD.STEALAKISS</Row>
+      <Row>USES.PATIO.ARIA</Row>
+      <Row>TTYL.SLEDS.NEAP</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="COMA">Food ___ (Thanksgiving drowsiness)</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="ORCAS">Ocean predators</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="PREP">Get ready, casually</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="SLAM">Insult</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="NEALE">Writer Zora ___ Hurston</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="COME">"Follow me!"</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="TAKEITSLOW">Disobey a rush order?</Clue>
+      <Clue Row="3" Col="12" Num="19" Dir="Across" Ans="SOAR">What prices do during hyperinflation</Clue>
+      <Clue Row="4" Col="2" Num="20" Dir="Across" Ans="VOLGA">Longest river in Europe</Clue>
+      <Clue Row="4" Col="8" Num="21" Dir="Across" Ans="LENS">Cataract site</Clue>
+      <Clue Row="4" Col="13" Num="23" Dir="Across" Ans="KIT">Word after drum or press</Clue>
+      <Clue Row="5" Col="4" Num="24" Dir="Across" Ans="INPEN">How some solve crosswords</Clue>
+      <Clue Row="5" Col="11" Num="26" Dir="Across" Ans="PAIL">Vessel for Jack and Jill</Clue>
+      <Clue Row="6" Col="1" Num="28" Dir="Across" Ans="SINAI">Red Sea peninsula</Clue>
+      <Clue Row="6" Col="7" Num="31" Dir="Across" Ans="MOVEAHEAD">Disobey a stop order?</Clue>
+      <Clue Row="7" Col="1" Num="35" Dir="Across" Ans="AHA">"Now I get it!"</Clue>
+      <Clue Row="7" Col="5" Num="36" Dir="Across" Ans="TAIWAN">Where Ang Lee was born</Clue>
+      <Clue Row="7" Col="12" Num="38" Dir="Across" Ans="LYLE">Singer Lovett</Clue>
+      <Clue Row="8" Col="1" Num="39" Dir="Across" Ans="RAP">Genre for 21 Savage and 50 Cent</Clue>
+      <Clue Row="8" Col="5" Num="40" Dir="Across" Ans="EGG">Frittata ingredient</Clue>
+      <Clue Row="8" Col="9" Num="41" Dir="Across" Ans="LDS">The Mormons, for short</Clue>
+      <Clue Row="8" Col="13" Num="43" Dir="Across" Ans="EEL">Fish with more than 100 vertebrae in its spine</Clue>
+      <Clue Row="9" Col="1" Num="44" Dir="Across" Ans="ADAM">First lady's man</Clue>
+      <Clue Row="9" Col="6" Num="46" Dir="Across" Ans="ERNEST">Author Hemingway</Clue>
+      <Clue Row="9" Col="13" Num="48" Dir="Across" Ans="ART">Sculptures, e.g.</Clue>
+      <Clue Row="10" Col="1" Num="49" Dir="Across" Ans="HAVEASEAT">Disobey a standing order?</Clue>
+      <Clue Row="10" Col="11" Num="51" Dir="Across" Ans="AORTA">Large artery</Clue>
+      <Clue Row="11" Col="2" Num="53" Dir="Across" Ans="BATS">Cave residents</Clue>
+      <Clue Row="11" Col="8" Num="54" Dir="Across" Ans="ISBNS">Amazon IDs</Clue>
+      <Clue Row="12" Col="1" Num="56" Dir="Across" Ans="ALL">Nothing but</Clue>
+      <Clue Row="12" Col="5" Num="57" Dir="Across" Ans="KIEV">Ukraine's capital</Clue>
+      <Clue Row="12" Col="10" Num="60" Dir="Across" Ans="OZAWA">Maestro Seiji</Clue>
+      <Clue Row="13" Col="1" Num="63" Dir="Across" Ans="BALD">Like a person who might be called "chrome dome"</Clue>
+      <Clue Row="13" Col="6" Num="65" Dir="Across" Ans="STEALAKISS">Disobey a pecking order?</Clue>
+      <Clue Row="14" Col="1" Num="68" Dir="Across" Ans="USES">Plays with</Clue>
+      <Clue Row="14" Col="6" Num="69" Dir="Across" Ans="PATIO">Setting for an outdoor party</Clue>
+      <Clue Row="14" Col="12" Num="70" Dir="Across" Ans="ARIA">Vegas hotel with a musical name</Clue>
+      <Clue Row="15" Col="1" Num="71" Dir="Across" Ans="TTYL">"Gotta run," in a text</Clue>
+      <Clue Row="15" Col="6" Num="72" Dir="Across" Ans="SLEDS">Downhill rides</Clue>
+      <Clue Row="15" Col="12" Num="73" Dir="Across" Ans="NEAP">Like a half-moon tide</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="CST">Winter hrs. in Lake Wobegon</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="OLAV">Patron saint of Norway</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="MAKO">Fast-swimming shark</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="AMELIA">2009 aviatrix biopic</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="ONTAP">Alternative to bottled</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="RES">High-___ monitor</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="CALLNOW">Exhortation after "Supplies are limited!"</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="ALOE">Salve ingredient</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="SEWN">In stitches</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="PCS">Some Toshiba products</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="ROOKIEYEAR">2003, for LeBron James and Dwyane Wade</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="EMAILALERT">Smartphone notification</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="PERT">Jaunty</Clue>
+      <Clue Row="3" Col="5" Num="18" Dir="Down" Ans="IGNITE">Light</Clue>
+      <Clue Row="4" Col="11" Num="22" Dir="Down" Ans="SPA">Mud wrap site</Clue>
+      <Clue Row="5" Col="7" Num="25" Dir="Down" Ans="EMIGRE">New citizenship seeker</Clue>
+      <Clue Row="5" Col="12" Num="27" Dir="Down" Ans="AHL">Calder Cup org.</Clue>
+      <Clue Row="6" Col="1" Num="28" Dir="Down" Ans="SARAH">White House press secretary ___ Huckabee Sanders</Clue>
+      <Clue Row="6" Col="2" Num="29" Dir="Down" Ans="IHADABLAST">"Wow, that was fun!"</Clue>
+      <Clue Row="6" Col="3" Num="30" Dir="Down" Ans="NAPAVALLEY">Locale for a West Coast wine tour</Clue>
+      <Clue Row="6" Col="9" Num="32" Dir="Down" Ans="VALETS">"Key" hotel personnel</Clue>
+      <Clue Row="6" Col="10" Num="33" Dir="Down" Ans="ENDS">Wraps up</Clue>
+      <Clue Row="6" Col="15" Num="34" Dir="Down" Ans="DELTA">Airline whose in-flight magazine is Sky</Clue>
+      <Clue Row="7" Col="6" Num="37" Dir="Down" Ans="AGES">A long, long time</Clue>
+      <Clue Row="8" Col="11" Num="42" Dir="Down" Ans="STANZA">One of four for "The Star-Spangled Banner"</Clue>
+      <Clue Row="9" Col="4" Num="45" Dir="Down" Ans="MET">Bumped into</Clue>
+      <Clue Row="9" Col="8" Num="47" Dir="Down" Ans="NAIVETE">Wide-eyedness</Clue>
+      <Clue Row="10" Col="5" Num="50" Dir="Down" Ans="ASK">Make inquiries</Clue>
+      <Clue Row="10" Col="12" Num="52" Dir="Down" Ans="OSAKAN">Native of Japan's "second city"</Clue>
+      <Clue Row="11" Col="10" Num="55" Dir="Down" Ans="BOLOS">Cowboys' ties</Clue>
+      <Clue Row="12" Col="1" Num="56" Dir="Down" Ans="ABUT">Touch</Clue>
+      <Clue Row="12" Col="6" Num="58" Dir="Down" Ans="ISPS">AOL and MSN, for two</Clue>
+      <Clue Row="12" Col="7" Num="59" Dir="Down" Ans="ETAL">Abbr. after a list</Clue>
+      <Clue Row="12" Col="13" Num="61" Dir="Down" Ans="WIRE">Police informant's wear</Clue>
+      <Clue Row="12" Col="14" Num="62" Dir="Down" Ans="ASIA">Where most Buddhists reside</Clue>
+      <Clue Row="13" Col="4" Num="64" Dir="Down" Ans="DSL">Broadband letters</Clue>
+      <Clue Row="13" Col="9" Num="66" Dir="Down" Ans="AID">A helping hand</Clue>
+      <Clue Row="13" Col="15" Num="67" Dir="Down" Ans="SAP">Maple product</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Plays on &quot;___ orders&quot; today, TAKE IT SLOW disobeying a rush order, MOVE AHEAD disobeying a stop order (a stock trading term), etc. My favorite was HAVE A SEAT disobeying a &quot;standing order,&quot; because there&#39;s fun wordplay involved &mdash; standing order has nothing to do with physically standing.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/George_Costanza" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/7/70/George_Costanza.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:186px" title="Thank goodness there was only one (co)STANZA!" /></a></p>
+
+<p>STEAL A KISS disobeying a pecking order also involved wordplay, which was nice. But a pecking order isn&#39;t something that&#39;s &quot;disobeyed.&quot; Maybe it&#39;s broken, or circumvented, or reorganized, but not really disobeyed. I appreciate the effort to get every themer consistently into the &quot;disobeyed&quot; mold, but this one didn&#39;t work for me.</p>
+
+<p>C.C. gives us the usual assortment of great bonuses that&#39;s become her trademark. ROOKIE YEAR, EMAIL ALERT, I HAD A BLAST, NAPA VALLEY = what I expect out of a four-themer puzzle. But then to add in STANZA, CALL NOW, NAIVETE, that went above and beyond. Beautiful work in that regard.</p>
+
+<p>Short fill ... I&#39;m being ultra-picky now because C.C. has long since reached the upper echelon of constructors. I don&#39;t mind some CST, LDS, ISPS, DSL. (AHL is worse, as it doesn&#39;t feel as familiar to me as the others.)</p>
+
+<p>But notice how each of the five is in that &quot;initialism&quot; category of crossword glue. That concentration makes it all stick out glaringly. Will has a sore spot for initialisms (constructors, take note!), especially ones that aren&#39;t well-known. And for good reason! If you&#39;re a newer solver, how are you supposed to infer AHL if you don&#39;t know it?</p>
+
+<p>Overall, today&#39;s theme is a good idea, with some fun wordplay on various &quot;orders.&quot; I appreciated the consistency, each one riffing on a well-known &quot;___ order.&quot; I wished fewer of them had been so literal, though &mdash; if only they had been as spot-on and funny as HAVE A SEAT disobeying a &quot;standing order&quot;!</p>]]></JeffNotes>
+  </Puzzle>
+</Puzzles>

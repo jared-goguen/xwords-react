@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Friday, May 11, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/10/2018 at 7:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Fri, May 11, 2018</Title>
+    <Author>Sam Ezersky and David Steinberg</Author>
+    <CanonicalNames>
+      <Constructor>Sam Ezersky</Constructor>
+      <Constructor>David Steinberg</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/11/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>SOUPSUP..PERSIA</Row>
+      <Row>TOPTIER.BIGTIME</Row>
+      <Row>IHEARYA.INGEMAR</Row>
+      <Row>FLAME.IGLOO.IWO</Row>
+      <Row>FARE..SUIT.SLAB</Row>
+      <Row>ELLEN.EMO.SNARE</Row>
+      <Row>DAYTON.MUDTIRES</Row>
+      <Row>...IVORYSOAP...</Row>
+      <Row>SPINAWEB.CLERIC</Row>
+      <Row>MANGE.CEO.KRONA</Row>
+      <Row>AIDS.WHAM..RAFT</Row>
+      <Row>LSU.SHERE.SIDLE</Row>
+      <Row>LACONIC.GULFWAR</Row>
+      <Row>ONTRACK.AMILATE</Row>
+      <Row>JOSEPH..SADEYED</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="SOUPSUP">Adds horsepower to</Clue>
+      <Clue Row="1" Col="10" Num="8" Dir="Across" Ans="PERSIA">Sparta's foe in "300"</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="TOPTIER">Elite</Clue>
+      <Clue Row="2" Col="9" Num="15" Dir="Across" Ans="BIGTIME">Major</Clue>
+      <Clue Row="3" Col="1" Num="16" Dir="Across" Ans="IHEARYA">Jolly "Roger"?</Clue>
+      <Clue Row="3" Col="9" Num="17" Dir="Across" Ans="INGEMAR">1950s heavyweight Johansson</Clue>
+      <Clue Row="4" Col="1" Num="18" Dir="Across" Ans="FLAME">Zippo output</Clue>
+      <Clue Row="4" Col="7" Num="19" Dir="Across" Ans="IGLOO">Digs in the snow</Clue>
+      <Clue Row="4" Col="13" Num="21" Dir="Across" Ans="IWO">Mariana Islands neighbor, for short</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="FARE">Rideshare app datum</Clue>
+      <Clue Row="5" Col="7" Num="23" Dir="Across" Ans="SUIT">Hearts, e.g.</Clue>
+      <Clue Row="5" Col="12" Num="24" Dir="Across" Ans="SLAB">Hunk of meat</Clue>
+      <Clue Row="6" Col="1" Num="25" Dir="Across" Ans="ELLEN">Groundbreaking 1990s sitcom</Clue>
+      <Clue Row="6" Col="7" Num="27" Dir="Across" Ans="EMO">Dashboard Confessional's genre</Clue>
+      <Clue Row="6" Col="11" Num="28" Dir="Across" Ans="SNARE">Take in</Clue>
+      <Clue Row="7" Col="1" Num="29" Dir="Across" Ans="DAYTON">Midwest city that was home to the Wright brothers</Clue>
+      <Clue Row="7" Col="8" Num="31" Dir="Across" Ans="MUDTIRES">Things that help you go off the beaten path?</Clue>
+      <Clue Row="8" Col="4" Num="33" Dir="Across" Ans="IVORYSOAP">Product whose original slogan was "It floats"</Clue>
+      <Clue Row="9" Col="1" Num="35" Dir="Across" Ans="SPINAWEB">Try to catch someone, metaphorically</Clue>
+      <Clue Row="9" Col="10" Num="38" Dir="Across" Ans="CLERIC">Bishop, for one</Clue>
+      <Clue Row="10" Col="1" Num="42" Dir="Across" Ans="MANGE">Dog woe</Clue>
+      <Clue Row="10" Col="7" Num="43" Dir="Across" Ans="CEO">One who might meet with a venture capitalist, for short</Clue>
+      <Clue Row="10" Col="11" Num="45" Dir="Across" Ans="KRONA">Currency unit equal to 100 53-Down</Clue>
+      <Clue Row="11" Col="1" Num="46" Dir="Across" Ans="AIDS">Some are audiovisual</Clue>
+      <Clue Row="11" Col="6" Num="47" Dir="Across" Ans="WHAM">Sound from a sock</Clue>
+      <Clue Row="11" Col="12" Num="48" Dir="Across" Ans="RAFT">Vessel that rhymes with a nautical direction</Clue>
+      <Clue Row="12" Col="1" Num="49" Dir="Across" Ans="LSU">Where Shaquille O'Neal played college ball</Clue>
+      <Clue Row="12" Col="5" Num="50" Dir="Across" Ans="SHERE">___ Khan, antagonist in "The Jungle Book"</Clue>
+      <Clue Row="12" Col="11" Num="51" Dir="Across" Ans="SIDLE">Move crabwise</Clue>
+      <Clue Row="13" Col="1" Num="52" Dir="Across" Ans="LACONIC">To the point</Clue>
+      <Clue Row="13" Col="9" Num="54" Dir="Across" Ans="GULFWAR">Subject of the 2003 memoir "Jarhead"</Clue>
+      <Clue Row="14" Col="1" Num="56" Dir="Across" Ans="ONTRACK">Proceeding as planned</Clue>
+      <Clue Row="14" Col="9" Num="57" Dir="Across" Ans="AMILATE">Timely question?</Clue>
+      <Clue Row="15" Col="1" Num="58" Dir="Across" Ans="JOSEPH">Figure in a Nativity scene</Clue>
+      <Clue Row="15" Col="9" Num="59" Dir="Across" Ans="SADEYED">Blue in the face?</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="STIFFED">Left without leaving anything</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="OOHLALA">"How marvelous!"</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="UPEARLY">Like roosters</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="PTAMEETINGS">They're usually held on school nights</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="SIRE">Beget</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="UEY">Quick turnaround?</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="PRAISE">Tough love rarity</Clue>
+      <Clue Row="1" Col="10" Num="8" Dir="Down" Ans="PINOT">___ gris</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="EGGO">Breakfast brand</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="RTE">"1" preceder: Abbr.</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="SIMILAR">Close</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="IMAWARE">"You don't have to tell me that"</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="AEROBES">Oxygen consumers</Clue>
+      <Clue Row="2" Col="9" Num="15" Dir="Down" Ans="BILIOUS">Peevishly ill-natured</Clue>
+      <Clue Row="4" Col="8" Num="20" Dir="Down" Ans="GUMMYBEAR">Chewy, fruity candy</Clue>
+      <Clue Row="5" Col="12" Num="24" Dir="Down" Ans="SNIPERRIFLE">What's far-sighted?</Clue>
+      <Clue Row="6" Col="5" Num="26" Dir="Down" Ans="NOVAE">Pop stars?</Clue>
+      <Clue Row="6" Col="11" Num="28" Dir="Down" Ans="STALK">Much of a cattail</Clue>
+      <Clue Row="7" Col="6" Num="30" Dir="Down" Ans="NOW">Right away</Clue>
+      <Clue Row="7" Col="10" Num="32" Dir="Down" Ans="DOC">Microsoft Word creation, briefly</Clue>
+      <Clue Row="8" Col="7" Num="34" Dir="Down" Ans="RECHECK">Look over again</Clue>
+      <Clue Row="9" Col="1" Num="35" Dir="Down" Ans="SMALLOJ">Kid's IHOP order, perhaps</Clue>
+      <Clue Row="9" Col="2" Num="36" Dir="Down" Ans="PAISANO">Compadre</Clue>
+      <Clue Row="9" Col="3" Num="37" Dir="Down" Ans="INDUCTS">Initiates</Clue>
+      <Clue Row="9" Col="13" Num="39" Dir="Down" Ans="ROADWAY">It's found between the shoulders</Clue>
+      <Clue Row="9" Col="14" Num="40" Dir="Down" Ans="INFLATE">Blow up</Clue>
+      <Clue Row="9" Col="15" Num="41" Dir="Down" Ans="CATERED">Like some fancy parties</Clue>
+      <Clue Row="10" Col="9" Num="44" Dir="Down" Ans="OMEGAS">Horseshoe lookalikes</Clue>
+      <Clue Row="11" Col="6" Num="47" Dir="Down" Ans="WHICH">"This one or that one?"</Clue>
+      <Clue Row="12" Col="5" Num="50" Dir="Down" Ans="SNAP">"Oh, you got me!"</Clue>
+      <Clue Row="12" Col="11" Num="51" Dir="Down" Ans="SLID">Got home safely, in a way</Clue>
+      <Clue Row="13" Col="4" Num="53" Dir="Down" Ans="ORE">45-Across divisions</Clue>
+      <Clue Row="13" Col="10" Num="55" Dir="Down" Ans="UMA">Actress Thurman</Clue>
+    </Clues>
+    <JimNotes><![CDATA[Counting Variety puzzles, this is crossword #24 for Sam, and he won't be 23 years old until later this month. David is only 21 and this is his puzzle #80.]]></JimNotes>
+    <JeffNotes><![CDATA[<p>This is a good example of why themelesses featuring seven-letter entries can be so tough to construct. It might seem like it should be just as easy to make a seven-letter entry sing, as compared to even an eight-letter one. But wow is it tough!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Disney" s_adventures_of_the_gummi_bears=""><img alt="" src="https://upload.wikimedia.org/wikipedia/en/9/9d/Gummibears.jpg" style="border:1px solid lightgray; float:right; height:165px; margin:6px 0px 6px 12px; width:219px" title="Why on earth did I like this show so much?" /></a></p>
+
+<p>Not only are there fewer letters to work with, producing fewer word / phrase combinations, but crosswords in general use seven-letter filler more often than longer stuff. That means that we regular solvers tend to see the same seven-letter entries relatively often, making them feel not as fresh as they once were. I HEAR YA is fun. But now that it&#39;s been used a bunch of times in the NYT, it&#39;s not as interesting to me.</p>
+
+<p>Compare to GUMMY BEAR (debut) or IVORY SOAP (only one previous usage). Although IVORY SOAP isn&#39;t as fun as GUMMY BEAR to me, they&#39;re both neat entries that I don&#39;t see often.</p>
+
+<p>All that said, I did like a lot of the seven-letter fill. BIG TIME, SMALL OJ, TOP TIER, even SOUPS UP are great phrases. And even a couple of strong single-worders in LACONIC, PAISANO and the devilish-sounding BILIOUS.</p>
+
+<p>Such a fantastic clue in [It&#39;s found between the shoulders]. Yes, a HIGHWAY is between two shoulders! Wait. It&#39;s ROADWAY? What&#39;s a ROADWAY, you ask?</p>
+
+<p>It&#39;s a road?</p>
+
+<p>Humph.</p>
+
+<p>I liked David and Sam&#39;s efforts to spice up the grid by using a few headlining long entries. GUMMY BEAR was great, reminding me of my childhood and that annoyingly catching theme song from the GUMMY BEARs TV show (do yourself a favor and don&#39;t YouTube it).</p>
+
+<p>SNIPER RIFLE had the opposite effect for me, given what&#39;s going on with school shootings. I know it&#39;s not exactly related, and the clue was great &ndash; &quot;far-sighted&quot; indeed! &ndash; but kind of a downer of an entry.</p>
+
+<p>Solid work, if not a standout for me.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p><strong>DAVID:</strong> Sam and I often joke about how my themelesses are always Fridays while his are always Saturdays. Since this puzzle ended up on a Friday, my style *clearly* dominated! Just kidding&mdash;as with most of our collaborations, the effort was very much 50/50. I don&#39;t remember much about the construction process, but I think we started with Sam&#39;s zippy SPIN A WEB/SMALL OJ/PTA MEETINGS corner. Once we had the upper left in place, we knew we were onto something. Overall, I&#39;m happy with the balance between smoothness and lively fill in this one. Hope you enjoy!</p>
+
+<p><strong>SAM:</strong> Always an honor to work with one of the #GOATs of the cross-world. David is now a full-time puzzle editor while still swamped with schoolwork at Stanford ... I really don&#39;t know how he does it. And, of course, let&#39;s not forget that every last puzzle he makes is top-notch!</p>
+
+<p>This puzzle collected a bit of dust, as David and I both have enough on file individually that this needed to be staggered out. I believe we made it around the same time as our <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.xwordinfo.com/Crossword?date%3D3/25/2017&amp;source=gmail&amp;ust=1525836850253000&amp;usg=AFQjCNHNEc0RemfEbE7JQtkoKcTfb3xIIg" href="https://www.xwordinfo.com/Crossword?date=3/25/2017" target="_blank">LIFE OF PABLO themeless</a>, which ran the weekend of the 2017 A.C.P.T.! David is correct that I anchored the grid with SPIN A WEB ... but that was only after he gave my original NW corner a beautiful makeover to what you see now. You can tell that the SE corner is his as well, since it&#39;s silky smooth and still quite lively.</p>
+
+<p>Lately, I&#39;ve grown to realize how much a good clue can elevate an otherwise normal answer. Take David&#39;s clues for ROADWAY and STIFFED; just like that, those answers now feel like highlights in a grid. I think our clue for I HEAR YA (one of my personal favorites ever, might I add) makes that whole corner feel zippier. Even the &quot;Jarhead&quot; reference in the GULF WAR clue provides nice variety without seeming too arcane, as not everything needs to be wordplay-dependent. Would love to hear solvers&#39; ideas on this.</p>
+
+<p>As David said, enjoy our latest published collab! Hope none of you fell for JELLY BEAN with that ????Y BEA? pattern ...</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

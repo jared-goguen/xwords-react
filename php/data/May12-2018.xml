@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Saturday, May 12, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/11/2018 at 7:01 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sat, May 12, 2018</Title>
+    <Author>Alex Eylar</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/12/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>AKITAS...CHASTE</Row>
+      <Row>VERONA..HOEDOWN</Row>
+      <Row>AROUND.LOWLIFES</Row>
+      <Row>LONGS.FOR.MOTEL</Row>
+      <Row>OUCH.FROST.SIZE</Row>
+      <Row>NAH.BEAKERS.EER</Row>
+      <Row>.CEMENTSHOES...</Row>
+      <Row>..FALSEBOTTOM..</Row>
+      <Row>...RETRACTIONS.</Row>
+      <Row>GOT.MENCKEN.EAU</Row>
+      <Row>ACES.RAKED.AMIN</Row>
+      <Row>SEALE.LOY.CLODS</Row>
+      <Row>CAPITALN.MOONIE</Row>
+      <Row>ANOMALY..OROIDE</Row>
+      <Row>NOTELL...DEFCON</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="AKITAS">Husky relatives</Clue>
+      <Clue Row="1" Col="10" Num="7" Dir="Across" Ans="CHASTE">Like a virgin</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Across" Ans="VERONA">Title setting for Shakespeare</Clue>
+      <Clue Row="2" Col="9" Num="14" Dir="Across" Ans="HOEDOWN">Event with fiddling</Clue>
+      <Clue Row="3" Col="1" Num="15" Dir="Across" Ans="AROUND">Here and there</Clue>
+      <Clue Row="3" Col="8" Num="16" Dir="Across" Ans="LOWLIFES">Riffraff</Clue>
+      <Clue Row="4" Col="1" Num="17" Dir="Across" Ans="LONGS">With 18-Across, desires</Clue>
+      <Clue Row="4" Col="7" Num="18" Dir="Across" Ans="FOR">See 17-Across</Clue>
+      <Clue Row="4" Col="11" Num="19" Dir="Across" Ans="MOTEL">See 54-Across</Clue>
+      <Clue Row="5" Col="1" Num="20" Dir="Across" Ans="OUCH">Response to a burn or a pun</Clue>
+      <Clue Row="5" Col="6" Num="21" Dir="Across" Ans="FROST">Jack ___</Clue>
+      <Clue Row="5" Col="12" Num="23" Dir="Across" Ans="SIZE">Girth</Clue>
+      <Clue Row="6" Col="1" Num="24" Dir="Across" Ans="NAH">Dismissive turndown</Clue>
+      <Clue Row="6" Col="5" Num="25" Dir="Across" Ans="BEAKERS">They may hold the solution</Clue>
+      <Clue Row="6" Col="13" Num="27" Dir="Across" Ans="EER">Profit chaser?</Clue>
+      <Clue Row="7" Col="2" Num="28" Dir="Across" Ans="CEMENTSHOES">The last pair you'll ever wear?</Clue>
+      <Clue Row="8" Col="3" Num="31" Dir="Across" Ans="FALSEBOTTOM">Where the magician hides the rabbit</Clue>
+      <Clue Row="9" Col="4" Num="33" Dir="Across" Ans="RETRACTIONS">Embarrassments for news agencies</Clue>
+      <Clue Row="10" Col="1" Num="35" Dir="Across" Ans="GOT">Attained</Clue>
+      <Clue Row="10" Col="5" Num="38" Dir="Across" Ans="MENCKEN">Who once described puritanism as "the haunting fear that someone, somewhere, may be happy"</Clue>
+      <Clue Row="10" Col="13" Num="39" Dir="Across" Ans="EAU">Contents of une fontaine</Clue>
+      <Clue Row="11" Col="1" Num="41" Dir="Across" Ans="ACES">Not just passes</Clue>
+      <Clue Row="11" Col="6" Num="43" Dir="Across" Ans="RAKED">Piled leaves</Clue>
+      <Clue Row="11" Col="12" Num="44" Dir="Across" Ans="AMIN">Despot exiled in 1979</Clue>
+      <Clue Row="12" Col="1" Num="45" Dir="Across" Ans="SEALE">Bobby who co-founded the Black Panthers</Clue>
+      <Clue Row="12" Col="7" Num="47" Dir="Across" Ans="LOY">Co-star of the "Thin Man" films</Clue>
+      <Clue Row="12" Col="11" Num="48" Dir="Across" Ans="CLODS">Idiots</Clue>
+      <Clue Row="13" Col="1" Num="49" Dir="Across" Ans="CAPITALN">Something the Netherlands has but Belgium doesn't?</Clue>
+      <Clue Row="13" Col="10" Num="51" Dir="Across" Ans="MOONIE">Certain religious proselytizer, informally</Clue>
+      <Clue Row="14" Col="1" Num="52" Dir="Across" Ans="ANOMALY">Pattern breaker</Clue>
+      <Clue Row="14" Col="10" Num="53" Dir="Across" Ans="OROIDE">Faux gold</Clue>
+      <Clue Row="15" Col="1" Num="54" Dir="Across" Ans="NOTELL">With 19-Across, spot for a tryst</Clue>
+      <Clue Row="15" Col="10" Num="55" Dir="Across" Ans="DEFCON">Measure of military alertness</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="AVALON">Place of eternal happiness</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="KEROUAC">Beat someone?</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="IRONCHEF">Cooking title</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="TOUGH">"Too bad!"</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="ANNS">Jamaica's St. ___ Bay</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="SAD">Bummed</Clue>
+      <Clue Row="1" Col="10" Num="7" Dir="Down" Ans="COW">Image on every carton of Ben &amp; Jerry's ice cream</Clue>
+      <Clue Row="1" Col="11" Num="8" Dir="Down" Ans="HELM">Lead</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Down" Ans="ADIOS">"Ciao"</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="SOFTIE">Pushover</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="TWEEZE">Pull one's hair out?</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="ENSLER">Eve who wrote "The Vagina Monologues"</Clue>
+      <Clue Row="2" Col="9" Num="14" Dir="Down" Ans="HORSEHOCKEY">"Balderdash!"</Clue>
+      <Clue Row="3" Col="8" Num="16" Dir="Down" Ans="LOOKSBACKON">Recalls</Clue>
+      <Clue Row="4" Col="7" Num="18" Dir="Down" Ans="FRATERNALLY">Letter closing from one brother to another</Clue>
+      <Clue Row="5" Col="6" Num="21" Dir="Down" Ans="FENSTER">Window: Ger.</Clue>
+      <Clue Row="5" Col="10" Num="22" Dir="Down" Ans="TROTTED">Brought (out)</Clue>
+      <Clue Row="6" Col="5" Num="25" Dir="Down" Ans="BELEM">Brazilian city at the mouth of the Amazon</Clue>
+      <Clue Row="6" Col="11" Num="26" Dir="Down" Ans="SETIN">Take root</Clue>
+      <Clue Row="7" Col="4" Num="29" Dir="Down" Ans="MAR">Nick, e.g.</Clue>
+      <Clue Row="7" Col="12" Num="30" Dir="Down" Ans="SOO">___ Canals</Clue>
+      <Clue Row="8" Col="13" Num="32" Dir="Down" Ans="MNEMONIC">"Thirty days hath September ...," e.g.</Clue>
+      <Clue Row="9" Col="14" Num="34" Dir="Down" Ans="SAIDIDO">Tied the knot</Clue>
+      <Clue Row="10" Col="1" Num="35" Dir="Down" Ans="GASCAN">Container that's almost always red</Clue>
+      <Clue Row="10" Col="2" Num="36" Dir="Down" Ans="OCEANO">About 71% of la Tierra</Clue>
+      <Clue Row="10" Col="3" Num="37" Dir="Down" Ans="TEAPOT">What "I" am, in a kid's song</Clue>
+      <Clue Row="10" Col="15" Num="40" Dir="Down" Ans="UNSEEN">Invisible</Clue>
+      <Clue Row="11" Col="4" Num="42" Dir="Down" Ans="SLIME">Say nasty things about</Clue>
+      <Clue Row="11" Col="12" Num="44" Dir="Down" Ans="ALOOF">How shy people may stand</Clue>
+      <Clue Row="12" Col="5" Num="46" Dir="Down" Ans="ETAL">Bibliography abbr.</Clue>
+      <Clue Row="12" Col="11" Num="48" Dir="Down" Ans="CORE">Common ___</Clue>
+      <Clue Row="13" Col="6" Num="50" Dir="Down" Ans="ALL">Word before and after "in"</Clue>
+      <Clue Row="13" Col="10" Num="51" Dir="Down" Ans="MOD">Reddit V.I.P., for short</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Few constructors would have the guts to tackle something like the middle of this grid. (I&#39;ve tried and gone down in flames.) Jaw-droppingly huge! My mouth hung open even further when I uncovered the super-snazzy CEMENT SHOES and FALSE BOTTOM. Whoa! Huge swaths never contain stuff this good.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Concrete" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Stockage_de_ciments.JPG/440px-Stockage_de_ciments.JPG" style="border:1px solid lightgray; float:right; height:164px; margin:6px 0px 6px 12px; width:220px" title="That'll make some big shoes!" /></a></p>
+
+<p>HORSE HOCKEY wasn&#39;t immediately familiar to me, but I vaguely remember Col. Sherman Potter saying it? Maybe I&#39;ll try it out in real life and see what people say.</p>
+
+<p>I don&#39;t mind a little SOO glue to hold a giant section together. But FENSTER and BELEM are bizarre entries I&#39;m more used to seeing in a region like this (and used to being annoyed by). Overall though, I thought they were worth the price of working in such great CEMENT SHOES / FALSE BOTTOM answers.</p>
+
+<p>It was the best of times, it was the worst of times &hellip;</p>
+
+<p>Note how smartly Alex segmented his four corners so that they didn&#39;t have much interaction with the middle. It&#39;s clever &ndash; there&#39;s enough interconnect that it didn&#39;t completely mess with my solving flow, but it still gave Alex enough flexibility to fill each corner with further goodness. I think just as long as there are at least two entries connecting one subsection to the rest of the puzzle, the solving flow is passable. Important to not strand the solver.</p>
+
+<p>The corners aren&#39;t nearly as big as the middle, but they&#39;re not cakewalks to construct, either. I thought Alex did best in the NE, with LOWLIFES, HOEDOWN, SOFTIE, TWEEZE, and a very minor EER to pay.</p>
+
+<p>Pretty decent results everywhere else, too. OCEANO and OROIDE are heavy costs for ANOMALY and MNEMONIC, but overall, a good set of trade-offs.</p>
+
+<p>I&#39;m not a fan of choking down gloopy entries like BELEM, but I realize that they&#39;re usually necessary for puzzles like this. I like seeing this type once in a while, so I&#39;m okay with it.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>This puzzle was my Mount Everest. That enormous swath of whitespace in the center was the ultimate challenge &mdash; I can&#39;t even count the number of minutes I spent watching my crossword software automatically fill it in, while I ate some pasta.</p>
+
+<p>That&#39;s what I didn&#39;t know about making crossword puzzles: it requires a LOT of effort and battery power for the computer to do all the work. As the ultimate cruel joke, I actually had to reach under my desk at one point and fetch the power cable, to charge my computer and prevent it from succumbing to sheer exhaustion. </p>
+
+<p>Somehow, the puzzle came together (I&#39;m not sure when; I left to play GTA for a while), and the end result is this beautiful piece of crosswording for which I obviously deserve the credit. Accolades are accepted, in both written and monetary form, thank you.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

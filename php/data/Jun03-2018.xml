@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Sunday, June 3, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 6/2/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sun, Jun 03, 2018 PROVING THEM WRONG</Title>
+    <Author>David J. Kahn</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>6/3/2018</Date>
+    <Size>
+      <Rows>21</Rows>
+      <Cols>21</Cols>
+    </Size>
+    <Grid>
+      <Row>COW.INSERTS.TEAMO.VAN</Row>
+      <Row>URI.DETROIT.UNDERSIDE</Row>
+      <Row>TAN.OVERAGE.BALTIMORE</Row>
+      <Row>STEWS.VADER.ATE.OILED</Row>
+      <Row>IOTA.RETIRE.SER.LLAMA</Row>
+      <Row>TRASHY.AESOP...DEED..</Row>
+      <Row>..SHOAL....USAGES.ARK</Row>
+      <Row>NATIONALS.SPINAL..VIE</Row>
+      <Row>AGENT.TOOKTURNS.CHIDE</Row>
+      <Row>BORG.FENNEL....CHOSEN</Row>
+      <Row>...THERESNOIINTEAM...</Row>
+      <Row>ATWOOD....UNCOOL.ETTA</Row>
+      <Row>FIEND.CARDINALS.ASHEN</Row>
+      <Row>ALI..MAJORS.NOCONTEST</Row>
+      <Row>REM.SOLACE....ACTAS..</Row>
+      <Row>..ARES...DRAWL.TINEAR</Row>
+      <Row>STRUT.SAL.ERIEPA.DAME</Row>
+      <Row>AWAIT.TEE.FANTA.ASWAN</Row>
+      <Row>MINNESOTA.EROSION.OLD</Row>
+      <Row>ONESECOND.RANINTO.LIE</Row>
+      <Row>SSR.SILAS.STANTON.FER</Row>
+    </Grid>
+    <Circles>
+      <Circle Row="2" Col="10" />
+      <Circle Row="3" Col="17" />
+      <Circle Row="8" Col="4" />
+      <Circle Row="13" Col="11" />
+      <Circle Row="19" Col="2" />
+    </Circles>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="COW">Overawe</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Across" Ans="INSERTS">Things falling out of Vogue?</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Across" Ans="TEAMO">Words to a Spanish sweetheart</Clue>
+      <Clue Row="1" Col="19" Num="16" Dir="Across" Ans="VAN">Mover, but not a shaker (one hopes)</Clue>
+      <Clue Row="2" Col="1" Num="19" Dir="Across" Ans="URI">Atlantic 10 Conf. school</Clue>
+      <Clue Row="2" Col="5" Num="20" Dir="Across" Ans="DETROIT">Where techno music originated</Clue>
+      <Clue Row="2" Col="13" Num="21" Dir="Across" Ans="UNDERSIDE">Belly</Clue>
+      <Clue Row="3" Col="1" Num="23" Dir="Across" Ans="TAN">Camelhair color</Clue>
+      <Clue Row="3" Col="5" Num="24" Dir="Across" Ans="OVERAGE">Surplus</Clue>
+      <Clue Row="3" Col="13" Num="25" Dir="Across" Ans="BALTIMORE">Where the Sun shines?</Clue>
+      <Clue Row="4" Col="1" Num="26" Dir="Across" Ans="STEWS">Doesn't let it go</Clue>
+      <Clue Row="4" Col="7" Num="28" Dir="Across" Ans="VADER">"Star Wars" name</Clue>
+      <Clue Row="4" Col="13" Num="29" Dir="Across" Ans="ATE">Got into a mess?</Clue>
+      <Clue Row="4" Col="17" Num="30" Dir="Across" Ans="OILED">Pie-eyed</Clue>
+      <Clue Row="5" Col="1" Num="31" Dir="Across" Ans="IOTA">Wee bit</Clue>
+      <Clue Row="5" Col="6" Num="32" Dir="Across" Ans="RETIRE">Call it a day ... or a career</Clue>
+      <Clue Row="5" Col="13" Num="33" Dir="Across" Ans="SER">Sunday delivery: Abbr.</Clue>
+      <Clue Row="5" Col="17" Num="34" Dir="Across" Ans="LLAMA">Woolly ruminant</Clue>
+      <Clue Row="6" Col="1" Num="35" Dir="Across" Ans="TRASHY">Very lowbrow</Clue>
+      <Clue Row="6" Col="8" Num="37" Dir="Across" Ans="AESOP">Fabulous fabulist</Clue>
+      <Clue Row="6" Col="16" Num="39" Dir="Across" Ans="DEED">Achievement</Clue>
+      <Clue Row="7" Col="3" Num="40" Dir="Across" Ans="SHOAL">Riverboat hazard</Clue>
+      <Clue Row="7" Col="12" Num="42" Dir="Across" Ans="USAGES">Linguists' interests</Clue>
+      <Clue Row="7" Col="19" Num="46" Dir="Across" Ans="ARK">Boat that landed on 94-Down</Clue>
+      <Clue Row="8" Col="1" Num="49" Dir="Across" Ans="NATIONALS">Final, countrywide competition</Clue>
+      <Clue Row="8" Col="11" Num="53" Dir="Across" Ans="SPINAL">___ tap</Clue>
+      <Clue Row="8" Col="19" Num="54" Dir="Across" Ans="VIE">Go (for)</Clue>
+      <Clue Row="9" Col="1" Num="55" Dir="Across" Ans="AGENT">Salary negotiator</Clue>
+      <Clue Row="9" Col="7" Num="56" Dir="Across" Ans="TOOKTURNS">Alternated</Clue>
+      <Clue Row="9" Col="17" Num="58" Dir="Across" Ans="CHIDE">Dress down</Clue>
+      <Clue Row="10" Col="1" Num="60" Dir="Across" Ans="BORG">Winner of 11 Grand Slam tennis titles</Clue>
+      <Clue Row="10" Col="6" Num="61" Dir="Across" Ans="FENNEL">Common seasoning for Italian sausage</Clue>
+      <Clue Row="10" Col="16" Num="62" Dir="Across" Ans="CHOSEN">Elected</Clue>
+      <Clue Row="11" Col="4" Num="63" Dir="Across" Ans="THERESNOIINTEAM">Sports axiom refuted by this puzzle</Clue>
+      <Clue Row="12" Col="1" Num="69" Dir="Across" Ans="ATWOOD">"The Handmaid's Tale" author</Clue>
+      <Clue Row="12" Col="11" Num="72" Dir="Across" Ans="UNCOOL">Not with it</Clue>
+      <Clue Row="12" Col="18" Num="73" Dir="Across" Ans="ETTA">Place in a 1969 western</Clue>
+      <Clue Row="13" Col="1" Num="77" Dir="Across" Ans="FIEND">Serious devotee</Clue>
+      <Clue Row="13" Col="7" Num="78" Dir="Across" Ans="CARDINALS">Papal conclave members</Clue>
+      <Clue Row="13" Col="17" Num="82" Dir="Across" Ans="ASHEN">Ghostly</Clue>
+      <Clue Row="14" Col="1" Num="83" Dir="Across" Ans="ALI">He said "It's not bragging if you can back it up"</Clue>
+      <Clue Row="14" Col="6" Num="84" Dir="Across" Ans="MAJORS">Group with five members in this puzzle, with "the"</Clue>
+      <Clue Row="14" Col="13" Num="85" Dir="Across" Ans="NOCONTEST">Court plea</Clue>
+      <Clue Row="15" Col="1" Num="87" Dir="Across" Ans="REM">Sleep stage</Clue>
+      <Clue Row="15" Col="5" Num="88" Dir="Across" Ans="SOLACE">Relief</Clue>
+      <Clue Row="15" Col="15" Num="89" Dir="Across" Ans="ACTAS">Play the part of</Clue>
+      <Clue Row="16" Col="3" Num="90" Dir="Across" Ans="ARES">Father of Phobos, the god of fear</Clue>
+      <Clue Row="16" Col="10" Num="92" Dir="Across" Ans="DRAWL">Sound of the South</Clue>
+      <Clue Row="16" Col="16" Num="97" Dir="Across" Ans="TINEAR">Liability of note?</Clue>
+      <Clue Row="17" Col="1" Num="100" Dir="Across" Ans="STRUT">Swagger</Clue>
+      <Clue Row="17" Col="7" Num="102" Dir="Across" Ans="SAL">___ Minella (Muppet monkey)</Clue>
+      <Clue Row="17" Col="11" Num="105" Dir="Across" Ans="ERIEPA">City ENE of Cleveland, O.</Clue>
+      <Clue Row="17" Col="18" Num="107" Dir="Across" Ans="DAME">Lady's title</Clue>
+      <Clue Row="18" Col="1" Num="108" Dir="Across" Ans="AWAIT">Anticipate</Clue>
+      <Clue Row="18" Col="7" Num="109" Dir="Across" Ans="TEE">Ball bearer</Clue>
+      <Clue Row="18" Col="11" Num="110" Dir="Across" Ans="FANTA">Fruit soda brand</Clue>
+      <Clue Row="18" Col="17" Num="111" Dir="Across" Ans="ASWAN">Temple of Isis site</Clue>
+      <Clue Row="19" Col="1" Num="112" Dir="Across" Ans="MINNESOTA">Where General Mills is headquartered</Clue>
+      <Clue Row="19" Col="11" Num="114" Dir="Across" Ans="EROSION">Bank trouble?</Clue>
+      <Clue Row="19" Col="19" Num="116" Dir="Across" Ans="OLD">Dated</Clue>
+      <Clue Row="20" Col="1" Num="117" Dir="Across" Ans="ONESECOND">"Be there in a jiffy!"</Clue>
+      <Clue Row="20" Col="11" Num="118" Dir="Across" Ans="RANINTO">Encountered</Clue>
+      <Clue Row="20" Col="19" Num="119" Dir="Across" Ans="LIE">Not be straight</Clue>
+      <Clue Row="21" Col="1" Num="120" Dir="Across" Ans="SSR">Cold War-era inits.</Clue>
+      <Clue Row="21" Col="5" Num="121" Dir="Across" Ans="SILAS">Eppie's adoptive father, in a George Eliot novel</Clue>
+      <Clue Row="21" Col="11" Num="122" Dir="Across" Ans="STANTON">Suffragist Elizabeth Cady ___</Clue>
+      <Clue Row="21" Col="19" Num="123" Dir="Across" Ans="FER">Not opposin'</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="CUTSIT">Is up to the task</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ORATOR">Winston Churchill, notably</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="WINETASTER">One concerned with aging?</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Down" Ans="IDOS">Wedding pair</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="NEV">State since 1864: Abbr.</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="STEVE">McQueen or King</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="ERRATA">Things that corrections correct</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="ROADIE">Tour hiree</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="TIGERS">Aggressive types</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="STEREO">Typical intro?</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="TUBAS">Heavy winds</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="ENATE">Maternally related</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="ADLER">Colleague of Freud</Clue>
+      <Clue Row="1" Col="16" Num="14" Dir="Down" Ans="MET">Encountered</Clue>
+      <Clue Row="1" Col="17" Num="15" Dir="Down" Ans="ORIOLES">Relatives of bobolinks</Clue>
+      <Clue Row="1" Col="19" Num="16" Dir="Down" Ans="VIOLADAVIS">Only African-American to win an Oscar, Tony and Emmy for acting</Clue>
+      <Clue Row="1" Col="20" Num="17" Dir="Down" Ans="ADREM">Relevant, legally</Clue>
+      <Clue Row="1" Col="21" Num="18" Dir="Down" Ans="NEEDA">With 47-Down, driver's question</Clue>
+      <Clue Row="2" Col="18" Num="22" Dir="Down" Ans="SMILE">"Say cheese!"</Clue>
+      <Clue Row="4" Col="4" Num="27" Dir="Down" Ans="WASHINGTON">County name in 30 states</Clue>
+      <Clue Row="5" Col="6" Num="32" Dir="Down" Ans="RYAN">House speaker after Boehner</Clue>
+      <Clue Row="6" Col="5" Num="36" Dir="Down" Ans="HOOT">Sidesplitter</Clue>
+      <Clue Row="6" Col="12" Num="38" Dir="Down" Ans="PUPU">___ platter</Clue>
+      <Clue Row="6" Col="16" Num="39" Dir="Down" Ans="DEL">"Runaway" singer Shannon, 1961</Clue>
+      <Clue Row="7" Col="7" Num="41" Dir="Down" Ans="LATER">"I'm off"</Clue>
+      <Clue Row="7" Col="13" Num="43" Dir="Down" Ans="SIR">"My dear man"</Clue>
+      <Clue Row="7" Col="14" Num="44" Dir="Down" Ans="ANN">Novelist Patchett</Clue>
+      <Clue Row="7" Col="15" Num="45" Dir="Down" Ans="GAS">Fastball, in baseball slang</Clue>
+      <Clue Row="7" Col="20" Num="47" Dir="Down" Ans="RIDE">See 18-Down</Clue>
+      <Clue Row="7" Col="21" Num="48" Dir="Down" Ans="KEEN">Sharp</Clue>
+      <Clue Row="8" Col="1" Num="49" Dir="Down" Ans="NAB">Pick up</Clue>
+      <Clue Row="8" Col="2" Num="50" Dir="Down" Ans="AGO">Back</Clue>
+      <Clue Row="8" Col="8" Num="51" Dir="Down" Ans="LONE">Unaccompanied</Clue>
+      <Clue Row="8" Col="9" Num="52" Dir="Down" Ans="SONS">Company name ender after "&amp;"</Clue>
+      <Clue Row="8" Col="11" Num="53" Dir="Down" Ans="STLOUIS">First U.S. city to host the Olympics</Clue>
+      <Clue Row="9" Col="10" Num="57" Dir="Down" Ans="KEN">"Baseball" documentarian Burns</Clue>
+      <Clue Row="9" Col="17" Num="58" Dir="Down" Ans="CHA">Half a step?</Clue>
+      <Clue Row="9" Col="18" Num="59" Dir="Down" Ans="HOMESTANDS">What ballplayers look forward to after playing on the road</Clue>
+      <Clue Row="10" Col="6" Num="61" Dir="Down" Ans="FED">Sustained</Clue>
+      <Clue Row="10" Col="16" Num="62" Dir="Down" Ans="CEL">Cartoon collectible</Clue>
+      <Clue Row="11" Col="5" Num="64" Dir="Down" Ans="HOD">Mortar carrier</Clue>
+      <Clue Row="11" Col="12" Num="65" Dir="Down" Ans="INN">Hampton ___</Clue>
+      <Clue Row="11" Col="13" Num="66" Dir="Down" Ans="ICAN">Words of confidence</Clue>
+      <Clue Row="11" Col="14" Num="67" Dir="Down" Ans="NOLO">Court plea, briefly</Clue>
+      <Clue Row="11" Col="15" Num="68" Dir="Down" Ans="TOSCA">Opera set in 1800 Rome</Clue>
+      <Clue Row="12" Col="1" Num="69" Dir="Down" Ans="AFAR">Not even close?</Clue>
+      <Clue Row="12" Col="2" Num="70" Dir="Down" Ans="TILE">Floor piece</Clue>
+      <Clue Row="12" Col="3" Num="71" Dir="Down" Ans="WEIMARANER">German hunting dog</Clue>
+      <Clue Row="12" Col="19" Num="74" Dir="Down" Ans="THESEAWOLF">1904 Jack London novel</Clue>
+      <Clue Row="12" Col="20" Num="75" Dir="Down" Ans="TES">Your, to Yves</Clue>
+      <Clue Row="12" Col="21" Num="76" Dir="Down" Ans="ANT">Caste member</Clue>
+      <Clue Row="13" Col="7" Num="78" Dir="Down" Ans="CAL">State with five teams in the 84-Across: Abbr.</Clue>
+      <Clue Row="13" Col="8" Num="79" Dir="Down" Ans="AJA">Double-platinum album for Steely Dan</Clue>
+      <Clue Row="13" Col="9" Num="80" Dir="Down" Ans="ROC">Mythological bird</Clue>
+      <Clue Row="13" Col="10" Num="81" Dir="Down" Ans="DRED">Harriet Beecher Stowe novel subtitled "A Tale of the Great Dismal Swamp"</Clue>
+      <Clue Row="13" Col="17" Num="82" Dir="Down" Ans="ANTI">Lining up against</Clue>
+      <Clue Row="14" Col="6" Num="84" Dir="Down" Ans="MOS">Ways of doing things, for short</Clue>
+      <Clue Row="14" Col="16" Num="86" Dir="Down" Ans="OCTA">Numerical prefix</Clue>
+      <Clue Row="15" Col="5" Num="88" Dir="Down" Ans="SETTEES">Parlor pieces</Clue>
+      <Clue Row="16" Col="4" Num="91" Dir="Down" Ans="RUINS">Bankrupts</Clue>
+      <Clue Row="16" Col="11" Num="93" Dir="Down" Ans="REFERS">Points (to)</Clue>
+      <Clue Row="16" Col="12" Num="94" Dir="Down" Ans="ARARAT">See 46-Across</Clue>
+      <Clue Row="16" Col="13" Num="95" Dir="Down" Ans="WINONA">Actress Ryder</Clue>
+      <Clue Row="16" Col="14" Num="96" Dir="Down" Ans="LETSIN">Admits</Clue>
+      <Clue Row="16" Col="20" Num="98" Dir="Down" Ans="AMALIE">Charlotte ___ (Caribbean capital)</Clue>
+      <Clue Row="16" Col="21" Num="99" Dir="Down" Ans="RENDER">Proffer</Clue>
+      <Clue Row="17" Col="1" Num="100" Dir="Down" Ans="SAMOS">Greek island where Pythagoras and Epicurus were born</Clue>
+      <Clue Row="17" Col="2" Num="101" Dir="Down" Ans="TWINS">Delivery that's usually expected</Clue>
+      <Clue Row="17" Col="7" Num="102" Dir="Down" Ans="STOOL">Prop for a lion tamer</Clue>
+      <Clue Row="17" Col="8" Num="103" Dir="Down" Ans="AETNA">Insurance giant</Clue>
+      <Clue Row="17" Col="9" Num="104" Dir="Down" Ans="LEADS">Some calls on a police hotline</Clue>
+      <Clue Row="17" Col="15" Num="106" Dir="Down" Ans="PAINT">Kind of chips you shouldn't eat</Clue>
+      <Clue Row="18" Col="17" Num="111" Dir="Down" Ans="ANON">Before being outed, for short</Clue>
+      <Clue Row="19" Col="6" Num="113" Dir="Down" Ans="SCI">H.S. study</Clue>
+      <Clue Row="19" Col="16" Num="115" Dir="Down" Ans="OTO">Native Oklahoman</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>David PROVING THEM WRONG today, showing that plenty of teams have Is. Although I&#39;ve seen plenty of crosswords based around THERES NO I IN TEAM &ndash; perfect for a revealer at 15 letters! &ndash; I liked the a-ha moment I got from this implementation. David hid the teams well, DETROIT / TIGERS becoming apparent only after I had already started thinking about TIGERS as [Aggressive types].</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Detroit_Tigers" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Detroit_Tigers_Insignia.svg/200px-Detroit_Tigers_Insignia.svg.png" style="border:1px solid lightgray; float:right; height:200px; margin:6px 0px 6px 12px; width:200px" title="If you squint, you can almost see an I in there ..." /></a></p>
+
+<p>The grid felt just a touched choked off, and it was no wonder, as David went up to 142 words. I didn&#39;t mind though, as there was still adequate solving flow, no subsection was *too* choked off.</p>
+
+<p>I do like the 140 word maximum, which forces constructors to work in good long fill like WINE TASTERS, HOME STANDS, VIOLA DAVIS, WEIMARANER, NO CONTEST. But for tougher themes to execute on, I think it&#39;s good to allow constructors to bend the rules.</p>
+
+<p>Why is this tough to execute on, you ask? Because working around crossing theme answers can be super tricky, especially when they need to be around the periphery of the puzzle. Take DETROIT / TIGERS for example. That north section of the puzzle is forced to be biggish due to the themer interlock. Biggish section + two crossing answers fixed into place usually means it&#39;s no bueno. David did well, just a NEV while working in ROADIE, ERRATA.</p>
+
+<p>I did notice that David did rely too heavily on a specific type of crossword glue. Notice the common thread between ENATE FER HOD AJA SAMOS ROC MOS ANON? Not only are they oddball words, but they all perfectly alternate vowel / consonant. Probably something only we constructors notice, but it screams CONSTRUCTOR&#39;S CRUTCH! to me. Would have been better to use more diverse glue, to make it all less noticeable.</p>
+
+<p>Usually I dislike when a crossword doesn&#39;t display theme symmetry. But that was impossible today, and I liked the tightness(ish) of the theme set &mdash; too bad the Pirates had to be left out, that would have been perfect! &mdash; enough to look the other way.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>After I thought of this theme, I started looking at all pro sports teams where an &quot;I&quot; appears exactly once in both the first and second name. I wound up using only baseball teams because the other sports gave me very few teams to choose from. And baseball teams might be more familiar to solvers, anyway. There were six major league teams that could possibly work, but I ran out of grid space, not to mention patience, which is why PITTSBURGH PIRATES didn&#39;t make the cut.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

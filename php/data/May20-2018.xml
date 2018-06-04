@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Sunday, May 20, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/19/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sun, May 20, 2018 RHYMES, SCHMYMES</Title>
+    <Author>Will Nediger</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/20/2018</Date>
+    <Size>
+      <Rows>21</Rows>
+      <Cols>21</Cols>
+    </Size>
+    <Grid>
+      <Row>BUGBITE.IGLOO.TIPSTER</Row>
+      <Row>AFRICAN.BROOD.IMALIVE</Row>
+      <Row>BOOZESCHMOOZE.APPAREL</Row>
+      <Row>ASK.PERU.UKE.CREAMERY</Row>
+      <Row>...BOSOM.TOO.AAA.....</Row>
+      <Row>TAGUP.AOL.NUTSSCHMUTZ</Row>
+      <Row>IGOR.SCREW.TET.HEINIE</Row>
+      <Row>DEERSCHMEAR.ARTEFACTS</Row>
+      <Row>YESSIREE.VEE.AID.MOLT</Row>
+      <Row>....ROD.DESPITE.HIRES</Row>
+      <Row>.MACED.NOSCHMO.MUSKS.</Row>
+      <Row>BOGUS.TECHIES.WIM....</Row>
+      <Row>ARAB.DEW.INS.SIXPACKS</Row>
+      <Row>RESIDENCE.DUCKSCHMUCK</Row>
+      <Row>BASSOS.OLE.SPIED.EBAY</Row>
+      <Row>QUITSCHMIDT.ABC.SNARE</Row>
+      <Row>.....HOE.AHI.ARMED...</Row>
+      <Row>BASEPAIR.MEN.GAYE.BUC</Row>
+      <Row>OUTRUNS.HALTSSCHMALTZ</Row>
+      <Row>SNIGLET.AMORE.KATRINA</Row>
+      <Row>STROLLS.DETOX.STOPPER</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="BUGBITE">Picnic annoyance</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Across" Ans="IGLOO">Cold quarters</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Across" Ans="TIPSTER">Racetrack informant</Clue>
+      <Clue Row="2" Col="1" Num="20" Dir="Across" Ans="AFRICAN">Like okapis and giraffes</Clue>
+      <Clue Row="2" Col="9" Num="21" Dir="Across" Ans="BROOD">Sit pensively</Clue>
+      <Clue Row="2" Col="15" Num="22" Dir="Across" Ans="IMALIVE">Cry from a survivor</Clue>
+      <Clue Row="3" Col="1" Num="23" Dir="Across" Ans="BOOZESCHMOOZE">Conversation over a few whiskeys?</Clue>
+      <Clue Row="3" Col="15" Num="25" Dir="Across" Ans="APPAREL">Wear</Clue>
+      <Clue Row="4" Col="1" Num="26" Dir="Across" Ans="ASK">Pose</Clue>
+      <Clue Row="4" Col="5" Num="27" Dir="Across" Ans="PERU">Mario Vargas Llosa's country</Clue>
+      <Clue Row="4" Col="10" Num="28" Dir="Across" Ans="UKE">Strummed instrument, for short</Clue>
+      <Clue Row="4" Col="14" Num="29" Dir="Across" Ans="CREAMERY">Where butter and cheese are produced</Clue>
+      <Clue Row="5" Col="4" Num="30" Dir="Across" Ans="BOSOM">___ buddies</Clue>
+      <Clue Row="5" Col="10" Num="31" Dir="Across" Ans="TOO">Moreover</Clue>
+      <Clue Row="5" Col="14" Num="32" Dir="Across" Ans="AAA">Org. for drivers</Clue>
+      <Clue Row="6" Col="1" Num="33" Dir="Across" Ans="TAGUP">Return to base</Clue>
+      <Clue Row="6" Col="7" Num="36" Dir="Across" Ans="AOL">2015 Verizon purchase</Clue>
+      <Clue Row="6" Col="11" Num="38" Dir="Across" Ans="NUTSSCHMUTZ">Filth covering pecans and such?</Clue>
+      <Clue Row="7" Col="1" Num="45" Dir="Across" Ans="IGOR">Borodin opera prince</Clue>
+      <Clue Row="7" Col="6" Num="46" Dir="Across" Ans="SCREW">Fasten, in a way, with "in"</Clue>
+      <Clue Row="7" Col="12" Num="48" Dir="Across" Ans="TET">Asian holiday</Clue>
+      <Clue Row="7" Col="16" Num="49" Dir="Across" Ans="HEINIE">Tush</Clue>
+      <Clue Row="8" Col="1" Num="50" Dir="Across" Ans="DEERSCHMEAR">Venison spread?</Clue>
+      <Clue Row="8" Col="13" Num="53" Dir="Across" Ans="ARTEFACTS">Relics, to Brits</Clue>
+      <Clue Row="9" Col="1" Num="55" Dir="Across" Ans="YESSIREE">"You betcha!"</Clue>
+      <Clue Row="9" Col="10" Num="56" Dir="Across" Ans="VEE">Very beginning?</Clue>
+      <Clue Row="9" Col="14" Num="58" Dir="Across" Ans="AID">Give a leg up ... or a hand</Clue>
+      <Clue Row="9" Col="18" Num="59" Dir="Across" Ans="MOLT">Lose one's coat</Clue>
+      <Clue Row="10" Col="5" Num="60" Dir="Across" Ans="ROD">Casting need</Clue>
+      <Clue Row="10" Col="9" Num="61" Dir="Across" Ans="DESPITE">Notwithstanding</Clue>
+      <Clue Row="10" Col="17" Num="63" Dir="Across" Ans="HIRES">Brings on</Clue>
+      <Clue Row="11" Col="2" Num="64" Dir="Across" Ans="MACED">Sprayed in the face</Clue>
+      <Clue Row="11" Col="8" Num="67" Dir="Across" Ans="NOSCHMO">Hardly a dolt?</Clue>
+      <Clue Row="11" Col="16" Num="68" Dir="Across" Ans="MUSKS">Powerful scents</Clue>
+      <Clue Row="12" Col="1" Num="69" Dir="Across" Ans="BOGUS">Made-up</Clue>
+      <Clue Row="12" Col="7" Num="70" Dir="Across" Ans="TECHIES">Virus fighters</Clue>
+      <Clue Row="12" Col="15" Num="71" Dir="Across" Ans="WIM">Director Wenders</Clue>
+      <Clue Row="13" Col="1" Num="72" Dir="Across" Ans="ARAB">Unnamed character in Camus's "The Stranger"</Clue>
+      <Clue Row="13" Col="6" Num="73" Dir="Across" Ans="DEW">Ground cover?</Clue>
+      <Clue Row="13" Col="10" Num="74" Dir="Across" Ans="INS">Connections</Clue>
+      <Clue Row="13" Col="14" Num="75" Dir="Across" Ans="SIXPACKS">Buds come in them</Clue>
+      <Clue Row="14" Col="1" Num="80" Dir="Across" Ans="RESIDENCE">Office's counterpart</Clue>
+      <Clue Row="14" Col="11" Num="83" Dir="Across" Ans="DUCKSCHMUCK">Avoid a jerk?</Clue>
+      <Clue Row="15" Col="1" Num="85" Dir="Across" Ans="BASSOS">Mozart's Don Alfonso and Leporello</Clue>
+      <Clue Row="15" Col="8" Num="86" Dir="Across" Ans="OLE">Shout with an accent</Clue>
+      <Clue Row="15" Col="12" Num="88" Dir="Across" Ans="SPIED">Gathered intelligence (on)</Clue>
+      <Clue Row="15" Col="18" Num="89" Dir="Across" Ans="EBAY">It has lots on the internet</Clue>
+      <Clue Row="16" Col="1" Num="90" Dir="Across" Ans="QUITSCHMIDT">Break up with an "unbreakable" Ellie Kemper character?</Clue>
+      <Clue Row="16" Col="13" Num="93" Dir="Across" Ans="ABC">"Black-ish" network</Clue>
+      <Clue Row="16" Col="17" Num="94" Dir="Across" Ans="SNARE">Part of a kit</Clue>
+      <Clue Row="17" Col="6" Num="95" Dir="Across" Ans="HOE">It may be found next to a spade</Clue>
+      <Clue Row="17" Col="10" Num="96" Dir="Across" Ans="AHI">Sashimi option</Clue>
+      <Clue Row="17" Col="14" Num="98" Dir="Across" Ans="ARMED">Ready for battle</Clue>
+      <Clue Row="18" Col="1" Num="100" Dir="Across" Ans="BASEPAIR">DNA building block</Clue>
+      <Clue Row="18" Col="10" Num="105" Dir="Across" Ans="MEN">Restroom sign</Clue>
+      <Clue Row="18" Col="14" Num="106" Dir="Across" Ans="GAYE">"What's Going On" singer, 1971</Clue>
+      <Clue Row="18" Col="19" Num="107" Dir="Across" Ans="BUC">Tampa Bay N.F.L.'er</Clue>
+      <Clue Row="19" Col="1" Num="110" Dir="Across" Ans="OUTRUNS">Beats in the race</Clue>
+      <Clue Row="19" Col="9" Num="111" Dir="Across" Ans="HALTSSCHMALTZ">Puts a stop to sentimentality?</Clue>
+      <Clue Row="20" Col="1" Num="114" Dir="Across" Ans="SNIGLET">Term for a word that isn't the dictionary, but maybe should be</Clue>
+      <Clue Row="20" Col="9" Num="115" Dir="Across" Ans="AMORE">Subject of una serenata</Clue>
+      <Clue Row="20" Col="15" Num="116" Dir="Across" Ans="KATRINA">Subject of the 2006 documentary "When the Levees Broke"</Clue>
+      <Clue Row="21" Col="1" Num="117" Dir="Across" Ans="STROLLS">Promenades</Clue>
+      <Clue Row="21" Col="9" Num="118" Dir="Across" Ans="DETOX">Rehab program</Clue>
+      <Clue Row="21" Col="15" Num="119" Dir="Across" Ans="STOPPER">Plug</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="BABA">Cake with rum</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="UFOS">Hovering craft</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="GROK">Understand</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="BIZ">Industry, for short</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="ICEPOP">Treat on a stick</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="TASES">Stuns, in a way</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="ENCROACHED">Intruded (on)</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="IBM">Watson's company</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="GROUT">Cavity filler</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="LOOKON">Be a witness</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="OOZEOUT">Exude</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="ODE">Loving verse?</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="TIARAS">Some pageant wear</Clue>
+      <Clue Row="1" Col="16" Num="14" Dir="Down" Ans="IMPEACHED">Brought charges against</Clue>
+      <Clue Row="1" Col="17" Num="15" Dir="Down" Ans="PAPA">Daddy</Clue>
+      <Clue Row="1" Col="18" Num="16" Dir="Down" Ans="SLAM">Criticize severely</Clue>
+      <Clue Row="1" Col="19" Num="17" Dir="Down" Ans="TIRE">Part of a makeshift swing</Clue>
+      <Clue Row="1" Col="20" Num="18" Dir="Down" Ans="EVER">___ after</Clue>
+      <Clue Row="1" Col="21" Num="19" Dir="Down" Ans="RELY">Depend</Clue>
+      <Clue Row="3" Col="8" Num="24" Dir="Down" Ans="HUMORME">"Just pretend I'm right"</Clue>
+      <Clue Row="4" Col="14" Num="29" Dir="Down" Ans="CASTRATO">Singer of high notes</Clue>
+      <Clue Row="5" Col="4" Num="30" Dir="Down" Ans="BURRS">Scottish accents</Clue>
+      <Clue Row="6" Col="1" Num="33" Dir="Down" Ans="TIDY">Dusted off, say</Clue>
+      <Clue Row="6" Col="2" Num="34" Dir="Down" Ans="AGEE">James who won a posthumous Pulitzer</Clue>
+      <Clue Row="6" Col="3" Num="35" Dir="Down" Ans="GOES">Says, informally</Clue>
+      <Clue Row="6" Col="9" Num="37" Dir="Down" Ans="LEE">"When the Levees Broke" director</Clue>
+      <Clue Row="6" Col="13" Num="39" Dir="Down" Ans="TEA">High ___</Clue>
+      <Clue Row="6" Col="17" Num="40" Dir="Down" Ans="HEF">Publisher in a robe, familiarly</Clue>
+      <Clue Row="6" Col="18" Num="41" Dir="Down" Ans="MIAMIS">Algonquian Indians</Clue>
+      <Clue Row="6" Col="19" Num="42" Dir="Down" Ans="UNCORK">Open, as a bottle</Clue>
+      <Clue Row="6" Col="20" Num="43" Dir="Down" Ans="TITLES">Prince and others</Clue>
+      <Clue Row="6" Col="21" Num="44" Dir="Down" Ans="ZESTS">Some drink garnishes</Clue>
+      <Clue Row="7" Col="6" Num="46" Dir="Down" Ans="SCROD">Fish whose name sounds like the past tense of 46-Across?</Clue>
+      <Clue Row="7" Col="10" Num="47" Dir="Down" Ans="WAVESHI">Greets silently</Clue>
+      <Clue Row="8" Col="5" Num="51" Dir="Down" Ans="SIRES">Begets</Clue>
+      <Clue Row="8" Col="11" Num="52" Dir="Down" Ans="RESCIND">Take back</Clue>
+      <Clue Row="8" Col="15" Num="54" Dir="Down" Ans="TIE">3-3, e.g.</Clue>
+      <Clue Row="9" Col="12" Num="57" Dir="Down" Ans="EPHESUS">Site of one of the Seven Wonders of the Ancient World</Clue>
+      <Clue Row="10" Col="9" Num="61" Dir="Down" Ans="DOC">Professional fixer, for short</Clue>
+      <Clue Row="10" Col="13" Num="62" Dir="Down" Ans="IMS">Uses Gchat, e.g.</Clue>
+      <Clue Row="10" Col="17" Num="63" Dir="Down" Ans="HUMPH">Scornful sound</Clue>
+      <Clue Row="11" Col="2" Num="64" Dir="Down" Ans="MOREAU">H. G. Wells villain</Clue>
+      <Clue Row="11" Col="3" Num="65" Dir="Down" Ans="AGASSI">Four-time Australian Open winner</Clue>
+      <Clue Row="11" Col="4" Num="66" Dir="Down" Ans="CUBIST">Picasso, e.g.</Clue>
+      <Clue Row="11" Col="8" Num="67" Dir="Down" Ans="NEWCOMER">Recent arrival</Clue>
+      <Clue Row="11" Col="16" Num="68" Dir="Down" Ans="MIXCD">Personalized music gift</Clue>
+      <Clue Row="12" Col="1" Num="69" Dir="Down" Ans="BARBQ">Backyard shindig, informally</Clue>
+      <Clue Row="12" Col="7" Num="70" Dir="Down" Ans="TEN">Perfect score, or half of a score</Clue>
+      <Clue Row="12" Col="15" Num="71" Dir="Down" Ans="WISECRACKS">Smart remarks</Clue>
+      <Clue Row="13" Col="6" Num="73" Dir="Down" Ans="DESCHANEL">Zooey of Fox's "New Girl"</Clue>
+      <Clue Row="13" Col="14" Num="75" Dir="Down" Ans="SKIBAGS">Long, narrow pieces of luggage</Clue>
+      <Clue Row="13" Col="18" Num="76" Dir="Down" Ans="AMEND">Modify</Clue>
+      <Clue Row="13" Col="19" Num="77" Dir="Down" Ans="CUBA">Where Hemingway wrote "The Old Man and the Sea"</Clue>
+      <Clue Row="13" Col="20" Num="78" Dir="Down" Ans="KCAR">Old Chrysler</Clue>
+      <Clue Row="13" Col="21" Num="79" Dir="Down" Ans="SKYE">___ terrier</Clue>
+      <Clue Row="14" Col="5" Num="81" Dir="Down" Ans="DOS">Parties</Clue>
+      <Clue Row="14" Col="9" Num="82" Dir="Down" Ans="ELI">Pastor role in "There Will Be Blood"</Clue>
+      <Clue Row="14" Col="13" Num="84" Dir="Down" Ans="CPA">Keeper of the books, for short</Clue>
+      <Clue Row="15" Col="10" Num="87" Dir="Down" Ans="EDAMAME">Japanese appetizer</Clue>
+      <Clue Row="16" Col="7" Num="91" Dir="Down" Ans="HOISTS">Lifts</Clue>
+      <Clue Row="16" Col="11" Num="92" Dir="Down" Ans="THELOT">Everything</Clue>
+      <Clue Row="16" Col="17" Num="94" Dir="Down" Ans="SEEMTO">Appear that way</Clue>
+      <Clue Row="17" Col="12" Num="97" Dir="Down" Ans="INTRO">101 course</Clue>
+      <Clue Row="17" Col="16" Num="99" Dir="Down" Ans="MYHAT">"... I'll eat ___!"</Clue>
+      <Clue Row="18" Col="1" Num="100" Dir="Down" Ans="BOSS">Order (around)</Clue>
+      <Clue Row="18" Col="2" Num="101" Dir="Down" Ans="AUNT">May or Bee</Clue>
+      <Clue Row="18" Col="3" Num="102" Dir="Down" Ans="STIR">Prevent from clumping, say</Clue>
+      <Clue Row="18" Col="4" Num="103" Dir="Down" Ans="ERGO">In conclusion</Clue>
+      <Clue Row="18" Col="5" Num="104" Dir="Down" Ans="PULL">Sway</Clue>
+      <Clue Row="18" Col="19" Num="107" Dir="Down" Ans="BLIP">Random data point</Clue>
+      <Clue Row="18" Col="20" Num="108" Dir="Down" Ans="UTNE">___ Reader</Clue>
+      <Clue Row="18" Col="21" Num="109" Dir="Down" Ans="CZAR">Powerful politico</Clue>
+      <Clue Row="19" Col="9" Num="111" Dir="Down" Ans="HAD">With 112-Down, coupled</Clue>
+      <Clue Row="19" Col="13" Num="112" Dir="Down" Ans="SEX">See 111-Down</Clue>
+      <Clue Row="19" Col="18" Num="113" Dir="Down" Ans="ARP">"Collage With Squares Arranged According to the Laws of Chance" artist</Clue>
+    </Clues>
+    <JimNotes><![CDATA[Mr. Nediger is near the top of our <a href="https://www.xwordinfo.com/ConStats">Scrabbliest Constructors list</a>. This is the <a href="https://www.xwordinfo.com/Scrabble/HighestSunday">Scrabbliest Sunday</a> puzzle, breaking the record set by, yes, Mr. Nediger.]]></JimNotes>
+    <JeffNotes><![CDATA[<p>There&#39;s something so amusing about the sch- rhyming dismissal. I&#39;d love to know who first came up with it.</p>
+
+<p><a href="https://www.amazon.com/Points-Schmoints-Bergens-Winning-Secrets/dp/0971663610" style="border:none"><img alt="" src="https://images-na.ssl-images-amazon.com/images/I/5167PVCFGRL._SX311_BO1,204,203,200_.jpg" style="border:1px solid lightgray; float:right; height:249px; margin:6px 0px 6px 12px; width:165px" title="Anyone want to play bridge with me? Please?" /></a></p>
+
+<p>I liked Will&#39;s take on a rhyming theme. Straight rhymes have been so overdone that they&#39;re not viable in crosswords anymore, but this concept has an extra level. HALTS SCHMALTZ made me laugh the most, sort of a &quot;buck up and stop crying!&quot; concept.</p>
+
+<p>DUCK SCHMUCK made me pause. Rich Norris at the LAT once told me he&#39;d never use SCHMUCK in a crossword because it&#39;s a dirty word in Yiddish (for penis). I wonder if the NYT will get complaints.</p>
+
+<p>My bigger problem was that all six themers were too easy to uncover. I filled in five of the six without needing a single crossing answer. The concept is too straightforward. Sundays are supposed to make you work at least a little bit to achieve the a-ha moment. This one was over shortly after I began.</p>
+
+<p>I thought Will had a funny idea here, but it would have been much better suited for an early-week puzzle. With just six themers, it would have been easy to pare off one or two and put them into a 15x grid.</p>
+
+<p>Solid gridwork. I liked some of the bonuses Will added in, SIX PACKS, BASE PAIR, HUMOR ME, WISECRACKS, in particular.</p>
+
+<p>Better yet, Will&#39;s such a strong constructor that I struggled to find even a dab of crossword glue. All I could turn up was UKE. That&#39;s an amazing task for a Sunday 140-word puzzle, a true mark of top-notch construction skills.</p>
+
+<p>Unfortunately, strong gridwork doesn&#39;t make up for a theme that doesn&#39;t have much meat to it.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<ol>
+	<li>SCHMEAR was a theme entry <a href="https://www.xwordinfo.com/Crossword?date=2/25/2018">in my last Times puzzle</a>, which means I&#39;ve had two in a row with schmear-related theme entries. Maybe I should just make it my thing.</li>
+	<li>I originally had F THAT at 99-Down, although I figured it probably wouldn&#39;t fly in the NYT. And indeed, Will had me replace it - luckily, it was an easy fix.</li>
+</ol>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

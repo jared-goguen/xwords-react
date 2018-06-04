@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Thursday, March 8, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/8/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Thu, Mar 08, 2018</Title>
+    <Author>Jim Quinlan</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/8/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>SNAP..OPS.BOCCE</Row>
+      <Row>TOTE.EPIC.UVULA</Row>
+      <Row>ATTN.PETR.CAPER</Row>
+      <Row>LYINDANCERS.CAL</Row>
+      <Row>KOREA.THEO.FANG</Row>
+      <Row>SUE.MOOINWALKER</Row>
+      <Row>.....LENS.GEESE</Row>
+      <Row>ALPACA...TOASTY</Row>
+      <Row>PAINS.ACES.....</Row>
+      <Row>PLAYINFOLKS.ESC</Row>
+      <Row>LANA.ERIE.VISTA</Row>
+      <Row>ELI.BEINCOUNTER</Row>
+      <Row>PASTA.CATE.DELE</Row>
+      <Row>INTEL.AGED.EELS</Row>
+      <Row>EDSEL.NED..XMAS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="SNAP">Reach a breaking point</Clue>
+      <Clue Row="1" Col="7" Num="5" Dir="Across" Ans="OPS">Photo ___</Clue>
+      <Clue Row="1" Col="11" Num="8" Dir="Across" Ans="BOCCE">Game with a 90-foot x 13.1-foot court</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Across" Ans="TOTE">Donor gift, perhaps</Clue>
+      <Clue Row="2" Col="6" Num="14" Dir="Across" Ans="EPIC">To be remembered for a very long time</Clue>
+      <Clue Row="2" Col="11" Num="15" Dir="Across" Ans="UVULA">One down in the mouth?</Clue>
+      <Clue Row="3" Col="1" Num="16" Dir="Across" Ans="ATTN">Routing abbr.</Clue>
+      <Clue Row="3" Col="6" Num="17" Dir="Across" Ans="PETR">Mrazek or Nedved of the N.H.L.</Clue>
+      <Clue Row="3" Col="11" Num="18" Dir="Across" Ans="CAPER">Skip about</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="LYINDANCERS">Deceitful ballerinas?</Clue>
+      <Clue Row="4" Col="13" Num="22" Dir="Across" Ans="CAL">Golden Bears' school, familiarly</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Across" Ans="KOREA">Subject of reunification talks</Clue>
+      <Clue Row="5" Col="7" Num="24" Dir="Across" Ans="THEO">Teddy, by another name</Clue>
+      <Clue Row="5" Col="12" Num="25" Dir="Across" Ans="FANG">Sucker for vampire stories?</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Across" Ans="SUE">Bit of lawyerly advice</Clue>
+      <Clue Row="6" Col="5" Num="27" Dir="Across" Ans="MOOINWALKER">Cow as it strolls around the pasture?</Clue>
+      <Clue Row="7" Col="6" Num="30" Dir="Across" Ans="LENS">Part of the eye</Clue>
+      <Clue Row="7" Col="11" Num="31" Dir="Across" Ans="GEESE">Birds that cronk</Clue>
+      <Clue Row="8" Col="1" Num="32" Dir="Across" Ans="ALPACA">Fine wool source</Clue>
+      <Clue Row="8" Col="10" Num="37" Dir="Across" Ans="TOASTY">Sitting next to a fireplace, say</Clue>
+      <Clue Row="9" Col="1" Num="38" Dir="Across" Ans="PAINS">You might take them to do a good job</Clue>
+      <Clue Row="9" Col="7" Num="39" Dir="Across" Ans="ACES">Super-duper</Clue>
+      <Clue Row="10" Col="1" Num="42" Dir="Across" Ans="PLAYINFOLKS">Band members?</Clue>
+      <Clue Row="10" Col="13" Num="45" Dir="Across" Ans="ESC">Corner key</Clue>
+      <Clue Row="11" Col="1" Num="48" Dir="Across" Ans="LANA">Singer ___ Del Rey</Clue>
+      <Clue Row="11" Col="6" Num="49" Dir="Across" Ans="ERIE">Classic railroad name</Clue>
+      <Clue Row="11" Col="11" Num="50" Dir="Across" Ans="VISTA">Look from Lookout Point</Clue>
+      <Clue Row="12" Col="1" Num="52" Dir="Across" Ans="ELI">Old ___ (Yale nickname)</Clue>
+      <Clue Row="12" Col="5" Num="53" Dir="Across" Ans="BEINCOUNTER">Census bureau employee?</Clue>
+      <Clue Row="13" Col="1" Num="55" Dir="Across" Ans="PASTA">Ronzoni offering</Clue>
+      <Clue Row="13" Col="7" Num="57" Dir="Across" Ans="CATE">Actress Blanchett</Clue>
+      <Clue Row="13" Col="12" Num="58" Dir="Across" Ans="DELE">Edit out</Clue>
+      <Clue Row="14" Col="1" Num="59" Dir="Across" Ans="INTEL">Enemy plans, e.g.</Clue>
+      <Clue Row="14" Col="7" Num="60" Dir="Across" Ans="AGED">Like fine wines</Clue>
+      <Clue Row="14" Col="12" Num="61" Dir="Across" Ans="EELS">Sushi bar stock</Clue>
+      <Clue Row="15" Col="1" Num="62" Dir="Across" Ans="EDSEL">Bomb developed in the 1950s</Clue>
+      <Clue Row="15" Col="7" Num="63" Dir="Across" Ans="NED">ESP : Spain :: ___ : Netherlands</Clue>
+      <Clue Row="15" Col="12" Num="64" Dir="Across" Ans="XMAS">Holiday shortening</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="STALKS">Follows closely</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="NOTYOU">"I meant somebody else"</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="ATTIRE">Wear</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="PENNE">Trattoria bowlful</Clue>
+      <Clue Row="1" Col="7" Num="5" Dir="Down" Ans="OPENTOE">Like Birkenstocks</Clue>
+      <Clue Row="1" Col="8" Num="6" Dir="Down" Ans="PITCHIN">Do one's part</Clue>
+      <Clue Row="1" Col="9" Num="7" Dir="Down" Ans="SCREENS">Some basketball tactics</Clue>
+      <Clue Row="1" Col="11" Num="8" Dir="Down" Ans="BUCS">Tampa team, informally</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Down" Ans="OVA">Eggs in a lab</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="CUPCAKES">Bakery trayful</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="CLEANEST">Most upright</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="EARLGREY">Tea choice</Clue>
+      <Clue Row="2" Col="6" Num="14" Dir="Down" Ans="EPA">Org. whose mission involves emissions</Clue>
+      <Clue Row="4" Col="5" Num="20" Dir="Down" Ans="DAM">Stop the flow of</Clue>
+      <Clue Row="4" Col="10" Num="21" Dir="Down" Ans="ROW">Do crew</Clue>
+      <Clue Row="5" Col="12" Num="25" Dir="Down" Ans="FLEA">___ collar</Clue>
+      <Clue Row="6" Col="6" Num="28" Dir="Down" Ans="OLA">Greeting in Rio</Clue>
+      <Clue Row="6" Col="11" Num="29" Dir="Down" Ans="AGO">Past</Clue>
+      <Clue Row="8" Col="1" Num="32" Dir="Down" Ans="APPLEPIE">McDonald's offering since 1968</Clue>
+      <Clue Row="8" Col="2" Num="33" Dir="Down" Ans="LALALAND">Dreamy state</Clue>
+      <Clue Row="8" Col="3" Num="34" Dir="Down" Ans="PIANISTS">Ragtime entertainers, e.g.</Clue>
+      <Clue Row="8" Col="4" Num="35" Dir="Down" Ans="ANYA">Actress Taylor-Joy of 2015's "The Witch"</Clue>
+      <Clue Row="8" Col="5" Num="36" Dir="Down" Ans="CSI">Some detectives' work, for short</Clue>
+      <Clue Row="8" Col="10" Num="37" Dir="Down" Ans="TSK">Shaming sound</Clue>
+      <Clue Row="9" Col="7" Num="39" Dir="Down" Ans="AFRICAN">Like the earliest humans</Clue>
+      <Clue Row="9" Col="8" Num="40" Dir="Down" Ans="COINAGE">Word that no one has ever said before</Clue>
+      <Clue Row="9" Col="9" Num="41" Dir="Down" Ans="ELECTED">Chose</Clue>
+      <Clue Row="10" Col="6" Num="43" Dir="Down" Ans="NEE">Marriage announcement word</Clue>
+      <Clue Row="10" Col="11" Num="44" Dir="Down" Ans="SVU">"Law &amp; Order" spinoff, colloquially</Clue>
+      <Clue Row="10" Col="13" Num="45" Dir="Down" Ans="ESTEEM">Revere</Clue>
+      <Clue Row="10" Col="14" Num="46" Dir="Down" Ans="STELLA">Adler with a noted acting studio</Clue>
+      <Clue Row="10" Col="15" Num="47" Dir="Down" Ans="CARESS">Nice touch</Clue>
+      <Clue Row="11" Col="12" Num="51" Dir="Down" Ans="INDEX">Search simplifier</Clue>
+      <Clue Row="12" Col="5" Num="53" Dir="Down" Ans="BALL">Event for Cinderella</Clue>
+      <Clue Row="12" Col="10" Num="54" Dir="Down" Ans="OED">Voluminous ref.</Clue>
+      <Clue Row="13" Col="4" Num="56" Dir="Down" Ans="TEE">It can give drivers a lift</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>I like it when I have to think about a theme! &quot;Line dancers&quot; become LYIN&#39; DANCERS through the insertion of an &quot;in&quot; sound. Or a long I? Something in between? Hard to explain, but whatever it is, it&#39;s consistent. Line -&gt; LYIN&#39;, moon -&gt; MOOIN&#39;, plain -&gt; PLAYIN&#39;, bean -&gt; BEIN&#39;.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Cupcake" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chocolate_cupcakes_with_cream_icing_and_red_sprinkles.jpg/440px-Chocolate_cupcakes_with_cream_icing_and_red_sprinkles.jpg" style="border:1px solid lightgray; float:right; height:146px; margin:6px 0px 6px 12px; width:220px" title="This BEIN' want CUPCAKES!" /></a></p>
+
+<p>Well, I debated that last one. All the others are clued as verbs, and it&#39;s a fine thing to drop the g off an -ING for folksy effect. But BEING was clued as a human BEING, noun ... since when do we folksify nouns?</p>
+
+<p>I also debated whether this was Thursday material or not. On the one hand, it&#39;s a sound change (addition? replacement?) theme, standard fare for mid-week puzzles. But given how much difficulty I had explaining it &ndash; and I still don&#39;t think I have it quite right &ndash; perhaps it&#39;s okay for a Thursday. Sure made me think.</p>
+
+<p>I&#39;d still greatly prefer trickier concepts for Thursdays, stuff that blows the mind by doing something unique. It&#39;s an important facet of how the NYT crossword distinguishes itself &ndash; not just offering fun, easy puzzles, or tough themelesses, but advancing avant-garde, envelope-pushing material.</p>
+
+<p>It&#39;s those uber-clever Thursdays that first drew me into the NYT crossword. Same for many of my friends.</p>
+
+<p>This is a very tough ask. But I think the NYT team is up for the challenge. If I were Will, I&#39;d up the fee for Thursday puzzles. Maybe even hire a set of regulars specifically for this task. Lock them in a room until they&#39;ve delivered 100 great concepts! A million cruciverbalists, on a million keyboards ...</p>
+
+<p>Big fan of Jim&#39;s grid execution. Delightful stuff in CUPCAKES with EARL GREY, APPLE PIE. Puts me in LA LA LAND! I would have preferred the grid not to choke down at two points in the middle &ndash; it would have been great to get rid of the two black squares after ACES &mdash; but that would have resulted in some tough compromises. The less than optimal grid flow was worth the price of all those goodies, plus a smooth solving experience.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>I can&#39;t help but anagram and make wordplay with stop signs when I&#39;m driving. It&#39;s annoying. Those big white letters just ask to be messed with. POTS, TOPS, SPOT, OPTS. Am I alone in this? I hope so. Anyway, &quot;Stop Sign&quot; sounds an awful lot like &quot;Stop Sighin&#39;!&quot; [&quot;Quit feeling sorry for yourself!&quot;] &quot; which is where this idea sprouted. Alas, the only other theme-type answer that I found which would work with it was &quot;Finish Lyin&#39;!&quot; [&quot;Quit speaking falsehoods!&quot;]. Nonetheless, the idea kept eating at me. </p>
+
+<p>It doesn&#39;t help that I drive a lot. </p>
+
+<p>Rather than pursue the original idea, I decided to try a variation on it by thinking of other words I could elide to create homophones. I eventually found a set in which the vowel sound changed: LYIN&#39; (for &quot;line&quot;), MOOIN&#39; (for &quot;moon&quot;), PLAYIN&#39; (for &quot;plain&quot;), and BEIN&#39; (for &quot;bean&quot;). </p>
+
+<p>I am seriously bothered by the fact that I can&#39;t find a way to use &quot;Stop Sighin!&quot; as a theme answer. It&#39;s like an itch that can&#39;t be scratched. Any help? </p>
+
+<p>As a side note, I couldn&#39;t care less about yield sign wordplay. </p>
+
+<p>Delighted to have a second puzzle in the New York Times.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

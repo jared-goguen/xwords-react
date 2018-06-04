@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Tuesday, May 1, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/30/2018 at 7:13 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Tue, May 01, 2018</Title>
+    <Author>Jacob Stulberg</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/1/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>HEFTS.DTS.OASIS</Row>
+      <Row>ALLOT.IOU.BLINI</Row>
+      <Row>SLAVE.NUEVOLEON</Row>
+      <Row>HIS.REAR.LEAGUE</Row>
+      <Row>.SHANGRILA.NETS</Row>
+      <Row>..LISA.SODA....</Row>
+      <Row>CPAS.DATA.PASTA</Row>
+      <Row>AIMLESS.TREETOP</Row>
+      <Row>REPEL.ACHE.TROT</Row>
+      <Row>....SOME.TONI..</Row>
+      <Row>PAID.RIVERBANK.</Row>
+      <Row>OFNOTE.ILYA.GNU</Row>
+      <Row>ROADBLOCK.MITER</Row>
+      <Row>TONGA.PHI.ALIEN</Row>
+      <Row>STEER.TEN.SLEDS</Row>
+    </Grid>
+    <Circles>
+      <Circle Row="3" Col="3" />
+      <Circle Row="3" Col="4" />
+      <Circle Row="3" Col="5" />
+      <Circle Row="3" Col="7" />
+      <Circle Row="3" Col="8" />
+      <Circle Row="3" Col="9" />
+      <Circle Row="5" Col="9" />
+      <Circle Row="5" Col="10" />
+      <Circle Row="5" Col="12" />
+      <Circle Row="5" Col="13" />
+      <Circle Row="8" Col="7" />
+      <Circle Row="8" Col="9" />
+      <Circle Row="8" Col="10" />
+      <Circle Row="8" Col="11" />
+      <Circle Row="8" Col="12" />
+      <Circle Row="8" Col="13" />
+      <Circle Row="11" Col="4" />
+      <Circle Row="11" Col="6" />
+      <Circle Row="11" Col="7" />
+      <Circle Row="11" Col="8" />
+      <Circle Row="11" Col="9" />
+    </Circles>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="HEFTS">Tests the weight of by lifting</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="DTS">Sot's woe, for short</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Across" Ans="OASIS">Welcome sight in a desert</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="ALLOT">Dole out</Clue>
+      <Clue Row="2" Col="7" Num="15" Dir="Across" Ans="IOU">Slip of paper in a poker pot</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Across" Ans="BLINI">Thin pancakes with sour cream</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="SLAVE">Work like a dog</Clue>
+      <Clue Row="3" Col="7" Num="18" Dir="Across" Ans="NUEVOLEON">Mexican state that touches Texas</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="HIS">"___ Last Bow" (1917 Sherlock Holmes story)</Clue>
+      <Clue Row="4" Col="5" Num="21" Dir="Across" Ans="REAR">Caboose, for a train</Clue>
+      <Clue Row="4" Col="10" Num="23" Dir="Across" Ans="LEAGUE">Alliance</Clue>
+      <Clue Row="5" Col="2" Num="24" Dir="Across" Ans="SHANGRILA">Utopia</Clue>
+      <Clue Row="5" Col="12" Num="27" Dir="Across" Ans="NETS">Aids for butterfly collectors</Clue>
+      <Clue Row="6" Col="3" Num="28" Dir="Across" Ans="LISA">"The Simpsons" girl</Clue>
+      <Clue Row="6" Col="8" Num="29" Dir="Across" Ans="SODA">Cream ___</Clue>
+      <Clue Row="7" Col="1" Num="31" Dir="Across" Ans="CPAS">Busy bees during tax season, for short</Clue>
+      <Clue Row="7" Col="6" Num="33" Dir="Across" Ans="DATA">Figures on a spreadsheet</Clue>
+      <Clue Row="7" Col="11" Num="35" Dir="Across" Ans="PASTA">Macaroni or ravioli</Clue>
+      <Clue Row="8" Col="1" Num="40" Dir="Across" Ans="AIMLESS">Meandering</Clue>
+      <Clue Row="8" Col="9" Num="42" Dir="Across" Ans="TREETOP">"Rock-a-bye Baby" setting</Clue>
+      <Clue Row="9" Col="1" Num="44" Dir="Across" Ans="REPEL">Push away</Clue>
+      <Clue Row="9" Col="7" Num="45" Dir="Across" Ans="ACHE">Yen</Clue>
+      <Clue Row="9" Col="12" Num="47" Dir="Across" Ans="TROT">Gait faster than a walk</Clue>
+      <Clue Row="10" Col="5" Num="48" Dir="Across" Ans="SOME">More than none but less than all</Clue>
+      <Clue Row="10" Col="10" Num="50" Dir="Across" Ans="TONI">Morrison who wrote "Beloved"</Clue>
+      <Clue Row="11" Col="1" Num="52" Dir="Across" Ans="PAID">Word stamped on an invoice</Clue>
+      <Clue Row="11" Col="6" Num="56" Dir="Across" Ans="RIVERBANK">Good place to fish from</Clue>
+      <Clue Row="12" Col="1" Num="59" Dir="Across" Ans="OFNOTE">Salient</Clue>
+      <Clue Row="12" Col="8" Num="61" Dir="Across" Ans="ILYA">Kovalchuk of the N.H.L.</Clue>
+      <Clue Row="12" Col="13" Num="62" Dir="Across" Ans="GNU">African game</Clue>
+      <Clue Row="13" Col="1" Num="64" Dir="Across" Ans="ROADBLOCK">Obstacle ... or any one of four black squares in this puzzle?</Clue>
+      <Clue Row="13" Col="11" Num="66" Dir="Across" Ans="MITER">Bishop's headdress</Clue>
+      <Clue Row="14" Col="1" Num="68" Dir="Across" Ans="TONGA">Polynesian land east of Fiji</Clue>
+      <Clue Row="14" Col="7" Num="69" Dir="Across" Ans="PHI">Greek letter that represents the golden ratio</Clue>
+      <Clue Row="14" Col="11" Num="70" Dir="Across" Ans="ALIEN">Figure in many a sci-fi film</Clue>
+      <Clue Row="15" Col="1" Num="71" Dir="Across" Ans="STEER">Part of a cattle roundup</Clue>
+      <Clue Row="15" Col="7" Num="72" Dir="Across" Ans="TEN">Perfect diving score</Clue>
+      <Clue Row="15" Col="11" Num="73" Dir="Across" Ans="SLEDS">Winter Olympics equipment</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="HASH">Corned beef dish</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ELLIS">Perry of fashion</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="FLASHLAMP">Early means of providing light for a photograph</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="TOV">"Mazel ___!"</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="STERNS">Backs of ships</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="DINAR">Currency of Tunisia</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="TOURIST">Reader of a Fodor's guide</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="SUE">"So ___ me!"</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="OBOE">One of two to four in a standard orchestra</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="ALLAN">Poe's middle name</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="SIEGE">Long, drawn-out fight</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="INOUT">Two-way, as doors</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="SINES">Certain math ratios</Clue>
+      <Clue Row="3" Col="10" Num="19" Dir="Down" Ans="VLAD">Infamous impaler</Clue>
+      <Clue Row="4" Col="6" Num="22" Dir="Down" Ans="EGADS">"Good gravy!"</Clue>
+      <Clue Row="5" Col="4" Num="25" Dir="Down" Ans="AISLE">Bride's path</Clue>
+      <Clue Row="5" Col="9" Num="26" Dir="Down" Ans="LOATH">Unwilling</Clue>
+      <Clue Row="6" Col="11" Num="30" Dir="Down" Ans="APE">Play "monkey see, monkey do"?</Clue>
+      <Clue Row="7" Col="1" Num="31" Dir="Down" Ans="CAR">Airport rental</Clue>
+      <Clue Row="7" Col="2" Num="32" Dir="Down" Ans="PIE">___ chart</Clue>
+      <Clue Row="7" Col="7" Num="34" Dir="Down" Ans="ASAMI">"Same here"</Clue>
+      <Clue Row="7" Col="12" Num="36" Dir="Down" Ans="AETNA">Corporation named after a mountain</Clue>
+      <Clue Row="7" Col="13" Num="37" Dir="Down" Ans="STRINGTIE">Bit of wear for Colonel Sanders</Clue>
+      <Clue Row="7" Col="14" Num="38" Dir="Down" Ans="TOO">As well</Clue>
+      <Clue Row="7" Col="15" Num="39" Dir="Down" Ans="APT">Prone (to)</Clue>
+      <Clue Row="8" Col="5" Num="41" Dir="Down" Ans="ELS">Harlem sights</Clue>
+      <Clue Row="8" Col="10" Num="43" Dir="Down" Ans="RETRY">Take another crack at</Clue>
+      <Clue Row="9" Col="8" Num="46" Dir="Down" Ans="CEVICHE">Latin American seafood dish</Clue>
+      <Clue Row="10" Col="6" Num="49" Dir="Down" Ans="OREL">Pitcher Hershiser</Clue>
+      <Clue Row="10" Col="11" Num="51" Dir="Down" Ans="OBAMAS">White House family with the dog Bo</Clue>
+      <Clue Row="11" Col="1" Num="52" Dir="Down" Ans="PORTS">Strong wines</Clue>
+      <Clue Row="11" Col="2" Num="53" Dir="Down" Ans="AFOOT">Going on</Clue>
+      <Clue Row="11" Col="3" Num="54" Dir="Down" Ans="INANE">Vapid</Clue>
+      <Clue Row="11" Col="4" Num="55" Dir="Down" Ans="DODGE">Word before City or after Fort on Midwest maps</Clue>
+      <Clue Row="11" Col="9" Num="57" Dir="Down" Ans="ELKIN">Stanley who wrote "The Magic Kingdom"</Clue>
+      <Clue Row="11" Col="14" Num="58" Dir="Down" Ans="KNEED">Hit below the belt</Clue>
+      <Clue Row="12" Col="5" Num="60" Dir="Down" Ans="TBAR">Skier's convenience</Clue>
+      <Clue Row="12" Col="15" Num="63" Dir="Down" Ans="URNS">Large coffee holders</Clue>
+      <Clue Row="13" Col="7" Num="65" Dir="Down" Ans="OPT">Go (for)</Clue>
+      <Clue Row="13" Col="12" Num="67" Dir="Down" Ans="ILL">Under the weather</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>ROADBLOCKS today, black squares breaking up &quot;road&quot; synonyms. Wow, was NUEVO LEON tough to figure out! And although I&#39;d seen SHANGRI LA in crosswords before, how bizarre it looked as SHANGRILA (rhyming with &quot;Anguilla&quot;).</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Flash-lamp" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/1909_Victor_Flash_Lamp.jpg/440px-1909_Victor_Flash_Lamp.jpg" style="border:none; float:right; height:250px; margin:6px 0px 6px 12px; width:187px" title="Okay, that's one fun picture of a FLASH LAMP!" /></a></p>
+
+<p>The latter I loved, at least after finally piecing it together. Easily recognizable phrase, and it&#39;s so juicy. That&#39;s the way to execute on a theme like this.</p>
+
+<p>The former (actually NUEVO LEON, nuevo = new) didn&#39;t leave me with a very good feel, wondering if perhaps I got a square wrong somewhere, even after double-checking all the crosses a few times. I like learning something from a crossword, but not when it interferes with the high I get from finishing an early-week puzzle speedily and with confidence. I threw a flag for interference today.</p>
+
+<p>Why not break up AVENUE into *AVEN and UEYS? Maybe SAFE HAVEN?</p>
+
+<p>Not a huge fan of SLAVE in puzzles, either. I realize some people will scoff at me for being too sensitive about this sort of thing, but when there are plenty of <a href="/Finder?word=??AVE">??AVE</a> options, why not choose something that&#39;s more neutral, less likely to cheese off a subset of solvers?</p>
+
+<p>Okay, maybe there wasn&#39;t as much flexibility as usual, since the long down, FLASH LAMP, made the construction tougher. But while I appreciate long downs for their ability to snazz up a puzzle, something like FLASH LAMP doesn&#39;t do much for me.</p>
+
+<p>(STRING TIE is better &ndash; it still feels a bit old-timey, given the Colonel Sanders clue, but it&#39;s not as odd.)</p>
+
+<p>I&#39;d almost rather have broken up FLASH LAMP at the second L. There was already a reasonable amount of juice in TOURIST and CEVICHE, that I&#39;d have preferred living with just those. Breaking up the long downs might have also allowed a smoothing of ELKIN / ILYA, which both felt like they were pushing the boundaries of a Tuesday. Not sure I&#39;d expect a newer solver to be able to get that square right.</p>
+
+<p>A solid idea, but not my ideal execution.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>The original version of today&#39;s puzzle contained TURNPIKE, hidden in UTURN and PIKESPEAK. Will suggested replacing those entries so that all four hidden answers would be local roads - hence DRIVE. I also originally clued STRINGTIE as &quot;Attire for Colonel Sanders,&quot; hoping impishly that a few solvers might enter WHITESUIT.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

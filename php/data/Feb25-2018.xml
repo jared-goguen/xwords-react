@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Sunday, February 25, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 2/24/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sun, Feb 25, 2018 LETTER RECYCLING</Title>
+    <Author>Will Nediger</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>2/25/2018</Date>
+    <Size>
+      <Rows>21</Rows>
+      <Cols>21</Cols>
+    </Size>
+    <Grid>
+      <Row>.FIFE.SWATS.MAKES.CAB</Row>
+      <Row>ERROR.KEYUP.IRATE.OXO</Row>
+      <Row>GEORGIANERA.KESHA.BIG</Row>
+      <Row>BENTON.TSK.NATHANHALE</Row>
+      <Row>EBAY.MUSH.WADEIN.ELLY</Row>
+      <Row>RIG.PISTACHIOS.AORTAS</Row>
+      <Row>TEE.ODEA.HAL..FLUB...</Row>
+      <Row>...PTA.GRATE.KILT.JEW</Row>
+      <Row>WASSAIL.ENID.ORES.ASH</Row>
+      <Row>EYESTRAIN.FIGMENT.RCA</Row>
+      <Row>RECTO.CHER.TUBA.ASFOR</Row>
+      <Row>EAR.CDTOWER.SURFNTURF</Row>
+      <Row>OYE.HEAP.COLT.MODELTS</Row>
+      <Row>NET.ITIS.ADIOS.RIM...</Row>
+      <Row>...SPED..NEE.OVEN.SLR</Row>
+      <Row>ACCESS.ASTOUNDING.CUE</Row>
+      <Row>DOUR.TOPTEN.IAMS.THRU</Row>
+      <Row>DADBLASTED.BCC.ICEMEN</Row>
+      <Row>OCD.IBSEN.CREAMCHEESE</Row>
+      <Row>NHL.ALIST.HENNA.ANAIS</Row>
+      <Row>SKY.MEETS.IDEST.DARN.</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="2" Num="1" Dir="Across" Ans="FIFE">Small flute</Clue>
+      <Clue Row="1" Col="7" Num="5" Dir="Across" Ans="SWATS">Tries to beat the buzzer?</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Across" Ans="MAKES">Throws together</Clue>
+      <Clue Row="1" Col="19" Num="15" Dir="Across" Ans="CAB">Airport waiter?</Clue>
+      <Clue Row="2" Col="1" Num="18" Dir="Across" Ans="ERROR">404 Not Found, e.g.</Clue>
+      <Clue Row="2" Col="7" Num="19" Dir="Across" Ans="KEYUP">Energize</Clue>
+      <Clue Row="2" Col="13" Num="20" Dir="Across" Ans="IRATE">Not happy, to say the least</Clue>
+      <Clue Row="2" Col="19" Num="21" Dir="Across" Ans="OXO">Kitchen brand</Clue>
+      <Clue Row="3" Col="1" Num="22" Dir="Across" Ans="GEORGIANERA">Historical period spelled using only the letters of 2-Down</Clue>
+      <Clue Row="3" Col="13" Num="24" Dir="Across" Ans="KESHA">Singer who once spelled her name with a "$"</Clue>
+      <Clue Row="3" Col="19" Num="25" Dir="Across" Ans="BIG">Word before data or deal</Clue>
+      <Clue Row="4" Col="1" Num="26" Dir="Across" Ans="BENTON">Unlikely to be talked out of</Clue>
+      <Clue Row="4" Col="8" Num="27" Dir="Across" Ans="TSK">"That wasn't nice!"</Clue>
+      <Clue Row="4" Col="12" Num="28" Dir="Across" Ans="NATHANHALE">Revolutionary War hero spelled using only the letters of 13-Down</Clue>
+      <Clue Row="5" Col="1" Num="30" Dir="Across" Ans="EBAY">Website with a "Sell an item" option</Clue>
+      <Clue Row="5" Col="6" Num="31" Dir="Across" Ans="MUSH">Order to go</Clue>
+      <Clue Row="5" Col="11" Num="33" Dir="Across" Ans="WADEIN">Enter the fray</Clue>
+      <Clue Row="5" Col="18" Num="34" Dir="Across" Ans="ELLY">Woman's name that sounds like its second and first letters, respectively</Clue>
+      <Clue Row="6" Col="1" Num="35" Dir="Across" Ans="RIG">Fix</Clue>
+      <Clue Row="6" Col="5" Num="36" Dir="Across" Ans="PISTACHIOS">Snack items spelled using only the letters of 36-Down</Clue>
+      <Clue Row="6" Col="16" Num="38" Dir="Across" Ans="AORTAS">Inner tubes?</Clue>
+      <Clue Row="7" Col="1" Num="40" Dir="Across" Ans="TEE">Casual top</Clue>
+      <Clue Row="7" Col="5" Num="41" Dir="Across" Ans="ODEA">Ancient theaters</Clue>
+      <Clue Row="7" Col="10" Num="42" Dir="Across" Ans="HAL">Prince of Shakespeare</Clue>
+      <Clue Row="7" Col="15" Num="43" Dir="Across" Ans="FLUB">Screw up</Clue>
+      <Clue Row="8" Col="4" Num="44" Dir="Across" Ans="PTA">Fund-raising org.</Clue>
+      <Clue Row="8" Col="8" Num="45" Dir="Across" Ans="GRATE">Be annoying</Clue>
+      <Clue Row="8" Col="14" Num="47" Dir="Across" Ans="KILT">Garment that's often plaid</Clue>
+      <Clue Row="8" Col="19" Num="48" Dir="Across" Ans="JEW">Sukkot celebrant</Clue>
+      <Clue Row="9" Col="1" Num="51" Dir="Across" Ans="WASSAIL">Christmas drink</Clue>
+      <Clue Row="9" Col="9" Num="55" Dir="Across" Ans="ENID">Geraint's wife, in Arthurian romance</Clue>
+      <Clue Row="9" Col="14" Num="56" Dir="Across" Ans="ORES">What assayers assay</Clue>
+      <Clue Row="9" Col="19" Num="57" Dir="Across" Ans="ASH">Butt's end?</Clue>
+      <Clue Row="10" Col="1" Num="58" Dir="Across" Ans="EYESTRAIN">Many an office worker's problem</Clue>
+      <Clue Row="10" Col="11" Num="60" Dir="Across" Ans="FIGMENT">It's imagined</Clue>
+      <Clue Row="10" Col="19" Num="62" Dir="Across" Ans="RCA">TV demonstrator at the 1939 World's Fair</Clue>
+      <Clue Row="11" Col="1" Num="63" Dir="Across" Ans="RECTO">Page 1, e.g.</Clue>
+      <Clue Row="11" Col="7" Num="64" Dir="Across" Ans="CHER">Oscar winner with four #1 Billboard hits</Clue>
+      <Clue Row="11" Col="12" Num="66" Dir="Across" Ans="TUBA">Bass player</Clue>
+      <Clue Row="11" Col="17" Num="67" Dir="Across" Ans="ASFOR">When it comes to</Clue>
+      <Clue Row="12" Col="1" Num="69" Dir="Across" Ans="EAR">You can lend one without letting go of it</Clue>
+      <Clue Row="12" Col="5" Num="70" Dir="Across" Ans="CDTOWER">Jewel case holder</Clue>
+      <Clue Row="12" Col="13" Num="73" Dir="Across" Ans="SURFNTURF">Combo meal entree</Clue>
+      <Clue Row="13" Col="1" Num="75" Dir="Across" Ans="OYE">Spanish "Listen!"</Clue>
+      <Clue Row="13" Col="5" Num="76" Dir="Across" Ans="HEAP">Mound</Clue>
+      <Clue Row="13" Col="10" Num="77" Dir="Across" Ans="COLT">Future stallion</Clue>
+      <Clue Row="13" Col="15" Num="79" Dir="Across" Ans="MODELTS">Tin lizzies</Clue>
+      <Clue Row="14" Col="1" Num="80" Dir="Across" Ans="NET">Basket part</Clue>
+      <Clue Row="14" Col="5" Num="81" Dir="Across" Ans="ITIS">"That so?" reply</Clue>
+      <Clue Row="14" Col="10" Num="82" Dir="Across" Ans="ADIOS">"See you later"</Clue>
+      <Clue Row="14" Col="16" Num="84" Dir="Across" Ans="RIM">Basket part</Clue>
+      <Clue Row="15" Col="4" Num="85" Dir="Across" Ans="SPED">Put the pedal to the metal</Clue>
+      <Clue Row="15" Col="10" Num="86" Dir="Across" Ans="NEE">Word that might be helpful on a class reunion name tag</Clue>
+      <Clue Row="15" Col="14" Num="87" Dir="Across" Ans="OVEN">Rack site</Clue>
+      <Clue Row="15" Col="19" Num="89" Dir="Across" Ans="SLR">Photog's purchase</Clue>
+      <Clue Row="16" Col="1" Num="92" Dir="Across" Ans="ACCESS">What a press pass provides</Clue>
+      <Clue Row="16" Col="8" Num="95" Dir="Across" Ans="ASTOUNDING">Really impressive, spelled using only the letters of 39-Down</Clue>
+      <Clue Row="16" Col="19" Num="98" Dir="Across" Ans="CUE">Chalked stick</Clue>
+      <Clue Row="17" Col="1" Num="99" Dir="Across" Ans="DOUR">Stern-looking</Clue>
+      <Clue Row="17" Col="6" Num="100" Dir="Across" Ans="TOPTEN">Many a year-end list</Clue>
+      <Clue Row="17" Col="13" Num="102" Dir="Across" Ans="IAMS">Alpo alternative</Clue>
+      <Clue Row="17" Col="18" Num="103" Dir="Across" Ans="THRU">Drive-___</Clue>
+      <Clue Row="18" Col="1" Num="104" Dir="Across" Ans="DADBLASTED">No-good, spelled using only the letters of 71-Down</Clue>
+      <Clue Row="18" Col="12" Num="106" Dir="Across" Ans="BCC">Include without notifying others, in a way</Clue>
+      <Clue Row="18" Col="16" Num="107" Dir="Across" Ans="ICEMEN">Bygone deliverers</Clue>
+      <Clue Row="19" Col="1" Num="109" Dir="Across" Ans="OCD">Cause of a tic, for short</Clue>
+      <Clue Row="19" Col="5" Num="110" Dir="Across" Ans="IBSEN">"The Master Builder" playwright</Clue>
+      <Clue Row="19" Col="11" Num="111" Dir="Across" Ans="CREAMCHEESE">Bagel topping spelled using only the letters of 89-Down</Clue>
+      <Clue Row="20" Col="1" Num="113" Dir="Across" Ans="NHL">Penguins' org.</Clue>
+      <Clue Row="20" Col="5" Num="114" Dir="Across" Ans="ALIST">Group of stars</Clue>
+      <Clue Row="20" Col="11" Num="115" Dir="Across" Ans="HENNA">Temporary tattoo material</Clue>
+      <Clue Row="20" Col="17" Num="116" Dir="Across" Ans="ANAIS">Writer Nin</Clue>
+      <Clue Row="21" Col="1" Num="117" Dir="Across" Ans="SKY">Sun spot?</Clue>
+      <Clue Row="21" Col="5" Num="118" Dir="Across" Ans="MEETS">Track schedule</Clue>
+      <Clue Row="21" Col="11" Num="119" Dir="Across" Ans="IDEST">Much-abbreviated Latin phrase</Clue>
+      <Clue Row="21" Col="17" Num="120" Dir="Across" Ans="DARN">"Aw rats!"</Clue>
+      <Clue Row="1" Col="2" Num="1" Dir="Down" Ans="FREEBIE">It's comped</Clue>
+      <Clue Row="1" Col="3" Num="2" Dir="Down" Ans="IRONAGE">Historical period</Clue>
+      <Clue Row="1" Col="4" Num="3" Dir="Down" Ans="FORTY">Double a score</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Down" Ans="ERGO">Therefore</Clue>
+      <Clue Row="1" Col="7" Num="5" Dir="Down" Ans="SKA">Jamaican export</Clue>
+      <Clue Row="1" Col="8" Num="6" Dir="Down" Ans="WENTSTAG">Was dateless</Clue>
+      <Clue Row="1" Col="9" Num="7" Dir="Down" Ans="AYESHA">Muhammad's favorite wife</Clue>
+      <Clue Row="1" Col="10" Num="8" Dir="Down" Ans="TURK">Young ___</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="SPA">Place to get pampered</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="MIKADO">Nanki-Poo's father, with "the"</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="ARETES">Glacial ridges</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="KASHI">Whole-grain cereal brand</Clue>
+      <Clue Row="1" Col="16" Num="13" Dir="Down" Ans="ETHANALLEN">Revolutionary War hero</Clue>
+      <Clue Row="1" Col="17" Num="14" Dir="Down" Ans="SEAN">Jamaican rapper ___ Paul</Clue>
+      <Clue Row="1" Col="19" Num="15" Dir="Down" Ans="COBALT">Shade of blue</Clue>
+      <Clue Row="1" Col="20" Num="16" Dir="Down" Ans="AXILLA">Armpit, medically</Clue>
+      <Clue Row="1" Col="21" Num="17" Dir="Down" Ans="BOGEYS">Ones not up to par?</Clue>
+      <Clue Row="2" Col="1" Num="18" Dir="Down" Ans="EGBERT">Grandfather of Alfred the Great</Clue>
+      <Clue Row="3" Col="6" Num="23" Dir="Down" Ans="INMIDAIR">Aloft</Clue>
+      <Clue Row="4" Col="12" Num="28" Dir="Down" Ans="NAILEDIT">Sarcastic response to a fail</Clue>
+      <Clue Row="4" Col="18" Num="29" Dir="Down" Ans="HERB">Basil, e.g.</Clue>
+      <Clue Row="5" Col="7" Num="32" Dir="Down" Ans="USE">Word before "before"</Clue>
+      <Clue Row="5" Col="11" Num="33" Dir="Down" Ans="WHATIF">Hypothetical</Clue>
+      <Clue Row="6" Col="5" Num="36" Dir="Down" Ans="POTATOCHIPS">Snack items</Clue>
+      <Clue Row="6" Col="10" Num="37" Dir="Down" Ans="CHAN">Jackie of "The Tuxedo"</Clue>
+      <Clue Row="6" Col="17" Num="39" Dir="Down" Ans="OUTSTANDING">Really impressive</Clue>
+      <Clue Row="7" Col="15" Num="43" Dir="Down" Ans="FIREARM">Holder of shells</Clue>
+      <Clue Row="8" Col="4" Num="44" Dir="Down" Ans="PSST">"Hey!"</Clue>
+      <Clue Row="8" Col="9" Num="46" Dir="Down" Ans="RENEW">Approve another season of</Clue>
+      <Clue Row="8" Col="14" Num="47" Dir="Down" Ans="KOMBU">Seaweed in Japanese cuisine</Clue>
+      <Clue Row="8" Col="19" Num="48" Dir="Down" Ans="JARFUL">Amount of jam or jelly beans</Clue>
+      <Clue Row="8" Col="20" Num="49" Dir="Down" Ans="ESCORT">Part of a motorcade</Clue>
+      <Clue Row="8" Col="21" Num="50" Dir="Down" Ans="WHARFS">Berth places</Clue>
+      <Clue Row="9" Col="1" Num="51" Dir="Down" Ans="WEREON">"You and I have a deal!"</Clue>
+      <Clue Row="9" Col="2" Num="52" Dir="Down" Ans="AYEAYE">Roger in the Navy</Clue>
+      <Clue Row="9" Col="3" Num="53" Dir="Down" Ans="SECRET">Clandestine</Clue>
+      <Clue Row="9" Col="7" Num="54" Dir="Down" Ans="LACTAID">Brand in the dairy aisle</Clue>
+      <Clue Row="10" Col="8" Num="59" Dir="Down" Ans="IHOPS">Breakfast spots</Clue>
+      <Clue Row="10" Col="13" Num="61" Dir="Down" Ans="GUSTO">Relish</Clue>
+      <Clue Row="11" Col="10" Num="65" Dir="Down" Ans="RECANTED">Took back one's story</Clue>
+      <Clue Row="11" Col="18" Num="68" Dir="Down" Ans="STEM">Cherry throwaway</Clue>
+      <Clue Row="12" Col="6" Num="71" Dir="Down" Ans="DETESTABLE">No-good</Clue>
+      <Clue Row="12" Col="11" Num="72" Dir="Down" Ans="RODEON">Was mounted atop</Clue>
+      <Clue Row="12" Col="16" Num="74" Dir="Down" Ans="FORENSIC">Kind of medicine</Clue>
+      <Clue Row="13" Col="12" Num="78" Dir="Down" Ans="LIEU">In ___ of</Clue>
+      <Clue Row="14" Col="14" Num="83" Dir="Down" Ans="SODACANS">Six things in some six-packs</Clue>
+      <Clue Row="15" Col="4" Num="85" Dir="Down" Ans="SERB">Neighbor of a Montenegrin</Clue>
+      <Clue Row="15" Col="15" Num="88" Dir="Down" Ans="VIM">Pep</Clue>
+      <Clue Row="15" Col="19" Num="89" Dir="Down" Ans="SCHMEAR">Bagel topping</Clue>
+      <Clue Row="15" Col="20" Num="90" Dir="Down" Ans="LURESIN">Slyly attracts</Clue>
+      <Clue Row="15" Col="21" Num="91" Dir="Down" Ans="REUNES">Gets back together</Clue>
+      <Clue Row="16" Col="1" Num="92" Dir="Down" Ans="ADDONS">Extras</Clue>
+      <Clue Row="16" Col="2" Num="93" Dir="Down" Ans="COACHK">Nickname of Duke basketball's Mike Krzyzewski</Clue>
+      <Clue Row="16" Col="3" Num="94" Dir="Down" Ans="CUDDLY">Huggable</Clue>
+      <Clue Row="16" Col="8" Num="95" Dir="Down" Ans="APTEST">Challenge for a college-bound student, maybe</Clue>
+      <Clue Row="16" Col="9" Num="96" Dir="Down" Ans="STENTS">Medical inserts</Clue>
+      <Clue Row="16" Col="13" Num="97" Dir="Down" Ans="NICENE">___ Creed (Christian statement of faith)</Clue>
+      <Clue Row="17" Col="7" Num="101" Dir="Down" Ans="OSSIE">Actor Davis</Clue>
+      <Clue Row="17" Col="18" Num="103" Dir="Down" Ans="TEENA">Lead role in "Boys Don't Cry," 1999</Clue>
+      <Clue Row="18" Col="5" Num="105" Dir="Down" Ans="LIAM">Neeson of "Schindler's List"</Clue>
+      <Clue Row="18" Col="12" Num="106" Dir="Down" Ans="BRED">Fostered</Clue>
+      <Clue Row="18" Col="17" Num="108" Dir="Down" Ans="CHAD">Ballot hanger</Clue>
+      <Clue Row="19" Col="11" Num="111" Dir="Down" Ans="CHI">X</Clue>
+      <Clue Row="19" Col="15" Num="112" Dir="Down" Ans="MAT">Dojo surface</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>NATHAN HALE made up of the letters within ETHAN ALLEN? How cool! And ASTOUNDING made up of the letters within OUTSTANDING? These findings aren&#39;t as cool as direct anagrams &ndash; much more flexibility when you can use more or fewer instances of the letters however you want &ndash; but still, DADBLASTED made up out of the letters within DETESTABLE was pretty awesome.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Nathan_Hale" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Nathan_Hale_1925_Issue-half-cent.jpg/440px-Nathan_Hale_1925_Issue-half-cent.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:214px" title="NATHAN HALE has a little bit of ETHAN ALLEN in him" /></a></p>
+
+<p>Not as much a fan of PISTACHIOS / POTATO CHIPS. Okay, they&#39;re both snack foods. But that&#39;s a pretty gigantic category. Certainly not as tight as &quot;Revolutionary war heroes&quot; or direct synonyms.</p>
+
+<p>GEORGIAN ERA and IRON AGE, too. Perhaps if those two time frames were closer &hellip;</p>
+
+<p>CREAM CHEESE made of the letters in SCHMEAR, now that was a great way to end the puzzle. I have a bagel with CREAM CHEESE most every morning, but I&#39;ve never noticed this finding. Great stuff.</p>
+
+<p>Also great was Will&#39;s gridwork. Working in six crossing pairs of long(ish) answers into a Sunday grid should be impossible to do without relying on an excess of crossword glue. Most constructors have to splorch on a (very) noticeable amount of glue in order to just made a standard seven-themer Sunday puzzle work. There were a couple of toughies in ARETES, RECTO, KOMBU, REUNES, but wow. To keep it to just that is amazing.</p>
+
+<p>Will did such a nice job in setting up his grid skeleton and using black squares to keep the themers separated. I highlighted the themers below, so you can better see how careful his spacing was. Such intricate nesting!</p>
+
+<p>My only knock: an overreliance on +preposition phrases. WERE ON, RODE ON, LURES IN, WADE IN, BENT ON &hellip; talk about ADD ONS! Generally, these are fine entries, but the glut grated on my sensibilities. If only a few of those slots had been used for things like APTEST, COBALT, TOP TEN, etc.</p>
+
+<p>At first, I wasn&#39;t as impressed as I wanted to be, given that these were something less than direct anagrams. But I liked how the concept opened up room for direct synonyms and tight pairs like NATHAN HALE and ETHAN ALLEN &ndash; something that direct anagrams won&#39;t usually allow. Along with the strong gridwork, this would have been a POW! pick, if some of the pairs hadn&#39;t felt too loosey-goosey.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>The inspiration for this theme was noticing that CREAM CHEESE and SCHMEAR share the same set of letters, and can both be clued as [Bagel topping]. So I had the idea of a bunch of pairs of entries that share both clues and letter banks, and I brainstormed for a while and came up with around a dozen pairs. (ETHAN ALLEN and NATHAN HALE was a fortuitous find &mdash; they were both mentioned within a few seconds of each other on an episode of <em>Outlander</em>.) The only problem is that I needed many, many more pairs to be able to make a theme that fits symmetrically, and coming up with enough by myself would have taken years, so I enlisted a friend to write some code for me &mdash; shoutout to Samir Khan for making this crossword possible. Samir generated thousands of pairs from my word list, and I combed through them to find ones that might work.</p>
+
+<p>Will liked my first submission, but there was one pair that didn&#39;t fit with the rest - SILENT K and TELEKINESIS, which I had clued along the lines of [Something a Jedi Knight has]. That clue involved trickery, unlike the rest, so he had me replace it. Easier said than done to find a pair that would fit in that exact spot, but eventually, I found a replacement. Anyway, I&#39;ve gone on for a lot longer than I usually do, but that&#39;s because a ton of time went into this theme!</p>
+
+<p>I&#39;ll just leave readers with a few pairs which didn&#39;t quite work for the theme, but which I enjoyed coming across anyway:</p>
+
+<ul>
+	<li>COASTAL ELITES / SOCIALIST STATE</li>
+	<li>APPASSIONATA / PIANO SONATA</li>
+	<li>FORNICATING / GRATIFICATION</li>
+	<li>NATALIE PORTMAN / EMPEROR PALPATINE</li>
+	<li>FOOT FETISH / IF THE SHOE FITS</li>
+	<li>IT AIN&#39;T OVER TILL IT&#39;S OVER / IT&#39;S NEVER TOO LATE</li>
+	<li>GASTROINTESTINAL / INTERNAL ORGANS</li>
+	<li>DOPPELGANGER / EDGAR ALLAN POE</li>
+</ul>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

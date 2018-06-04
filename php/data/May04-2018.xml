@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Friday, May 4, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/3/2018 at 7:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Fri, May 04, 2018</Title>
+    <Author>Michael Hawkins</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/4/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>HACKTIVISM.ACID</Row>
+      <Row>IMPRESARIO.FADE</Row>
+      <Row>STAYCATION.CROC</Row>
+      <Row>...PSY.SUE.WALK</Row>
+      <Row>TROT....XYLEM..</Row>
+      <Row>RENO.FAT.TASERS</Row>
+      <Row>OPENWIDE.ATTLEE</Row>
+      <Row>YES.REDEALT.CDT</Row>
+      <Row>ENTAIL.TAKESOFF</Row>
+      <Row>STONED.HAS.ERIE</Row>
+      <Row>..PARTY....ANNE</Row>
+      <Row>FAST.REF.WES...</Row>
+      <Row>IMHO.INELEGANCE</Row>
+      <Row>LOOM.ATLONGLAST</Row>
+      <Row>ESPY.LETSDOTHIS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="HACKTIVISM">Subversive use of computers to promote a political agenda</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Across" Ans="ACID">Sharp</Clue>
+      <Clue Row="2" Col="1" Num="15" Dir="Across" Ans="IMPRESARIO">One who gets the show on the road</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="FADE">Dim</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="STAYCATION">What's not going anywhere?</Clue>
+      <Clue Row="3" Col="12" Num="18" Dir="Across" Ans="CROC">Animal with a big bite, informally</Clue>
+      <Clue Row="4" Col="4" Num="19" Dir="Across" Ans="PSY">Liberal arts dept.</Clue>
+      <Clue Row="4" Col="8" Num="20" Dir="Across" Ans="SUE">Exact revenge legally</Clue>
+      <Clue Row="4" Col="12" Num="21" Dir="Across" Ans="WALK">Constitutional</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="TROT">Bring (out)</Clue>
+      <Clue Row="5" Col="9" Num="25" Dir="Across" Ans="XYLEM">Plant tissue</Clue>
+      <Clue Row="6" Col="1" Num="27" Dir="Across" Ans="RENO">Apt rhyme for "casino"</Clue>
+      <Clue Row="6" Col="6" Num="28" Dir="Across" Ans="FAT">Some animal tissue</Clue>
+      <Clue Row="6" Col="10" Num="31" Dir="Across" Ans="TASERS">Stunners</Clue>
+      <Clue Row="7" Col="1" Num="34" Dir="Across" Ans="OPENWIDE">Dentist's direction</Clue>
+      <Clue Row="7" Col="10" Num="36" Dir="Across" Ans="ATTLEE">1940s P.M.</Clue>
+      <Clue Row="8" Col="1" Num="37" Dir="Across" Ans="YES">"May I help you?"</Clue>
+      <Clue Row="8" Col="5" Num="38" Dir="Across" Ans="REDEALT">Gave secondhand?</Clue>
+      <Clue Row="8" Col="13" Num="40" Dir="Across" Ans="CDT">What the middle of the U.S. is usually on, for short</Clue>
+      <Clue Row="9" Col="1" Num="41" Dir="Across" Ans="ENTAIL">Involve</Clue>
+      <Clue Row="9" Col="8" Num="43" Dir="Across" Ans="TAKESOFF">Becomes successful</Clue>
+      <Clue Row="10" Col="1" Num="45" Dir="Across" Ans="STONED">Baked</Clue>
+      <Clue Row="10" Col="8" Num="46" Dir="Across" Ans="HAS">Eats</Clue>
+      <Clue Row="10" Col="12" Num="47" Dir="Across" Ans="ERIE">One of the Greats?</Clue>
+      <Clue Row="11" Col="3" Num="48" Dir="Across" Ans="PARTY">Have a good time</Clue>
+      <Clue Row="11" Col="12" Num="50" Dir="Across" Ans="ANNE">Sci-fi writer McCaffrey, who was the first woman to win a Hugo for fiction</Clue>
+      <Clue Row="12" Col="1" Num="51" Dir="Across" Ans="FAST">Not eat</Clue>
+      <Clue Row="12" Col="6" Num="53" Dir="Across" Ans="REF">Not a team player</Clue>
+      <Clue Row="12" Col="10" Num="55" Dir="Across" Ans="WES">Director Anderson</Clue>
+      <Clue Row="13" Col="1" Num="57" Dir="Across" Ans="IMHO">Texting preamble</Clue>
+      <Clue Row="13" Col="6" Num="58" Dir="Across" Ans="INELEGANCE">Lack of polish</Clue>
+      <Clue Row="14" Col="1" Num="63" Dir="Across" Ans="LOOM">Portend</Clue>
+      <Clue Row="14" Col="6" Num="64" Dir="Across" Ans="ATLONGLAST">Finally</Clue>
+      <Clue Row="15" Col="1" Num="65" Dir="Across" Ans="ESPY">Lay eyes on</Clue>
+      <Clue Row="15" Col="6" Num="66" Dir="Across" Ans="LETSDOTHIS">"How about we get started?!"</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="HIS">Some hand waves</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="AMT">Tsp. or tbsp.</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="CPA">Keeper of the books, for short</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="KRYPTON">DC area?</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="TECS">Private eyes</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="ISAY">Brit's exclamation</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="VAT">It has a large holding area</Clue>
+      <Clue Row="1" Col="8" Num="8" Dir="Down" Ans="IRIS">Good name for an optometrist</Clue>
+      <Clue Row="1" Col="9" Num="9" Dir="Down" Ans="SIOUX">One signatory to the Treaty of Fort Laramie</Clue>
+      <Clue Row="1" Col="10" Num="10" Dir="Down" Ans="MONEYTALKS">"Mere rhetoric is not enough"</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="AFCWEST">The K.C. Chiefs are in it</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="CARAMELCORN">Snack at a county fair or baseball park</Clue>
+      <Clue Row="1" Col="14" Num="13" Dir="Down" Ans="IDOL">Indiana Jones pursuit</Clue>
+      <Clue Row="1" Col="15" Num="14" Dir="Down" Ans="DECK">K.O.</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Down" Ans="TROYES">French city where an English/French treaty was signed in 1420</Clue>
+      <Clue Row="5" Col="2" Num="23" Dir="Down" Ans="REPENT">Evangelist's exhortation</Clue>
+      <Clue Row="5" Col="3" Num="24" Dir="Down" Ans="ONESTOPSHOP">What has a lot in store for you?</Clue>
+      <Clue Row="5" Col="11" Num="26" Dir="Down" Ans="LATTE">___ machine (restaurant fixture)</Clue>
+      <Clue Row="6" Col="6" Num="28" Dir="Down" Ans="FIELDTRIAL">Research done outside the lab</Clue>
+      <Clue Row="6" Col="7" Num="29" Dir="Down" Ans="ADD">Put together</Clue>
+      <Clue Row="6" Col="8" Num="30" Dir="Down" Ans="TEETH">Crown holders</Clue>
+      <Clue Row="6" Col="14" Num="32" Dir="Down" Ans="REDFIN">Freshwater minnow</Clue>
+      <Clue Row="6" Col="15" Num="33" Dir="Down" Ans="SETFEE">Fixed rate</Clue>
+      <Clue Row="7" Col="5" Num="35" Dir="Down" Ans="WRIER">Comparatively twisted</Clue>
+      <Clue Row="8" Col="9" Num="39" Dir="Down" Ans="AAA">Org. found early in the phone book</Clue>
+      <Clue Row="9" Col="4" Num="42" Dir="Down" Ans="ANATOMY">Gray area?</Clue>
+      <Clue Row="9" Col="12" Num="44" Dir="Down" Ans="SEASALT">Natural seasoning</Clue>
+      <Clue Row="11" Col="7" Num="49" Dir="Down" Ans="YENTE">Gossipmonger</Clue>
+      <Clue Row="12" Col="1" Num="51" Dir="Down" Ans="FILE">Computer menu heading</Clue>
+      <Clue Row="12" Col="2" Num="52" Dir="Down" Ans="AMOS">Contemporary of Hosea</Clue>
+      <Clue Row="12" Col="8" Num="54" Dir="Down" Ans="FELT">Pool surface</Clue>
+      <Clue Row="12" Col="10" Num="55" Dir="Down" Ans="WEND">Proceed on one's way</Clue>
+      <Clue Row="12" Col="11" Num="56" Dir="Down" Ans="EGGO">Breakfast item in a box</Clue>
+      <Clue Row="13" Col="9" Num="59" Dir="Down" Ans="LOS">"___ Olvidados" (1950 Luis Buñuel film)</Clue>
+      <Clue Row="13" Col="13" Num="60" Dir="Down" Ans="NAH">Slangy turndown</Clue>
+      <Clue Row="13" Col="14" Num="61" Dir="Down" Ans="CSI">Long-running procedural</Clue>
+      <Clue Row="13" Col="15" Num="62" Dir="Down" Ans="ETS">Arrivals in "Arrival," for short</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Mike&#39;s had an impressive run of themeless acceptances &mdash; his rate is much higher than most anyone I know. He said the secret is to stick with 72 words, making every one of your long entries count. And of course, minimizing your crossword glue. Easy peasy!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Krypton" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/William_Ramsay_working.jpg/440px-William_Ramsay_working.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:163px" title="Wait, that's not Superman ..." /></a></p>
+
+<p>Nice example in the NW, a great triplet of HACKTIVISM / IMPRESARIO / STAYCATION. Editors tend to value multi-word entries since they&#39;re often more colorful than one-worders. Plus, parsing them makes for a fun solving challenge. But these one-worders are nice. A bit of AMT, TECS holding it together, but both of those are minor.</p>
+
+<p>Mike usually sticks to straightforward themeless grids, focusing all his juice in the four corners, with each corner having three stacked long entries. So it was nice to see him branch out with MONEY TALKS running through the NW stack, and KRYPTON / OPEN WIDE making the puzzle feel like it had good stuff woven all through it. I like it when something fun pops up everywhere you turn.</p>
+
+<p>I&#39;m realizing more and more that there are different tiers of themeless feature entries, and my method for evaluation is shifting. To me, the best entries those that are both 1.) snazzy in their own right, and 2.) ripe for a clever clue. ONE STOP SHOP hits both of those right on. &quot;Has a lot in store for you&quot; made me laugh. Very well done, Mike!</p>
+
+<p>HACKTIVISM is a fantastic headliner. But since not everyone will know what it means, it must have a definitional clue. So it doesn&#39;t hit criterion #2 for me. It&#39;s still a colorful phrase, just not an entry that ticks all the boxes anymore for me.</p>
+
+<p>KRYPTON might be a dull entry for some, but its clue made it shine. DC area wasn&#39;t the District of Columbia, but DC Comics &ndash; as in Superman&#39;s homeworld! So although the entry might fall short of criterion #1 for some, it hits #2 with high marks.</p>
+
+<p>A lot of strong entries, not much crossword glue. If it had had a little more pizzazz overall, it would have been my POW!</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>Today&#39;s puzzle is my first solo themeless puzzle after collaborating with John Guzzetta on my first three. Because we received some editorial pushback on previous portmanteaus, I worried a bit about stacking HACKTIVISM and STAYCATION in such close proximity. Will liked both, so perhaps these entries are regarded as more common. </p>
+
+<p>Many of my favorite clues survived the edit, including &quot;DC area?&quot; for KRYPTON and &quot;What has a lot in store for you?&quot; for ONESTOPSHOP. &quot;Long Division?&quot; for AFCWEST did not make the cut however, likely because Howie has been too long out of the game.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Thursday, May 10, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/9/2018 at 7:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Thu, May 10, 2018</Title>
+    <Author>Caitlin Reid</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/10/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>IRATE.BLAHS.LAM</Row>
+      <Row>REFIT.EERIE.EAR</Row>
+      <Row>KARMA.AFTRA.NTH</Row>
+      <Row>SLAB.ONTHEMONEY</Row>
+      <Row>.SIREN.FURYROAD</Row>
+      <Row>MODERATOR..INME</Row>
+      <Row>LOS.IBAR.TEE...</Row>
+      <Row>KNOCKEM.ORALIVE</Row>
+      <Row>...RAT.BEES.FAN</Row>
+      <Row>ERSE..SERVEDOUT</Row>
+      <Row>NICEIDEA.ODOUL.</Row>
+      <Row>DEADCENTER.ONTV</Row>
+      <Row>ISP.ABODE.EDDIE</Row>
+      <Row>VEE.MURAL.GLINT</Row>
+      <Row>ENS.EGADS.GETGO</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="IRATE">Very sore</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="BLAHS">Monday feeling, with "the"</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Across" Ans="LAM">Take flight?</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="REFIT">Overhaul</Clue>
+      <Clue Row="2" Col="7" Num="15" Dir="Across" Ans="EERIE">Unsettling, in a way</Clue>
+      <Clue Row="2" Col="13" Num="16" Dir="Across" Ans="EAR">Something found near a temple</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="KARMA">Kismet</Clue>
+      <Clue Row="3" Col="7" Num="18" Dir="Across" Ans="AFTRA">SAG partner</Clue>
+      <Clue Row="3" Col="13" Num="19" Dir="Across" Ans="NTH">Kind of degree</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="SLAB">Big piece of a sheet cake</Clue>
+      <Clue Row="4" Col="6" Num="21" Dir="Across" Ans="ONTHEMONEY">Well-aimed</Clue>
+      <Clue Row="5" Col="2" Num="23" Dir="Across" Ans="SIREN">Street clearer</Clue>
+      <Clue Row="5" Col="8" Num="25" Dir="Across" Ans="FURYROAD">2015 "Mad Max" reboot, familiarly</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Across" Ans="MODERATOR">Debate figure</Clue>
+      <Clue Row="6" Col="12" Num="28" Dir="Across" Ans="INME">"You've Got a Friend ___" (song from "Toy Story")</Clue>
+      <Clue Row="7" Col="1" Num="29" Dir="Across" Ans="LOS">Part of L.A.P.D.</Clue>
+      <Clue Row="7" Col="5" Num="30" Dir="Across" Ans="IBAR">Skyscraper support</Clue>
+      <Clue Row="7" Col="10" Num="31" Dir="Across" Ans="TEE">Football kickoff aid</Clue>
+      <Clue Row="8" Col="1" Num="33" Dir="Across" Ans="KNOCKEMDEAD">"Break a leg!"</Clue>
+      <Clue Row="8" Col="9" Num="35" Dir="Across" Ans="DEADORALIVE">In any condition, as an outlaw</Clue>
+      <Clue Row="9" Col="4" Num="39" Dir="Across" Ans="RAT">Snitch</Clue>
+      <Clue Row="9" Col="8" Num="40" Dir="Across" Ans="BEES">Honey bunches?</Clue>
+      <Clue Row="9" Col="13" Num="41" Dir="Across" Ans="FAN">Spread (out)</Clue>
+      <Clue Row="10" Col="1" Num="42" Dir="Across" Ans="ERSE">Gaelic language</Clue>
+      <Clue Row="10" Col="7" Num="45" Dir="Across" Ans="SERVEDOUT">Finished, as a term of office</Clue>
+      <Clue Row="11" Col="1" Num="47" Dir="Across" Ans="NICEIDEA">"You're clever!"</Clue>
+      <Clue Row="11" Col="10" Num="50" Dir="Across" Ans="ODOUL">Baseball's Lefty</Clue>
+      <Clue Row="12" Col="1" Num="51" Dir="Across" Ans="DEADCENTER">Bull's-eye ... or a hint to this puzzle's theme</Clue>
+      <Clue Row="12" Col="12" Num="53" Dir="Across" Ans="ONTV">Being broadcast</Clue>
+      <Clue Row="13" Col="1" Num="55" Dir="Across" Ans="ISP">Spectrum or Xfinity, briefly</Clue>
+      <Clue Row="13" Col="5" Num="56" Dir="Across" Ans="ABODE">Dwelling</Clue>
+      <Clue Row="13" Col="11" Num="57" Dir="Across" Ans="EDDIE">Guitarist Van Halen</Clue>
+      <Clue Row="14" Col="1" Num="58" Dir="Across" Ans="VEE">Fork in the road, basically</Clue>
+      <Clue Row="14" Col="5" Num="59" Dir="Across" Ans="MURAL">Diego Rivera's specialty</Clue>
+      <Clue Row="14" Col="11" Num="60" Dir="Across" Ans="GLINT">Twinkle</Clue>
+      <Clue Row="15" Col="1" Num="61" Dir="Across" Ans="ENS">Half of none?</Clue>
+      <Clue Row="15" Col="5" Num="62" Dir="Across" Ans="EGADS">Bygone equivalent of "OMG!"</Clue>
+      <Clue Row="15" Col="11" Num="63" Dir="Across" Ans="GETGO">Beginning, informally</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="IRKS">Peeves</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="REALSOON">Not too far from now</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="AFRAIDSO">"Yes, unfortunately"</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="TIMBRE">Sound quality</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="ETA">Gate info</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="BEAN">Noggin</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="LEFTFORDEAD">Abandoned while there still might have been hope</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="ARTHUR">PBS Kids' cartoon aardvark</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="HIRER">Personnel director, at times</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="SEAMY">Sordid</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="LENNON">One of the Fab Four</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="AATEAM">Jackson Generals or Portland Sea Dogs</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="MRHYDE">One half of a "strange case"</Clue>
+      <Clue Row="4" Col="6" Num="21" Dir="Down" Ans="ONABET">How money may be lost</Clue>
+      <Clue Row="4" Col="12" Num="22" Dir="Down" Ans="ORIEL">Bay window</Clue>
+      <Clue Row="5" Col="5" Num="24" Dir="Down" Ans="ERIKA">"Parenthood" actress Christensen</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Down" Ans="MLK">Jan. honoree</Clue>
+      <Clue Row="6" Col="7" Num="27" Dir="Down" Ans="TAM">Laddie topper</Clue>
+      <Clue Row="7" Col="10" Num="31" Dir="Down" Ans="TREVOR">"The Daily Show" host after Jon</Clue>
+      <Clue Row="7" Col="11" Num="32" Dir="Down" Ans="EASED">Soothed</Clue>
+      <Clue Row="8" Col="4" Num="34" Dir="Down" Ans="CREED">Rifleman's ___ (part of Marine training)</Clue>
+      <Clue Row="8" Col="9" Num="35" Dir="Down" Ans="OER">"The Strife Is ___, the Battle Done" (old hymn)</Clue>
+      <Clue Row="8" Col="13" Num="36" Dir="Down" Ans="IFOUNDIT">"Eureka!"</Clue>
+      <Clue Row="8" Col="14" Num="37" Dir="Down" Ans="VAULTING">Springing over</Clue>
+      <Clue Row="8" Col="15" Num="38" Dir="Down" Ans="ENT">Tolkien creature</Clue>
+      <Clue Row="9" Col="8" Num="40" Dir="Down" Ans="DEADBEATDAD">Certain absentee parent</Clue>
+      <Clue Row="10" Col="1" Num="42" Dir="Down" Ans="ENDIVE">Salad vegetable</Clue>
+      <Clue Row="10" Col="2" Num="43" Dir="Down" Ans="RIESEN">German chocolate brand</Clue>
+      <Clue Row="10" Col="3" Num="44" Dir="Down" Ans="SCAPES">Views from sea or land</Clue>
+      <Clue Row="10" Col="7" Num="45" Dir="Down" Ans="SENORA">Half of a Spanish union</Clue>
+      <Clue Row="10" Col="12" Num="46" Dir="Down" Ans="DOODLE">Output during a boring meeting, say</Clue>
+      <Clue Row="11" Col="5" Num="48" Dir="Down" Ans="ICAME">Start of an old boast</Clue>
+      <Clue Row="11" Col="6" Num="49" Dir="Down" Ans="DEBUG">Put through beta testing</Clue>
+      <Clue Row="12" Col="9" Num="52" Dir="Down" Ans="EELS">Certain reef dwellers</Clue>
+      <Clue Row="12" Col="15" Num="54" Dir="Down" Ans="VETO">Reject</Clue>
+      <Clue Row="13" Col="11" Num="57" Dir="Down" Ans="EGG">It may be beaten and eaten</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Great debut! Interesting and twisty theme, perfect for a Thursday, where I want all my hard solving work to have a big payoff. DEAD CENTER hints at the word DEAD being in the black square at the center of the puzzle, completing LEFT FOR (DEAD), (DEAD) OR ALIVE, (DEAD)BEAT DAD, KNOCK EM (DEAD). Four snazzy theme phrases!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rsl1.jpg/340px-Rsl1.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:207px" title="Stevenson ... or HYDE?" /></a></p>
+
+<p>At first, I didn&#39;t notice that ON THE MONEY was also thematic, a synonym for hitting DEAD CENTER. It&#39;s not easy to symmetrically interlock LEFT FOR / ON THE MONEY and BEAT DAD / DEAD CENTER. It&#39;s rare that the crossword gods smile upon constructors so fortuitously.</p>
+
+<p>It&#39;s especially rare, considering how few (DEAD) phrases Caitlin had to choose from. Sure, there are a lot of phrases involving the word DEAD, but how many are exactly 7 + 4 = 11 letters long, with DEAD at the very start or beginning?</p>
+
+<p>I so badly wanted the single DEAD black square to be by itself, not touching any others. It would have been awesome if the other black squares around the middle had formed a quasi-bullseye shape, or been arranged like a shotgun spray. It would have been possible &ndash; I was interested enough to lay out a quick grid skeleton &ndash; but it would have been much harder to fill well.</p>
+
+<p>Speaking of filling well, REAL SOON / AFRAID SO! LENNON / AA TEAM / MR HYDE! Even TIMBRE and DOODLE helped out. Not as big on SERVED OUT, pretty dull, but FURY ROAD was a NICE IDEA for a movie (and very entertaining!). Not sure FURY ROAD will remain crossworthy 10 years into the future, but it&#39;s spicy right now.</p>
+
+<p>Nice job on the short fill, too. I counted a bit of ENS INME and the tough-if-you-don&#39;t-know-it AFTRA, but that&#39;s solid work, especially considering that the themers interlocked to form an inflexible skeleton.</p>
+
+<p>Well done! Very much looking forward to more from Caitlin.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>Hello fellow crossword enthusiasts! It&#39;d be an understatement to say I&#39;m positively thrilled about making my debut in the New York Times (or anywhere for that matter!). A life-long lover of solving crosswords, I decided last year to try my hand at making them in any spare time I could muster as a stay-at-home mom of four young children. What began as a personal challenge has become a full-blown passion, and I don&#39;t think I&#39;ll tire of this any time soon.</p>
+
+<p>As a solver, I especially love the extra gimmicks in the Thursday puzzles, and I was inspired to try something fun with the black blocks (although in this case it was only one!). DEAD CENTER popped into my head, and after making sure the idea hadn&#39;t already been done, I was off. And, as a side note, this avid Beatles fan was tickled to include LENNON in the puzzle. </p>
+
+<p>Of course, many thanks to Will and the NYT editing team for their patience with me as I learn the ropes, and especially Sam Ezersky who helped me to really make the fill shine. I hope you enjoy the solve as much as I enjoyed the construction!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

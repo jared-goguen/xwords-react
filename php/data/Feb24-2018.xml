@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Saturday, February 24, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 2/24/2018 at 6:43 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sat, Feb 24, 2018</Title>
+    <Author>John Guzzetta</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>2/24/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>FIFTHESTATE.AHS</Row>
+      <Row>IRAROLLOVER.REA</Row>
+      <Row>RUMORMONGER.GAD</Row>
+      <Row>SLEDS.GIAN.REDS</Row>
+      <Row>TED..PACS.MENLO</Row>
+      <Row>...ASIN..EASTON</Row>
+      <Row>..BINGEWATCHING</Row>
+      <Row>.PAROLEHEARING.</Row>
+      <Row>SLIPPERYSLOPE..</Row>
+      <Row>COLLET..TINS...</Row>
+      <Row>IDEAS.MAHI..MSG</Row>
+      <Row>EDDY.ROME.PROWL</Row>
+      <Row>NEO.PIRATERADIO</Row>
+      <Row>CRU.CANTILEVERS</Row>
+      <Row>EST.BASICSKILLS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="FIFTHESTATE">Blogs, social media and other nontraditional outlets</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Across" Ans="AHS">Enlightened responses</Clue>
+      <Clue Row="2" Col="1" Num="15" Dir="Across" Ans="IRAROLLOVER">Option when changing jobs</Clue>
+      <Clue Row="2" Col="13" Num="16" Dir="Across" Ans="REA">___ Irvin, early cartoonist/designer for The New Yorker</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="RUMORMONGER">Dirt spreader</Clue>
+      <Clue Row="3" Col="13" Num="18" Dir="Across" Ans="GAD">Roam (about)</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="SLEDS">Winter Olympics sights</Clue>
+      <Clue Row="4" Col="7" Num="20" Dir="Across" Ans="GIAN">Italian sculptor ___ Lorenzo Bernini</Clue>
+      <Clue Row="4" Col="12" Num="21" Dir="Across" Ans="REDS">Section of a Crayola box</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="TED">___ talk</Clue>
+      <Clue Row="5" Col="6" Num="23" Dir="Across" Ans="PACS">Campaign supporters</Clue>
+      <Clue Row="5" Col="11" Num="24" Dir="Across" Ans="MENLO">___ Park</Clue>
+      <Clue Row="6" Col="4" Num="25" Dir="Across" Ans="ASIN">Words of explanation</Clue>
+      <Clue Row="6" Col="10" Num="27" Dir="Across" Ans="EASTON">Pennsylvania city where the Delaware and Lehigh Rivers meet</Clue>
+      <Clue Row="7" Col="3" Num="28" Dir="Across" Ans="BINGEWATCHING">Exhibiting a modern form of obsession</Clue>
+      <Clue Row="8" Col="2" Num="31" Dir="Across" Ans="PAROLEHEARING">Quick way to end a sentence?</Clue>
+      <Clue Row="9" Col="1" Num="32" Dir="Across" Ans="SLIPPERYSLOPE">"Where does it all end?" argument</Clue>
+      <Clue Row="10" Col="1" Num="33" Dir="Across" Ans="COLLET">Socket for setting a gem</Clue>
+      <Clue Row="10" Col="9" Num="34" Dir="Across" Ans="TINS">Food preservers</Clue>
+      <Clue Row="11" Col="1" Num="35" Dir="Across" Ans="IDEAS">"Any ___?"</Clue>
+      <Clue Row="11" Col="7" Num="36" Dir="Across" Ans="MAHI">Dolphinfish, informally</Clue>
+      <Clue Row="11" Col="13" Num="38" Dir="Across" Ans="MSG">Flavor additive, in brief</Clue>
+      <Clue Row="12" Col="1" Num="41" Dir="Across" Ans="EDDY">It goes clockwise or counterclockwise depending on the hemisphere</Clue>
+      <Clue Row="12" Col="6" Num="42" Dir="Across" Ans="ROME">Legend says it arose on Palatine Hill</Clue>
+      <Clue Row="12" Col="11" Num="43" Dir="Across" Ans="PROWL">Search for prey</Clue>
+      <Clue Row="13" Col="1" Num="45" Dir="Across" Ans="NEO">___-con</Clue>
+      <Clue Row="13" Col="5" Num="46" Dir="Across" Ans="PIRATERADIO">Offshore waves?</Clue>
+      <Clue Row="14" Col="1" Num="48" Dir="Across" Ans="CRU">Grade of wine</Clue>
+      <Clue Row="14" Col="5" Num="49" Dir="Across" Ans="CANTILEVERS">Projecting beams on a bridge</Clue>
+      <Clue Row="15" Col="1" Num="50" Dir="Across" Ans="EST">Cornerstone abbr.</Clue>
+      <Clue Row="15" Col="5" Num="51" Dir="Across" Ans="BASICSKILLS">Reading and writing, for most jobs</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="FIRST">Guinness Book adjective</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="IRULE">"Go, me!"</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="FAMED">Of renown</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="TROD">Stepped</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="HORS">Start of a start of a menu?</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="ELM">The Liberty Tree, for one</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="SLOGANEER">Ad agency specialist</Clue>
+      <Clue Row="1" Col="8" Num="8" Dir="Down" Ans="TONIC">Picker-upper</Clue>
+      <Clue Row="1" Col="9" Num="9" Dir="Down" Ans="AVGAS">Fuel for planes</Clue>
+      <Clue Row="1" Col="10" Num="10" Dir="Down" Ans="TEEN">Follower of four or six, but not five</Clue>
+      <Clue Row="1" Col="11" Num="11" Dir="Down" Ans="ERR">Mess up</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="ARGENTINE">Containing silver</Clue>
+      <Clue Row="1" Col="14" Num="13" Dir="Down" Ans="HEADLONG">Without deliberation</Clue>
+      <Clue Row="1" Col="15" Num="14" Dir="Down" Ans="SADSONG">Breakup tune</Clue>
+      <Clue Row="4" Col="12" Num="21" Dir="Down" Ans="RESHIPS">Forwards</Clue>
+      <Clue Row="5" Col="6" Num="23" Dir="Down" Ans="PIGLET">Little squealer</Clue>
+      <Clue Row="5" Col="11" Num="24" Dir="Down" Ans="MACRON">Hollande's successor as president of France</Clue>
+      <Clue Row="6" Col="4" Num="25" Dir="Down" Ans="AIRPLAY">Factor in Billboard rankings</Clue>
+      <Clue Row="6" Col="5" Num="26" Dir="Down" Ans="SNOPES">Buster of myths</Clue>
+      <Clue Row="6" Col="10" Num="27" Dir="Down" Ans="ETALII">Latin list ender</Clue>
+      <Clue Row="7" Col="3" Num="28" Dir="Down" Ans="BAILEDOUT">Extricated from a jam</Clue>
+      <Clue Row="7" Col="8" Num="29" Dir="Down" Ans="WHY">Reason</Clue>
+      <Clue Row="7" Col="9" Num="30" Dir="Down" Ans="AESTHETIC">Concept of beauty</Clue>
+      <Clue Row="8" Col="2" Num="31" Dir="Down" Ans="PLODDERS">Slow and steady types</Clue>
+      <Clue Row="9" Col="1" Num="32" Dir="Down" Ans="SCIENCE">Prestigious academic journal</Clue>
+      <Clue Row="11" Col="7" Num="36" Dir="Down" Ans="MORNS">When cock-a-doodle-doos are done</Clue>
+      <Clue Row="11" Col="8" Num="37" Dir="Down" Ans="AMATI">Italian known for pulling strings?</Clue>
+      <Clue Row="11" Col="13" Num="38" Dir="Down" Ans="MODEL">Paradigm</Clue>
+      <Clue Row="11" Col="14" Num="39" Dir="Down" Ans="SWIRL">Ice cream choice</Clue>
+      <Clue Row="11" Col="15" Num="40" Dir="Down" Ans="GLOSS">Part of a makeup kit</Clue>
+      <Clue Row="12" Col="6" Num="42" Dir="Down" Ans="RIAA">Org. fighting copyright infringement</Clue>
+      <Clue Row="12" Col="11" Num="43" Dir="Down" Ans="PREK">Like very early education, for short</Clue>
+      <Clue Row="12" Col="12" Num="44" Dir="Down" Ans="RAVI">___ Shankar, influence on George Harrison</Clue>
+      <Clue Row="13" Col="5" Num="46" Dir="Down" Ans="PCB">Chemical contaminant, for short</Clue>
+      <Clue Row="13" Col="10" Num="47" Dir="Down" Ans="ELS">High ways?</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Beautiful middle stairstack! Delightful to get a mini-theme in BINGE WATCHING and SLIPPERY SLOPE. It&#39;s even better when they&#39;re located in positions that usually shouldn&#39;t allow for mini-theme placement. It&#39;s a similar sort of magic to a <a href="https://www.xwordinfo.com/Crossword?date=8/27/2010">15 + 15 letter phrase &hellip; stacked atop each other</a>!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Snopes.com" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Snopes.svg/474px-Snopes.svg.png" style="border:none; float:left; height:84px; margin:6px 12px 6px 0px; width:220px" title="Creepy logo!" /></a></p>
+
+<p>We&#39;ve seen enough &quot;stairstack&quot; middles, that they&#39;re becoming easier and easier for me to critique &ndash; what&#39;s the quality of 1.) middle stairstack, 2.) NW/SE corners, 3.) SW / NE tail?</p>
+
+<p>(On one hand, I like that more and more people are gravitating to this themeless grid type. It allows for a lot of great material, with interesting visual effect. On the other, I worry that it&#39;s going to become overused. I like innovation, dagnabit!)</p>
+
+<p>Great work in criterion 1. PAROLE HEARING made for another snazzy entry &ndash; three for three winners. And such smoothness in the down answers holding that middle together. Not a fan of RESHIPS, but I do see it in alerts from Amazon.</p>
+
+<p>Solid work in criterion 2. I didn&#39;t know we had an estate past the fourth estate (the media), but I can buy the FIFTH ESTATE. Fun to learn the term, anyway, and it didn&#39;t hinder my solve. IRA ROLLOVER is pretty dull even for this financial planner ... but RUMORMONGER helped keep up the color in that NW corner.</p>
+
+<p>AVGAS &hellip; I&#39;m a mechanical engineer, not an aerospace engineer. I&#39;ll grant you that. But AVGAS? I nearly choked because it crossed GIAN, which seemed like it could be GION or GIEN. Thankfully, that GAS part of AVGAS saved me. But even though the crossing ultimately seemed fair, it left me with a sense of inelegance.</p>
+
+<p>Ah, criterion 3. That&#39;s where most people fall down. It&#39;s so hard to use those two tail sections in the SW / NE, once you&#39;ve fixed your stairstack into place. Such juicy long slots &hellip; and PLODDERS is not the way to use them well. SAD SONG is a little better, and HEADLONG is okay.</p>
+
+<p>If John had worked in a little more juice in these tough-to-fill sections, this could have been POW!-worthy. Pesky criterion 3!</p>
+
+<p>Well crafted, got some POW! consideration from me. Not quite there, though.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>When I submitted this puzzle in 2016, MACRON was not the President of France. I&#39;m glad to see that improvement in the clues, as well as several others.</p>
+
+<p>This puzzle was one of my early efforts at dropping the word count and working with the stair-step pattern. Since then I&#39;ve demoted HORS and ET ALII, tried to make sure that at least two long entries punch into isolated sections, and avoided blocks of 3-letter answers. Still, I&#39;m pretty happy with how this turned out, and hope others enjoy!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

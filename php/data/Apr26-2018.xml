@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Thursday, April 26, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/25/2018 at 7:01 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Thu, Apr 26, 2018</Title>
+    <Author>Alex Eaton-Salners</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/26/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>OVER.BOGEY..TMI</Row>
+      <Row>NEAT.APOLO.PEAR</Row>
+      <Row>ANSE.SEARS.ALGA</Row>
+      <Row>GTE.MENLO.ULAN.</Row>
+      <Row>ENDLESSLY.SEVEN</Row>
+      <Row>ROBERTI..NARITA</Row>
+      <Row>.RYN..NIMBI.VOW</Row>
+      <Row>...ESTONIANS...</Row>
+      <Row>ECO.WINKS..NAP.</Row>
+      <Row>LEHMAN..EQUALLY</Row>
+      <Row>FIFTY.STRUGGLES</Row>
+      <Row>.LUIS.CRAIG.HAH</Row>
+      <Row>KIDD.TRIBE.MESA</Row>
+      <Row>INGA.DEALT.PREP</Row>
+      <Row>AGE..SELES.GERE</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="OVER">5-Across, with respect to this answer's location</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="BOGEY">Golf score</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Across" Ans="TMI">"Eww! That's quite enough!"</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Across" Ans="NEAT">Trim</Clue>
+      <Clue Row="2" Col="6" Num="14" Dir="Across" Ans="APOLO">Speed skater Ohno</Clue>
+      <Clue Row="2" Col="12" Num="15" Dir="Across" Ans="PEAR">Oviform : egg :: pyriform : ___</Clue>
+      <Clue Row="3" Col="1" Num="16" Dir="Across" Ans="ANSE">Father in "As I Lay Dying"</Clue>
+      <Clue Row="3" Col="6" Num="17" Dir="Across" Ans="SEARS">Classic catalog provider</Clue>
+      <Clue Row="3" Col="12" Num="18" Dir="Across" Ans="ALGA">Pool growth</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="GTE">Bell Atlantic merger partner of 2000</Clue>
+      <Clue Row="4" Col="5" Num="20" Dir="Across" Ans="MENLO">___ Park, site of experimental lighting</Clue>
+      <Clue Row="4" Col="11" Num="21" Dir="Across" Ans="ULAN">___ Bator, Mongolia</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="ENDLESSLY">Without stopping</Clue>
+      <Clue Row="5" Col="11" Num="24" Dir="Across" Ans="SEVEN">22-Across, with respect to this answer's location</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Across" Ans="ROBERTI">Father of William the Conqueror</Clue>
+      <Clue Row="6" Col="10" Num="27" Dir="Across" Ans="NARITA">Airport serving greater Tokyo</Clue>
+      <Clue Row="7" Col="2" Num="28" Dir="Across" Ans="RYN">Rembrandt van ___</Clue>
+      <Clue Row="7" Col="7" Num="29" Dir="Across" Ans="NIMBI">Large, gray rain clouds</Clue>
+      <Clue Row="7" Col="13" Num="32" Dir="Across" Ans="VOW">"I shall return," say</Clue>
+      <Clue Row="8" Col="4" Num="33" Dir="Across" Ans="ESTONIANS">Citizens of the only country that relies significantly on online voting in elections</Clue>
+      <Clue Row="9" Col="1" Num="37" Dir="Across" Ans="ECO">Prefix with law or label</Clue>
+      <Clue Row="9" Col="5" Num="40" Dir="Across" Ans="WINKS">41-Across, with respect to this answer's location</Clue>
+      <Clue Row="9" Col="12" Num="41" Dir="Across" Ans="NAP">Time out?</Clue>
+      <Clue Row="10" Col="1" Num="44" Dir="Across" Ans="LEHMAN">___ Brothers (onetime investment giant)</Clue>
+      <Clue Row="10" Col="9" Num="46" Dir="Across" Ans="EQUALLY">In fairness</Clue>
+      <Clue Row="11" Col="1" Num="50" Dir="Across" Ans="FIFTY">46-Across, with respect to this answer's location</Clue>
+      <Clue Row="11" Col="7" Num="51" Dir="Across" Ans="STRUGGLES">Tugs of war</Clue>
+      <Clue Row="12" Col="2" Num="53" Dir="Across" Ans="LUIS">San ___ Obispo, Calif.</Clue>
+      <Clue Row="12" Col="7" Num="54" Dir="Across" Ans="CRAIG">Bond portrayer after Brosnan</Clue>
+      <Clue Row="12" Col="13" Num="55" Dir="Across" Ans="HAH">"In your dreams!"</Clue>
+      <Clue Row="13" Col="1" Num="56" Dir="Across" Ans="KIDD">Pirate captain whose treasure was thought to be buried on Oak Island</Clue>
+      <Clue Row="13" Col="6" Num="57" Dir="Across" Ans="TRIBE">Close-knit group</Clue>
+      <Clue Row="13" Col="12" Num="58" Dir="Across" Ans="MESA">Canyonlands National Park sight</Clue>
+      <Clue Row="14" Col="1" Num="59" Dir="Across" Ans="INGA">Swenson of "Benson"</Clue>
+      <Clue Row="14" Col="6" Num="60" Dir="Across" Ans="DEALT">Decked out?</Clue>
+      <Clue Row="14" Col="12" Num="61" Dir="Across" Ans="PREP">Prestigious school, for short</Clue>
+      <Clue Row="15" Col="1" Num="62" Dir="Across" Ans="AGE">Ever-rising number</Clue>
+      <Clue Row="15" Col="6" Num="63" Dir="Across" Ans="SELES">Monica on the court</Clue>
+      <Clue Row="15" Col="12" Num="64" Dir="Across" Ans="GERE">"Pretty Woman" co-star</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="ONAGER">Asiatic animal with a mane</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="VENTNOR">Yellow Monopoly avenue</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="EASEDBY">Carefully got around</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="RTE">A.A.A. suggestion: Abbr.</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="BASEST">Least honorable</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="OPENSINON">Leads to, as one room to another</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="GOALL">___ out (try one's best)</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="ELROY">Jetson boy</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="YOS">Casual greetings</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="TELAVIV">Mideast city with a stock exchange</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="MAGNETO">Villain in the "X-Men" movies</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="IRA">Good name for a banker</Clue>
+      <Clue Row="2" Col="12" Num="15" Dir="Down" Ans="PALER">Less tanned</Clue>
+      <Clue Row="4" Col="5" Num="20" Dir="Down" Ans="MER">Debussy's "La ___"</Clue>
+      <Clue Row="4" Col="11" Num="21" Dir="Down" Ans="USAIN">Bolt of lightning speed</Clue>
+      <Clue Row="5" Col="4" Num="23" Dir="Down" Ans="LENE">___ Hau, pioneering physicist from Denmark</Clue>
+      <Clue Row="5" Col="15" Num="25" Dir="Down" Ans="NAW">Backwoods turndown</Clue>
+      <Clue Row="6" Col="10" Num="27" Dir="Down" Ans="NBA">Jordan joined it in 1984, for short</Clue>
+      <Clue Row="7" Col="8" Num="30" Dir="Down" Ans="INK">Tats</Clue>
+      <Clue Row="7" Col="9" Num="31" Dir="Down" Ans="MISERABLE">Woeful</Clue>
+      <Clue Row="8" Col="5" Num="34" Dir="Down" Ans="SWAYS">Changes the opinion of</Clue>
+      <Clue Row="8" Col="6" Num="35" Dir="Down" Ans="TIN">___ ear</Clue>
+      <Clue Row="8" Col="12" Num="36" Dir="Down" Ans="SNAG">Stumbling block</Clue>
+      <Clue Row="9" Col="1" Num="37" Dir="Down" Ans="ELF">Legolas in "The Lord of the Rings," e.g.</Clue>
+      <Clue Row="9" Col="2" Num="38" Dir="Down" Ans="CEILING">Maximum amount</Clue>
+      <Clue Row="9" Col="3" Num="39" Dir="Down" Ans="OHFUDGE">"Dagnabbit!"</Clue>
+      <Clue Row="9" Col="13" Num="42" Dir="Down" Ans="ALLHERE">"Everyone's arrived now"</Clue>
+      <Clue Row="9" Col="14" Num="43" Dir="Down" Ans="PLEASER">One who does what people want them to do</Clue>
+      <Clue Row="10" Col="4" Num="45" Dir="Down" Ans="MTIDA">Greek peak on which Zeus was hidden as an infant</Clue>
+      <Clue Row="10" Col="10" Num="47" Dir="Down" Ans="QUIETS">Calms down</Clue>
+      <Clue Row="10" Col="11" Num="48" Dir="Down" Ans="UGG">Australian boot brand</Clue>
+      <Clue Row="10" Col="15" Num="49" Dir="Down" Ans="YSHAPE">Wishbone feature</Clue>
+      <Clue Row="11" Col="7" Num="51" Dir="Down" Ans="SCREE">Patch of loose rocks at the base of a cliff</Clue>
+      <Clue Row="11" Col="8" Num="52" Dir="Down" Ans="TRIAL">What might follow suit?</Clue>
+      <Clue Row="13" Col="1" Num="56" Dir="Down" Ans="KIA">Rio producer</Clue>
+      <Clue Row="13" Col="6" Num="57" Dir="Down" Ans="TDS">QB stat</Clue>
+      <Clue Row="13" Col="12" Num="58" Dir="Down" Ans="MPG">Dismal fig. for a gas guzzler</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>I think Alex has one of the best minds in the business for interesting, twisty crosswords. The clue wording confused the heck out of me (it still does), so let&#39;s ignore it. Simple example: a BOGEY is one OVER (par) and OVER is at slot number one, i.e., ONE-Across.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/7-Eleven" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/7-eleven_logo.svg/300px-7-eleven_logo.svg.png" style="border:1px solid lightgray; float:right; height:213px; margin:6px 0px 6px 12px; width:219px" title="Hey 24/SEVEN and 50/FIFTY, we want in on this!" /></a></p>
+
+<p>ENDLESSLY isn&#39;t SEVEN, but (24)SEVEN &mdash; the number at 24-Across comes into play.</p>
+
+<p>A NAP is (40) WINKS, and EQUALLY is (50) FIFTY. Good stuff!</p>
+
+<p>I particularly appreciated how Alex placed the definitional entry right next to the gimmick entry, minimizing the need for cross-referencing. I don&#39;t mind so much when I just have to jump to the next (or previous) entry.</p>
+
+<p>It would have been much easier for Alex if he could have placed BOGEY wherever he wanted in the grid &ndash; much more flexibility to find the best spot for ease of filling &ndash; but then you&#39;d force the solver to jump all tarnation.</p>
+
+<p>These heavy constraints did mean that there had to be some heavy compromises. Four pairs of words &mdash; some long &mdash; and each pair placed sequentially? Yikes! The only place I minded was the NW, with ONAGER / ANSE / GTE. It&#39;s so tough &ndash; that big corner, constrained by OVER and ENDLESSLY &ndash; was bound to have problems. But I don&#39;t think those crossings are fair, and that&#39;s perhaps the biggest no-no in the biz. Why not add some cheater squares to smoothify?</p>
+
+<p>Oh, of course you can&#39;t &mdash; each themer had to be at a specific number. That makes grid design even tougher, as you can&#39;t just place extra black squares here and there to facilitate filling. Kind of mind-boggling that Alex made it all happen.</p>
+
+<p>Okay, I&#39;ll try harder to ignore RYN LENE GO ALL, etc.</p>
+
+<p>Still, those ONAGER / ANSE / GTE crossings ... I might have preferred to take out the definitional entries and add in a few more, like 7-ELEVEN, 10-FOUR, etc.</p>
+
+<p>I like puzzles where the clue number is tricksily part of the clue. <a href="https://www.xwordinfo.com/Crossword?date=6/25/2009">The first time I encountered it</a> BLEW MY MIND! It&#39;s not as novel now, but I enjoyed the additional layer Alex put on the concept.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>Puzzles with answers that must appear with specific clue numbers are challenging to construct because they require precise gridwork. One way to control which clue numbers correspond to which answers is to use &quot;cheater&quot; squares (black squares that don&#39;t change the puzzle&#39;s word count). For instance, the black square before 10-Across reduces all subsequent clue numbers by one. Without that square, the answer SEVEN would be at 25-Across instead of 24-Across.</p>
+
+<p>Other cheater squares may have different effects on numbering. For example, the black square before 28-Across doesn&#39;t affect the clue numbering at all, but its symmetric counterpart after 41-Across changes what would have been 44-Down into 49-Down and decreases the clue numbering for the intervening clues by one (after 49-Down the numbering is unchanged).</p>
+
+<p>Generally speaking, cheater squares in the upper-left corner of a region reduce all subsequent clue numbering by one, cheater squares in the upper right reduce the numbering of clues by one until the shortened down entry, whose clue number is increased by the number of intervening clue numbers, and cheater squares in the lower left and lower right leave clue numbering unchanged.</p>
+
+<p>The unedited version of this puzzle clued the gimmick in the opposite direction. 5-Across and 41-Across were clued as &quot;See previous answer&quot; and 22-Across and 46-Across were clued as &quot;See next answer.&quot; The words OVER, SEVEN, WINKS, and FIFTY were clued without any reference to their clue numbers or the combined meaning. Perhaps that cluing approach is too difficult, and many solvers wouldn&#39;t realize that reading the numbers in the grid in combination with the answers creates a new meaning (i.e., 1 OVER or 40 WINKS). I miss the elegance of the original approach, but if the change improves the solving experience, then I&#39;m all in favor.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

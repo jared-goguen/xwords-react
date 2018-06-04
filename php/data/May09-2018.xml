@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Wednesday, May 9, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/8/2018 at 7:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Wed, May 09, 2018</Title>
+    <Author>Jeff Chen</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/9/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>16</Cols>
+    </Size>
+    <Grid>
+      <Row>FROG.CLASP.BEACH</Row>
+      <Row>LENA.HATCH.IMDUE</Row>
+      <Row>ISAY.AMORE.LIVER</Row>
+      <Row>PED.AMAZINGGRACE</Row>
+      <Row>TRITIP..POPE.NAS</Row>
+      <Row>OVERRICE.MAR.CRY</Row>
+      <Row>PETE.OARS..AWED.</Row>
+      <Row>...VENTILATTE...</Row>
+      <Row>.PRIX..SIGH.BAIL</Row>
+      <Row>LOU.POM.DEEPENDS</Row>
+      <Row>AWL.OMEN..FORGED</Row>
+      <Row>SEEINGDOUBLE.EAT</Row>
+      <Row>ERODE.ATRIA.ALMA</Row>
+      <Row>RUNON.LISTS.MOAB</Row>
+      <Row>SPELT.STASH.PUNS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="FROG">Talking animal in some fairy tales</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="CLASP">It's gripping</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="BEACH">Summer vacation spot</Clue>
+      <Clue Row="2" Col="1" Num="15" Dir="Across" Ans="LENA">Musical Horne</Clue>
+      <Clue Row="2" Col="6" Num="16" Dir="Across" Ans="HATCH">Come out of one's shell</Clue>
+      <Clue Row="2" Col="12" Num="17" Dir="Across" Ans="IMDUE">"My luck is bound to change"</Clue>
+      <Clue Row="3" Col="1" Num="18" Dir="Across" Ans="ISAY">Exclamation of surprise, in Britain</Clue>
+      <Clue Row="3" Col="6" Num="19" Dir="Across" Ans="AMORE">"When the stars make you drool just like pasta fazool, that's ___"</Clue>
+      <Clue Row="3" Col="12" Num="20" Dir="Across" Ans="LIVER">Organ that Prometheus regenerated nightly</Clue>
+      <Clue Row="4" Col="1" Num="21" Dir="Across" Ans="PED">___ Xing</Clue>
+      <Clue Row="4" Col="5" Num="22" Dir="Across" Ans="AMAZINGGRACE">Reality TV show, when 59-Across?</Clue>
+      <Clue Row="5" Col="1" Num="24" Dir="Across" Ans="TRITIP">Cut of beef in a Newport steak</Clue>
+      <Clue Row="5" Col="9" Num="26" Dir="Across" Ans="POPE">Vatican V.I.P.</Clue>
+      <Clue Row="5" Col="14" Num="27" Dir="Across" Ans="NAS">Famous feuder with Jay-Z</Clue>
+      <Clue Row="6" Col="1" Num="28" Dir="Across" Ans="OVERRICE">Chilled, when 59-Across?</Clue>
+      <Clue Row="6" Col="10" Num="31" Dir="Across" Ans="MAR">Ding, e.g.</Clue>
+      <Clue Row="6" Col="14" Num="32" Dir="Across" Ans="CRY">Caterwaul</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Across" Ans="PETE">Sneaky ___ (trickster)</Clue>
+      <Clue Row="7" Col="6" Num="34" Dir="Across" Ans="OARS">Crew's need</Clue>
+      <Clue Row="7" Col="12" Num="36" Dir="Across" Ans="AWED">Left slack-jawed</Clue>
+      <Clue Row="8" Col="4" Num="38" Dir="Across" Ans="VENTILATTE">Aerate, when 59-Across?</Clue>
+      <Clue Row="9" Col="2" Num="42" Dir="Across" Ans="PRIX">Grand ___</Clue>
+      <Clue Row="9" Col="8" Num="44" Dir="Across" Ans="SIGH">[That's so ... sad]</Clue>
+      <Clue Row="9" Col="13" Num="45" Dir="Across" Ans="BAIL">Skip out (on)</Clue>
+      <Clue Row="10" Col="1" Num="49" Dir="Across" Ans="LOU">Costello of Abbott and Costello</Clue>
+      <Clue Row="10" Col="5" Num="50" Dir="Across" Ans="POM">Small dog, informally</Clue>
+      <Clue Row="10" Col="9" Num="53" Dir="Across" Ans="DEEPENDS">"Possibly," when 59-Across?</Clue>
+      <Clue Row="11" Col="1" Num="55" Dir="Across" Ans="AWL">Hole-punching tool</Clue>
+      <Clue Row="11" Col="5" Num="56" Dir="Across" Ans="OMEN">Sign for good or ill</Clue>
+      <Clue Row="11" Col="11" Num="58" Dir="Across" Ans="FORGED">Did a blacksmith's job</Clue>
+      <Clue Row="12" Col="1" Num="59" Dir="Across" Ans="SEEINGDOUBLE">Experiencing a vision problem</Clue>
+      <Clue Row="12" Col="14" Num="63" Dir="Across" Ans="EAT">Get a bite</Clue>
+      <Clue Row="13" Col="1" Num="64" Dir="Across" Ans="ERODE">Slowly break down</Clue>
+      <Clue Row="13" Col="7" Num="65" Dir="Across" Ans="ATRIA">Two of the heart's chambers</Clue>
+      <Clue Row="13" Col="13" Num="66" Dir="Across" Ans="ALMA">___ mater</Clue>
+      <Clue Row="14" Col="1" Num="67" Dir="Across" Ans="RUNON">Babble</Clue>
+      <Clue Row="14" Col="7" Num="68" Dir="Across" Ans="LISTS">Shopping aids</Clue>
+      <Clue Row="14" Col="13" Num="69" Dir="Across" Ans="MOAB">Utah town near Arches and Canyonlands National Parks</Clue>
+      <Clue Row="15" Col="1" Num="70" Dir="Across" Ans="SPELT">Said "O-D-O-U-R," e.g.</Clue>
+      <Clue Row="15" Col="7" Num="71" Dir="Across" Ans="STASH">Apt rhyme for "cache"</Clue>
+      <Clue Row="15" Col="13" Num="72" Dir="Across" Ans="PUNS">The salon names To Dye For and Best Little Hairhouse (both real!), e.g.</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="FLIPTOP">Cap on many a shampoo bottle</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="RESERVE">Member of the B-team</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="ONADIET">Slimming down</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="GAY">Part of L.G.B.T.Q.</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="CHAMPION">Advocate for</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="LAMA">Eastern priest</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="ATOZ">The whole shebang</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="SCRIP">Substitute for legal tender</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="PHENOM">Real standout</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="BILGERAT">Insulting designation from a pirate</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="EMIR">Mideast bigwig</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="ADVANCE">Typical part of a book deal</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="CUECARD">Line holdup?</Clue>
+      <Clue Row="1" Col="16" Num="14" Dir="Down" Ans="HERESY">Nonconforming opinion</Clue>
+      <Clue Row="4" Col="5" Num="22" Dir="Down" Ans="AIR">Diver's need</Clue>
+      <Clue Row="4" Col="11" Num="23" Dir="Down" Ans="GPA">College admissions fig.</Clue>
+      <Clue Row="5" Col="4" Num="25" Dir="Down" Ans="TREVI">Famed fountain name</Clue>
+      <Clue Row="6" Col="7" Num="29" Dir="Down" Ans="CAT">Sacred creature in ancient Egypt</Clue>
+      <Clue Row="6" Col="8" Num="30" Dir="Down" Ans="ERIS">She threw the apple of discord, in Greek myth</Clue>
+      <Clue Row="7" Col="9" Num="35" Dir="Down" Ans="SLID">Took a tumble, as the stock market</Clue>
+      <Clue Row="7" Col="13" Num="37" Dir="Down" Ans="WEBER">Big name in grills</Clue>
+      <Clue Row="8" Col="5" Num="39" Dir="Down" Ans="EXPONENT">High number?</Clue>
+      <Clue Row="8" Col="10" Num="40" Dir="Down" Ans="AGE">"Just a number," according to a common saying</Clue>
+      <Clue Row="8" Col="11" Num="41" Dir="Down" Ans="THEFLASH">Superhero with super speed</Clue>
+      <Clue Row="9" Col="2" Num="42" Dir="Down" Ans="POWERUP">Give some juice</Clue>
+      <Clue Row="9" Col="3" Num="43" Dir="Down" Ans="RULEONE">Prime directive</Clue>
+      <Clue Row="9" Col="14" Num="46" Dir="Down" Ans="ANGELOU">Poet who read at President Clinton's 1993 inauguration</Clue>
+      <Clue Row="9" Col="15" Num="47" Dir="Down" Ans="IDEAMAN">Creative sort</Clue>
+      <Clue Row="9" Col="16" Num="48" Dir="Down" Ans="LSDTABS">Beginnings of some trips</Clue>
+      <Clue Row="10" Col="1" Num="49" Dir="Down" Ans="LASERS">Light sources in a light show</Clue>
+      <Clue Row="10" Col="6" Num="51" Dir="Down" Ans="OMG">"Wow!," in a text</Clue>
+      <Clue Row="10" Col="7" Num="52" Dir="Down" Ans="MEDALS">Gold and silver</Clue>
+      <Clue Row="10" Col="12" Num="54" Dir="Down" Ans="POE">"The Gold-Bug" author</Clue>
+      <Clue Row="11" Col="8" Num="57" Dir="Down" Ans="NOTIT">Playground call</Clue>
+      <Clue Row="12" Col="4" Num="60" Dir="Down" Ans="IDOL">One with millions of Instagram followers, say</Clue>
+      <Clue Row="12" Col="9" Num="61" Dir="Down" Ans="URSA">___ Major</Clue>
+      <Clue Row="12" Col="10" Num="62" Dir="Down" Ans="BITS">Smithereens</Clue>
+      <Clue Row="13" Col="13" Num="66" Dir="Down" Ans="AMP">Rock band's need</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>It should come to no surprise to people who know me that I originally clued POWER UP as something like [Awesome ability gained by a video game avatar, such as the embiggerator or the super-immortality mushroom for Mario].</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Latte" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koffie_verkeerd_cafe_MP_Amsterdam.jpg/440px-Koffie_verkeerd_cafe_MP_Amsterdam.jpg" style="border:1px solid lightgray; float:right; height:243px; margin:6px 0px 6px 12px; width:220px" title="Make mine a VENTI!" /></a></p>
+
+<p>My gridding philosophy has always been to pack in as many strong bonuses while minimizing gluey short fill. Sometimes I wonder if I overdo it, though, making a puzzle too tough for solvers. I&#39;ve recently had a string of people tell me how hard my puzzles are.</p>
+
+<p>I love me THE FLASH, PHENOM, EXPONENT, all of which I think everyone ought to know.</p>
+
+<p>Okay, I only expect people to know at least two of the <a href="https://en.wikipedia.org/wiki/Flash_(comics)">four people who have been the Flash</a>, not all four. I&#39;m not a monster.</p>
+
+<p>But did I overdo it with FLIP TOP, TRI TIP, LSD TABS? Not sure. Even BILGE RATS, which I love (I take full advantage of &quot;Talk like a pirate day&quot;) might make a solver&#39;s life challenging.</p>
+
+<p>As a constructor, I want to produce puzzles that first and foremost are solvable, and that hopefully entertain. I&#39;m never sure if I accomplished that. So I continue to seek feedback and try to learn from it. You can reach me through the &quot;Contact us&quot; link on <a href="https://www.xwordinfo.com/">the home page</a> if you have constructive criticism.</p>
+
+<p>Final note: the grid would have come together a lot easier if I didn&#39;t feel like I had to avoid any non-thematic doubled letters in the fill (aside from the necessary EE in SEEING DOUBLE, of course). Turns out it&#39;s tough to eschew entries with EE, SS, even OO. All those entries went POOF! I have a feeling no one even noticed this, but man, my compulsions are strong.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>My original submission included RUM BABA / RUMBA and MEMENTOS / MENTOS. But Will thought it was confusing, having so much doubling. Apparently he doesn&#39;t know just how bad my vision is!</p>
+
+<p>A big shout-out to my local Starbucks and their delicious VENTI LATTEs. And to their menu written in teeny-tiny text that all blurs together for me.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

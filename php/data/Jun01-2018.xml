@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Friday, June 1, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/31/2018 at 7:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Fri, Jun 01, 2018</Title>
+    <Author>Andrew J. Ries</Author>
+    <CanonicalNames>
+      <Constructor>Andrew Ries</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>6/1/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>GPA.MOPTOP..ASH</Row>
+      <Row>ORD.ORIENTS.BOO</Row>
+      <Row>TED.MANACLE.RON</Row>
+      <Row>ICEPALACE.ACUTE</Row>
+      <Row>MART.SCH.TROPHY</Row>
+      <Row>ELLER.OAHU.UTES</Row>
+      <Row>.CEREALBOXES...</Row>
+      <Row>..YOUCALLEDIT..</Row>
+      <Row>...SPIDEYSENSE.</Row>
+      <Row>USDA.DAMS.NIALL</Row>
+      <Row>SCRUBS.OPS.TREE</Row>
+      <Row>ALARM.IMITATING</Row>
+      <Row>GEM.OFFERED.NOM</Row>
+      <Row>ERA.CONNIVE.ARE</Row>
+      <Row>SAS..ROTTEN.SEN</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="GPA">Résumé datum, for short</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Across" Ans="MOPTOP">Shaggy do</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Across" Ans="ASH">Grill bit</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Across" Ans="ORD">Former fort named for a Union general</Clue>
+      <Clue Row="2" Col="5" Num="14" Dir="Across" Ans="ORIENTS">Gets situated</Clue>
+      <Clue Row="2" Col="13" Num="16" Dir="Across" Ans="BOO">Crowd noise</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="TED">Producer of 18-minute talks</Clue>
+      <Clue Row="3" Col="5" Num="18" Dir="Across" Ans="MANACLE">Handcuff</Clue>
+      <Clue Row="3" Col="13" Num="19" Dir="Across" Ans="RON">___ Chernow, biographer whose "Alexander Hamilton" inspired "Hamilton"</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="ICEPALACE">Winter carnival spectacle</Clue>
+      <Clue Row="4" Col="11" Num="22" Dir="Across" Ans="ACUTE">Sharp</Clue>
+      <Clue Row="5" Col="1" Num="24" Dir="Across" Ans="MART">Emporium</Clue>
+      <Clue Row="5" Col="6" Num="25" Dir="Across" Ans="SCH">Athletic conference member: Abbr.</Clue>
+      <Clue Row="5" Col="10" Num="26" Dir="Across" Ans="TROPHY">Something hoisted in celebration</Clue>
+      <Clue Row="6" Col="1" Num="27" Dir="Across" Ans="ELLER">"Oklahoma!" aunt</Clue>
+      <Clue Row="6" Col="7" Num="29" Dir="Across" Ans="OAHU">Hanauma Bay locale</Clue>
+      <Clue Row="6" Col="12" Num="31" Dir="Across" Ans="UTES">Natives for whom a state is named</Clue>
+      <Clue Row="7" Col="2" Num="32" Dir="Across" Ans="CEREALBOXES">Life preservers?</Clue>
+      <Clue Row="8" Col="3" Num="35" Dir="Across" Ans="YOUCALLEDIT">"Spot-on prediction!"</Clue>
+      <Clue Row="9" Col="4" Num="37" Dir="Across" Ans="SPIDEYSENSE">Intuition, jocularly</Clue>
+      <Clue Row="10" Col="1" Num="39" Dir="Across" Ans="USDA">Prime rater, for short</Clue>
+      <Clue Row="10" Col="6" Num="42" Dir="Across" Ans="DAMS">Blocks off</Clue>
+      <Clue Row="10" Col="11" Num="43" Dir="Across" Ans="NIALL">"The Ascent of Money" historian Ferguson</Clue>
+      <Clue Row="11" Col="1" Num="45" Dir="Across" Ans="SCRUBS">Health care coverage providers?</Clue>
+      <Clue Row="11" Col="8" Num="47" Dir="Across" Ans="OPS">Black ___</Clue>
+      <Clue Row="11" Col="12" Num="49" Dir="Across" Ans="TREE">Mango or persimmon</Clue>
+      <Clue Row="12" Col="1" Num="50" Dir="Across" Ans="ALARM">Smartphone setting</Clue>
+      <Clue Row="12" Col="7" Num="51" Dir="Across" Ans="IMITATING">Skill of many "S.N.L." cast members</Clue>
+      <Clue Row="13" Col="1" Num="53" Dir="Across" Ans="GEM">Masterpiece</Clue>
+      <Clue Row="13" Col="5" Num="54" Dir="Across" Ans="OFFERED">Proposed</Clue>
+      <Clue Row="13" Col="13" Num="56" Dir="Across" Ans="NOM">Academy recognition, informally</Clue>
+      <Clue Row="14" Col="1" Num="57" Dir="Across" Ans="ERA">#MeToo ___</Clue>
+      <Clue Row="14" Col="5" Num="58" Dir="Across" Ans="CONNIVE">Be intriguing?</Clue>
+      <Clue Row="14" Col="13" Num="59" Dir="Across" Ans="ARE">What the French "es," "sont" and "sommes" all mean</Clue>
+      <Clue Row="15" Col="1" Num="60" Dir="Across" Ans="SAS">European carrier</Clue>
+      <Clue Row="15" Col="6" Num="61" Dir="Across" Ans="ROTTEN">No-good</Clue>
+      <Clue Row="15" Col="13" Num="62" Dir="Across" Ans="SEN">Booker's title: Abbr.</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="GOTIME">Crucial hour, informally</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="PRECALC">Course introducing functions and limits, for short</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="ADDERLEY">Hall-of-Fame cornerback Herb</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Down" Ans="MOMA">Home of Dalí's "The Persistence of Memory," informally</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="ORALS">They're all talk</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="PINACOLADA">Poolside drink</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="TEACHABLEMOMENT">Opportunity for a lesson that wasn't planned</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="ONCE">Without repeating</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="PTL">Old TV's ___ Club</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="ABRUPT">Sudden</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="SOOTHE">Give relief</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="HONEYS">Dears</Clue>
+      <Clue Row="2" Col="11" Num="15" Dir="Down" Ans="SEAR">Put a quick crust on</Clue>
+      <Clue Row="4" Col="4" Num="21" Dir="Down" Ans="PTEROSAUR">Extinct flying reptile</Clue>
+      <Clue Row="4" Col="12" Num="23" Dir="Down" Ans="COUSINITT">Hirsute character on "The Addams Family"</Clue>
+      <Clue Row="5" Col="10" Num="26" Dir="Down" Ans="TUXES">Ball togs</Clue>
+      <Clue Row="6" Col="5" Num="28" Dir="Down" Ans="REUP">Go back for more, in a way</Clue>
+      <Clue Row="6" Col="9" Num="30" Dir="Down" Ans="HOLYSPIRIT">One manifestation of God</Clue>
+      <Clue Row="7" Col="6" Num="33" Dir="Down" Ans="ACIDS">Counterparts of tannins, in wine tasting</Clue>
+      <Clue Row="7" Col="11" Num="34" Dir="Down" Ans="EDEN">"This earth of majesty, this seat of Mars, / This other ___, demi-paradise": "Richard II"</Clue>
+      <Clue Row="8" Col="13" Num="36" Dir="Down" Ans="TSARINAS">Bygone sovereigns</Clue>
+      <Clue Row="9" Col="14" Num="38" Dir="Down" Ans="ELENORE">Satirical 1968 hit for the Turtles</Clue>
+      <Clue Row="10" Col="1" Num="39" Dir="Down" Ans="USAGES">Some dictionary notes</Clue>
+      <Clue Row="10" Col="2" Num="40" Dir="Down" Ans="SCLERA">Eyeball cover</Clue>
+      <Clue Row="10" Col="3" Num="41" Dir="Down" Ans="DRAMAS">Netflix category</Clue>
+      <Clue Row="10" Col="15" Num="44" Dir="Down" Ans="LEGMEN">Errand runners</Clue>
+      <Clue Row="11" Col="5" Num="46" Dir="Down" Ans="BMOC">Interfraternity council pres., e.g.</Clue>
+      <Clue Row="11" Col="10" Num="48" Dir="Down" Ans="STEVE">Madden of fashion</Clue>
+      <Clue Row="12" Col="7" Num="51" Dir="Down" Ans="IFNO">"Otherwise ..."</Clue>
+      <Clue Row="12" Col="11" Num="52" Dir="Down" Ans="ADEN">Arabian port</Clue>
+      <Clue Row="13" Col="6" Num="55" Dir="Down" Ans="FOR">Pro</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Andrew <a href="http://www.ariespuzzles.com/p/2018-subscriptions.html">creates a lot of indie puzzles</a>, making <a href="https://www.stagger-sessions.com/">&quot;stair stack&quot; arrangements</a> one of his calling cards. I really like this puzzle&#39;s stair stack, CEREAL BOXES / YOU CALLED IT / SPIDEY SENSE a great triple. CEREAL BOXES is already pretty good by itself, but getting a delightful wordplay clue &ndash; [Life preservers?], playing on Life cereal &ndash; makes it even better.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Pterosaur" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Pteranodon_sternbergi_pair.jpg/500px-Pteranodon_sternbergi_pair.jpg" style="border:1px solid lightgray; float:left; height:136px; margin:6px 12px 6px 0px; width:220px" title="The PTEROSAUR is a great part of the grid skeleton!" /></a></p>
+
+<p>Stair stacks usually have a couple of long answers running through them, but it&#39;s unusual to get a grid-spanner right down the middle. TEACHABLE MOMENT makes that stair stack even better. Weave in PINA COLADA and HOLY SPIRIT &ndash; along with PTEROSAUR and COUSIN ITT &ndash; and that&#39;s a great center of the puzzle.</p>
+
+<p>I also enjoyed some of the other entries, like GO TIME and PRECALC. However, the featured center took up so much real estate that Andrew was forced to use so many short answers in the periphery of the grid.</p>
+
+<p>Three-letter words ... yeah, 16 is definitely high for a themeless. It&#39;s not a problem in its own right, but having them concentrated in the four corners gave the puzzle a choppy feel. Jumping from ORD to PTL to SCH to SAS to SEN messed with my solving feng shui.</p>
+
+<p>Some potential left on the table, too. ICE PALACES is a great use of a precious long slot. But ADDERLEY is okay, but not flashy. Similarly, TSARINAS, ELENORE, IMITATING. Glad to see that Andrew and I agreed on this.</p>
+
+<p>Beautiful center of the puzzle. If the periphery had matched in quality, this could have been a POW! contender.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>7-Down was the first entry in this grid, and then I built the central stack of 11s around the long crosser. This is a common approach I have when writing these stagger-stack freestyles. Other than the central stack, I don&#39;t work with a pre-set grid design; the grid will gradually build around the stack based on what I can do with the crossings. This organic approach to grid design is one of the more compelling aspects of writing freestyles from the center outward. Here the unplanned bonuses are the two additional long downs that flank TEACHABLE MOMENT.</p>
+
+<p>There are drawbacks of working the grid design as you go, however, and this grid is a good example. The corners here are too dry, especially that southeast corner. The main reason for this is the glut of 3-letter words. In general, I don&#39;t think sixteen 3s is &quot;too many&quot; for a freestyle, but it can become tedious for the solver when every corner of the grid is so heavily reliant on 3s. What&#39;s more, bland entries like IMITATING and TSARINAS take up such valuable grid real estate, and don&#39;t add any sparkle to offset the surplus of short stuff.</p>
+
+<p>If I were writing this puzzle today, I&#39;d like to see if upping the word count to 70 would improve this situation. Specifically, I&#39;d like to see if adding a block at the P of ICEPALACE (and its symmetrical partner) would make for a better overall fill, or at least allow for a grid design that opens up the corners a bit. It&#39;s possible that I tried these things and hit a dead end &mdash; I counted over 90 .puz files I&#39;ve written since I wrote this last year, so apologies for my fuzzy memories of this one.</p>
+
+<p>It&#39;s frustrating to revisit old work that doesn&#39;t quite meet your current standards, as is the case here. I do hope, however, that there is enough here for solvers to enjoy, and thanks as always to the editing team for making the clues better.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

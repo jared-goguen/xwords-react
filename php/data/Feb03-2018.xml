@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Saturday, February 3, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 2/3/2018 at 5:51 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sat, Feb 03, 2018</Title>
+    <Author>Sam Ezersky and Byron Walden</Author>
+    <CanonicalNames>
+      <Constructor>Sam Ezersky</Constructor>
+      <Constructor>Byron Walden</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>2/3/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>HALLPASS..GAPPY</Row>
+      <Row>OLIGARCH.SOIREE</Row>
+      <Row>PIBBXTRA.PANERA</Row>
+      <Row>ICET.SOBSISTERS</Row>
+      <Row>SERRA.DBACK.NYT</Row>
+      <Row>.FAIRS.ATEAT...</Row>
+      <Row>NATGEO.TURNRIPE</Row>
+      <Row>EYEHAND.PAYAFEE</Row>
+      <Row>WESTCORK.COVENS</Row>
+      <Row>...SOFIA.KNEES.</Row>
+      <Row>OTB.DANZA.ELLIE</Row>
+      <Row>COOKEDKALE.BLOW</Row>
+      <Row>TRAUMA.KETELONE</Row>
+      <Row>AIRDAM.HUNGOVER</Row>
+      <Row>DIDUP..STAGGERS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="HALLPASS">Toilet paper?</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Across" Ans="GAPPY">Having many openings</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="OLIGARCH">Powerful Russian</Clue>
+      <Clue Row="2" Col="10" Num="15" Dir="Across" Ans="SOIREE">Fancy affair</Clue>
+      <Clue Row="3" Col="1" Num="16" Dir="Across" Ans="PIBBXTRA">Coca-Cola product since 2001</Clue>
+      <Clue Row="3" Col="10" Num="17" Dir="Across" Ans="PANERA">Cafe chain</Clue>
+      <Clue Row="4" Col="1" Num="18" Dir="Across" Ans="ICET">"O.G. Original Gangster" rapper</Clue>
+      <Clue Row="4" Col="6" Num="19" Dir="Across" Ans="SOBSISTERS">Overly sentimental writers</Clue>
+      <Clue Row="5" Col="1" Num="21" Dir="Across" Ans="SERRA">Junípero ___, founder of San Francisco</Clue>
+      <Clue Row="5" Col="7" Num="23" Dir="Across" Ans="DBACK">Arizona athlete, for short</Clue>
+      <Clue Row="5" Col="13" Num="24" Dir="Across" Ans="NYT">Media co. led by the Sulzberger family</Clue>
+      <Clue Row="6" Col="2" Num="25" Dir="Across" Ans="FAIRS">Events with tents</Clue>
+      <Clue Row="6" Col="8" Num="27" Dir="Across" Ans="ATEAT">Really bugged</Clue>
+      <Clue Row="7" Col="1" Num="29" Dir="Across" Ans="NATGEO">Airer of Neil deGrasse Tyson's "StarTalk"</Clue>
+      <Clue Row="7" Col="8" Num="30" Dir="Across" Ans="TURNRIPE">Become edible</Clue>
+      <Clue Row="8" Col="1" Num="34" Dir="Across" Ans="EYEHAND">Kind of coordination</Clue>
+      <Clue Row="8" Col="9" Num="36" Dir="Across" Ans="PAYAFEE">Be charged</Clue>
+      <Clue Row="9" Col="1" Num="37" Dir="Across" Ans="WESTCORK">Touristy area on the Irish coast</Clue>
+      <Clue Row="9" Col="10" Num="39" Dir="Across" Ans="COVENS">Wiccan groups</Clue>
+      <Clue Row="10" Col="4" Num="40" Dir="Across" Ans="SOFIA">Balkan capital</Clue>
+      <Clue Row="10" Col="10" Num="41" Dir="Across" Ans="KNEES">Things held in a cannonball</Clue>
+      <Clue Row="11" Col="1" Num="42" Dir="Across" Ans="OTB">Place to watch a race, for short</Clue>
+      <Clue Row="11" Col="5" Num="45" Dir="Across" Ans="DANZA">Tony once nominated for an Emmy</Clue>
+      <Clue Row="11" Col="11" Num="47" Dir="Across" Ans="ELLIE">___ May Lester of Erskine Caldwell's "Tobacco Road"</Clue>
+      <Clue Row="12" Col="1" Num="49" Dir="Across" Ans="COOKEDKALE">Vitamin-rich green side dish</Clue>
+      <Clue Row="12" Col="12" Num="52" Dir="Across" Ans="BLOW">Setback</Clue>
+      <Clue Row="13" Col="1" Num="53" Dir="Across" Ans="TRAUMA">___ center</Clue>
+      <Clue Row="13" Col="8" Num="54" Dir="Across" Ans="KETELONE">Popular vodka brand from Holland</Clue>
+      <Clue Row="14" Col="1" Num="56" Dir="Across" Ans="AIRDAM">Front spoiler on a car</Clue>
+      <Clue Row="14" Col="8" Num="57" Dir="Across" Ans="HUNGOVER">Like many people on January 1</Clue>
+      <Clue Row="15" Col="1" Num="58" Dir="Across" Ans="DIDUP">Fancified</Clue>
+      <Clue Row="15" Col="8" Num="59" Dir="Across" Ans="STAGGERS">Spaces out</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="HOPIS">Pueblo Revolt participants</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ALICEFAYE">1930-'40s film star with the signature song "You'll Never Know"</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="LIBERATES">Unshackles</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="LGBTRIGHTS">Cause associated with the rainbow flag</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="PAX">___ Americana</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="ARTS">Newspaper section</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="SCROD">Provincetown catch</Clue>
+      <Clue Row="1" Col="8" Num="8" Dir="Down" Ans="SHABBAT">Weekly Jewish observance</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="GOASKANYONE">Request for backup?</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="AINT">Isn't bad?</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="PREEN">Fancify oneself</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="PERRY">Commodore in Sondheim's "Pacific Overtures"</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="YEAST">Passover no-no</Clue>
+      <Clue Row="2" Col="10" Num="15" Dir="Down" Ans="SPICERACK">Thyme keeper?</Clue>
+      <Clue Row="4" Col="9" Num="20" Dir="Down" Ans="SATUP">Suddenly took notice</Clue>
+      <Clue Row="5" Col="5" Num="22" Dir="Down" Ans="AREACODEMAP">Feature in a telephone directory</Clue>
+      <Clue Row="6" Col="6" Num="26" Dir="Down" Ans="SONOFADAM">Any man or boy, biblically</Clue>
+      <Clue Row="6" Col="12" Num="28" Dir="Down" Ans="TRAVELBLOG">Collection of posts about a trip</Clue>
+      <Clue Row="7" Col="1" Num="29" Dir="Down" Ans="NEW">Part of 24-Across</Clue>
+      <Clue Row="7" Col="13" Num="31" Dir="Down" Ans="IFEELLOVE">Million-selling 1977 Donna Summer song</Clue>
+      <Clue Row="7" Col="14" Num="32" Dir="Down" Ans="PENSIONER">Many a British retiree</Clue>
+      <Clue Row="7" Col="15" Num="33" Dir="Down" Ans="EES">Some tech grads, for short</Clue>
+      <Clue Row="8" Col="7" Num="35" Dir="Down" Ans="DRINK">Sombrero, e.g.</Clue>
+      <Clue Row="9" Col="8" Num="38" Dir="Down" Ans="KAZAKHS">Ethnic group whose name means "wanderers"</Clue>
+      <Clue Row="11" Col="1" Num="42" Dir="Down" Ans="OCTAD">The planets, e.g.</Clue>
+      <Clue Row="11" Col="2" Num="43" Dir="Down" Ans="TORII">Gateway of a Shinto shrine</Clue>
+      <Clue Row="11" Col="3" Num="44" Dir="Down" Ans="BOARD">Get on</Clue>
+      <Clue Row="11" Col="9" Num="46" Dir="Down" Ans="ALEUT">Fox Islands resident</Clue>
+      <Clue Row="11" Col="15" Num="48" Dir="Down" Ans="EWERS">They have big mouths</Clue>
+      <Clue Row="12" Col="4" Num="50" Dir="Down" Ans="KUDU">Spiral-horned antelope</Clue>
+      <Clue Row="12" Col="10" Num="51" Dir="Down" Ans="ETNA">Italian source of smoke</Clue>
+      <Clue Row="13" Col="11" Num="55" Dir="Down" Ans="EGG">___ salad</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Sam and Byron challenge themselves with an ultra-low word-count themeless! I&#39;ve done enough of Byron&#39;s puzzles that I have a sense for what to expect: I tend to love a lot of his new, avant-garde entries, but I also squint at some of them. As soon as I saw how wide-open this grid was, I had a feeling I&#39;d get some of both.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Alice_Faye" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Alice_Faye_-_1941.jpg/440px-Alice_Faye_-_1941.jpg" style="border:1px solid lightgray; float:left; height:250px; margin:6px 12px 6px 0px; width:205px" title="That's ALICE FAYE. Huh!" /></a></p>
+
+<p>In particular, it&#39;s so hard to turn a corner like in the NW, with six long entries interlocking. The first triple is really good, especially considering the level of difficulty &mdash; HALL PASS / OLIGARCH / PIBB XTRA is a colorful bunch, even without the fun toilet humor in the HALL PASS clue. Great work, Sam!</p>
+
+<p>ALICE FAYE &hellip; huh. She does appear to be a person. LIBERATES &hellip; not bad.</p>
+
+<p>But then, LGBT RIGHTS! Elevated LIBERATES right next to it for me. I struggled with the entry at first, since &quot;gay rights&quot; is what I usually hear around Seattle, but LGBT RIGHTS is in high usage over at the ACLU&#39;s website. Nice debut.</p>
+
+<p>It wasn&#39;t until I got to HAND EYE that I truly hitched. No, wait &hellip; EYE HAND? HAND EYE is so-so since it isn&#39;t usually seen without &quot;coordination,&quot; making it feel partialish. And EYE HAND ...</p>
+
+<p>(squinting at Sam)</p>
+
+<p>COOKED KALE &hellip; I try to eat healthy. I eat a ton of kale. (Much to my wife&#39;s chagrin, after the fact. Ahem.) Don&#39;t think I&#39;ve ever come across the term COOKED KALE on menus though.</p>
+
+<p>SON OF ADAM, now there was a winner! I wasn&#39;t familiar with it, but it rolled off my tongue.</p>
+
+<p>GAPPY &hellip; huh.</p>
+
+<p>PAY A FEE &hellip; that is &quot;a thing,&quot; but is it crossworthy?</p>
+
+<p>TURN RIPE? Double huh. &quot;Ripened,&quot; yeah?</p>
+
+<p>I appreciated how much care Sam and Byron took in avoiding the short gluey stuff that&#39;s the usual downfall of themeless puzzles &mdash; OTB, EES. I would have happily taken a bit more of it though if that had allowed them to remove some of the squinty stuff mentioned above.</p>
+
+<p>That said, I enjoyed the 64-word solving challenge, and there was more than enough KETEL ONE / HUNG OVER / STAGGERED (ha!), AREA CODE MAP, SPICE RACK kind of stuff to spice things up.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p><strong>SAM:</strong> Talk about goals: Once upon a time, I was an avid solver, obsessed with Byron&#39;s work. His grids were always loaded with interesting answers; how was he able to fill such wide-open areas so smoothly ... and with such a unique touch? After meeting him at the ACPT a few years ago, we realized how similar our approaches to themeless puzzles were, and last spring, I got the green light I&#39;d been looking over Facebook chat: &quot;We should collab sometime on a themeless &mdash; would be fun to see what we could come up with.&quot;</p>
+
+<p><a href="https://www.xwordinfo.com/images/bonus/20180203original.jpg" style="border:none"><img alt="" src="https://www.xwordinfo.com/images/bonus/20180203original.jpg" style="border:1px solid lightgray; float:right; height:220px; margin:6px 0px 6px 12px; width:220px" title="Alternate grid" /></a></p>
+
+<p>After briefly fainting, I set out to make the craziest, most wide-open grid I could, just so I could compare with Byron&#39;s normal wavelength. Beginning with PIBB XTRA crossing LGBT ___, I designed the grid skeleton you see now, filling in the NW corner all the way down to AREA CODE MAP / SON OF ADAM (sorry about EYE-HAND!). I passed it off to Byron, and with several grid constraints already in play, was worried that he&#39;d have trouble with what remained. Well, not only did he prove that something was possible ... he made a freaking MINI-THEME out of the SE stack. Unbelievable!</p>
+
+<p>The swath of white space leading into the NE corner was by far the hardest to fill, but it ended up being the most fun. We bounced around various possible fills &mdash; Byron had SAW GERRERA work at one point! &mdash; but nothing was quite satisfying enough. Finally, the non-database-discoverable GO ASK ANYONE came to mind, and that proved to be the breakthrough.</p>
+
+<p>We&#39;re thrilled with the final result and hope it kicked off well with Byron&#39;s brilliant HALL PASS clue. Huge thanks to Byron for working with me on an unforgettable puzzle-making experience. Whew! It may be a bit before I wade back into 64-word waters ... we&#39;ll see.</p>
+
+<p><strong>Byron:</strong> When Sam sent me that corner, I almost sent it back saying this was too good to share, but I&#39;m not that noble. It already had plenty of good stuff in the fill. The main thing, I thought, was to round the corner heading SE in a reasonable way that maintained the openness into the smaller corners. My general goal when constructing, especially themelesses, is to find one bottleneck in the grid that is hard to eliminate and find a way to eliminate it. In this case that meant maintaining the AREA CODE MAP / SON OF ADAM combo and running something long through them. My self-indulgence was trying to do that with KAZAKHS and DANZA, the former for the crazy consonant mashup and the latter as a hat tip since my wife has very fond memories of working with him in her former career in film production.</p>
+
+<p>It was so much fun working with Sam. Hope you enjoy it as much as we enjoyed making it.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

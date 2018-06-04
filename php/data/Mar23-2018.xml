@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Friday, March 23, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/22/2018 at 7:05 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Fri, Mar 23, 2018</Title>
+    <Author>Erik Agard</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/23/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>MALTA.EPS..FTLB</Row>
+      <Row>ATEOF.MOOR.ROOM</Row>
+      <Row>STARR.POLICEBOX</Row>
+      <Row>KISSONTHECHEEK.</Row>
+      <Row>.CHIPPY..HAZES.</Row>
+      <Row>...OUR.SCENEXIV</Row>
+      <Row>DJINN.OARS.RANI</Row>
+      <Row>IAN.KIBBUTZ.COD</Row>
+      <Row>ENID.NILE.AETNA</Row>
+      <Row>SETADATE.HMM...</Row>
+      <Row>.TIRES..FIBBER.</Row>
+      <Row>.MAKEUPTUTORIAL</Row>
+      <Row>GOLDMINER.NADJA</Row>
+      <Row>UCLA.TILL.ICEIN</Row>
+      <Row>SKYY..NES.SERVE</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="MALTA">Island nation with a cross on its flag</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="EPS">Series installments, for short</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Across" Ans="FTLB">Unit of energy: Abbr.</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Across" Ans="ATEOF">Had, as food</Clue>
+      <Clue Row="2" Col="7" Num="14" Dir="Across" Ans="MOOR">Secure</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="ROOM">ssorcA-41?</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="STARR">Edwin of 1960s-'70s R&amp;B</Clue>
+      <Clue Row="3" Col="7" Num="18" Dir="Across" Ans="POLICEBOX">Cop's station in England</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="KISSONTHECHEEK">Sweet farewell</Clue>
+      <Clue Row="5" Col="2" Num="22" Dir="Across" Ans="CHIPPY">Given to picking fights</Clue>
+      <Clue Row="5" Col="10" Num="23" Dir="Across" Ans="HAZES">States of confusion</Clue>
+      <Clue Row="6" Col="4" Num="24" Dir="Across" Ans="OUR">Part of the English translation of "Notre Dame"</Clue>
+      <Clue Row="6" Col="8" Num="25" Dir="Across" Ans="SCENEXIV">Part of Act 4 of "Antony and Cleopatra" in which Antony attempts suicide</Clue>
+      <Clue Row="7" Col="1" Num="28" Dir="Across" Ans="DJINN">Islamic spirit</Clue>
+      <Clue Row="7" Col="7" Num="31" Dir="Across" Ans="OARS">Things rested on, metaphorically</Clue>
+      <Clue Row="7" Col="12" Num="32" Dir="Across" Ans="RANI">Bollywood actress Mukerji</Clue>
+      <Clue Row="8" Col="1" Num="33" Dir="Across" Ans="IAN">Scottish John</Clue>
+      <Clue Row="8" Col="5" Num="34" Dir="Across" Ans="KIBBUTZ">Agricultural commune</Clue>
+      <Clue Row="8" Col="13" Num="37" Dir="Across" Ans="COD">How a package may arrive</Clue>
+      <Clue Row="9" Col="1" Num="38" Dir="Across" Ans="ENID">Lady in Arthurian legend</Clue>
+      <Clue Row="9" Col="6" Num="40" Dir="Across" Ans="NILE">One with a big mouth in Africa?</Clue>
+      <Clue Row="9" Col="11" Num="41" Dir="Across" Ans="AETNA">Corporate giant named for a mountain</Clue>
+      <Clue Row="10" Col="1" Num="43" Dir="Across" Ans="SETADATE">Make some definite plans</Clue>
+      <Clue Row="10" Col="10" Num="45" Dir="Across" Ans="HMM">"Interesting ..."</Clue>
+      <Clue Row="11" Col="2" Num="46" Dir="Across" Ans="TIRES">Spares, maybe</Clue>
+      <Clue Row="11" Col="9" Num="47" Dir="Across" Ans="FIBBER">Dishonest sort</Clue>
+      <Clue Row="12" Col="2" Num="50" Dir="Across" Ans="MAKEUPTUTORIAL">Beauty lesson</Clue>
+      <Clue Row="13" Col="1" Num="54" Dir="Across" Ans="GOLDMINER">One for whom a flash in the pan is a good thing</Clue>
+      <Clue Row="13" Col="11" Num="55" Dir="Across" Ans="NADJA">Title woman of a classic 1928 André Breton novel</Clue>
+      <Clue Row="14" Col="1" Num="56" Dir="Across" Ans="UCLA">Ronald Reagan ___ Medical Center</Clue>
+      <Clue Row="14" Col="6" Num="57" Dir="Across" Ans="TILL">Where bills pile up</Clue>
+      <Clue Row="14" Col="11" Num="58" Dir="Across" Ans="ICEIN">Trap until it gets warmer, say</Clue>
+      <Clue Row="15" Col="1" Num="59" Dir="Across" Ans="SKYY">Grey Goose competitor</Clue>
+      <Clue Row="15" Col="7" Num="60" Dir="Across" Ans="NES">8-bit game console released in 1985</Clue>
+      <Clue Row="15" Col="11" Num="61" Dir="Across" Ans="SERVE">Wait on</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="MASK">Hide</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ATTIC">Web developer?</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="LEASH">Something a shepherd may have on</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="TORSION">Twisting effect</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="AFROPUNK">Alternative music subgenre</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="EMPTY">Like some tanks and promises</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="POOH">"Oh, baloney!"</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="SOLE">One and only</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Down" Ans="FREEZER">Ice cream holder</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="TOBEEXACT">Precisely</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="LOOKSINON">Monitors</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="BMX">___ bike</Clue>
+      <Clue Row="2" Col="10" Num="15" Dir="Down" Ans="RICHEST">Superlative for a cake</Clue>
+      <Clue Row="3" Col="11" Num="19" Dir="Down" Ans="CHAN">Jackie of "Rush Hour"</Clue>
+      <Clue Row="4" Col="6" Num="21" Dir="Down" Ans="NPR">Letters associated with WNYC and KQED</Clue>
+      <Clue Row="6" Col="8" Num="25" Dir="Down" Ans="SABLE">Shade of black</Clue>
+      <Clue Row="6" Col="9" Num="26" Dir="Down" Ans="CRUE">Mötley ___</Clue>
+      <Clue Row="6" Col="15" Num="27" Dir="Down" Ans="VIDA">"Livin' La ___ Loca"</Clue>
+      <Clue Row="7" Col="1" Num="28" Dir="Down" Ans="DIES">Is mortified, so to speak</Clue>
+      <Clue Row="7" Col="2" Num="29" Dir="Down" Ans="JANETMOCK">Transgender rights activist and best-selling author of "Redefining Realness"</Clue>
+      <Clue Row="7" Col="3" Num="30" Dir="Down" Ans="INITIALLY">At the outset</Clue>
+      <Clue Row="7" Col="7" Num="31" Dir="Down" Ans="OBIT">End piece?</Clue>
+      <Clue Row="8" Col="6" Num="35" Dir="Down" Ans="INASUIT">Dressed up, maybe</Clue>
+      <Clue Row="8" Col="11" Num="36" Dir="Down" Ans="ZAMBONIS">Crease smoothers?</Clue>
+      <Clue Row="9" Col="4" Num="39" Dir="Down" Ans="DARKDAY">Trying time</Clue>
+      <Clue Row="9" Col="12" Num="42" Dir="Down" Ans="EMBRACE">Warmly welcome</Clue>
+      <Clue Row="10" Col="5" Num="44" Dir="Down" Ans="DEEM">Judge</Clue>
+      <Clue Row="10" Col="10" Num="45" Dir="Down" Ans="HIT">Search engine result</Clue>
+      <Clue Row="11" Col="9" Num="47" Dir="Down" Ans="FURLS">Rolls up</Clue>
+      <Clue Row="11" Col="13" Num="48" Dir="Down" Ans="EIDER">Where to get down from?</Clue>
+      <Clue Row="11" Col="14" Num="49" Dir="Down" Ans="RAJIV">One of the Gandhis</Clue>
+      <Clue Row="12" Col="7" Num="51" Dir="Down" Ans="PNIN">Titular professor in a Nabokov novel</Clue>
+      <Clue Row="12" Col="8" Num="52" Dir="Down" Ans="TELE">Rhyming prefix with novela</Clue>
+      <Clue Row="12" Col="15" Num="53" Dir="Down" Ans="LANE">"Stay in your ___"</Clue>
+      <Clue Row="13" Col="1" Num="54" Dir="Down" Ans="GUS">Gloomy one</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Learn something new every day! JANET MOCK was unfamiliar to me, but Erik did such a nice job making all the crossings friendly and easy, such that I could learn about MOCK and still conquer my crossword. Some solvers might grouse that ENID is an esoteric name, but realistically, what else could that square be? I bet if 100 people were asked to fill in the blank for a woman&#39;s name, JA_ET, 100 would put in an N.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Janet_Mock" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Janet_Mock_Head_Shot.png/440px-Janet_Mock_Head_Shot.png" style="border:1px solid lightgray; float:left; height:146px; margin:6px 12px 6px 0px; width:220px" title="JANET MOCK" /></a></p>
+
+<p>I feel privileged to be friends with a good number of constructors. You&#39;d be surprised at how often knowing the author comes in handy during my solves! Erik is one of my favorite folks in the crossworld, and I remember from a while back that he&#39;s into AFROPUNK. Saved my bacon when it came to that NW corner. I was so badly stuck, not able to see the odd CHIPPY and not knowing Edwin STARR.</p>
+
+<p>My daughter (age 3) is fascinated with her mom&#39;s MAKEUP. Am I going to have to figure out what a MAKEUP TUTORIAL is?</p>
+
+<p>(Sigh, yes.)</p>
+
+<p>Guess it&#39;s a good thing I learned that term today.</p>
+
+<p>A couple of other toughies in PNIN and NADJA. I don&#39;t mind learning a thing or two from a crossword, as long as that doesn&#39;t hinder me in achieving my complete and correct solve. And some solvers seem to dislike having too many proper names in a puzzle, but that doesn&#39;t bother me, as long as they&#39;re well-known. It&#39;s when a constructor delves too far into PNIN / NADJA territory that starts to make me feel like the puzzle is more a trivia contest than a crossword. Just on the verge today.</p>
+
+<p>Loved GOLD MINER and its brilliant clue, repurposing the term &quot;flash in the pan.&quot; A perfect example of GOLD medal wordplay.</p>
+
+<p>ZAMBONIS also had a great clue, although if you didn&#39;t know that the &quot;crease&quot; is a term in ice hockey, the cleverness would be lost on you.</p>
+
+<p>Overall, no DARK DAY whatsoever, Erik constructing a fine, fair puzzle. It&#39;s tough to get a feeling of excitement when encountering so many foreign-seeming entries, though.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>My thanks to whoever wrote the clues at 16-Across and 57-Across, two of my favorites in the puzzle.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

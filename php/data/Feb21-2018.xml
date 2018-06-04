@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Wednesday, February 21, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 2/21/2018 at 8:43 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Wed, Feb 21, 2018</Title>
+    <Author>Ori Brian and Zachary Spitz</Author>
+    <CanonicalNames>
+      <Constructor>Ori Brian</Constructor>
+      <Constructor>Zachary Spitz</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>2/21/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>TOTAL.BASH.PMPM</Row>
+      <Row>ERICA.ALTO.LOLO</Row>
+      <Row>MALTS.HARP.INIT</Row>
+      <Row>PLLUTE.MAN.TECH</Row>
+      <Row>...PLAROPPSITES</Row>
+      <Row>MAGNETO..PIC...</Row>
+      <Row>ERS.GULAG.TARPN</Row>
+      <Row>DEPT.POBOX.LALA</Row>
+      <Row>SATAN.SOFAS.NIA</Row>
+      <Row>...CAP..OCTAGON</Row>
+      <Row>SPRTSREPRTER...</Row>
+      <Row>AMAL.PLL.OPSSUM</Row>
+      <Row>UPNE.IBIS.NOOSE</Row>
+      <Row>DUDS.SOTO.INSET</Row>
+      <Row>ISIS.EWES.TSARS</Row>
+    </Grid>
+    <RebusEntries>
+      <Rebus Row="1" Col="12" Short="P">PO</Rebus>
+      <Rebus Row="1" Col="14" Short="P">PO</Rebus>
+      <Rebus Row="3" Col="10" Short="P">PO</Rebus>
+      <Rebus Row="4" Col="1" Short="P">PO</Rebus>
+      <Rebus Row="5" Col="4" Short="P">PO</Rebus>
+      <Rebus Row="5" Col="10" Short="P">PO</Rebus>
+      <Rebus Row="7" Col="14" Short="P">PO</Rebus>
+      <Rebus Row="8" Col="3" Short="P">PO</Rebus>
+      <Rebus Row="10" Col="6" Short="P">PO</Rebus>
+      <Rebus Row="11" Col="2" Short="P">PO</Rebus>
+      <Rebus Row="11" Col="8" Short="P">PO</Rebus>
+      <Rebus Row="12" Col="6" Short="P">PO</Rebus>
+      <Rebus Row="12" Col="11" Short="P">PO</Rebus>
+      <Rebus Row="13" Col="2" Short="P">PO</Rebus>
+    </RebusEntries>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="TOTAL">Damage beyond repair</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="BASH">Talk trash about</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="POMPOM">Cheerleader's handful</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="ERICA">Jong who wrote "Fear of Flying"</Clue>
+      <Clue Row="2" Col="7" Num="15" Dir="Across" Ans="ALTO">Amy Winehouse, vocally</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="LOLO">Obama's stepfather ___ Soetoro</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="MALTS">Ice cream parlor orders</Clue>
+      <Clue Row="3" Col="7" Num="18" Dir="Across" Ans="HARPO">Marx with a curly wig</Clue>
+      <Clue Row="3" Col="12" Num="19" Dir="Across" Ans="INIT">Still competitive</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="POLLUTE">Belch fumes, say</Clue>
+      <Clue Row="4" Col="8" Num="22" Dir="Across" Ans="MAN">"Holy smokes!"</Clue>
+      <Clue Row="4" Col="12" Num="23" Dir="Across" Ans="TECH">Genius Bar staffer</Clue>
+      <Clue Row="5" Col="4" Num="24" Dir="Across" Ans="POLAROPPOSITES">Ultraliberals, to ultraconservatives</Clue>
+      <Clue Row="6" Col="1" Num="27" Dir="Across" Ans="MAGNETO">Ian McKellen's role in "X-Men" movies</Clue>
+      <Clue Row="6" Col="10" Num="30" Dir="Across" Ans="PIC">Instagram upload, for short</Clue>
+      <Clue Row="7" Col="1" Num="31" Dir="Across" Ans="ERS">Busy hosp. sites</Clue>
+      <Clue Row="7" Col="5" Num="32" Dir="Across" Ans="GULAG">Soviet labor camp</Clue>
+      <Clue Row="7" Col="11" Num="35" Dir="Across" Ans="TARPON">Game fish that can breathe air</Clue>
+      <Clue Row="8" Col="1" Num="39" Dir="Across" Ans="DEPOT">Place to board a bus or train</Clue>
+      <Clue Row="8" Col="6" Num="41" Dir="Across" Ans="POBOX">Certain mailing address, for short ... or a hint to 14 squares in this puzzle</Clue>
+      <Clue Row="8" Col="12" Num="43" Dir="Across" Ans="LALA">"___ Means I Love You" (1968 top 10 hit by the Delfonics)</Clue>
+      <Clue Row="9" Col="1" Num="44" Dir="Across" Ans="SATAN">Underworld boss?</Clue>
+      <Clue Row="9" Col="7" Num="46" Dir="Across" Ans="SOFAS">Places for channel surfers</Clue>
+      <Clue Row="9" Col="13" Num="48" Dir="Across" Ans="NIA">Long of "Alfie," 2004</Clue>
+      <Clue Row="10" Col="4" Num="49" Dir="Across" Ans="CAPO">Underworld boss</Clue>
+      <Clue Row="10" Col="9" Num="51" Dir="Across" Ans="OCTAGON">Mixed martial arts cage shape</Clue>
+      <Clue Row="11" Col="1" Num="53" Dir="Across" Ans="SPORTSREPORTER">One doing a locker room interview</Clue>
+      <Clue Row="12" Col="1" Num="58" Dir="Across" Ans="AMAL">___ Clooney, human rights lawyer</Clue>
+      <Clue Row="12" Col="6" Num="59" Dir="Across" Ans="POLL">Survey</Clue>
+      <Clue Row="12" Col="10" Num="60" Dir="Across" Ans="OPOSSUM">Marsupial with a grasping tail</Clue>
+      <Clue Row="13" Col="1" Num="64" Dir="Across" Ans="UPONE">Barely ahead</Clue>
+      <Clue Row="13" Col="6" Num="65" Dir="Across" Ans="IBIS">Bird in Egyptian hieroglyphics</Clue>
+      <Clue Row="13" Col="11" Num="67" Dir="Across" Ans="NOOSE">It may be at the end of one's rope</Clue>
+      <Clue Row="14" Col="1" Num="68" Dir="Across" Ans="DUDS">Fizzling fireworks</Clue>
+      <Clue Row="14" Col="6" Num="69" Dir="Across" Ans="SOTO">Explorer Hernando de ___</Clue>
+      <Clue Row="14" Col="11" Num="70" Dir="Across" Ans="INSET">Atlas close-up</Clue>
+      <Clue Row="15" Col="1" Num="71" Dir="Across" Ans="ISIS">Goddess with cow's horns</Clue>
+      <Clue Row="15" Col="6" Num="72" Dir="Across" Ans="EWES">Merino mothers</Clue>
+      <Clue Row="15" Col="11" Num="73" Dir="Across" Ans="TSARS">Pre-1917 autocrats</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="TEMPO">Something to keep in a band?</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ORAL">Taken in tablet form, say</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="TILL">Work with a plow</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="ACTUPON">Do something about</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="LASTLEG">End of a relay race</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="BAH">Scroogian exclamation</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="ALAMO">Alternative to Dollar or Budget</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="STRAP">Leave in financial difficulty</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="HOPONPOP">Dr. Seuss book that introduces phonics</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="POLITICAL">Like cartoons on the editorial page</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="MONET">Claude who painted water lilies</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="POLICE">Coppers</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="MOTHS">Clothes closet pests</Clue>
+      <Clue Row="4" Col="6" Num="21" Dir="Down" Ans="EATUP">"Dig in!"</Clue>
+      <Clue Row="5" Col="7" Num="25" Dir="Down" Ans="ROLOS">Hershey's caramel candies</Clue>
+      <Clue Row="5" Col="11" Num="26" Dir="Down" Ans="SIT">Take a load off</Clue>
+      <Clue Row="6" Col="1" Num="27" Dir="Down" Ans="MEDS">Rx items</Clue>
+      <Clue Row="6" Col="2" Num="28" Dir="Down" Ans="AREA">Geometry calculation</Clue>
+      <Clue Row="6" Col="3" Num="29" Dir="Down" Ans="GSPOT">Woman's erogenous zone</Clue>
+      <Clue Row="7" Col="8" Num="33" Dir="Down" Ans="ABO">Blood-typing letters</Clue>
+      <Clue Row="7" Col="9" Num="34" Dir="Down" Ans="GOFOR">Like a lot</Clue>
+      <Clue Row="7" Col="13" Num="36" Dir="Down" Ans="RANG">Summoned, as a butler</Clue>
+      <Clue Row="7" Col="14" Num="37" Dir="Down" Ans="POLIO">Salk vaccine target</Clue>
+      <Clue Row="7" Col="15" Num="38" Dir="Down" Ans="NAAN">Tandoor-baked bread</Clue>
+      <Clue Row="8" Col="4" Num="40" Dir="Down" Ans="TACTLESS">Like boorish behavior</Clue>
+      <Clue Row="8" Col="10" Num="42" Dir="Down" Ans="XACTO">Craft knife brand</Clue>
+      <Clue Row="9" Col="5" Num="45" Dir="Down" Ans="NAS">"Street Dreams" rapper</Clue>
+      <Clue Row="9" Col="11" Num="47" Dir="Down" Ans="STEPONIT">"Hurry up!"</Clue>
+      <Clue Row="10" Col="6" Num="50" Dir="Down" Ans="PORPOISE">Relative of a dolphin</Clue>
+      <Clue Row="10" Col="12" Num="52" Dir="Down" Ans="ARSONS">Firebugs' felonies</Clue>
+      <Clue Row="11" Col="1" Num="53" Dir="Down" Ans="SAUDI">Mecca native</Clue>
+      <Clue Row="11" Col="2" Num="54" Dir="Down" Ans="POMPOUS">Self-important, as an ass</Clue>
+      <Clue Row="11" Col="3" Num="55" Dir="Down" Ans="RANDI">"Amazing" magician</Clue>
+      <Clue Row="11" Col="7" Num="56" Dir="Down" Ans="ELBOW">Nudge rudely</Clue>
+      <Clue Row="11" Col="8" Num="57" Dir="Down" Ans="POLITE">Always saying "please," say</Clue>
+      <Clue Row="12" Col="13" Num="61" Dir="Down" Ans="SOSA">Baseball's Slammin' Sammy</Clue>
+      <Clue Row="12" Col="14" Num="62" Dir="Down" Ans="USER">___-friendly</Clue>
+      <Clue Row="12" Col="15" Num="63" Dir="Down" Ans="METS">"Miracle" team of 1969</Clue>
+      <Clue Row="13" Col="9" Num="66" Dir="Down" Ans="SOS">Call to the Coast Guard</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>PO BOX giving rationale as to why PO are smashed together into rebus squares = solid concept.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Hop_on_Pop" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/b/be/Hop_on_Pop.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:182px" title="Kids running up and jumping on a sleeping pop is NOT FUNNY" /></a></p>
+
+<p>I like it when rebus puzzles do a little something extra to get noticed, and this one did that &mdash; so many entries contained two POs. POLAR OPPOSITES, SPORTS REPORTER were great, but to get PORPOISE, POMPOUS, HOP ON POP, and even POMPOM was pretty cool.</p>
+
+<p>Especially neat to see the two POs in PORPOISE straddle SPORTS REPORTER. Such a tight job of packing!</p>
+
+<p>Made me wonder &ndash; PO is a common enough letter combination, is there any phrase that contains three of them? The only one I could come up with was HIPPOPOTAMUS POOL. I *think* it&#39;s a real thing. But I&#39;d have enough hesitation about it that I certainly wouldn&#39;t anchor a puzzle with it.</p>
+
+<p>Well executed grid. Stuffing 14 instances of a rebus square is tough, no matter how common the letters are. I like Ori and Zach&#39;s decision to use the max allowable word count (78), to deliver a grid that&#39;s super clean. I picked out the LALA and SOTO gluey bits as I solved, and LOLO felt a bit esoteric (AMAL too), but that&#39;s a nice and low tally for this level of construction difficulty.</p>
+
+<p>It&#39;s hard to blow minds with rebuses these days, considering how many have been done over the years, but I appreciated the craftsmanship in packing so many POs in today.</p>
+
+<p>FYI, 14 is nowhere near <a href="https://www.xwordinfo.com/Rebus">the record for sheer quantity of rebus squares</a>. But if you did a histogram, I&#39;m fairly sure it&#39;d be on the high side of average.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>This one came together pretty quickly. Once we came up with the theme, we filled the grid together one night over a year ago.</p>
+
+<p>We wanted to challenge ourselves to include as many PO squares as possible, so hopefully the fill didn&#39;t suffer too much! Our original OPOSSUM clue referenced President Benjamin Harrison&#39;s pets &mdash; he had two, named Mr. Reciprocity and Mr. Protection. We&#39;re very happy that Will kept our SATAN and CAPO clues!</p>
+
+<p>If any UChicago first years are reading this, try making a puzzle! If you&#39;re in Linn-Mathews House, this puzzle was written in room 630, so go sit there for inspiration. And if you&#39;re in Wallace House, ask your RA Ori for help.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

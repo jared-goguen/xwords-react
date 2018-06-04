@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Friday, February 16, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 2/16/2018 at 6:35 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Fri, Feb 16, 2018</Title>
+    <Author>David Steinberg</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>2/16/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>TROI.ABUT.DANTE</Row>
+      <Row>BOXCAMERA.SPEAR</Row>
+      <Row>SPEEDBALL.THATS</Row>
+      <Row>PENTHOUSESUITE.</Row>
+      <Row>...ROY...ADDAMS</Row>
+      <Row>AFLAC.GABLE.SOY</Row>
+      <Row>CLAY.NEMEAN.ADD</Row>
+      <Row>EAT.COLBERT.PEN</Row>
+      <Row>TMI.ODDITY.DIRE</Row>
+      <Row>IBN.RESTS.SUNNY</Row>
+      <Row>COLADA...GPS...</Row>
+      <Row>.YOGURTSMOOTHIE</Row>
+      <Row>CAVER.INAMORATA</Row>
+      <Row>ONENO.PIXELATED</Row>
+      <Row>STRAY.STIR.GEMS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="TROI">Sci-fi character who graduated from Starfleet Academy in 2359</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="ABUT">What Iran and Iraq do</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Across" Ans="DANTE">"Purgatorio" poet</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="BOXCAMERA">Brownie, for one</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Across" Ans="SPEAR">Primitive kind of poker?</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="SPEEDBALL">Dangerous cocktail</Clue>
+      <Clue Row="3" Col="11" Num="18" Dir="Across" Ans="THATS">"___ fine"</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="PENTHOUSESUITE">Luxury hotel option</Clue>
+      <Clue Row="5" Col="4" Num="21" Dir="Across" Ans="ROY">Name related to Rex</Clue>
+      <Clue Row="5" Col="10" Num="22" Dir="Across" Ans="ADDAMS">Wednesday, e.g.</Clue>
+      <Clue Row="6" Col="1" Num="24" Dir="Across" Ans="AFLAC">Insurance company whose logo contains a bill</Clue>
+      <Clue Row="6" Col="7" Num="27" Dir="Across" Ans="GABLE">Tudor house feature</Clue>
+      <Clue Row="6" Col="13" Num="30" Dir="Across" Ans="SOY">Vegan protein source</Clue>
+      <Clue Row="7" Col="1" Num="31" Dir="Across" Ans="CLAY">Pot-making supply</Clue>
+      <Clue Row="7" Col="6" Num="32" Dir="Across" Ans="NEMEAN">Like a mythical lion</Clue>
+      <Clue Row="7" Col="13" Num="33" Dir="Across" Ans="ADD">Recipe directive</Clue>
+      <Clue Row="8" Col="1" Num="34" Dir="Across" Ans="EAT">Put away the dishes?</Clue>
+      <Clue Row="8" Col="5" Num="35" Dir="Across" Ans="COLBERT">Memorable White House Correspondents' Dinner host of 2006</Clue>
+      <Clue Row="8" Col="13" Num="36" Dir="Across" Ans="PEN">You might click it open</Clue>
+      <Clue Row="9" Col="1" Num="37" Dir="Across" Ans="TMI">"Eww, stop!"</Clue>
+      <Clue Row="9" Col="5" Num="38" Dir="Across" Ans="ODDITY">Singular thing</Clue>
+      <Clue Row="9" Col="12" Num="39" Dir="Across" Ans="DIRE">Requiring immediate attention</Clue>
+      <Clue Row="10" Col="1" Num="40" Dir="Across" Ans="IBN">Hebrew : ben :: Arabic : ___</Clue>
+      <Clue Row="10" Col="5" Num="41" Dir="Across" Ans="RESTS">"Stop playing" symbols</Clue>
+      <Clue Row="10" Col="11" Num="42" Dir="Across" Ans="SUNNY">Optimistic</Clue>
+      <Clue Row="11" Col="1" Num="43" Dir="Across" Ans="COLADA">Strained, at the bar</Clue>
+      <Clue Row="11" Col="10" Num="45" Dir="Across" Ans="GPS">Dash device</Clue>
+      <Clue Row="12" Col="2" Num="46" Dir="Across" Ans="YOGURTSMOOTHIE">Creamy, fruity drink</Clue>
+      <Clue Row="13" Col="1" Num="53" Dir="Across" Ans="CAVER">One who's frequently in the dark</Clue>
+      <Clue Row="13" Col="7" Num="54" Dir="Across" Ans="INAMORATA">Fiancée, say</Clue>
+      <Clue Row="14" Col="1" Num="55" Dir="Across" Ans="ONENO">Brief bridge opening</Clue>
+      <Clue Row="14" Col="7" Num="56" Dir="Across" Ans="PIXELATED">Like privates, often</Clue>
+      <Clue Row="15" Col="1" Num="57" Dir="Across" Ans="STRAY">Part of a pound?</Clue>
+      <Clue Row="15" Col="7" Num="58" Dir="Across" Ans="STIR">Recipe directive</Clue>
+      <Clue Row="15" Col="12" Num="59" Dir="Across" Ans="GEMS">Cameos and others</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="TBSP">1/256 of a gal.</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ROPE">Plastic Clue weapon</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="OXEN">Strong team</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="ICETRAY">Cube holder</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="AMBOY">South ___, N.J.</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="BEAU">Boy with a bouquet</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="URLS">Surfing destinations</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="TALE">Something to spin</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="DSTUDENT">One who's 60-something?</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="APHID">One with a plant-based diet</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="NEATASAPIN">Spotless</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="TATEMODERN">London museum whose oldest piece is from 1900</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="ERS">Some TV drama settings</Clue>
+      <Clue Row="2" Col="5" Num="15" Dir="Down" Ans="ADHOC">Provisional</Clue>
+      <Clue Row="4" Col="10" Num="20" Dir="Down" Ans="SALARY">Sensitive figure, for many</Clue>
+      <Clue Row="5" Col="15" Num="23" Dir="Down" Ans="SYDNEY">Most populous city in Oceania</Clue>
+      <Clue Row="6" Col="1" Num="24" Dir="Down" Ans="ACETIC">___ acid (dressing ingredient)</Clue>
+      <Clue Row="6" Col="2" Num="25" Dir="Down" Ans="FLAMBOYANT">Attention-grabbing</Clue>
+      <Clue Row="6" Col="3" Num="26" Dir="Down" Ans="LATINLOVER">Epitome of romantic passion</Clue>
+      <Clue Row="6" Col="7" Num="27" Dir="Down" Ans="GELDS">Fixes</Clue>
+      <Clue Row="6" Col="8" Num="28" Dir="Down" Ans="AMBIT">Bounds</Clue>
+      <Clue Row="6" Col="9" Num="29" Dir="Down" Ans="BEETS">Natural food coloring sources</Clue>
+      <Clue Row="7" Col="6" Num="32" Dir="Down" Ans="NODEAR">Rejection of a honey-do list</Clue>
+      <Clue Row="8" Col="5" Num="35" Dir="Down" Ans="CORDUROY">Its ribs stick out</Clue>
+      <Clue Row="9" Col="12" Num="39" Dir="Down" Ans="DUSTRAG">Cleaning cloth</Clue>
+      <Clue Row="10" Col="11" Num="42" Dir="Down" Ans="SPOOL">Wind or unwind</Clue>
+      <Clue Row="11" Col="4" Num="44" Dir="Down" Ans="AGENA">It was boosted by Atlas</Clue>
+      <Clue Row="11" Col="10" Num="45" Dir="Down" Ans="GOMER">Cloddish sort, in slang</Clue>
+      <Clue Row="12" Col="7" Num="47" Dir="Down" Ans="TIPS">Things waiters wait for</Clue>
+      <Clue Row="12" Col="8" Num="48" Dir="Down" Ans="SNIT">Huff</Clue>
+      <Clue Row="12" Col="9" Num="49" Dir="Down" Ans="MAXI">Long dress</Clue>
+      <Clue Row="12" Col="13" Num="50" Dir="Down" Ans="HATE">"I ___ quotation": Emerson</Clue>
+      <Clue Row="12" Col="14" Num="51" Dir="Down" Ans="ITEM">Amazon unit</Clue>
+      <Clue Row="12" Col="15" Num="52" Dir="Down" Ans="EADS">James B. ___, diving bell inventor</Clue>
+      <Clue Row="13" Col="1" Num="53" Dir="Down" Ans="COS">Secant's reciprocal: Abbr.</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Given David&#39;s history of debuting entries like <a href="https://www.xwordinfo.com/Crossword?date=1/2/2015&amp;g=14&amp;d=A">ADULT MOVIES</a>, <a href="https://www.xwordinfo.com/Crossword?date=4/28/2017&amp;g=19&amp;d=A">GENTLEMEN&#39;S</a><a href="https://www.xwordinfo.com/Crossword?date=4/28/2017&amp;g=19&amp;d=A"> CLUB</a>, <a href="https://www.xwordinfo.com/Crossword?date=10/9/2015&amp;g=19&amp;d=A">PLAYBOY MANSION</a>, and <a href="https://www.xwordinfo.com/Crossword?date=10/9/2015&amp;g=50&amp;d=A">TOPLESS DANCERS</a>, I was nervous after uncovering PENTHOUSE &hellip; thankfully it was PENTHOUSE SUITE! Whew. That&#39;s a great feature entry.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Speedball_%28drug%29" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/6/67/Cocaine3.jpg" style="border:1px solid lightgray; float:right; height:228px; margin:6px 0px 6px 12px; width:166px" title="Oh, THAT'S a SPEEDBALL? Yikes!" /></a></p>
+
+<p>I wasn&#39;t as hot on YOGURT SMOOTHIE &ndash; I drink a lot of fruit smoothies, protein shakes, etc., but YOGURT SMOOTHIE didn&#39;t immediately ring a bell. Still, it was obvious enough &hellip;</p>
+
+<p>&hellip; what else goes into a YOGURT SMOOTHIE, though? Isn&#39;t it just yogurt? Why don&#39;t they just call it &quot;yogurt&quot;?</p>
+
+<p>Tough to build a themeless around 14s, but David did a nice job of it. Classic approach, putting them in rows 4 and 12, still allowing him to build triple-stacks in the NW and SE corners, by placing a black square between TROI and ABUT. Both corners turned out pretty nice.</p>
+
+<p>BOX CAMERA / SPEEDBALL / PENTHOUSE SUITE is a great triplet. I was all set to go gung-ho on the praise for it &hellip; then I realized what a <a href="https://en.wikipedia.org/wiki/Speedball_%28drug%29">SPEEDBALL</a> is. Yikes!</p>
+
+<p>And then I hit the AMBOY / ROY crossing. I had to debate ROD, ROG, ROS, ROC, ROB, ROY. Ultimately, the &quot;king&quot; etymology made ROY win out, but I think a more straightforward clue for ROY would have been better.</p>
+
+<p>SE corner had a solid stack, too, with INAMORATA such a fancy-pants (in a good way!) term for &quot;lover.&quot; PIXELATED was a fun term too &hellip; but oof, I don&#39;t want my crosswords to make me imagine pics that men seem to frequently text &hellip; let&#39;s leave it at that.</p>
+
+<p>EADS / INAMORATA did seem iffy, but I *think* educated solvers ought to be able to work out that A ending letter, based on what they know of Romance languages.</p>
+
+<p>Get it, romance?</p>
+
+<p>*rimshot*</p>
+
+<p>Okay, I&#39;m sympathetic if you got that square wrong.</p>
+
+<p>Overall, good use of his long slots, NEAT AS A PIN / TATE MODERN my favorite entries of the grid, what with their timeless feel. Not keen on the AGENA &hellip; rocket? &hellip; but those EADS AMBOY TROI dabs of crossword glue did enable a lot of good entries.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>This is the second of two themelesses accepted in 2014 that I &quot;revitalized&quot; a few months ago (<a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.xwordinfo.com/Crossword?date%3D12/29/2017&amp;source=gmail&amp;ust=1518199691818000&amp;usg=AFQjCNEC6HnyKTNGYTkt8IhPSp1GTa-e8A" href="https://www.xwordinfo.com/Crossword?date=12/29/2017">the first</a> was published December 29). Not as much zip in this one as I&#39;d strive to include nowadays, but I like the overall smoothness. It&#39;s like a YOGURT SMOOTHIE, with just a couple of raspberries that didn&#39;t defrost mixed in (I&#39;m looking at you, AGENA and ONE NO!).</p>
+
+<p>I&#39;d say the highlight of the puzzle is the clues. My favorite David Steinberg Original&reg; is [Like privates, often] for PIXELATED. Brings back memories of what was on my mind when I was 17 ;).</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Friday, January 19, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/19/2018 at 6:50 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Fri, Jan 19, 2018</Title>
+    <Author>David J. Kahn</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/19/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>GRABBAR.PARADOR</Row>
+      <Row>RELEASE.ABILENE</Row>
+      <Row>ATLANTA.LABELED</Row>
+      <Row>NOIR.EPEES.SITE</Row>
+      <Row>TON.BREADED.COY</Row>
+      <Row>SLOPE.RRR.ELATE</Row>
+      <Row>..NIT.SPY.CITES</Row>
+      <Row>.BEET.....OVEN.</Row>
+      <Row>GOPRO.COT.DEB..</Row>
+      <Row>ERROR.RNA.EDATE</Row>
+      <Row>MEI.STEEPED.LEM</Row>
+      <Row>ISNT.BASEL.SAAB</Row>
+      <Row>NOTALOT.DEFENSE</Row>
+      <Row>IMEMINE.UNLACED</Row>
+      <Row>SERAPES.PAYLESS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="GRABBAR">Help during the fall?</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Across" Ans="PARADOR">Spanish hotel</Clue>
+      <Clue Row="2" Col="1" Num="15" Dir="Across" Ans="RELEASE">Venting, e.g.</Clue>
+      <Clue Row="2" Col="9" Num="16" Dir="Across" Ans="ABILENE">Hardin-Simmons University setting</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="ATLANTA">N.L. East city</Clue>
+      <Clue Row="3" Col="9" Num="18" Dir="Across" Ans="LABELED">Branded</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="NOIR">Neo-___</Clue>
+      <Clue Row="4" Col="6" Num="20" Dir="Across" Ans="EPEES">Touching things in competitions</Clue>
+      <Clue Row="4" Col="12" Num="22" Dir="Across" Ans="SITE">Web developer's development</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Across" Ans="TON">Shipload</Clue>
+      <Clue Row="5" Col="5" Num="24" Dir="Across" Ans="BREADED">Like some veal chops</Clue>
+      <Clue Row="5" Col="13" Num="26" Dir="Across" Ans="COY">Hardly fresh</Clue>
+      <Clue Row="6" Col="1" Num="27" Dir="Across" Ans="SLOPE">It's not on the level</Clue>
+      <Clue Row="6" Col="7" Num="29" Dir="Across" Ans="RRR">Ed basics</Clue>
+      <Clue Row="6" Col="11" Num="30" Dir="Across" Ans="ELATE">Give a kick?</Clue>
+      <Clue Row="7" Col="3" Num="32" Dir="Across" Ans="NIT">Small grouse</Clue>
+      <Clue Row="7" Col="7" Num="33" Dir="Across" Ans="SPY">Wiretapper, e.g.</Clue>
+      <Clue Row="7" Col="11" Num="34" Dir="Across" Ans="CITES">Specifies</Clue>
+      <Clue Row="8" Col="2" Num="35" Dir="Across" Ans="BEET">Healthful juice source</Clue>
+      <Clue Row="8" Col="11" Num="36" Dir="Across" Ans="OVEN">Kind of mitt</Clue>
+      <Clue Row="9" Col="1" Num="37" Dir="Across" Ans="GOPRO">Thrill-seeker's appurtenance</Clue>
+      <Clue Row="9" Col="7" Num="38" Dir="Across" Ans="COT">Nap sack</Clue>
+      <Clue Row="9" Col="11" Num="41" Dir="Across" Ans="DEB">Girl in a gown</Clue>
+      <Clue Row="10" Col="1" Num="42" Dir="Across" Ans="ERROR">Fluff</Clue>
+      <Clue Row="10" Col="7" Num="43" Dir="Across" Ans="RNA">Stuff of life</Clue>
+      <Clue Row="10" Col="11" Num="44" Dir="Across" Ans="EDATE">Virtual connection?</Clue>
+      <Clue Row="11" Col="1" Num="47" Dir="Across" Ans="MEI">___ Lan (giant panda born at the 17-Across zoo)</Clue>
+      <Clue Row="11" Col="5" Num="48" Dir="Across" Ans="STEEPED">Soaked (in)</Clue>
+      <Clue Row="11" Col="13" Num="51" Dir="Across" Ans="LEM">The Eagle, e.g.</Clue>
+      <Clue Row="12" Col="1" Num="52" Dir="Across" Ans="ISNT">That right introduction?</Clue>
+      <Clue Row="12" Col="6" Num="54" Dir="Across" Ans="BASEL">Third-largest city of Switzerland</Clue>
+      <Clue Row="12" Col="12" Num="55" Dir="Across" Ans="SAAB">Car once advertised with the slogan "The relentless pursuit of common sense"</Clue>
+      <Clue Row="13" Col="1" Num="56" Dir="Across" Ans="NOTALOT">Bubkes</Clue>
+      <Clue Row="13" Col="9" Num="58" Dir="Across" Ans="DEFENSE">Cabinet part</Clue>
+      <Clue Row="14" Col="1" Num="60" Dir="Across" Ans="IMEMINE">Last new Beatles track before their split in 1970</Clue>
+      <Clue Row="14" Col="9" Num="61" Dir="Across" Ans="UNLACED">Loose, in a way</Clue>
+      <Clue Row="15" Col="1" Num="62" Dir="Across" Ans="SERAPES">Wraps around the shoulders</Clue>
+      <Clue Row="15" Col="9" Num="63" Dir="Across" Ans="PAYLESS">Big name in shoe stores</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="GRANTS">Accords</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="RETOOL">Update at the factory</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="ALLINONEPRINTER">Home office convenience</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="BEAR">Difficult thing to do, informally</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="BAN">Smoking ___</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="ASTER">Flower whose name derives from the shape of its cluster</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="REAPERS">Some farm equipment</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="PALEDRY">Light-colored and medium-sweet</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="ABASE">Mortify</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="RIB">Leaf part</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="ALES">Stout cousins?</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="DELICATEBALANCE">1966 Pulitzer-winning Edward Albee play, with "A"</Clue>
+      <Clue Row="1" Col="14" Num="13" Dir="Down" Ans="ONETOTEN">Common rating scale</Clue>
+      <Clue Row="1" Col="15" Num="14" Dir="Down" Ans="REDEYES">All-nighters?</Clue>
+      <Clue Row="4" Col="8" Num="21" Dir="Down" Ans="EARP">Role in 1993's "Tombstone"</Clue>
+      <Clue Row="5" Col="5" Num="24" Dir="Down" Ans="BETTORS">Those who may accept tips</Clue>
+      <Clue Row="5" Col="11" Num="25" Dir="Down" Ans="DECODED">Figured out</Clue>
+      <Clue Row="6" Col="4" Num="28" Dir="Down" Ans="PIERO">Renaissance artist ___ della Francesca</Clue>
+      <Clue Row="6" Col="12" Num="31" Dir="Down" Ans="LIVED">Kept going</Clue>
+      <Clue Row="8" Col="2" Num="35" Dir="Down" Ans="BORESOME">Tedious</Clue>
+      <Clue Row="9" Col="1" Num="37" Dir="Down" Ans="GEMINIS">Expressive and quick-witted sorts, they say</Clue>
+      <Clue Row="9" Col="7" Num="38" Dir="Down" Ans="CREATES">Fashions</Clue>
+      <Clue Row="9" Col="8" Num="39" Dir="Down" Ans="ONES">Much of binary code</Clue>
+      <Clue Row="9" Col="9" Num="40" Dir="Down" Ans="TAPEDUP">Like a boxer's hands during sparring, maybe</Clue>
+      <Clue Row="10" Col="14" Num="45" Dir="Down" Ans="TEASES">Beguilers</Clue>
+      <Clue Row="10" Col="15" Num="46" Dir="Down" Ans="EMBEDS">Sets securely</Clue>
+      <Clue Row="11" Col="6" Num="49" Dir="Down" Ans="TBONE">Something to gnaw on</Clue>
+      <Clue Row="11" Col="10" Num="50" Dir="Down" Ans="ELENA">"The Vampire Diaries" protagonist</Clue>
+      <Clue Row="12" Col="4" Num="53" Dir="Down" Ans="TAMA">Writer Janowitz</Clue>
+      <Clue Row="12" Col="12" Num="55" Dir="Down" Ans="SEAL">It makes an impression</Clue>
+      <Clue Row="13" Col="5" Num="57" Dir="Down" Ans="LIP">Place for a piercing</Clue>
+      <Clue Row="13" Col="11" Num="59" Dir="Down" Ans="FLY">Work, as a proposal</Clue>
+    </Clues>
+    <Notepad><![CDATA[The completed puzzle conceals the name of a famous composer, along with something that might help you listen to him. Who and what are they?]]></Notepad>
+    <JeffNotes><![CDATA[<p>What&#39;s that H doing in the middle of my Friday themeless puzzle? Forming the words BEET(H)OVEN and EARP(H)ONES, that&#39;s what! Cool finds, those. EARPHONES aren&#39;t totally related to BEETHOVEN &mdash; PIANO, MUSICIAN, CLASSICAL MUSIC, SONATAS, etc. are much closer &mdash; but the pairing mostly works.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Ludwig_van_Beethoven" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/440px-Beethoven.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:208px" title="I want a portrait of me in this style" /></a></p>
+
+<p>What didn&#39;t work for me was running it as a Friday themeless puzzle. It ended up in limbo, caught between three crossworlds:</p>
+
+<p><strong>THEMELESS</strong>. I love me a great mini-theme, as long as the rest of the themeless puzzle doesn&#39;t get compromised. This mini-theme is prety good (notwithstanding EARPHONES being not <em>that</em> related to BEETHOVEN). The visual of the H working in the answers is cool.</p>
+
+<p>But I need more snazz out of a themeless than ALL IN ONE PRINTER, DELICATE BALANCE, and &hellip; well, that&#39;s NOT A LOT. Along with odd BORESOME and PIERO, and some LEM RRR TAMA crossword glue, it didn&#39;t meet my (admittedly high) expectations for a themeless.</p>
+
+<p><strong>THEMED</strong>. Not nearly enough themage to be a workable mid-week puzzle. It could have gone more in this direction &mdash; Beethoven wrote a lot, so there&#39;s all sorts of FUR ELISE, MOONLIGHT SONATA, themage possibilities. Even the fact that SCHROEDER of Peanuts was a big fan!</p>
+
+<p><strong>METAPUZZLE</strong>. The NYT is missing the boat here. This could have been a fun contest, where solvers submit the name of a famous composer and something that&#39;s used to listen to him. Yes! But to do it with a notepad, and have no contest? No prizes? No challenge? No bueno! And if it had been a metapuzzle, David could have gone up to a more reasonable word count of say, 74 or 76, and made the fill more snazzy and smooth.</p>
+
+<p>It&#39;s a neat finding, that BEET + large H + OVEN = BEETHOVEN. I wish it had gone solidly into one of the three above camps, though, as trying to straddle these crossword types didn&#39;t quite work for me. I can see how others would appreciate the crossover efforts, though. Valiant attempt.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>When I first wrote this puzzle, I had BRIGHTMAN (as in Sarah) crossing BEETHOVEN; the idea was to pair a classical composer with a &quot;cross-over&quot; artist. Will, tho, liked EARPHONES, which could also be paired with Beethoven better, so I reworked some of the original grid. I think gimmicks like this in a Friday or Saturday are fun and add something to an otherwise-themeless puzzle.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

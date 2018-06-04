@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Tuesday, February 20, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 2/20/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Tue, Feb 20, 2018</Title>
+    <Author>Joel Fagliano</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>2/20/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>BOLT.BLOC.ABASE</Row>
+      <Row>ITOO.LALA.CAMUS</Row>
+      <Row>DOUG.UTAH.TROMP</Row>
+      <Row>.HIGHDEFINITION</Row>
+      <Row>..SLOG..LIVE...</Row>
+      <Row>.OVEREXPLAINED.</Row>
+      <Row>ANI.NOVA..ADDON</Row>
+      <Row>HELP.NINTH.SNUB</Row>
+      <Row>HALLS..DAUB.ASA</Row>
+      <Row>.MEANINGOFLIFE.</Row>
+      <Row>...TODO..FACE..</Row>
+      <Row>LEXICOGRAPHERS.</Row>
+      <Row>ARENA.GOGO.ABOY</Row>
+      <Row>GINUP.IDES.GENE</Row>
+      <Row>SCAMS.NEST.ERGS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="BOLT">Something sticking out of Frankenstein's neck</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="BLOC">Voting coalition</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Across" Ans="ABASE">Belittle</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="ITOO">Classic Langston Hughes poem</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="LALA">"___ Land" (2016 Best Picture nominee)</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Across" Ans="CAMUS">French author who said "An intellectual is someone whose mind watches itself"</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="DOUG">Alabama senator Jones</Clue>
+      <Clue Row="3" Col="6" Num="18" Dir="Across" Ans="UTAH">Home to Zion National Park</Clue>
+      <Clue Row="3" Col="11" Num="19" Dir="Across" Ans="TROMP">Walk with heavy steps</Clue>
+      <Clue Row="4" Col="2" Num="20" Dir="Across" Ans="HIGHDEFINITION">adj. under the influence of a drug</Clue>
+      <Clue Row="5" Col="3" Num="23" Dir="Across" Ans="SLOG">Long, boring task</Clue>
+      <Clue Row="5" Col="9" Num="24" Dir="Across" Ans="LIVE">___-blogging</Clue>
+      <Clue Row="6" Col="2" Num="25" Dir="Across" Ans="OVEREXPLAINED">adv. across a barrier or intervening space</Clue>
+      <Clue Row="7" Col="1" Num="30" Dir="Across" Ans="ANI">Singer DiFranco</Clue>
+      <Clue Row="7" Col="5" Num="31" Dir="Across" Ans="NOVA">Smoked salmon</Clue>
+      <Clue Row="7" Col="11" Num="32" Dir="Across" Ans="ADDON">Bonus</Clue>
+      <Clue Row="8" Col="1" Num="34" Dir="Across" Ans="HELP">"Can I get a hand here?!"</Clue>
+      <Clue Row="8" Col="6" Num="36" Dir="Across" Ans="NINTH">Like William Henry Harrison, among U.S. presidents</Clue>
+      <Clue Row="8" Col="12" Num="39" Dir="Across" Ans="SNUB">Crowd favorite not getting nominated for an Oscar, e.g.</Clue>
+      <Clue Row="9" Col="1" Num="40" Dir="Across" Ans="HALLS">Cough drop brand</Clue>
+      <Clue Row="9" Col="8" Num="42" Dir="Across" Ans="DAUB">Apply carelessly, as paint</Clue>
+      <Clue Row="9" Col="13" Num="44" Dir="Across" Ans="ASA">Fresh ___ daisy</Clue>
+      <Clue Row="10" Col="2" Num="45" Dir="Across" Ans="MEANINGOFLIFE">n. spirit, animation</Clue>
+      <Clue Row="11" Col="4" Num="49" Dir="Across" Ans="TODO">Heading with check boxes below it</Clue>
+      <Clue Row="11" Col="10" Num="50" Dir="Across" Ans="FACE">Main part of a selfie</Clue>
+      <Clue Row="12" Col="1" Num="51" Dir="Across" Ans="LEXICOGRAPHERS">Ones who produced the clues for 20-, 25- and 45-Across</Clue>
+      <Clue Row="13" Col="1" Num="57" Dir="Across" Ans="ARENA">Sports center</Clue>
+      <Clue Row="13" Col="7" Num="58" Dir="Across" Ans="GOGO">Big name in in-flight internet</Clue>
+      <Clue Row="13" Col="12" Num="59" Dir="Across" Ans="ABOY">"About ___" (2002 movie)</Clue>
+      <Clue Row="14" Col="1" Num="61" Dir="Across" Ans="GINUP">Enliven</Clue>
+      <Clue Row="14" Col="7" Num="62" Dir="Across" Ans="IDES">Midmonth date</Clue>
+      <Clue Row="14" Col="12" Num="63" Dir="Across" Ans="GENE">Target of splicing</Clue>
+      <Clue Row="15" Col="1" Num="64" Dir="Across" Ans="SCAMS">Emails that tell you you've won the lottery, e.g.</Clue>
+      <Clue Row="15" Col="7" Num="65" Dir="Across" Ans="NEST">Fit one inside the other</Clue>
+      <Clue Row="15" Col="12" Num="66" Dir="Across" Ans="ERGS">Energy units</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="BID">Creation of an Olympic city hopeful</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="OTOH">"Then again ...," in texts</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="LOUISVILLE">Birthplace of Muhammad Ali</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="TOGGLE">Switch between windows, e.g.</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="BLUDGEON">Beat badly</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="LATE">Behind schedule</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="OLAF">"Frozen" snowman</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="CAHILL">U.S. marshal role for John Wayne</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="ACTIVIA">Brand of probiotic yogurt</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="BARTENDS">Makes the rounds?</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="AMOI">Mine: Fr.</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="SUMO">Battle of the bulges?</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="ESPN">FS1 competitor</Clue>
+      <Clue Row="4" Col="5" Num="21" Dir="Down" Ans="HORN">Sound that signifies the end of a basketball game</Clue>
+      <Clue Row="4" Col="10" Num="22" Dir="Down" Ans="NIA">Actress Vardalos</Clue>
+      <Clue Row="6" Col="2" Num="25" Dir="Down" Ans="ONEAM">When "S.N.L." ends on the East Coast</Clue>
+      <Clue Row="6" Col="7" Num="26" Dir="Down" Ans="XVI">Louis ___, French king who was guillotined</Clue>
+      <Clue Row="6" Col="8" Num="27" Dir="Down" Ans="PANDG">Consumer giant that makes Bounty, for short</Clue>
+      <Clue Row="6" Col="13" Num="28" Dir="Down" Ans="EDNAFERBER">"Cimarron" novelist</Clue>
+      <Clue Row="6" Col="14" Num="29" Dir="Down" Ans="DOUSE">Extinguish</Clue>
+      <Clue Row="7" Col="1" Num="30" Dir="Down" Ans="AHH">"That hits the spot!"</Clue>
+      <Clue Row="7" Col="15" Num="33" Dir="Down" Ans="NBA">LeBron James's org.</Clue>
+      <Clue Row="8" Col="4" Num="35" Dir="Down" Ans="PLATINUM">Credit card designation</Clue>
+      <Clue Row="8" Col="9" Num="37" Dir="Down" Ans="TAO">Confucian path</Clue>
+      <Clue Row="8" Col="10" Num="38" Dir="Down" Ans="HUFFPOST">Popular left-leaning news site</Clue>
+      <Clue Row="9" Col="5" Num="41" Dir="Down" Ans="SNOCAPS">Nestlé candy popular at movie houses</Clue>
+      <Clue Row="9" Col="11" Num="43" Dir="Down" Ans="BLAH">Humdrum</Clue>
+      <Clue Row="10" Col="6" Num="46" Dir="Down" Ans="IDO">Veiled oath?</Clue>
+      <Clue Row="10" Col="7" Num="47" Dir="Down" Ans="NOGGIN">Bean</Clue>
+      <Clue Row="10" Col="12" Num="48" Dir="Down" Ans="ICEAGE">Mammoth time period</Clue>
+      <Clue Row="12" Col="1" Num="51" Dir="Down" Ans="LAGS">Delays</Clue>
+      <Clue Row="12" Col="2" Num="52" Dir="Down" Ans="ERIC">Viking explorer</Clue>
+      <Clue Row="12" Col="3" Num="53" Dir="Down" Ans="XENA">"Hercules" spinoff</Clue>
+      <Clue Row="12" Col="8" Num="54" Dir="Down" Ans="RODE">Went by motorcycle, say</Clue>
+      <Clue Row="12" Col="9" Num="55" Dir="Down" Ans="AGES">Census data</Clue>
+      <Clue Row="12" Col="14" Num="56" Dir="Down" Ans="SONG">iTunes download</Clue>
+      <Clue Row="13" Col="15" Num="60" Dir="Down" Ans="YES">"Suh-weet!"</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>HIGH DEFINITION gets clued as if a dictionary entry for HIGH. OVEREXPLAINED as an entry for OVER. And MEANING OF LIFE as an entry for life? Brilliant! A winner of a theme. A true WITT (Wish I had Thought of That).</p>
+
+<p><a href="https://en.wikipedia.org/wiki/HuffPost" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/HuffPost.svg/500px-HuffPost.svg.png" style="border:none; float:right; height:25px; margin:6px 0px 6px 12px; width:220px" title="The HUFFPOST" /></a></p>
+
+<p>I did hitch at LEXICOGRAPHERS though, wondering why this was needed. It all made sense without this &quot;revealer,&quot; yeah? Felt like LEXICOGRAPHERS took away from the impact of the puzzle, like someone overexplaining a joke, thus not making it funny anymore.</p>
+
+<p>But I chose to ignore that and appreciate the three great finds. What an amusing concept.</p>
+
+<p>I like that Joel pushes the boundaries in his grids, stretching to work a ton of long bonuses into the fill. Today, he goes all the way down to 72 words, no mean feat in a themed puzzle. It allowed entries like BLUDGEON, BARTENDS, PLATINUM, EDNA FERBER, HUFF POST &ndash; excellent stuff.</p>
+
+<p>It did come at price, though. That tiny SE corner best demonstrates it. A BOY / ERGS in a Tuesday puzzle isn&#39;t great, and it isn&#39;t up to Joel&#39;s high standard of gridsmanship. I would have preferred placing a black square at the E of FACE, to break up EDNA FERBER and clean up that SE corner (sorry, Ferber fans!). A little too much stretching today.</p>
+
+<p>If only LEXICOGRAPHERS had been replaced with something like JOB DESCRIPTION or DREAM INTERPRETATION, this would have been a no-brainer POW! pick. But even with the hitch, I had on LEXICOGRAPHERS puzzlesplaining to me, I still enjoyed it.</p>]]></JeffNotes>
+  </Puzzle>
+</Puzzles>

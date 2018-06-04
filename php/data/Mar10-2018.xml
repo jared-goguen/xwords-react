@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Saturday, March 10, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/10/2018 at 6:20 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sat, Mar 10, 2018</Title>
+    <Author>Ryan McCarty</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/10/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>GASTAP...RATEDG</Row>
+      <Row>ONLINE..BEDELIA</Row>
+      <Row>FIESTA.HADALISP</Row>
+      <Row>OMENS.FIREPLACE</Row>
+      <Row>RAPT.BIGBATS...</Row>
+      <Row>ANA..EXHALE.POI</Row>
+      <Row>SIPS.GEARTRAINS</Row>
+      <Row>PANIC.DNA.STEEL</Row>
+      <Row>ICECAPADES.ERMA</Row>
+      <Row>NSA.DESADE..CAN</Row>
+      <Row>...GETSWET.TEND</Row>
+      <Row>ORSONBEAN.JUDAH</Row>
+      <Row>HOSTCITY.BOLERO</Row>
+      <Row>HUNTERS..UVLAMP</Row>
+      <Row>ITSODD...BEERYS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="GASTAP">Pilot control?</Clue>
+      <Clue Row="1" Col="10" Num="7" Dir="Across" Ans="RATEDG">For all to see</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Across" Ans="ONLINE">What "e" may signify</Clue>
+      <Clue Row="2" Col="9" Num="14" Dir="Across" Ans="BEDELIA">Bonnie of "Parenthood"</Clue>
+      <Clue Row="3" Col="1" Num="15" Dir="Across" Ans="FIESTA">Occasion for a piñata</Clue>
+      <Clue Row="3" Col="8" Num="16" Dir="Across" Ans="HADALISP">Couldn't say "say," say</Clue>
+      <Clue Row="4" Col="1" Num="17" Dir="Across" Ans="OMENS">Gathering clouds and others</Clue>
+      <Clue Row="4" Col="7" Num="18" Dir="Across" Ans="FIREPLACE">Poker site</Clue>
+      <Clue Row="5" Col="1" Num="19" Dir="Across" Ans="RAPT">Glued to something</Clue>
+      <Clue Row="5" Col="6" Num="20" Dir="Across" Ans="BIGBATS">Sluggers</Clue>
+      <Clue Row="6" Col="1" Num="21" Dir="Across" Ans="ANA">Ortiz of "Devious Maids"</Clue>
+      <Clue Row="6" Col="6" Num="22" Dir="Across" Ans="EXHALE">Yoga command</Clue>
+      <Clue Row="6" Col="13" Num="23" Dir="Across" Ans="POI">Island dish</Clue>
+      <Clue Row="7" Col="1" Num="26" Dir="Across" Ans="SIPS">Opposite of downs</Clue>
+      <Clue Row="7" Col="6" Num="28" Dir="Across" Ans="GEARTRAINS">Arrangements of teeth?</Clue>
+      <Clue Row="8" Col="1" Num="30" Dir="Across" Ans="PANIC">Freak</Clue>
+      <Clue Row="8" Col="7" Num="32" Dir="Across" Ans="DNA">Modern test subject</Clue>
+      <Clue Row="8" Col="11" Num="33" Dir="Across" Ans="STEEL">Shade of gray</Clue>
+      <Clue Row="9" Col="1" Num="34" Dir="Across" Ans="ICECAPADES">Bygone skating spectacle</Clue>
+      <Clue Row="9" Col="12" Num="37" Dir="Across" Ans="ERMA">"Aunt" of a 1979 best seller</Clue>
+      <Clue Row="10" Col="1" Num="38" Dir="Across" Ans="NSA">Org. concerned with cracking and leaking</Clue>
+      <Clue Row="10" Col="5" Num="39" Dir="Across" Ans="DESADE">He wrote "It is always by way of pain one arrives at pleasure"</Clue>
+      <Clue Row="10" Col="13" Num="40" Dir="Across" Ans="CAN">Cooler</Clue>
+      <Clue Row="11" Col="4" Num="41" Dir="Across" Ans="GETSWET">Goes out in the rain</Clue>
+      <Clue Row="11" Col="12" Num="42" Dir="Across" Ans="TEND">Babysit</Clue>
+      <Clue Row="12" Col="1" Num="43" Dir="Across" Ans="ORSONBEAN">Dr. Lester portrayer in "Being John Malkovich"</Clue>
+      <Clue Row="12" Col="11" Num="46" Dir="Across" Ans="JUDAH">One of the 12 tribes of Israel</Clue>
+      <Clue Row="13" Col="1" Num="47" Dir="Across" Ans="HOSTCITY">Successful Olympic bidder</Clue>
+      <Clue Row="13" Col="10" Num="48" Dir="Across" Ans="BOLERO">Ravel work in which the melody is passed among the instruments</Clue>
+      <Clue Row="14" Col="1" Num="49" Dir="Across" Ans="HUNTERS">Ones prepared to drop a few bucks?</Clue>
+      <Clue Row="14" Col="10" Num="50" Dir="Across" Ans="UVLAMP">Tanning salon fixture</Clue>
+      <Clue Row="15" Col="1" Num="51" Dir="Across" Ans="ITSODD">"Weird ..."</Clue>
+      <Clue Row="15" Col="10" Num="52" Dir="Across" Ans="BEERYS">Noah and Wallace of old films</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="GOFORASPIN">Ride around the block, say</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ANIMANIACS">Warner Bros. cartoon series of the 1990s</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="SLEEPAPNEA">Breath-taking experience</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="TISNT">Quaint retort</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="ANTS">Line at a food stand?</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="PEA">Snow ___</Clue>
+      <Clue Row="1" Col="10" Num="7" Dir="Down" Ans="REDEALT">Provided new hands</Clue>
+      <Clue Row="1" Col="11" Num="8" Dir="Down" Ans="ADAPTERS">Common airport kiosk gadgets</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Down" Ans="TELLS">Giveaways</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="ELIA">"Grace Before Meat" essayist</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="DISC">Virtually every coin</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="GAPE">Goggle</Clue>
+      <Clue Row="2" Col="9" Num="14" Dir="Down" Ans="BARBARAEDEN">"Jeannie Out of the Bottle" memoirist</Clue>
+      <Clue Row="3" Col="8" Num="16" Dir="Down" Ans="HIGHANDAWAY">Like some bad pitches, in baseball lingo</Clue>
+      <Clue Row="4" Col="7" Num="18" Dir="Down" Ans="FIXEDASSETS">Office building, equipment, etc.</Clue>
+      <Clue Row="5" Col="6" Num="20" Dir="Down" Ans="BEG">Canine command</Clue>
+      <Clue Row="6" Col="13" Num="23" Dir="Down" Ans="PIERCEDEAR">Spot for a stud</Clue>
+      <Clue Row="6" Col="14" Num="24" Dir="Down" Ans="ONEMANARMY">Rambo, e.g.</Clue>
+      <Clue Row="6" Col="15" Num="25" Dir="Down" Ans="ISLANDHOPS">Changes keys?</Clue>
+      <Clue Row="7" Col="4" Num="27" Dir="Down" Ans="SIC">Canine command</Clue>
+      <Clue Row="7" Col="12" Num="29" Dir="Down" Ans="ATE">Took in</Clue>
+      <Clue Row="8" Col="5" Num="31" Dir="Down" Ans="CADENCED">In rhythm</Clue>
+      <Clue Row="9" Col="6" Num="35" Dir="Down" Ans="PETBIRD">Iago vis-à-vis Jafar, in "Aladdin"</Clue>
+      <Clue Row="9" Col="10" Num="36" Dir="Down" Ans="SET">Decided</Clue>
+      <Clue Row="11" Col="4" Num="41" Dir="Down" Ans="GOTTO">Bugged</Clue>
+      <Clue Row="11" Col="12" Num="42" Dir="Down" Ans="TULLE">Common material in tutus</Clue>
+      <Clue Row="12" Col="1" Num="43" Dir="Down" Ans="OHHI">"What a surprise to see you here!"</Clue>
+      <Clue Row="12" Col="2" Num="44" Dir="Down" Ans="ROUT">Cream</Clue>
+      <Clue Row="12" Col="3" Num="45" Dir="Down" Ans="SSNS">Hacking targets, for short</Clue>
+      <Clue Row="12" Col="11" Num="46" Dir="Down" Ans="JOVE">"By ___!"</Clue>
+      <Clue Row="13" Col="10" Num="48" Dir="Down" Ans="BUB">Mac alternative</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>I&#39;m a sucker for innovative patterns in themelesses. I still greatly enjoy standard themeless layouts, as long as the fill is sparkly, but there&#39;s something so thrilling about seeing something new. Big swaths of white, swirling from SW to NE! More swirliness in the other corners! All done with pretty good grid flow, and a ton of long entries? Color me intrigued. Nervous, too &ndash; it&#39;s so difficult to fill a grid like this well &ndash; but intrigued.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Barbara_Eden" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Barbara_eden_as_jeannie_1966.JPG/300px-Barbara_eden_as_jeannie_1966.JPG" style="border:1px solid lightgray; float:right; height:249px; margin:6px 0px 6px 12px; width:190px" title="Genie! Er, Jeannie." /></a></p>
+
+<p>Such a pleasure to get a snazzy triplet in the middle, FIXED ASSETS / HIGH AND AWAY / BARBARA EDEN. Okay, at least one of these could bore most anyone &ndash; finance haters, baseball haters, old sitcom haters. But I like the variety.</p>
+
+<p>Personally, I like finance and baseball (at least the fun slang), but I did do some head-scratching at BARBARA EDEN. When I looked her up on Wikipedia &hellip; man oh man, that theme song! Though I never watched the show, I love <a href="https://www.youtube.com/watch?v=JwpH_IYg0N8">that jingle</a>.</p>
+
+<p>Then, GEAR TRAINS and ICE CAPADES worked through the middle stack! As a gearhead, I love GEAR TRAINS. And [Arrangements of teeth?] obfuscating it made it even better.</p>
+
+<p>And there was more &mdash; nice stacks in each of the four corners! Loved loved loved PIERCED EAR / ONE MAN ARMY / ISLAND HOPS. Such juicy answers!</p>
+
+<p>Well, let&#39;s reduce that to two loves. Agreed with Ryan, BEERYS is one of the worst pluralized names I&#39;ve seen in memory. Ick! I&#39;d have preferred the black square at the S as Ryan described, but who knows what it would have done in the NW.</p>
+
+<p>I personally would have never let BEERYS through. But if it enables such a great triplet of long entries, why wouldn&#39;t you? Woudja look at that, after all these years, I&#39;m still adapting my thinking.</p>
+
+<p>(Okay, I still probably would have fought like heck to get rid of BEERYS.)</p>
+
+<p>Overall, great usage of his long slots, and I love the innovation and solid execution using a challenging grid pattern. Very impressive work from a relatively new constructor.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>By pure coincidence, this puzzle happens to run on my fianc&eacute;&#39;s birthday, so I&#39;ll take that as an opportunity to talk about him a bit. Quinton and I met as students at Princeton, both singing in the Princeton Nassoons (a cappella group) and the Chamber Choir. After graduation he spent a year in Tajikistan on a fellowship before joining me in the DC area, where we now both work on federal contracts. Although I usually enjoy doing the New York Times themeless puzzles solo, I love him enough to save some Fridays and Saturdays to solve together every few weeks. He especially helps with foreign language, geography, and vocabulary clues. We&#39;ll see if he can finish this one solo!</p>
+
+<p>This puzzle is a bit un-millennial of me in that much of the grid is skewed toward older references, which may trip up some younger solvers. I&#39;ve always been a fan of wide open grids with heavy intersection, even at the sacrifice to some overall zippiness and trendiness in the grid entries. It often makes it more of a challenge to both construct and solve, which I appreciate. This puzzle is an example of this constructing style: it doesn&#39;t quite have the youthful verve throughout, but I think the overall fill quality and intersection in the middle makes up for it. The side sections were a bit more flexible &ndash; only the unfortunate plural BEERYS which I didn&#39;t like, but liked better than the inelegance of adding a black square in the corner.</p>
+
+<p>Hope you like this (unexpected) birthday present Quinton!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

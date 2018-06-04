@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Friday, April 27, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/26/2018 at 7:02 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Fri, Apr 27, 2018</Title>
+    <Author>David Steinberg</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/27/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>SEETHING.PASCAL</Row>
+      <Row>ENTRANCE.AVIATE</Row>
+      <Row>ETHEREAL.RABBLE</Row>
+      <Row>TRIP..ATEIN.LAD</Row>
+      <Row>HECATE..PATNESS</Row>
+      <Row>ICANTAKEAHINT..</Row>
+      <Row>NHL.OVID...WEBB</Row>
+      <Row>GAD.PERSIAN.LIE</Row>
+      <Row>STIR...ERMA.EKE</Row>
+      <Row>..LOSESLEEPOVER</Row>
+      <Row>ELECTRO..SADISM</Row>
+      <Row>REM.ONTAP..ESTO</Row>
+      <Row>RAMONE.CROATIAN</Row>
+      <Row>EVADES.HALFTONE</Row>
+      <Row>DESERT.EYECANDY</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="SEETHING">Ready to explode</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Across" Ans="PASCAL">Mechanical calculator pioneer</Clue>
+      <Clue Row="2" Col="1" Num="15" Dir="Across" Ans="ENTRANCE">Mesmerize</Clue>
+      <Clue Row="2" Col="10" Num="16" Dir="Across" Ans="AVIATE">Do high-level banking?</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="ETHEREAL">Exquisitely delicate</Clue>
+      <Clue Row="3" Col="10" Num="18" Dir="Across" Ans="RABBLE">Disorganized group</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="TRIP">Set off</Clue>
+      <Clue Row="4" Col="7" Num="20" Dir="Across" Ans="ATEIN">Got room service, say</Clue>
+      <Clue Row="4" Col="13" Num="22" Dir="Across" Ans="LAD">Stripling</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Across" Ans="HECATE">Greek goddess of witchcraft and the underworld</Clue>
+      <Clue Row="5" Col="9" Num="26" Dir="Across" Ans="PATNESS">Smooth talker's quality</Clue>
+      <Clue Row="6" Col="1" Num="28" Dir="Across" Ans="ICANTAKEAHINT">Possible reply to someone's tactful remark</Clue>
+      <Clue Row="7" Col="1" Num="31" Dir="Across" Ans="NHL">Wild grp.</Clue>
+      <Clue Row="7" Col="5" Num="32" Dir="Across" Ans="OVID">"Venus favors the bold" writer</Clue>
+      <Clue Row="7" Col="12" Num="33" Dir="Across" Ans="WEBB">Jack of "Dragnet"</Clue>
+      <Clue Row="8" Col="1" Num="36" Dir="Across" Ans="GAD">Travel aimlessly</Clue>
+      <Clue Row="8" Col="5" Num="37" Dir="Across" Ans="PERSIAN">Cat known as a Shirazi in the Mideast</Clue>
+      <Clue Row="8" Col="13" Num="41" Dir="Across" Ans="LIE">Stand's opposite ... or a bad thing to do on the stand</Clue>
+      <Clue Row="9" Col="1" Num="42" Dir="Across" Ans="STIR">Ruckus</Clue>
+      <Clue Row="9" Col="8" Num="44" Dir="Across" Ans="ERMA">Humorist Bombeck</Clue>
+      <Clue Row="9" Col="13" Num="45" Dir="Across" Ans="EKE">Just make, with "out"</Clue>
+      <Clue Row="10" Col="3" Num="46" Dir="Across" Ans="LOSESLEEPOVER">Be really bothered by</Clue>
+      <Clue Row="11" Col="1" Num="51" Dir="Across" Ans="ELECTRO">Dance music subgenre</Clue>
+      <Clue Row="11" Col="10" Num="53" Dir="Across" Ans="SADISM">Opposite of kindness</Clue>
+      <Clue Row="12" Col="1" Num="54" Dir="Across" Ans="REM">Ad ___</Clue>
+      <Clue Row="12" Col="5" Num="55" Dir="Across" Ans="ONTAP">Up next</Clue>
+      <Clue Row="12" Col="12" Num="58" Dir="Across" Ans="ESTO">___ perpetuum (let it be everlasting: Lat.)</Clue>
+      <Clue Row="13" Col="1" Num="59" Dir="Across" Ans="RAMONE">Any of four punk rock bandmates</Clue>
+      <Clue Row="13" Col="8" Num="61" Dir="Across" Ans="CROATIAN">Ruble : Russian :: kuna : ___</Clue>
+      <Clue Row="14" Col="1" Num="64" Dir="Across" Ans="EVADES">Goes around</Clue>
+      <Clue Row="14" Col="8" Num="65" Dir="Across" Ans="HALFTONE">Newspaper photo technique</Clue>
+      <Clue Row="15" Col="1" Num="66" Dir="Across" Ans="DESERT">Antarctica, for one</Clue>
+      <Clue Row="15" Col="8" Num="67" Dir="Across" Ans="EYECANDY">Image that's very pleasing to look at</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="SEETHINGS">Hallucinate</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ENTRECHAT">Showy ballet leap</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="ETHICALDILEMMAS">Philosophical issues that may be debated</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="TREPAN">Mine shaft borer</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="HAR">Snarky laugh syllable</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="INE">Suffix with brilliant</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="NCAA">Awarder of billions in sports scholarships, in brief</Clue>
+      <Clue Row="1" Col="8" Num="8" Dir="Down" Ans="GELT">Lucre</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="PARIAH">Outcast</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="AVANTI">Classic Studebaker</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="SIB">Twin, to the other twin</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="CABLETELEVISION">What 90% of American households had in 2010 - but fewer have today</Clue>
+      <Clue Row="1" Col="14" Num="13" Dir="Down" Ans="ATLAS">Book of legends</Clue>
+      <Clue Row="1" Col="15" Num="14" Dir="Down" Ans="LEEDS">English industrial city described by Dickens as "an odious place"</Clue>
+      <Clue Row="4" Col="9" Num="21" Dir="Down" Ans="EPA">Ratings org.</Clue>
+      <Clue Row="5" Col="5" Num="24" Dir="Down" Ans="TTOP">Pontiac Trans Am option</Clue>
+      <Clue Row="5" Col="6" Num="25" Dir="Down" Ans="EAVE">Water diverter</Clue>
+      <Clue Row="5" Col="12" Num="27" Dir="Down" Ans="NNW">L.A.-to-Fresno direction</Clue>
+      <Clue Row="6" Col="7" Num="29" Dir="Down" Ans="KIR">Cassis cocktail</Clue>
+      <Clue Row="6" Col="8" Num="30" Dir="Down" Ans="EDSEL">Car that's an anagram of 14-Down</Clue>
+      <Clue Row="7" Col="14" Num="34" Dir="Down" Ans="BIKESTAND">Sight on school grounds</Clue>
+      <Clue Row="7" Col="15" Num="35" Dir="Down" Ans="BEERMONEY">A little extra for personal spending</Clue>
+      <Clue Row="8" Col="9" Num="38" Dir="Down" Ans="IRE">E.U. member: Abbr.</Clue>
+      <Clue Row="8" Col="10" Num="39" Dir="Down" Ans="AMES">City in the Midwest's Story County</Clue>
+      <Clue Row="8" Col="11" Num="40" Dir="Down" Ans="NAPA">California tour locale</Clue>
+      <Clue Row="9" Col="4" Num="43" Dir="Down" Ans="ROC">Mythical bird</Clue>
+      <Clue Row="10" Col="5" Num="47" Dir="Down" Ans="STONER">One getting hit after hit?</Clue>
+      <Clue Row="10" Col="6" Num="48" Dir="Down" Ans="ERNEST">Polar explorer Shackleton</Clue>
+      <Clue Row="10" Col="7" Num="49" Dir="Down" Ans="SOT">Swillbelly</Clue>
+      <Clue Row="10" Col="12" Num="50" Dir="Down" Ans="ODETTA">One-named folk singer</Clue>
+      <Clue Row="11" Col="1" Num="51" Dir="Down" Ans="ERRED">Was off</Clue>
+      <Clue Row="11" Col="2" Num="52" Dir="Down" Ans="LEAVE">Be off</Clue>
+      <Clue Row="12" Col="8" Num="56" Dir="Down" Ans="ACHE">Great desire</Clue>
+      <Clue Row="12" Col="9" Num="57" Dir="Down" Ans="PRAY">Request intervention</Clue>
+      <Clue Row="13" Col="4" Num="60" Dir="Down" Ans="ODE">Its first part is called a strophe</Clue>
+      <Clue Row="13" Col="10" Num="62" Dir="Down" Ans="OLE">Estadio exclamation</Clue>
+      <Clue Row="13" Col="11" Num="63" Dir="Down" Ans="AFC">Houston is in it, but Dallas isn't, briefly</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>I enjoy it when themeless constructors do something a little different &ndash; the creativity is much appreciated, helping to keep crosswords fresh and potentially even evolving. I&#39;ll admit I didn&#39;t see the SEETHING / SEE THINGS &quot;dupe&quot; David mentioned, but I enjoyed the Easter egg. I thought the puzzle was fun and well-crafted already, and that bonus elevated this one to my POW! pick.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Bicycle_parking_rack" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Witte_fietsen_de_hoge_veluwe.jpg/440px-Witte_fietsen_de_hoge_veluwe.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:187px" title="A bike rack is are called a BIKE STAND. Huh!" /></a></p>
+
+<p>It&#39;s so tough to create a themeless around ultra-long seed entries, and when you interlock four of them together, it&#39;s even tougher. The problem is that these long entries usually take up so much real estate that there&#39;s not much room left for other good entries. The puzzle then lives or dies on the quality of just those long entries. That&#39;s a lot of pressure on those few entries!</p>
+
+<p>I enjoyed the long ones a lot today, and the puzzle could have *almost* stood on those alone. I CAN TAKE A HINT is fantastic, one worth seeding a themeless with. ETHICAL DILEMMAS is great too, and LOSE SLEEP OVER ain&#39;t too shabby.</p>
+
+<p>CABLE TELEVISION isn&#39;t as good, as most people say &quot;cable TV.&quot; But it does work.</p>
+
+<p>Most constructors would put a black square at the T of TREPAN or the H of HECATE &ndash; as David mentioned, these types of huge corners with two triple-stacks intersecting each other are usually to be avoided at all costs. Way too hard to execute on with both snazziness and smoothness.</p>
+
+<p>I enjoyed that NW corner a lot. ENTRANCE is more a workmanlike entry, but I appreciated how changing the stressed syllable morphs the meaning of the word completely. And riffing off the SEE THINGS / SEETHING &quot;dupe,&quot; I liked the quasi-echo of ENTRECHAT and ENTRANCE. They look so similar but etymologically aren&#39;t. Cool!</p>
+
+<p>And some great clues. My favorite: [One getting hit after hit?] made me laugh, as there&#39;s quite a bit of pot usage in Seattle these days. STONERs!</p>
+
+<p>There&#39;s a bit too much short glue, NNW, ESTO, HAR, INE, etc. for my taste, but most themelesses featuring interlocked long seed entries have way more than this &ndash; as do themelesses with corners like the NW / SE! So very well done overall.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>As you probably guessed, this puzzle started with SEETHING and SEE THINGS. Really looking forward to seeing how everyone reacts to such a long &quot;dupe&quot;&mdash;at 1-Across/1-Down, no less! Working with stacked 8s crossing stacked 9s was brutal, though, especially since two of the long entries were already locked in. Not thrilled with the resulting crosswordese, though I do really like BEER MONEY, EYE CANDY, LOSE SLEEP OVER, ETHICAL DILEMMAS, and especially I CAN TAKE A HINT. All in all, I appreciate that Will let me bring some variety to the Friday themeless slot, and I&#39;m pleased with how this puzzle turned out given the constraints. Hope you enjoy!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Sunday, March 25, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/24/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sun, Mar 25, 2018 FOLLOW THE SUN</Title>
+    <Author>Finn Vigeland</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/25/2018</Date>
+    <Size>
+      <Rows>21</Rows>
+      <Cols>21</Cols>
+    </Size>
+    <Grid>
+      <Row>CZAR..SAIDYES.APRIORI</Row>
+      <Row>POSED.ARMHOLE.ROUNDER</Row>
+      <Row>ROSIE.MISSUSA.ALLUDES</Row>
+      <Row>.MEGATS...DEF.GOES...</Row>
+      <Row>..ENROUTETO.APO.DEGAS</Row>
+      <Row>BAN.MONAMI.KRONA..RIP</Row>
+      <Row>ALONE.GRANNIES.CAMERA</Row>
+      <Row>BING....IHEART.ISEEIT</Row>
+      <Row>ACTORS.PLAYS.PEDUNCLE</Row>
+      <Row>REV.BURRITO.DOLT.UEYS</Row>
+      <Row>...MINIONS.MONKEYS...</Row>
+      <Row>DOPE.KPMG.FINESSE.TBA</Row>
+      <Row>ENHANCED.FACTS.THUMBS</Row>
+      <Row>LEANTO.ARENDT....RIGA</Row>
+      <Row>EARTHS.TEAGREEN.ANNUM</Row>
+      <Row>TCM..TREAT.OLDEST.UNI</Row>
+      <Row>ETATS.ESL.EPLURIBUS..</Row>
+      <Row>...RUDE.TWA...FRENZY.</Row>
+      <Row>GEMINIS.AIRFLOW.SWEAR</Row>
+      <Row>ITSONME.LINEARA.TERRY</Row>
+      <Row>TANSIES.KUSHNER..DONE</Row>
+    </Grid>
+    <Circles>
+      <Circle Row="2" Col="18" />
+      <Circle Row="3" Col="18" />
+      <Circle Row="4" Col="7" />
+      <Circle Row="4" Col="18" />
+      <Circle Row="5" Col="7" />
+      <Circle Row="6" Col="7" />
+      <Circle Row="9" Col="6" />
+      <Circle Row="9" Col="18" />
+      <Circle Row="10" Col="6" />
+      <Circle Row="10" Col="18" />
+      <Circle Row="11" Col="6" />
+      <Circle Row="11" Col="18" />
+      <Circle Row="15" Col="19" />
+      <Circle Row="16" Col="19" />
+      <Circle Row="17" Col="5" />
+      <Circle Row="17" Col="19" />
+      <Circle Row="18" Col="5" />
+      <Circle Row="19" Col="5" />
+    </Circles>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="CZAR">Government policy chief</Clue>
+      <Clue Row="1" Col="7" Num="5" Dir="Across" Ans="SAIDYES">Assented</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Across" Ans="APRIORI">Not empirical</Clue>
+      <Clue Row="2" Col="1" Num="19" Dir="Across" Ans="POSED">Not natural-looking</Clue>
+      <Clue Row="2" Col="7" Num="21" Dir="Across" Ans="ARMHOLE">Sometimes hard-to-find shirt opening</Clue>
+      <Clue Row="2" Col="15" Num="22" Dir="Across" Ans="ROUNDER">Drunkard</Clue>
+      <Clue Row="3" Col="1" Num="23" Dir="Across" Ans="ROSIE">Onetime co-host of "The View," informally</Clue>
+      <Clue Row="3" Col="7" Num="24" Dir="Across" Ans="MISSUSA">Contest once hosted by Bob Barker</Clue>
+      <Clue Row="3" Col="15" Num="25" Dir="Across" Ans="ALLUDES">Makes reference (to)</Clue>
+      <Clue Row="4" Col="2" Num="26" Dir="Across" Ans="MEGATSUNAMI">Catastrophic event that can be caused by a gigantic earthquake</Clue>
+      <Clue Row="4" Col="11" Num="28" Dir="Across" Ans="DEF">"Fer sher"</Clue>
+      <Clue Row="4" Col="15" Num="29" Dir="Across" Ans="GOESUNDER">Folds, as a business</Clue>
+      <Clue Row="5" Col="3" Num="30" Dir="Across" Ans="ENROUTETO">Headed for</Clue>
+      <Clue Row="5" Col="13" Num="34" Dir="Across" Ans="APO">Abbr. on mil. mail</Clue>
+      <Clue Row="5" Col="17" Num="36" Dir="Across" Ans="DEGAS">French painter of ballerinas</Clue>
+      <Clue Row="6" Col="1" Num="40" Dir="Across" Ans="BAN">Injunction</Clue>
+      <Clue Row="6" Col="5" Num="42" Dir="Across" Ans="MONAMI">How Hercule Poirot likes to address Hastings</Clue>
+      <Clue Row="6" Col="12" Num="43" Dir="Across" Ans="KRONA">Money in Malmö</Clue>
+      <Clue Row="6" Col="19" Num="45" Dir="Across" Ans="RIP">Headstone inits.</Clue>
+      <Clue Row="7" Col="1" Num="46" Dir="Across" Ans="ALONE">Stag</Clue>
+      <Clue Row="7" Col="7" Num="48" Dir="Across" Ans="GRANNIES">Ones in rocking chairs, stereotypically</Clue>
+      <Clue Row="7" Col="16" Num="50" Dir="Across" Ans="CAMERA">Smartphone feature</Clue>
+      <Clue Row="8" Col="1" Num="53" Dir="Across" Ans="BING">Cherry variety</Clue>
+      <Clue Row="8" Col="9" Num="54" Dir="Across" Ans="IHEART">Start to many bumper stickers</Clue>
+      <Clue Row="8" Col="16" Num="55" Dir="Across" Ans="ISEEIT">Response to pointing out a resemblance between two people</Clue>
+      <Clue Row="9" Col="1" Num="56" Dir="Across" Ans="ACTORSUNIONS">Hollywood labor groups</Clue>
+      <Clue Row="9" Col="8" Num="59" Dir="Across" Ans="PLAYS">See 71-Down</Clue>
+      <Clue Row="9" Col="14" Num="60" Dir="Across" Ans="PEDUNCLE">Plant stalk</Clue>
+      <Clue Row="10" Col="1" Num="62" Dir="Across" Ans="REV">Crank (up)</Clue>
+      <Clue Row="10" Col="5" Num="63" Dir="Across" Ans="BURRITO">Chipotle choice</Clue>
+      <Clue Row="10" Col="13" Num="65" Dir="Across" Ans="DOLT">Nitwit</Clue>
+      <Clue Row="10" Col="18" Num="66" Dir="Across" Ans="UEYS">180s</Clue>
+      <Clue Row="11" Col="4" Num="67" Dir="Across" Ans="MINIONS">2015 hit spinoff of "Despicable Me"</Clue>
+      <Clue Row="11" Col="12" Num="68" Dir="Across" Ans="MONKEYSUNCLE">How someone in awe might describe himself</Clue>
+      <Clue Row="12" Col="1" Num="70" Dir="Across" Ans="DOPE">Pretty cool, in slang</Clue>
+      <Clue Row="12" Col="6" Num="73" Dir="Across" Ans="KPMG">One of the Big Four accounting firms</Clue>
+      <Clue Row="12" Col="11" Num="74" Dir="Across" Ans="FINESSE">Deft touch</Clue>
+      <Clue Row="12" Col="19" Num="75" Dir="Across" Ans="TBA">Placeholder letters</Clue>
+      <Clue Row="13" Col="1" Num="78" Dir="Across" Ans="ENHANCED">Better now</Clue>
+      <Clue Row="13" Col="10" Num="80" Dir="Across" Ans="FACTS">Trivia fodder</Clue>
+      <Clue Row="13" Col="16" Num="81" Dir="Across" Ans="THUMBS">All ___</Clue>
+      <Clue Row="14" Col="1" Num="83" Dir="Across" Ans="LEANTO">Rough shelter</Clue>
+      <Clue Row="14" Col="8" Num="84" Dir="Across" Ans="ARENDT">Hannah who coined the phrase "the banality of evil"</Clue>
+      <Clue Row="14" Col="18" Num="86" Dir="Across" Ans="RIGA">Largest city in the Baltics</Clue>
+      <Clue Row="15" Col="1" Num="87" Dir="Across" Ans="EARTHS">Planets like ours, in sci-fi</Clue>
+      <Clue Row="15" Col="8" Num="88" Dir="Across" Ans="TEAGREEN">Hue lighter than lime</Clue>
+      <Clue Row="15" Col="17" Num="91" Dir="Across" Ans="ANNUM">Per ___ (yearly)</Clue>
+      <Clue Row="16" Col="1" Num="92" Dir="Across" Ans="TCM">Vintage film channel</Clue>
+      <Clue Row="16" Col="6" Num="93" Dir="Across" Ans="TREAT">Goody</Clue>
+      <Clue Row="16" Col="12" Num="95" Dir="Across" Ans="OLDEST">Like St. Augustine, among all U.S. cities</Clue>
+      <Clue Row="16" Col="19" Num="97" Dir="Across" Ans="UNI">College, to a Brit</Clue>
+      <Clue Row="17" Col="1" Num="98" Dir="Across" Ans="ETATSUNIS">Amérique</Clue>
+      <Clue Row="17" Col="7" Num="101" Dir="Across" Ans="ESL">Immigrants' class, for short</Clue>
+      <Clue Row="17" Col="11" Num="102" Dir="Across" Ans="EPLURIBUSUNUM">Only words on the front of the Great Seal of the United States</Clue>
+      <Clue Row="18" Col="4" Num="104" Dir="Across" Ans="RUDE">Really fresh</Clue>
+      <Clue Row="18" Col="9" Num="106" Dir="Across" Ans="TWA">Its hub at J.F.K. was designed by Eero Saarinen</Clue>
+      <Clue Row="18" Col="15" Num="108" Dir="Across" Ans="FRENZY">Hubbub</Clue>
+      <Clue Row="19" Col="1" Num="110" Dir="Across" Ans="GEMINIS">Artistic, chatty sorts, it's said</Clue>
+      <Clue Row="19" Col="9" Num="113" Dir="Across" Ans="AIRFLOW">Draft</Clue>
+      <Clue Row="19" Col="17" Num="117" Dir="Across" Ans="SWEAR">Testify</Clue>
+      <Clue Row="20" Col="1" Num="119" Dir="Across" Ans="ITSONME">"I got the check"</Clue>
+      <Clue Row="20" Col="9" Num="120" Dir="Across" Ans="LINEARA">Ancient, undeciphered writing system</Clue>
+      <Clue Row="20" Col="17" Num="121" Dir="Across" Ans="TERRY">Towel fabric</Clue>
+      <Clue Row="21" Col="1" Num="122" Dir="Across" Ans="TANSIES">Relatives of asters</Clue>
+      <Clue Row="21" Col="9" Num="123" Dir="Across" Ans="KUSHNER">Tony who won a Tony for "Angels in America"</Clue>
+      <Clue Row="21" Col="18" Num="124" Dir="Across" Ans="DONE">"It's a deal!"</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="CPR">E.M.T.'s training</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ZOOM">Speed along</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="ASSEENONTV">Print ad come-on</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="REIGN">Sit on the throne</Clue>
+      <Clue Row="1" Col="7" Num="5" Dir="Down" Ans="SAMSUNG">International conglomerate whose name means "three stars"</Clue>
+      <Clue Row="1" Col="8" Num="6" Dir="Down" Ans="ARI">Cable news host Melber</Clue>
+      <Clue Row="1" Col="9" Num="7" Dir="Down" Ans="IMS">Gchats, e.g.</Clue>
+      <Clue Row="1" Col="10" Num="8" Dir="Down" Ans="DHS">Some A.L. players</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="YOUDO">Response to a surprising claim</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="ELSE">"That's something ___!"</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="SEAFARER">Voyager</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="ARAGON">Medieval Spanish kingdom</Clue>
+      <Clue Row="1" Col="16" Num="13" Dir="Down" Ans="POLO">Sport last played in the Olympics in 1936</Clue>
+      <Clue Row="1" Col="17" Num="14" Dir="Down" Ans="RULED">Was awesome</Clue>
+      <Clue Row="1" Col="18" Num="15" Dir="Down" Ans="INUSE">Occupied</Clue>
+      <Clue Row="1" Col="19" Num="16" Dir="Down" Ans="ODD">Funny</Clue>
+      <Clue Row="1" Col="20" Num="17" Dir="Down" Ans="REE">Riddle-me-___</Clue>
+      <Clue Row="1" Col="21" Num="18" Dir="Down" Ans="IRS">Qtrly. check recipient, maybe</Clue>
+      <Clue Row="2" Col="5" Num="20" Dir="Down" Ans="DEARME">"Stars above!"</Clue>
+      <Clue Row="4" Col="6" Num="27" Dir="Down" Ans="TOO">"___ soon?"</Clue>
+      <Clue Row="5" Col="8" Num="31" Dir="Down" Ans="TAR">Smear</Clue>
+      <Clue Row="5" Col="9" Num="32" Dir="Down" Ans="EMAILING">Writing in a window?</Clue>
+      <Clue Row="5" Col="10" Num="33" Dir="Down" Ans="TINHATS">Paranoid sorts, in slang</Clue>
+      <Clue Row="5" Col="14" Num="35" Dir="Down" Ans="POSTPONES">Pushes back</Clue>
+      <Clue Row="5" Col="19" Num="37" Dir="Down" Ans="GREECE">"Mamma Mia!" setting</Clue>
+      <Clue Row="5" Col="20" Num="38" Dir="Down" Ans="AIRILY">In a light manner</Clue>
+      <Clue Row="5" Col="21" Num="39" Dir="Down" Ans="SPATES">Outbreaks</Clue>
+      <Clue Row="6" Col="1" Num="40" Dir="Down" Ans="BABAR">Anthropomorphic king of Celesteville</Clue>
+      <Clue Row="6" Col="2" Num="41" Dir="Down" Ans="ALICE">"Still ___" (Julianne Moore film)</Clue>
+      <Clue Row="6" Col="12" Num="43" Dir="Down" Ans="KIAS">Rios, e.g.</Clue>
+      <Clue Row="6" Col="16" Num="44" Dir="Down" Ans="ACIDTEST">Decisive assessment</Clue>
+      <Clue Row="7" Col="4" Num="47" Dir="Down" Ans="NGO">Intl. Rescue Committee, e.g.</Clue>
+      <Clue Row="7" Col="11" Num="49" Dir="Down" Ans="NEYO">R&amp;B singer with the hits "So Sick" and "Mad"</Clue>
+      <Clue Row="7" Col="17" Num="51" Dir="Down" Ans="ASU">Tempe sch.</Clue>
+      <Clue Row="7" Col="18" Num="52" Dir="Down" Ans="MENUS">Things in restaurant windows</Clue>
+      <Clue Row="9" Col="5" Num="57" Dir="Down" Ans="RBI">Sac fly result</Clue>
+      <Clue Row="9" Col="6" Num="58" Dir="Down" Ans="SUNKCOST">Outlay that cannot be recovered</Clue>
+      <Clue Row="9" Col="8" Num="59" Dir="Down" Ans="PROMDATES">Some corsage wearers</Clue>
+      <Clue Row="9" Col="15" Num="61" Dir="Down" Ans="ELKS">Grand Lodge group</Clue>
+      <Clue Row="10" Col="7" Num="64" Dir="Down" Ans="RIPE">Ready ... or red, maybe</Clue>
+      <Clue Row="10" Col="13" Num="65" Dir="Down" Ans="DONTTELL">"Let's keep this between us"</Clue>
+      <Clue Row="11" Col="4" Num="67" Dir="Down" Ans="MEANT">Wasn't kidding about</Clue>
+      <Clue Row="11" Col="12" Num="68" Dir="Down" Ans="MICDROP">Stunt at the end of a powerful performance</Clue>
+      <Clue Row="11" Col="17" Num="69" Dir="Down" Ans="YEH">Informal assent</Clue>
+      <Clue Row="12" Col="1" Num="70" Dir="Down" Ans="DELETE">Go back on one's word?</Clue>
+      <Clue Row="12" Col="2" Num="71" Dir="Down" Ans="ONEACT">With 59-Across, some works of Tennessee Williams</Clue>
+      <Clue Row="12" Col="3" Num="72" Dir="Down" Ans="PHARMA">Big ___ (the drug industry)</Clue>
+      <Clue Row="12" Col="11" Num="74" Dir="Down" Ans="FANG">Biter</Clue>
+      <Clue Row="12" Col="19" Num="75" Dir="Down" Ans="TMINUSZERO">Moment of liftoff</Clue>
+      <Clue Row="12" Col="20" Num="76" Dir="Down" Ans="BBGUN">Dangerous toy</Clue>
+      <Clue Row="12" Col="21" Num="77" Dir="Down" Ans="ASAMI">"Same here"</Clue>
+      <Clue Row="13" Col="5" Num="79" Dir="Down" Ans="NTH">Legal vowelless Scrabble play</Clue>
+      <Clue Row="13" Col="10" Num="80" Dir="Down" Ans="FEAT">Herculean act</Clue>
+      <Clue Row="13" Col="18" Num="82" Dir="Down" Ans="URN">Bit of art pottery</Clue>
+      <Clue Row="14" Col="9" Num="85" Dir="Down" Ans="REALTALK">Preface to a heart-to-heart conversation</Clue>
+      <Clue Row="15" Col="14" Num="89" Dir="Down" Ans="EDU">End of a George Washington address?</Clue>
+      <Clue Row="15" Col="15" Num="90" Dir="Down" Ans="NERFWAR">Safer alternative to paintball</Clue>
+      <Clue Row="15" Col="17" Num="91" Dir="Down" Ans="ATBEST">If you're lucky</Clue>
+      <Clue Row="16" Col="7" Num="94" Dir="Down" Ans="REESES">Candy brand owned by Hershey</Clue>
+      <Clue Row="16" Col="16" Num="96" Dir="Down" Ans="SIR">Word before and after "no"</Clue>
+      <Clue Row="17" Col="4" Num="99" Dir="Down" Ans="TRIOS">Salt-N-Pepa and Ben Folds Five</Clue>
+      <Clue Row="17" Col="5" Num="100" Dir="Down" Ans="SUNNI">Branch of Islam</Clue>
+      <Clue Row="17" Col="11" Num="102" Dir="Down" Ans="EARNS">Rakes in</Clue>
+      <Clue Row="17" Col="18" Num="103" Dir="Down" Ans="UNWED">Not taken seriously?</Clue>
+      <Clue Row="18" Col="6" Num="105" Dir="Down" Ans="DIME">Tiniest change</Clue>
+      <Clue Row="18" Col="10" Num="107" Dir="Down" Ans="WIIU">Popular gaming console that sounds like two pronouns</Clue>
+      <Clue Row="18" Col="20" Num="109" Dir="Down" Ans="YARN">It's a long story</Clue>
+      <Clue Row="19" Col="1" Num="110" Dir="Down" Ans="GIT">"Keep movin'!"</Clue>
+      <Clue Row="19" Col="2" Num="111" Dir="Down" Ans="ETA">Info for a chauffeur, perhaps</Clue>
+      <Clue Row="19" Col="3" Num="112" Dir="Down" Ans="MSN">Yahoo alternative</Clue>
+      <Clue Row="19" Col="12" Num="114" Dir="Down" Ans="FEH">"Yuck!"</Clue>
+      <Clue Row="19" Col="13" Num="115" Dir="Down" Ans="LAN">Grp. of connected computers</Clue>
+      <Clue Row="19" Col="14" Num="116" Dir="Down" Ans="ORE">1/100 of a 43-Across</Clue>
+      <Clue Row="19" Col="21" Num="118" Dir="Down" Ans="RYE">Manhattan part ... or a suburb near Manhattan</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Will has said that he&#39;s taking fewer &quot;turning&quot; puzzles these days (puzzles where theme entries take 90 degree turns) because they&#39;ve become overdone. I appreciate that constant drive to cut out stale theme concepts. I even more appreciate the willingness to accept a few here and there, when they stand out as something a little different. I had to spend some time forming my opinion on this one, but ultimately, I thought it was really good.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/0/0f/Threebody.jpg" style="border:1px solid lightgray; float:left; height:250px; margin:6px 12px 6px 0px; width:173px" title="Great book! Full of crazy and awesome ideas." /></a></p>
+
+<p>What&#39;s going on with weird entries like MEGATS at 26-Across? It&#39;s actually MEGAT(SUN)AMI, with the entry turning at SUN, thus FOLLOWING THE SUN.</p>
+
+<p>I scratched my head at why the answer wouldn&#39;t just keep on going down, though &ndash; why turn back to its original direction after running through SUN?</p>
+
+<p>A-ha! Maybe it&#39;s like plants that follow the sun when the SUN goes behind a cloud (we have a few of those here in Seattle). Therefore, the answer SHOULD keep going in its original direction after running through the available SUN?</p>
+
+<p>I think that makes sense. No?</p>
+
+<p>And why do the themers on the right-hand side go up? That felt bizarre to me &hellip; until I realized that Finn was representing the SUN rising in the east (right side of puzzle) and setting in the west (left side)! Clever, made perfect sense and gave me a neat a-ha moment indeed.</p>
+
+<p>Why three suns on each side? It must have been &hellip; the &quot;three-body problem&quot;? (A famous, intractable math/physics problem speaking to the effects of initial conditions.)</p>
+
+<p>Sure, why not.</p>
+
+<p>Slight theme reservations aside, such a pleasurable grid to run through. SO much great bonus fill, I almost appreciated it more as a themeless than a themed puzzle. All the ones Finn mentioned, plus more? (Some may not know the SUNK COST dilemma in economics, but it&#39;s fascinating.) Yes, yes, yes!</p>
+
+<p>Even though I had initial reservations about the concept, I enjoyed that &quot;rising in the east, setting in the west&quot; a-ha moment so much. Along with such a delightful grid replete with fantastic fill, this puzzle ended up being a SUNny delight.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>The seed for this puzzle (and its original title) was &quot;Sunrise, Sunset&quot;&mdash;with the eastern theme entires featuring a rising S-U-N, and the western ones featuring a setting S-U-N. It was important to me that none of these entires&mdash;whether the across ones or the down answers containing SUN&mdash;use that letter string to mean the word &quot;sun.&quot; This was a bit harder than expected! You may notice that I broke a fairly rigid crossword rule in that the theme entries are not symmetrically placed, but it would have been near impossible to do so, given that they each span several rows. I did try to put them in approximately symmetrical locations, for consistency&#39;s sake.</p>
+
+<p>Because the themers take up a lot of real estate in both across and down directions, filling this grid was a beast. This is the third draft I submitted, and while I wish there were a bit more room for the grid to breathe, I think it&#39;s free of dreck (REE being the only real gross entry, IMO). Phrases like SUNK COST, PROM DATES, REAL TALK, NERF WAR, and MIC DROP are fun bonus fill. I tried for way too long to get YASQUEEN at 11D (it really almost worked for a long time) but finally let it go when it came at the expense of too much bad fill).</p>
+
+<p>I&#39;m quite happy that my original clue on I SEE IT made it through; it feels much more in-the-language than previous methods of cluing that entry (variations of [Response to &quot;Look over there!&quot;]). In general, I like to make my puzzles contemporary and conversational, which I think I&#39;ve accomplished here.</p>
+
+<p>Lastly, I&#39;m honored to have a puzzle run on the Sunday of ACPT for the second time! It&#39;s a pretty cool thing to see 600+ of the most avid crossword solvers in the world digging into your puzzle. See you in Stamford!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

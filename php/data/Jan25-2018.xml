@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Thursday, January 25, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/25/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Thu, Jan 25, 2018</Title>
+    <Author>Alex Eaton-Salners</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/25/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>ORE.SITBY..TEC.</Row>
+      <Row>HIT.KOREA.RIVAL</Row>
+      <Row>SCUBATANK.OLINE</Row>
+      <Row>NODE.ANT.SADLOT</Row>
+      <Row>ALERT.CONCRETES</Row>
+      <Row>PASTIME.ORS.WIG</Row>
+      <Row>...ONO.PHI.WINO</Row>
+      <Row>.ISLANDHOPPING.</Row>
+      <Row>KNOT.OED.TEL...</Row>
+      <Row>EDU.MCS.TSELIOT</Row>
+      <Row>VERBALISE.PIPPA</Row>
+      <Row>INNATE.UFO.AHEM</Row>
+      <Row>NIOBE.BALTIMORE</Row>
+      <Row>SATED.AVOID.NAS</Row>
+      <Row>.LES..MENSA.EST</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="ORE">Some metal bands?</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Across" Ans="SITBY">Not get involved</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Across" Ans="TEC">P.I.</Clue>
+      <Clue Row="2" Col="1" Num="12" Dir="Across" Ans="HIT">Sellout</Clue>
+      <Clue Row="2" Col="5" Num="13" Dir="Across" Ans="KOREA">1950s service site</Clue>
+      <Clue Row="2" Col="11" Num="14" Dir="Across" Ans="RIVAL">Hamilton, to Burr</Clue>
+      <Clue Row="3" Col="1" Num="16" Dir="Across" Ans="SCUBATANK">*Smelled</Clue>
+      <Clue Row="3" Col="11" Num="18" Dir="Across" Ans="OLINE">Group of football blockers, in brief</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="NODE">Point on a flowchart</Clue>
+      <Clue Row="4" Col="6" Num="20" Dir="Across" Ans="ANT">Picnic crasher</Clue>
+      <Clue Row="4" Col="10" Num="21" Dir="Across" Ans="SADLOT">Pitiful group</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="ALERT">On the lookout</Clue>
+      <Clue Row="5" Col="7" Num="24" Dir="Across" Ans="CONCRETES">*They're not pros</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Across" Ans="PASTIME">Solving crosswords, e.g.</Clue>
+      <Clue Row="6" Col="9" Num="28" Dir="Across" Ans="ORS">Gurneys' destinations, in brief</Clue>
+      <Clue Row="6" Col="13" Num="29" Dir="Across" Ans="WIG">Part of a disguise</Clue>
+      <Clue Row="7" Col="4" Num="30" Dir="Across" Ans="ONO">Who wrote and sang "We're All Water" in 1972</Clue>
+      <Clue Row="7" Col="8" Num="31" Dir="Across" Ans="PHI">#21 of 24</Clue>
+      <Clue Row="7" Col="12" Num="32" Dir="Across" Ans="WINO">Lush</Clue>
+      <Clue Row="8" Col="2" Num="33" Dir="Across" Ans="ISLANDHOPPING">Yachter's itinerary, maybe ... or a hint to understanding the answers to the starred clues</Clue>
+      <Clue Row="9" Col="1" Num="37" Dir="Across" Ans="KNOT">Clove hitch, e.g.</Clue>
+      <Clue Row="9" Col="6" Num="38" Dir="Across" Ans="OED">"Reading the ___: One Man, One Year, 21,730 Pages" (2008 book)</Clue>
+      <Clue Row="9" Col="10" Num="39" Dir="Across" Ans="TEL">Hotel room feature: Abbr.</Clue>
+      <Clue Row="10" Col="1" Num="40" Dir="Across" Ans="EDU">Back to school?</Clue>
+      <Clue Row="10" Col="5" Num="41" Dir="Across" Ans="MCS">Ones doing intros</Clue>
+      <Clue Row="10" Col="9" Num="42" Dir="Across" Ans="TSELIOT">"The Love Song of J. Alfred Prufrock" poet</Clue>
+      <Clue Row="11" Col="1" Num="46" Dir="Across" Ans="VERBALISE">*Poetry</Clue>
+      <Clue Row="11" Col="11" Num="49" Dir="Across" Ans="PIPPA">Middleton of English tabloids</Clue>
+      <Clue Row="12" Col="1" Num="50" Dir="Across" Ans="INNATE">Hard-wired</Clue>
+      <Clue Row="12" Col="8" Num="51" Dir="Across" Ans="UFO">Something encountered in "Close Encounters of the Third Kind"</Clue>
+      <Clue Row="12" Col="12" Num="53" Dir="Across" Ans="AHEM">"Um, don't look now, but ..."</Clue>
+      <Clue Row="13" Col="1" Num="54" Dir="Across" Ans="NIOBE">Boastful mother of Greek myth</Clue>
+      <Clue Row="13" Col="7" Num="55" Dir="Across" Ans="BALTIMORE">*Hayloft item</Clue>
+      <Clue Row="14" Col="1" Num="57" Dir="Across" Ans="SATED">Now full</Clue>
+      <Clue Row="14" Col="7" Num="58" Dir="Across" Ans="AVOID">Skirt</Clue>
+      <Clue Row="14" Col="13" Num="59" Dir="Across" Ans="NAS">"Illmatic" rapper</Clue>
+      <Clue Row="15" Col="2" Num="60" Dir="Across" Ans="LES">___ Échos (French daily)</Clue>
+      <Clue Row="15" Col="7" Num="61" Dir="Across" Ans="MENSA">Top-2% group</Clue>
+      <Clue Row="15" Col="13" Num="62" Dir="Across" Ans="EST">Is from Issy?</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="OHSNAP">"Did you just see that?!"</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="RICOLA">Cough drop brand</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="ETUDES">Some works of Robert Schumann</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Down" Ans="SKA">Music boomlet of the mid-'90s</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="IOTA">Smidgen</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="TRANCE">A witch doctor might be in one</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="BENTO">Japanese meal in a box</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="YAK">Beat one's gums</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Down" Ans="TILDE">Part of España</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="EVILTWIN">Person with inverted morality</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="CANOEING">Olympics event since 1936</Clue>
+      <Clue Row="2" Col="11" Num="14" Dir="Down" Ans="ROARS">Stadium sounds</Clue>
+      <Clue Row="2" Col="15" Num="15" Dir="Down" Ans="LETSGO">"Come on!"</Clue>
+      <Clue Row="3" Col="4" Num="17" Dir="Down" Ans="BERTOLT">Playwright Brecht</Clue>
+      <Clue Row="4" Col="10" Num="21" Dir="Down" Ans="SCRIPTS">Things with entrances and exits</Clue>
+      <Clue Row="5" Col="5" Num="23" Dir="Down" Ans="TINA">Turner on a turntable</Clue>
+      <Clue Row="5" Col="9" Num="25" Dir="Down" Ans="NOHO">Neighborhood in New York or L.A.</Clue>
+      <Clue Row="6" Col="6" Num="27" Dir="Down" Ans="MONOCLE">Accessory on a chain</Clue>
+      <Clue Row="7" Col="8" Num="31" Dir="Down" Ans="PHD">Goal of many a candidate</Clue>
+      <Clue Row="7" Col="12" Num="32" Dir="Down" Ans="WILLIAM">Member of the British royal family</Clue>
+      <Clue Row="8" Col="2" Num="33" Dir="Down" Ans="INDENIAL">Not wanting to believe the truth</Clue>
+      <Clue Row="8" Col="3" Num="34" Dir="Down" Ans="SOURNOTE">Unpleasant ending</Clue>
+      <Clue Row="8" Col="7" Num="35" Dir="Down" Ans="DESI">Ball boy?</Clue>
+      <Clue Row="8" Col="11" Num="36" Dir="Down" Ans="PEEP">Tiniest complaint</Clue>
+      <Clue Row="9" Col="1" Num="37" Dir="Down" Ans="KEVINS">Durant and Love of the N.B.A.</Clue>
+      <Clue Row="10" Col="5" Num="41" Dir="Down" Ans="MATED">Got together</Clue>
+      <Clue Row="10" Col="9" Num="42" Dir="Down" Ans="TEFLON">Polytetrafluoroethylene, familiarly</Clue>
+      <Clue Row="10" Col="13" Num="43" Dir="Down" Ans="IPHONE">Notable tech launch of 2007</Clue>
+      <Clue Row="10" Col="14" Num="44" Dir="Down" Ans="OPERAS">Composition of "Der Ring des Nibelungen"</Clue>
+      <Clue Row="10" Col="15" Num="45" Dir="Down" Ans="TAMEST">Most docile</Clue>
+      <Clue Row="11" Col="4" Num="47" Dir="Down" Ans="BABES">Swaddled ones</Clue>
+      <Clue Row="11" Col="8" Num="48" Dir="Down" Ans="SUAVE">Debonair</Clue>
+      <Clue Row="12" Col="10" Num="52" Dir="Down" Ans="OTIS">Los Angeles's ___ College of Art and Design</Clue>
+      <Clue Row="13" Col="7" Num="55" Dir="Down" Ans="BAM">"Kapow!"</Clue>
+      <Clue Row="13" Col="11" Num="56" Dir="Down" Ans="IDA">Neighbor of Wyo.</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Love this theme! Alex interprets ISLAND HOPPING as &quot;skip the island embedded in the phrase/word, resulting in a new word.&quot; S(CUBA) TANK to STANK was particularly nice, as was BAL(TIMOR)E to BALE. Beautiful finds.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Bali" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ulun_Temple_at_blue_hour_%287750197798%29.jpg/440px-Ulun_Temple_at_blue_hour_%287750197798%29.jpg" style="border:1px solid lightgray; float:left; height:146px; margin:6px 12px 6px 0px; width:220px" title="Hop over BALI? No way, I'd be staying put right there!" /></a></p>
+
+<p>CON(CRETE)S to CONS wasn&#39;t as awesome, as it was odd to get CONCRETES in the plural. VER(BALI)SE to VERSE too &mdash; if only we were in Britain! Or VERZE had been a real word. It really should be.</p>
+
+<p>Great execution on the grid. Working with five themers, the middle one sort of cutting the grid in half, is rarely easy. Beautiful results in the big NE corner, EVIL TWIN particularly nice (I&#39;m an identical twin, and clearly the evil one).</p>
+
+<p>The SW corner did contain the awkward pluralised (not -ized, to keep with the Britishising today) KEVINS, but how great are IN DENIAL and SOUR NOTE? Well worth the price of KEVINS.</p>
+
+<p>And two standout clues were the cherries on top:</p>
+
+<ul>
+	<li>The common phrase, [Back to school], repurposed to describe the typical school email ending, EDU.</li>
+	<li>[Things with entrances and exits] aren&#39;t buildings, but (play) SCRIPTS.</li>
+</ul>
+
+<p>Speaking of that, SCRIPTS, TS ELIOT, OH SNAP, MONOCLE, TEFLON &mdash; fantastic use of the mid-length slots.</p>
+
+<p>Fun, tricksy theme, excellent execution. I paused slightly before giving this the POW! due to the two themers that made me hitch, but overall, this is very close to my Thursday puzzle ideal.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>Unsurprisingly, there aren&#39;t too many words or phrases that (1) contain the name of an island; and (2) spell something else after removing those letters. Luckily there were enough to make a workable theme set.</p>
+
+<p>Along the way, I also considered using words that can precede ISLAND such as LONG (e.g., BELONGING, ALONGSIDE, or PROLONGS) and/or islands that aren&#39;t commonly known as single words (such as the Isle of MAN). In the end, I decided to limit myself to single-word islands, which I find the most satisfying.</p>
+
+<p>One somewhat unusual feature of this puzzle is that the islands are hidden within single words rather than spanning the ending/beginning of multiple words, which is the more common (and elegant) approach to hidden word themes. Hopefully the added bonus of creating new words with the remaining letters makes up for this shortcoming.</p>
+
+<p>As more of my puzzles run in the NYT, it&#39;s been interesting to see the fluidity of Will&#39;s publication queue. For example, my first seven accepted Thursday puzzles have been published in a different order than the one they were accepted in. So far the progression has been 1, 4, 3, 5, 7 with the second and sixth puzzles still unpublished (today&#39;s grid was my seventh accepted Thursday). I&#39;m only considering Thursday puzzles here because each day of the week has a different queue whose length varies depending on inventory levels.</p>
+
+<p>From what I&#39;ve read elsewhere Will likes to space out certain kinds of puzzles (e.g., rebuses) while also accelerating debuts and grids that particularly catch his fancy. I suspect puzzles are also more likely to get bumped around in the queue when a constructor has multiple pending grids of the same difficulty level versus a situation where a constructor only has one.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

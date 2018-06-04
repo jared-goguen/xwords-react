@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Monday, February 5, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 2/4/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Mon, Feb 05, 2018</Title>
+    <Author>Alan Arbesfeld</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>2/5/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>HAS.CEREAL.LAMB</Row>
+      <Row>ARI.ORANGE.IDOL</Row>
+      <Row>LID.NEWYEARSEVE</Row>
+      <Row>FACET..ARNE.PIN</Row>
+      <Row>..ALAMO..TASTED</Row>
+      <Row>CRESCENTROLL...</Row>
+      <Row>LOSE.WERE.MYEYE</Row>
+      <Row>ALA.SLEUTHS.VAL</Row>
+      <Row>MERIT.ASIA.LINK</Row>
+      <Row>...QUARTERBACKS</Row>
+      <Row>SEESAW..STRUT..</Row>
+      <Row>ALL.RAIN..IDIOM</Row>
+      <Row>FULLTIMEJOB.ORO</Row>
+      <Row>EDIE.TAMALE.NEO</Row>
+      <Row>REED.SCORED.SON</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="HAS">Possesses</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Across" Ans="CEREAL">Grape-Nuts or Apple Jacks</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="LAMB">Ewe's offspring</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="ARI">Man's name that's an investment spelled backward</Clue>
+      <Clue Row="2" Col="5" Num="15" Dir="Across" Ans="ORANGE">Pumpkin color</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="IDOL">Revered one</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="LID">Pot's cover</Clue>
+      <Clue Row="3" Col="5" Num="18" Dir="Across" Ans="NEWYEARSEVE">Traditional night for partying</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="FACET">Side of a diamond</Clue>
+      <Clue Row="4" Col="8" Num="22" Dir="Across" Ans="ARNE">Thomas ___, "Rule, Britannia" composer</Clue>
+      <Clue Row="4" Col="13" Num="23" Dir="Across" Ans="PIN">Bowling target</Clue>
+      <Clue Row="5" Col="3" Num="24" Dir="Across" Ans="ALAMO">Texas landmark to "remember"</Clue>
+      <Clue Row="5" Col="10" Num="27" Dir="Across" Ans="TASTED">Sampled</Clue>
+      <Clue Row="6" Col="1" Num="29" Dir="Across" Ans="CRESCENTROLL">Curved Pillsbury item</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Across" Ans="LOSE">Misplace</Clue>
+      <Clue Row="7" Col="6" Num="34" Dir="Across" Ans="WERE">"The Way We ___"</Clue>
+      <Clue Row="7" Col="11" Num="35" Dir="Across" Ans="MYEYE">"Yeah, right!"</Clue>
+      <Clue Row="8" Col="1" Num="39" Dir="Across" Ans="ALA">Pie ___ mode</Clue>
+      <Clue Row="8" Col="5" Num="40" Dir="Across" Ans="SLEUTHS">Detectives</Clue>
+      <Clue Row="8" Col="13" Num="42" Dir="Across" Ans="VAL">Batman portrayer Kilmer</Clue>
+      <Clue Row="9" Col="1" Num="43" Dir="Across" Ans="MERIT">Deserve</Clue>
+      <Clue Row="9" Col="7" Num="45" Dir="Across" Ans="ASIA">___-Pacific (geopolitical region)</Clue>
+      <Clue Row="9" Col="12" Num="46" Dir="Across" Ans="LINK">Something to click online</Clue>
+      <Clue Row="10" Col="4" Num="47" Dir="Across" Ans="QUARTERBACKS">Ones calling the plays</Clue>
+      <Clue Row="11" Col="1" Num="50" Dir="Across" Ans="SEESAW">Teeter-totter</Clue>
+      <Clue Row="11" Col="9" Num="53" Dir="Across" Ans="STRUT">Walk with a swagger</Clue>
+      <Clue Row="12" Col="1" Num="54" Dir="Across" Ans="ALL">Every last drop</Clue>
+      <Clue Row="12" Col="5" Num="55" Dir="Across" Ans="RAIN">Parade spoiler</Clue>
+      <Clue Row="12" Col="11" Num="58" Dir="Across" Ans="IDIOM">"Piece of cake" or "easy as pie"</Clue>
+      <Clue Row="13" Col="1" Num="61" Dir="Across" Ans="FULLTIMEJOB">40-hour-a-week work</Clue>
+      <Clue Row="13" Col="13" Num="65" Dir="Across" Ans="ORO">Guadalajara gold</Clue>
+      <Clue Row="14" Col="1" Num="66" Dir="Across" Ans="EDIE">Actress Falco of "Nurse Jackie"</Clue>
+      <Clue Row="14" Col="6" Num="67" Dir="Across" Ans="TAMALE">"Hot" Mexican dish</Clue>
+      <Clue Row="14" Col="13" Num="68" Dir="Across" Ans="NEO">Prefix with natal or classical</Clue>
+      <Clue Row="15" Col="1" Num="69" Dir="Across" Ans="REED">Clarinet or sax</Clue>
+      <Clue Row="15" Col="6" Num="70" Dir="Across" Ans="SCORED">Crossed home plate, say</Clue>
+      <Clue Row="15" Col="13" Num="71" Dir="Across" Ans="SON">One who might follow into a family business</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="HALF">50%</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ARIA">Song for a diva</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="SIDCAESAR">Early TV comic known for "Your Show of Shows"</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Down" Ans="CONTAC">Popular cold and flu medicine</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="ERE">"But I heard him exclaim, ___ he drove out of sight ..."</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="RAW">Uncooked</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="ENYA">One-named Irish singer</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="AGER">Ending with golden or teen</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="LEANTO">Makeshift shelter</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="LIS">Fleur-de-___</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="ADEPT">Highly capable</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="MOVIE">Multiplex offering</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="BLEND">Mix</Clue>
+      <Clue Row="3" Col="11" Num="19" Dir="Down" Ans="REALMS">Kingdoms</Clue>
+      <Clue Row="4" Col="4" Num="21" Dir="Down" Ans="ELSE">"Anything ___?"</Clue>
+      <Clue Row="5" Col="6" Num="25" Dir="Down" Ans="MEWL">Whimper like a baby</Clue>
+      <Clue Row="5" Col="7" Num="26" Dir="Down" Ans="ONEEAR">Like most Bluetooth headsets</Clue>
+      <Clue Row="5" Col="12" Num="28" Dir="Down" Ans="SLY">Underhanded</Clue>
+      <Clue Row="6" Col="1" Num="29" Dir="Down" Ans="CLAM">Tight-lipped sort</Clue>
+      <Clue Row="6" Col="2" Num="30" Dir="Down" Ans="ROLE">Part to play</Clue>
+      <Clue Row="6" Col="8" Num="31" Dir="Down" Ans="TRUST">Be confident in</Clue>
+      <Clue Row="6" Col="9" Num="32" Dir="Down" Ans="RETIES">Fixes, as shoelaces</Clue>
+      <Clue Row="7" Col="13" Num="36" Dir="Down" Ans="EVICTIONS">Forcible removals, as of tenants</Clue>
+      <Clue Row="7" Col="14" Num="37" Dir="Down" Ans="YANK">Pull hard</Clue>
+      <Clue Row="7" Col="15" Num="38" Dir="Down" Ans="ELKS">Civic-minded group</Clue>
+      <Clue Row="8" Col="5" Num="40" Dir="Down" Ans="STUART">Fictional mouse ___ Little</Clue>
+      <Clue Row="8" Col="10" Num="41" Dir="Down" Ans="HART">Male deer</Clue>
+      <Clue Row="9" Col="4" Num="44" Dir="Down" Ans="IQS">Mensa stats</Clue>
+      <Clue Row="9" Col="12" Num="46" Dir="Down" Ans="LAUD">Lavish praise on</Clue>
+      <Clue Row="10" Col="6" Num="48" Dir="Down" Ans="AWAITS">Hangs around for</Clue>
+      <Clue Row="10" Col="11" Num="49" Dir="Down" Ans="BRIBED">Gave some money under the table</Clue>
+      <Clue Row="11" Col="1" Num="50" Dir="Down" Ans="SAFER">More secure</Clue>
+      <Clue Row="11" Col="2" Num="51" Dir="Down" Ans="ELUDE">Give the slip</Clue>
+      <Clue Row="11" Col="3" Num="52" Dir="Down" Ans="ELLIE">Actress Kemper of "Unbreakable Kimmy Schmidt"</Clue>
+      <Clue Row="12" Col="7" Num="56" Dir="Down" Ans="IMAC">Apple on a desk</Clue>
+      <Clue Row="12" Col="8" Num="57" Dir="Down" Ans="NEMO">Pixar's "Finding ___"</Clue>
+      <Clue Row="12" Col="14" Num="59" Dir="Down" Ans="OREO">Nabisco snack since 1912</Clue>
+      <Clue Row="12" Col="15" Num="60" Dir="Down" Ans="MOON">It has phases that are represented by the starts of 18-, 29-, 47- and 61-Across ... and by 1-Down</Clue>
+      <Clue Row="13" Col="4" Num="62" Dir="Down" Ans="LED">Was in front</Clue>
+      <Clue Row="13" Col="9" Num="63" Dir="Down" Ans="JAR">Pickle holder</Clue>
+      <Clue Row="13" Col="10" Num="64" Dir="Down" Ans="OLE">Bullfight cheer</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>I was mystified at first &mdash; why wouldn&#39;t you use the proper ordering of the moon&#39;s phases: from NEW to CRESCENT to HALF to FULL? And why on earth (or on the moon) would you separate out HALF from the series? Alan&#39;s decisions seemed bizarre.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Lunar_phase" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Daniel_Hershman_-_march_moon_%28by%29.jpg/400px-Daniel_Hershman_-_march_moon_%28by%29.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:214px" title="Seriously, who named this a QUARTER moon?" /></a></p>
+
+<p>How embarrassing to realize that I&#39;ve had the sequence wrong all these years! It&#39;s actually NEW to CRESCENT to QUARTER to GIBBOUS to FULL.</p>
+
+<p>Wait, you say, what about HALF? It&#39;s the kookiest thing. HALF is equal to QUARTER when it comes to the moon&#39;s phases.</p>
+
+<p>Wha &hellip; ?</p>
+
+<p>Well, QUARTER refers to the fact that it&#39;s a quarter of the way through the full lunar month cycle. So even though it looks like a HALF moon, it&#39;s a QUARTER moon. And both are correct.</p>
+
+<p>Whoever named these is seriously messed up.</p>
+
+<p>So you see Alan&#39;s dilemma? It&#39;s great that he strove to incorporate the sequence &mdash; I&#39;ve seen plenty of &quot;word that can precede MOON&quot; puzzles, i.e. phrases with HARVEST, BLUE, BLOOD, etc., but that puzzle type is pass&eacute; at this point.</p>
+
+<p>However, there is no good phrase using the word GIBBOUS. Makes sense why he decided to skip it.</p>
+
+<p>And how can you place QUARTER and HALF at the same grid entry? You can&#39;t! So I understand that decision to shove HALF off on its own. Reasonable choice to place it symmetrically with MOON.</p>
+
+<p>All in all, too many compromises for my taste. Felt inelegant. I probably would have dropped the theme idea, after realizing what a mess these terms present.</p>
+
+<p>But at least the grid is pretty good for a Monday, with just some ARNE, LIS, ORO. Not perfect, but passable for an early-week puzzle.</p>]]></JeffNotes>
+  </Puzzle>
+</Puzzles>

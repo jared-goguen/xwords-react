@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Saturday, January 20, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/20/2018 at 5:46 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sat, Jan 20, 2018</Title>
+    <Author>Alex Vratsanos</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/20/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>...BOOPADOOP...</Row>
+      <Row>..SENDALETTER..</Row>
+      <Row>.BIGTICKETITEM.</Row>
+      <Row>YOS.VSHAPES.LAP</Row>
+      <Row>ESTD.TILER.SERA</Row>
+      <Row>STEEP.NIN.PLAIN</Row>
+      <Row>MORLOCKS.REASON</Row>
+      <Row>ANSELMO.HELLENE</Row>
+      <Row>SCOTIA.SALLOWED</Row>
+      <Row>TRUES.BMI.AMATO</Row>
+      <Row>EELS.POORS.SITU</Row>
+      <Row>RAJ.SYNODAL.VET</Row>
+      <Row>.MAJORITYRULES.</Row>
+      <Row>..HOMETHEATER..</Row>
+      <Row>...TEXASSIZE...</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="4" Num="1" Dir="Across" Ans="BOOPADOOP">Blondie's maiden name in "Blondie"</Clue>
+      <Clue Row="2" Col="3" Num="10" Dir="Across" Ans="SENDALETTER">Post something</Clue>
+      <Clue Row="3" Col="2" Num="12" Dir="Across" Ans="BIGTICKETITEM">One taking a lot of credit, maybe?</Clue>
+      <Clue Row="4" Col="1" Num="14" Dir="Across" Ans="YOS">Sly remarks?</Clue>
+      <Clue Row="4" Col="5" Num="15" Dir="Across" Ans="VSHAPES">Many necklines</Clue>
+      <Clue Row="4" Col="13" Num="16" Dir="Across" Ans="LAP">Spot for Spot</Clue>
+      <Clue Row="5" Col="1" Num="18" Dir="Across" Ans="ESTD">Abbr. on a foundation stone</Clue>
+      <Clue Row="5" Col="6" Num="20" Dir="Across" Ans="TILER">Mosaicist</Clue>
+      <Clue Row="5" Col="12" Num="21" Dir="Across" Ans="SERA">Pomeriggio follower</Clue>
+      <Clue Row="6" Col="1" Num="22" Dir="Across" Ans="STEEP">High-grade?</Clue>
+      <Clue Row="6" Col="7" Num="24" Dir="Across" Ans="NIN">Novelist who wrote "I have no fear of depths and a great fear of shallow living"</Clue>
+      <Clue Row="6" Col="11" Num="25" Dir="Across" Ans="PLAIN">Hamburger order</Clue>
+      <Clue Row="7" Col="1" Num="26" Dir="Across" Ans="MORLOCKS">Nocturnal predators of fiction</Clue>
+      <Clue Row="7" Col="10" Num="28" Dir="Across" Ans="REASON">"Because I said so" is not one</Clue>
+      <Clue Row="8" Col="1" Num="29" Dir="Across" Ans="ANSELMO">Tony ___, official character voice of Donald Duck</Clue>
+      <Clue Row="8" Col="9" Num="30" Dir="Across" Ans="HELLENE">Spartan, e.g.</Clue>
+      <Clue Row="9" Col="1" Num="31" Dir="Across" Ans="SCOTIA">Land north of England, in poetry</Clue>
+      <Clue Row="9" Col="8" Num="32" Dir="Across" Ans="SALLOWED">Turned sickly yellow</Clue>
+      <Clue Row="10" Col="1" Num="33" Dir="Across" Ans="TRUES">Aligns</Clue>
+      <Clue Row="10" Col="7" Num="34" Dir="Across" Ans="BMI">Song royalties org.</Clue>
+      <Clue Row="10" Col="11" Num="35" Dir="Across" Ans="AMATO">Pasquale ___, baritone at the Metropolitan Opera</Clue>
+      <Clue Row="11" Col="1" Num="36" Dir="Across" Ans="EELS">Meals for seals</Clue>
+      <Clue Row="11" Col="6" Num="37" Dir="Across" Ans="POORS">Standard &amp; ___</Clue>
+      <Clue Row="11" Col="12" Num="39" Dir="Across" Ans="SITU">In ___ (untouched)</Clue>
+      <Clue Row="12" Col="1" Num="40" Dir="Across" Ans="RAJ">"The Big Bang Theory" character</Clue>
+      <Clue Row="12" Col="5" Num="41" Dir="Across" Ans="SYNODAL">Like certain ecclesiastical councils</Clue>
+      <Clue Row="12" Col="13" Num="43" Dir="Across" Ans="VET">Critically examine</Clue>
+      <Clue Row="13" Col="2" Num="44" Dir="Across" Ans="MAJORITYRULES">Democratic principle</Clue>
+      <Clue Row="14" Col="3" Num="47" Dir="Across" Ans="HOMETHEATER">Setup for a Netflix film, say</Clue>
+      <Clue Row="15" Col="4" Num="48" Dir="Across" Ans="TEXASSIZE">Gigantic</Clue>
+      <Clue Row="1" Col="4" Num="1" Dir="Down" Ans="BEG">Canine command</Clue>
+      <Clue Row="1" Col="5" Num="2" Dir="Down" Ans="ONTV">Airing</Clue>
+      <Clue Row="1" Col="6" Num="3" Dir="Down" Ans="ODIST">William Wordsworth, e.g.</Clue>
+      <Clue Row="1" Col="7" Num="4" Dir="Down" Ans="PACHINKO">Its player may have a yen for gambling</Clue>
+      <Clue Row="1" Col="8" Num="5" Dir="Down" Ans="ALKALIS">Things that cover all the bases?</Clue>
+      <Clue Row="1" Col="9" Num="6" Dir="Down" Ans="DEEPEN">Grow, as sympathies</Clue>
+      <Clue Row="1" Col="10" Num="7" Dir="Down" Ans="OTTER">Whiskered, fish-eating creature</Clue>
+      <Clue Row="1" Col="11" Num="8" Dir="Down" Ans="OTIS">Maker of thousands of cars annually</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Down" Ans="PET">Term of endearment</Clue>
+      <Clue Row="2" Col="3" Num="10" Dir="Down" Ans="SISTERSOULJAH">Hip-hop icon born Lisa Williamson</Clue>
+      <Clue Row="2" Col="13" Num="11" Dir="Down" Ans="RELEASEWAIVER">Paper signed before filming begins</Clue>
+      <Clue Row="3" Col="2" Num="12" Dir="Down" Ans="BOSTONCREAM">Kind of pie that's actually a cake</Clue>
+      <Clue Row="3" Col="14" Num="13" Dir="Down" Ans="MARIONETTES">Howdy Doody and others</Clue>
+      <Clue Row="4" Col="1" Num="14" Dir="Down" Ans="YESMASTER">Toadyish response</Clue>
+      <Clue Row="4" Col="15" Num="17" Dir="Down" Ans="PANNEDOUT">Was successful in the end</Clue>
+      <Clue Row="5" Col="4" Num="19" Dir="Down" Ans="DELETES">Files away?</Clue>
+      <Clue Row="5" Col="12" Num="21" Dir="Down" Ans="SLALOMS">Doesn't go straight, in a way</Clue>
+      <Clue Row="6" Col="5" Num="23" Dir="Down" Ans="POLIS">Sparta, e.g.</Clue>
+      <Clue Row="6" Col="11" Num="25" Dir="Down" Ans="PELLA">Big name in windows</Clue>
+      <Clue Row="7" Col="6" Num="27" Dir="Down" Ans="CMA">Nashville awards org.</Clue>
+      <Clue Row="7" Col="10" Num="28" Dir="Down" Ans="REL">Subj. of tax exemption</Clue>
+      <Clue Row="8" Col="9" Num="30" Dir="Down" Ans="HAIRDYES">Changers of locks</Clue>
+      <Clue Row="9" Col="8" Num="32" Dir="Down" Ans="SMOOTHS">Sands</Clue>
+      <Clue Row="10" Col="7" Num="34" Dir="Down" Ans="BONITA">Beautiful, in Bogotá</Clue>
+      <Clue Row="11" Col="6" Num="37" Dir="Down" Ans="PYREX">Material for a baking vessel</Clue>
+      <Clue Row="11" Col="10" Num="38" Dir="Down" Ans="SARAI">Name changed in Genesis 17:15</Clue>
+      <Clue Row="12" Col="5" Num="41" Dir="Down" Ans="SOME">A taste</Clue>
+      <Clue Row="12" Col="11" Num="42" Dir="Down" Ans="LUTZ">Turn on the ice</Clue>
+      <Clue Row="13" Col="4" Num="45" Dir="Down" Ans="JOT">Tiny amount</Clue>
+      <Clue Row="13" Col="12" Num="46" Dir="Down" Ans="LEE">Gray head?</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Beautiful, eye-catching grid! Jim curates our <a href="https://www.xwordinfo.com/GridArt">Grid Art</a> page, and he tends to put in more than I would. But this one I have no doubt about &mdash; looks like a Magic 8 Ball filled with crossbones! Stunning.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Blondie_(comic_strip)" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/6/61/Dagwood_Sandwich_20070417.png" style="border:1px solid lightgray; height:137px; margin:6px 0; width:472px" title="BOOPADOOP!" /></a></p>
+
+<p>Those corners of black squares (six apiece) don&#39;t just help create neat grid art, but they make &quot;turning the corners&quot; so much easier. Those black squares nibbling away, helping stagger the starts of answers, are magic indeed.</p>
+
+<p>Speaking of magic, wow was I surprised to get such goodness in YES MASTER / BOSTON CREAM / SISTER SOULJAH! Heck yeah! That&#39;s not supposed to happen with puzzles like this, where so many long stacked answers have to wrap around the full perimeter. (If you&#39;re one of those people who doesn&#39;t want the magic to be taken away, forget what I said about those black squares in the corners &hellip;)</p>
+
+<p>And MAJORITY RULES / HOME THEATER / TEXAS SIZE? Okay, that&#39;s equally as good! Seems impossible, even with those chunks of black squares in the corners.</p>
+
+<p>AND BOOP A DOOP (awesome name, even if I didn&#39;t recognize it) / BIG TICKET ITEM? Yes! SEND A LETTER didn&#39;t do much for me, but so far eight out of nine long slots converted into gold? That&#39;s an incredible conversion rate.</p>
+
+<p>Too bad the east section didn&#39;t quite live up to the rest. RELEASE WAIVER is okay. MARIONETTES is fun. PANNED OUT didn&#39;t quite pan out, those +preposition phrases a bit dull. Still, an incredible quantity of long answers interlocked around the perimeter.</p>
+
+<p>If there hadn&#39;t been quite so much in the way of esoteric mid-length entries &mdash; ANSELMO, SYNODAL, HELLENE, SARAI, the deadly AMATO / PELLA crossing, this would have been a POW! level themeless. But this type of grid arrangement is so tricky, bound to force compromises somewhere. As much as I loved the perimeter, the middle let the rest of my solving experience down.</p>
+
+<p>I think it&#39;s a reasonable trade-off though, as you&#39;re bound to have to give up something somewhere with a layout of this difficulty.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>I don&#39;t remember exactly when I came up with this grid, but the seed for it may have been planted all the way back in summer 2011, when <a href="https://www.xwordinfo.com/Thumbs?author=Todd+Gross" class="hasphoto">Todd Gross</a> showed me the grid of his puzzle that went on to be published on <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.xwordinfo.com/Crossword?date%3D2/23/2013&amp;source=gmail&amp;ust=1516416558023000&amp;usg=AFQjCNFQ-Xlu8WWIuuM3Sb5WszTAh9wtig" href="https://www.xwordinfo.com/Crossword?date=2/23/2013" target="_blank">February 23, 2013</a>. At some point in the year or two after that, I came up with the MAJORITY RULES / HOME THEATER / TEXAS-SIZE combination, and went with SISTER SOULJAH after many attempts with ZIP-A-DEE-DOO-DAH failed. I then continued going clockwise through the grid, getting particularly lucky with PACHINKO, and am very thankful for the feedback I received from my fellow constructors on both the fill and clues.</p>
+
+<p>Had I come up with this grid today, I probably would not have pursued it, because it can be cut in two by turning the A of MAJORITY RULES and the corresponding E into blocks (this also violates one of the Chronicle of Higher Education&#39;s style guidelines). But it is always a pleasure to see the effects of Will&#39;s editing acumen, and this puzzle is no exception, some of my favorite new clues being those for 10A, 47A, 8D, 11D, 13D, and 46D.</p>
+
+<p>I hope you enjoy solving this as much as I enjoyed making this!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

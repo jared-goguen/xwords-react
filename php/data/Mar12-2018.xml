@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Monday, March 12, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/11/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Mon, Mar 12, 2018</Title>
+    <Author>John R. O'Brien</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/12/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>ARMS.AGORA.SHED</Row>
+      <Row>BEAU.PLIES.EERO</Row>
+      <Row>CARP.POLYPHEMUS</Row>
+      <Row>SPEEDERS..AGAPE</Row>
+      <Row>...RANI.MODELTS</Row>
+      <Row>SAMMYDAVISJR...</Row>
+      <Row>UVEAS..ESAI.EYE</Row>
+      <Row>MORN.DIRTY.IGOR</Row>
+      <Row>ONE.SECS..SCARE</Row>
+      <Row>...JACKOFSPADES</Row>
+      <Row>RACEWAY.ATEN...</Row>
+      <Row>ABORT..ANEWHOPE</Row>
+      <Row>BAZOOKAJOE.EVIL</Row>
+      <Row>ITEM.FRAUD.LAPS</Row>
+      <Row>NENE.CERTS.PLEA</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="ARMS">Parts missing from the Venus de Milo</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="AGORA">Ancient Greek market</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="SHED">What hairy dogs do in the spring</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="BEAU">Boyfriend</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="PLIES">Toilet paper layers, e.g.</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="EERO">Architect Saarinen</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="CARP">Complain querulously</Clue>
+      <Clue Row="3" Col="6" Num="18" Dir="Across" Ans="POLYPHEMUS">*Monster outsmarted by Odysseus</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="SPEEDERS">Drivers doing 90, say</Clue>
+      <Clue Row="4" Col="11" Num="22" Dir="Across" Ans="AGAPE">With mouth wide open</Clue>
+      <Clue Row="5" Col="4" Num="23" Dir="Across" Ans="RANI">Indian queen</Clue>
+      <Clue Row="5" Col="9" Num="24" Dir="Across" Ans="MODELTS">Tin lizzies</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Across" Ans="SAMMYDAVISJR">*Rat Pack member who sang and danced</Clue>
+      <Clue Row="7" Col="1" Num="30" Dir="Across" Ans="UVEAS">Parts with irises</Clue>
+      <Clue Row="7" Col="8" Num="31" Dir="Across" Ans="ESAI">Actor Morales of "La Bamba"</Clue>
+      <Clue Row="7" Col="13" Num="32" Dir="Across" Ans="EYE">See 39-Across</Clue>
+      <Clue Row="8" Col="1" Num="35" Dir="Across" Ans="MORN">Dawn, to Donne</Clue>
+      <Clue Row="8" Col="6" Num="36" Dir="Across" Ans="DIRTY">Like clothes in the hamper</Clue>
+      <Clue Row="8" Col="12" Num="38" Dir="Across" Ans="IGOR">Servant in "Young Frankenstein"</Clue>
+      <Clue Row="9" Col="1" Num="39" Dir="Across" Ans="ONE">With 32-Across, what the answers to the starred clues each have</Clue>
+      <Clue Row="9" Col="5" Num="40" Dir="Across" Ans="SECS">Brief moments, briefly</Clue>
+      <Clue Row="9" Col="11" Num="41" Dir="Across" Ans="SCARE">Frighten</Clue>
+      <Clue Row="10" Col="4" Num="42" Dir="Across" Ans="JACKOFSPADES">*Black face card whose face is seen in profile</Clue>
+      <Clue Row="11" Col="1" Num="45" Dir="Across" Ans="RACEWAY">Indy or Daytona</Clue>
+      <Clue Row="11" Col="9" Num="48" Dir="Across" Ans="ATEN">What two fives are change for</Clue>
+      <Clue Row="12" Col="1" Num="49" Dir="Across" Ans="ABORT">Cancel at Cape Canaveral</Clue>
+      <Clue Row="12" Col="8" Num="50" Dir="Across" Ans="ANEWHOPE">"Star Wars Episode IV" subtitle</Clue>
+      <Clue Row="13" Col="1" Num="54" Dir="Across" Ans="BAZOOKAJOE">*Comic character on a gum wrapper</Clue>
+      <Clue Row="13" Col="12" Num="57" Dir="Across" Ans="EVIL">Satanic</Clue>
+      <Clue Row="14" Col="1" Num="58" Dir="Across" Ans="ITEM">Part of a list with bullets</Clue>
+      <Clue Row="14" Col="6" Num="59" Dir="Across" Ans="FRAUD">Scam</Clue>
+      <Clue Row="14" Col="12" Num="60" Dir="Across" Ans="LAPS">Swimmers' units</Clue>
+      <Clue Row="15" Col="1" Num="61" Dir="Across" Ans="NENE">Hawaiian goose</Clue>
+      <Clue Row="15" Col="6" Num="62" Dir="Across" Ans="CERTS">"Two mints in one" sloganeer</Clue>
+      <Clue Row="15" Col="12" Num="63" Dir="Across" Ans="PLEA">Nolo contendere, e.g.</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="ABCS">Things learned in "The Alphabet Song"</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="REAP">Harvest</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="MARE">Stallion's mate</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="SUPERMAN">Hero who's neither a bird nor a plane</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="APPEND">Tack on</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="GLORIA">Steinem who co-founded Ms. magazine</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="OILS">Classic paintings</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="REY">Spanish king</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="ASP">Biter of Cleopatra</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="SEEGER">Folk legend Pete</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="HEMAL">Blood-related</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="ERUPT">Blow, as a volcano</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="DOSES">Amounts in a hypodermic needle</Clue>
+      <Clue Row="3" Col="11" Num="19" Dir="Down" Ans="HADJI">Pilgrim to Mecca</Clue>
+      <Clue Row="4" Col="5" Num="21" Dir="Down" Ans="DAYS">February has the fewest of them</Clue>
+      <Clue Row="5" Col="9" Num="24" Dir="Down" Ans="MIST">Aerosol spray</Clue>
+      <Clue Row="5" Col="10" Num="25" Dir="Down" Ans="OSAY">Start of "The Star-Spangled Banner"</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Down" Ans="SUMO">Sport originally part of a Shinto ritual</Clue>
+      <Clue Row="6" Col="2" Num="27" Dir="Down" Ans="AVON">Shakespeare's stream</Clue>
+      <Clue Row="6" Col="3" Num="28" Dir="Down" Ans="MERE">Parisian mother</Clue>
+      <Clue Row="6" Col="8" Num="29" Dir="Down" Ans="VERSO">Left page in a book</Clue>
+      <Clue Row="7" Col="13" Num="32" Dir="Down" Ans="EGAD">"Heavens to Betsy!"</Clue>
+      <Clue Row="7" Col="14" Num="33" Dir="Down" Ans="YORE">Bygone times</Clue>
+      <Clue Row="7" Col="15" Num="34" Dir="Down" Ans="ERES">"___ Tú" (1974 song)</Clue>
+      <Clue Row="8" Col="6" Num="36" Dir="Down" Ans="DECA">Ten: Prefix</Clue>
+      <Clue Row="8" Col="7" Num="37" Dir="Down" Ans="ICKY">Highly off-putting</Clue>
+      <Clue Row="8" Col="12" Num="38" Dir="Down" Ans="ICANHELP">"Allow me"</Clue>
+      <Clue Row="9" Col="5" Num="40" Dir="Down" Ans="SAWTO">Handled, as a task</Clue>
+      <Clue Row="9" Col="11" Num="41" Dir="Down" Ans="SPEW">Blow, as from a volcano</Clue>
+      <Clue Row="10" Col="4" Num="42" Dir="Down" Ans="JEROME">Saint known for translating the Bible into Latin</Clue>
+      <Clue Row="10" Col="9" Num="43" Dir="Down" Ans="FANOUT">Spread, as people in a search party</Clue>
+      <Clue Row="10" Col="10" Num="44" Dir="Down" Ans="STEEDS">The Lone Ranger's Silver and others</Clue>
+      <Clue Row="11" Col="1" Num="45" Dir="Down" Ans="RABIN">Former Israeli P.M. Yitzhak</Clue>
+      <Clue Row="11" Col="2" Num="46" Dir="Down" Ans="ABATE">Lessen</Clue>
+      <Clue Row="11" Col="3" Num="47" Dir="Down" Ans="COZEN">Cheat</Clue>
+      <Clue Row="12" Col="8" Num="50" Dir="Down" Ans="AJAR">"When it's ___" (answer to an old riddle)</Clue>
+      <Clue Row="12" Col="13" Num="51" Dir="Down" Ans="OVAL">Squished circle</Clue>
+      <Clue Row="12" Col="14" Num="52" Dir="Down" Ans="PIPE">Prop for Sherlock Holmes</Clue>
+      <Clue Row="12" Col="15" Num="53" Dir="Down" Ans="ELSA">Two-time Oscar-nominated actress Lanchester</Clue>
+      <Clue Row="13" Col="6" Num="55" Dir="Down" Ans="KFC">The Colonel's restaurant</Clue>
+      <Clue Row="13" Col="7" Num="56" Dir="Down" Ans="ARE">"I am, you ___, he is"</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>What, no PURPLE PEOPLE EATER in this ONE-EYEd puzzle? Oh ye malevolent crossword grids and your 15-letter constraints!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Polyphemus" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Polyphemus.png/196px-Polyphemus.png" style="border:1px solid lightgray; float:left; height:239px; margin:6px 12px 6px 0px; width:196px" title="Creepy!" /></a></p>
+
+<p>Both the JACK OF SPADES and the JACK of hearts are ONE-EYEd. True fact! Maybe that&#39;s why spades and hearts are considered &quot;majors&quot; in contract bridge, while diamonds and clubs are &quot;minors&quot;? I always did wonder why ...</p>
+
+<p>I love me some Greek mythology, but POLYPHEMUS sure didn&#39;t come back easily. CYCLOPS, sure. A specific cyclops &hellip; that&#39;s a tough ask for us mere mortals.</p>
+
+<p>SAMMY DAVIS JR has two eyes, doesn&#39;t he? Sure, one is glass. Although, he did refer to himself in this awesome quote: &quot;Talk about handicap. I&#39;m a one-eyed Negro Jew.&quot; So he seems fine to include.</p>
+
+<p>BAZOOKA JOE is ONE-EYEd? He has an eye patch, but don&#39;t lots of kids wear eye patches for lazy eye or whatever?</p>
+
+<p>You know what would have been awesome? To have just one (letter) I in the puzzle! Maybe dead center, like the eye of the cyclops. Creepy good!</p>
+
+<p>I would have also liked a smoother product for a Monday. Using POLYPHEMUS is tough enough on newer solvers. Crossing it with SEEGER &ndash; SEAGER might look fine to some &ndash; is asking a lot. And you should be able to figure out HEMAL from HEME, but in my 125+ blood donations, I&#39;ve never heard someone say or write HEMAL.</p>
+
+<p>I don&#39;t mind a little toughness in a Monday puzzle. You don&#39;t want to make it TOO easy, with zero challenge. But things like HADJI crossing ESAI crossing VERSO, and RANI &hellip; that&#39;s a recipe for turning off newer solvers. No bueno!</p>
+
+<p>It&#39;s a fine concept, people with ONE EYE (ish). And bonuses like SUPERMAN and I CAN HELP (nice pairing!) helped keep my attention. But the execution needed several more rounds of smoothifying &mdash; no reason not to have a better final product, given the average-ish theme density.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>This is my 3rd acceptance by the NYT, with enough rejections to give me a batting average below Bob Uecker.</p>
+
+<p>I am grateful to Joel Fagliano for his patience in getting me through this. My academic background was the Classics and I always wanted to do a &quot;one eye&quot; theme about the cyclops. One theme answer was &quot;sewing needle&quot; but that was not acceptable, and I was lucky to see a deck of cards with a one eyed jack.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

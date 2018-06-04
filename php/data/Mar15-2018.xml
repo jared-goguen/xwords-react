@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Thursday, March 15, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/15/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Thu, Mar 15, 2018</Title>
+    <Author>Joe DiPietro</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/15/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>SKINK.TSO..RUBE</Row>
+      <Row>UNDUE.ACAIBERRY</Row>
+      <Row>POTTY.TAXDODGER</Row>
+      <Row>ETALII.BARSCENE</Row>
+      <Row>..KINDS.CASA...</Row>
+      <Row>WEEK.BADAT.RIFE</Row>
+      <Row>ANTECEDE.HUDDLE</Row>
+      <Row>ASH.THEIDES.BIN</Row>
+      <Row>CUATRO.SUREBETS</Row>
+      <Row>SETH.NATAN.ETSY</Row>
+      <Row>...EBON.LOFAT..</Row>
+      <Row>GAYPAREE.TERESA</Row>
+      <Row>ELAINEMAY.APRIL</Row>
+      <Row>ROLLSDICE.SIGMA</Row>
+      <Row>MULL..AHA.TTOPS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="SKINK">Tail-shedding lizard</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="TSO">General name on a dish</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Across" Ans="RUBE">Yahoo</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Across" Ans="UNDUE">Not warranted</Clue>
+      <Clue Row="2" Col="7" Num="14" Dir="Across" Ans="ACAIBERRY">Food item rich in antioxidants</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="POTTY">___ mouth</Clue>
+      <Clue Row="3" Col="7" Num="18" Dir="Across" Ans="TAXDODGER">One with a no-returns policy?</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="ETALII">Bibliographic catchall</Clue>
+      <Clue Row="4" Col="8" Num="21" Dir="Across" Ans="BARSCENE">Big nightlife environment</Clue>
+      <Clue Row="5" Col="3" Num="22" Dir="Across" Ans="KINDS">Sorts</Clue>
+      <Clue Row="5" Col="9" Num="24" Dir="Across" Ans="CASA">Un domicilio</Clue>
+      <Clue Row="6" Col="1" Num="25" Dir="Across" Ans="WEEK">Time's time span</Clue>
+      <Clue Row="6" Col="6" Num="27" Dir="Across" Ans="BADAT">Having trouble with</Clue>
+      <Clue Row="6" Col="12" Num="29" Dir="Across" Ans="RIFE">Abounding</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Across" Ans="ANTECEDE">Come before</Clue>
+      <Clue Row="7" Col="10" Num="35" Dir="Across" Ans="HUDDLE">Where plays are discussed</Clue>
+      <Clue Row="8" Col="1" Num="37" Dir="Across" Ans="ASH">With 40-Across, place for cinders</Clue>
+      <Clue Row="8" Col="5" Num="38" Dir="Across" Ans="THEIDES">Date that provides a phonetic hint to four other answers in this puzzle</Clue>
+      <Clue Row="8" Col="13" Num="40" Dir="Across" Ans="BIN">See 37-Across</Clue>
+      <Clue Row="9" Col="1" Num="41" Dir="Across" Ans="CUATRO">Dos y dos</Clue>
+      <Clue Row="9" Col="8" Num="43" Dir="Across" Ans="SUREBETS">Locks</Clue>
+      <Clue Row="10" Col="1" Num="45" Dir="Across" Ans="SETH">Green of Austin Powers movies</Clue>
+      <Clue Row="10" Col="6" Num="46" Dir="Across" Ans="NATAN">Hebrew name meaning "he has given"</Clue>
+      <Clue Row="10" Col="12" Num="48" Dir="Across" Ans="ETSY">Online market for crafts</Clue>
+      <Clue Row="11" Col="4" Num="49" Dir="Across" Ans="EBON">Black</Clue>
+      <Clue Row="11" Col="9" Num="51" Dir="Across" Ans="LOFAT">Yogurt choice, informally</Clue>
+      <Clue Row="12" Col="1" Num="53" Dir="Across" Ans="GAYPAREE">"Where all the cabaret shows are," in song</Clue>
+      <Clue Row="12" Col="10" Num="57" Dir="Across" Ans="TERESA">Mother of Calcutta</Clue>
+      <Clue Row="13" Col="1" Num="60" Dir="Across" Ans="ELAINEMAY">"A New Leaf" actress/director, 1971</Clue>
+      <Clue Row="13" Col="11" Num="62" Dir="Across" Ans="APRIL">When the N.B.A. regular season ends</Clue>
+      <Clue Row="14" Col="1" Num="63" Dir="Across" Ans="ROLLSDICE">Begins one's board game turn, perhaps</Clue>
+      <Clue Row="14" Col="11" Num="64" Dir="Across" Ans="SIGMA">Arithmetic series symbol</Clue>
+      <Clue Row="15" Col="1" Num="65" Dir="Across" Ans="MULL">Ruminate</Clue>
+      <Clue Row="15" Col="7" Num="66" Dir="Across" Ans="AHA">___ moment</Clue>
+      <Clue Row="15" Col="11" Num="67" Dir="Across" Ans="TTOPS">Pseudo-convertibles</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="SUPE">Condo V.I.P.</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="KNOT">Gut feeling?</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="IDTAKETHAT">"Sounds like a deal"</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="NUTLIKE">Hard and crunchy, maybe</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="KEYIN">Enter, as a password</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="TAT">Pic on a pec, perhaps</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="SCAB">Union concern</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="OAXACA">State that borders Veracruz</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Down" Ans="REDCARD">Soccer penalty indicator</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="URGE">Advocate</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="BREN">Air-cooled machine gun</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="EYRE">Literary governess</Clue>
+      <Clue Row="2" Col="10" Num="15" Dir="Down" Ans="IDRATHERNOT">"Count me out"</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Down" Ans="BOSS">Director</Clue>
+      <Clue Row="4" Col="6" Num="20" Dir="Down" Ans="IDBEHONORED">"Yes, how nice of you to offer"</Clue>
+      <Clue Row="5" Col="7" Num="23" Dir="Down" Ans="SADE">"Smooth Operator" singer, 1985</Clue>
+      <Clue Row="6" Col="1" Num="25" Dir="Down" Ans="WAACS">W.W. II females</Clue>
+      <Clue Row="6" Col="2" Num="26" Dir="Down" Ans="ENSUE">Come after</Clue>
+      <Clue Row="6" Col="8" Num="28" Dir="Down" Ans="DEIST">Voltaire, religiously</Clue>
+      <Clue Row="6" Col="13" Num="30" Dir="Down" Ans="IDBETTERGO">"It's getting late"</Clue>
+      <Clue Row="6" Col="14" Num="31" Dir="Down" Ans="FLITS">Moves like a butterfly</Clue>
+      <Clue Row="6" Col="15" Num="32" Dir="Down" Ans="EENSY">Itty</Clue>
+      <Clue Row="7" Col="5" Num="34" Dir="Down" Ans="CTR">Hub: Abbr.</Clue>
+      <Clue Row="7" Col="11" Num="36" Dir="Down" Ans="USE">See 39-Down</Clue>
+      <Clue Row="8" Col="9" Num="39" Dir="Down" Ans="DUAL">With 36-Down, suitable for two applications</Clue>
+      <Clue Row="9" Col="4" Num="42" Dir="Down" Ans="THEPILL">Sponge alternative</Clue>
+      <Clue Row="9" Col="12" Num="44" Dir="Down" Ans="BEARPIT">Frenzied trading floor, metaphorically</Clue>
+      <Clue Row="10" Col="7" Num="47" Dir="Down" Ans="ANEMIA">Weakness</Clue>
+      <Clue Row="11" Col="5" Num="50" Dir="Down" Ans="BANS">Outlaws</Clue>
+      <Clue Row="11" Col="11" Num="52" Dir="Down" Ans="FEAST">The Last Supper, e.g.</Clue>
+      <Clue Row="12" Col="1" Num="53" Dir="Down" Ans="GERM">Wheat ___</Clue>
+      <Clue Row="12" Col="2" Num="54" Dir="Down" Ans="ALOU">Diamond family name</Clue>
+      <Clue Row="12" Col="3" Num="55" Dir="Down" Ans="YALL">Group addressed in the South</Clue>
+      <Clue Row="12" Col="8" Num="56" Dir="Down" Ans="EACH">A head</Clue>
+      <Clue Row="12" Col="14" Num="58" Dir="Down" Ans="SIMP">Dimwit</Clue>
+      <Clue Row="12" Col="15" Num="59" Dir="Down" Ans="ALAS">"Regrettably ..."</Clue>
+      <Clue Row="13" Col="9" Num="61" Dir="Down" Ans="YEA">Support for a motion</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>So unfortunate that THE IDES of March falls on a Thursday this year. I enjoyed Joe&#39;s theme &ndash; phrases starting with I&#39;D &ndash; but wow, did it seem misplaced for a Thursday. I appreciated that it was a low word count, themeless level, but I want so much more out of a Thursday puzzle. Mixing a Tuesday theme and a Saturday grid seems like it ought to produce a Thursday puzzle &ndash; simple averages, yeah? &ndash; but it doesn&#39;t work that way.</p>
+
+<p>Stupid math!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Julius_Caesar" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/C%C3%A9sar_%2813667960455%29.jpg/440px-C%C3%A9sar_%2813667960455%29.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:164px" title="I'D VICI THAT!" /></a></p>
+
+<p>I like Joe&#39;s choices for themers, I&#39;D BETTER GO, I&#39;D RATHER NOT, I&#39;D BE HONORED, and &hellip; well, I liked three of them. I&#39;D TAKE THAT? Feels arbitrary, like I&#39;D EAT A TON or I&#39;D SMELL NICE. With so many choices available, why not I&#39;D LOVE TO, I&#39;D KILL FOR THAT, I&#39;D DO ANYTHING, I&#39;D BE HAPPY TO, I&#39;D UNDERSTAND, etc.?</p>
+
+<p>Jim and I recently had a conversation about symmetry, where he argued the case that editors ought to allow asymmetry if it makes for a more interesting puzzle. I don&#39;t totally agree, but here&#39;s a case where I think it could have made sense. Would have opened up more options, without having to use a length match for I&#39;D BETTER GO.</p>
+
+<p>As a themeless, it works pretty decently. ACAI BERRY / TAX DODGER / BAR SCENE is a lovely triple. SURE BETS / BEAR PIT is great. GAY PAREE / ELAINE MAY / &hellip; ROLLS DICE? &quot;Rolls THE dice,&quot; sure. Without &quot;the&quot; that phrase feels iffy.</p>
+
+<p>Overall, nice craftsmanship, Joe taking great care to limit his crossword glue to CTR TSO kind of minor offenders. (Okay, BREN ain&#39;t good, but I gave it a pass as it made that great triple-stack possible.)</p>
+
+<p>But the themeless-esque solving experience got watered down by the easy theme.</p>
+
+<p>There&#39;s a reason so many people hate math.</p>]]></JeffNotes>
+  </Puzzle>
+</Puzzles>

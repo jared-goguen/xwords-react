@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Thursday, March 1, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/1/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Thu, Mar 01, 2018</Title>
+    <Author>Timothy Polin</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/1/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>ZETA.STREW.POPE</Row>
+      <Row>ICON.IRENE.ARAL</Row>
+      <Row>TORY.FIGHTINGWS</Row>
+      <Row>INCH.TARA.MASSE</Row>
+      <Row>..HOE.SELDOM...</Row>
+      <Row>WPROCESSOR.ACDC</Row>
+      <Row>RAE.LUIS.OHSURE</Row>
+      <Row>YSL.ARC.GPA.PAS</Row>
+      <Row>LEADTO.IRIS.ONA</Row>
+      <Row>YOYO.PUTINAWFOR</Row>
+      <Row>...OPENED.TIC..</Row>
+      <Row>OHARE.TRIP.NOSE</Row>
+      <Row>WORDSQUARE.ICKY</Row>
+      <Row>NOTI.ANTON.NOIR</Row>
+      <Row>SKYE.TEENS.GAME</Row>
+    </Grid>
+    <RebusEntries>
+      <Rebus Row="3" Col="14" Short="W">WORD</Rebus>
+      <Rebus Row="6" Col="1" Short="W">WORD</Rebus>
+      <Rebus Row="10" Col="12" Short="W">WORD</Rebus>
+    </RebusEntries>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="ZETA">Sorority letter</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="STREW">Spread around</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="POPE">Leader in white</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="ICON">Mao Zedong or Mahatma Gandhi</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="IRENE">Castle with famous steps</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="ARAL">___ Karakum (Asian desert)</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="TORY">Conservative</Clue>
+      <Clue Row="3" Col="6" Num="18" Dir="Across" Ans="FIGHTINGWORDS">"Bring it on!" or "Let's rumble!"</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="INCH">Narrow margin</Clue>
+      <Clue Row="4" Col="6" Num="21" Dir="Across" Ans="TARA">Fictional home in Georgia</Clue>
+      <Clue Row="4" Col="11" Num="22" Dir="Across" Ans="MASSE">Spinny billiards shot</Clue>
+      <Clue Row="5" Col="3" Num="23" Dir="Across" Ans="HOE">Potato harvesting aid</Clue>
+      <Clue Row="5" Col="7" Num="25" Dir="Across" Ans="SELDOM">Hardly</Clue>
+      <Clue Row="6" Col="1" Num="27" Dir="Across" Ans="WORDPROCESSOR">Writing/editing aid</Clue>
+      <Clue Row="6" Col="12" Num="30" Dir="Across" Ans="ACDC">Band with the aptly titled album "Powerage"</Clue>
+      <Clue Row="7" Col="1" Num="34" Dir="Across" Ans="RAE">Girl's name that's a body part in reverse</Clue>
+      <Clue Row="7" Col="5" Num="35" Dir="Across" Ans="LUIS">Argentine author Jorge ___ Borges</Clue>
+      <Clue Row="7" Col="10" Num="36" Dir="Across" Ans="OHSURE">"Yeah, right"</Clue>
+      <Clue Row="8" Col="1" Num="38" Dir="Across" Ans="YSL">Haute couture inits.</Clue>
+      <Clue Row="8" Col="5" Num="39" Dir="Across" Ans="ARC">Shape on a suspension bridge</Clue>
+      <Clue Row="8" Col="9" Num="40" Dir="Across" Ans="GPA">School yardstick, for short</Clue>
+      <Clue Row="8" Col="13" Num="41" Dir="Across" Ans="PAS">No mas!</Clue>
+      <Clue Row="9" Col="1" Num="42" Dir="Across" Ans="LEADTO">Bring about</Clue>
+      <Clue Row="9" Col="8" Num="44" Dir="Across" Ans="IRIS">Pupil surrounder</Clue>
+      <Clue Row="9" Col="13" Num="45" Dir="Across" Ans="ONA">___ budget</Clue>
+      <Clue Row="10" Col="1" Num="46" Dir="Across" Ans="YOYO">Dum-dum</Clue>
+      <Clue Row="10" Col="6" Num="47" Dir="Across" Ans="PUTINAWORDFOR">Recommend, as an applicant</Clue>
+      <Clue Row="11" Col="4" Num="50" Dir="Across" Ans="OPENED">Was on first</Clue>
+      <Clue Row="11" Col="11" Num="52" Dir="Across" Ans="TIC">One might be nervous</Clue>
+      <Clue Row="12" Col="1" Num="53" Dir="Across" Ans="OHARE">Where many people make connections</Clue>
+      <Clue Row="12" Col="7" Num="56" Dir="Across" Ans="TRIP">Take a header</Clue>
+      <Clue Row="12" Col="12" Num="58" Dir="Across" Ans="NOSE">Honker</Clue>
+      <Clue Row="13" Col="1" Num="61" Dir="Across" Ans="WORDSQUARE">Classic letter puzzle -- or, when parsed differently, a hint to three Down answers in this puzzle</Clue>
+      <Clue Row="13" Col="12" Num="63" Dir="Across" Ans="ICKY">Like goo</Clue>
+      <Clue Row="14" Col="1" Num="64" Dir="Across" Ans="NOTI">"Don't look at me!"</Clue>
+      <Clue Row="14" Col="6" Num="65" Dir="Across" Ans="ANTON">Playwright Chekhov</Clue>
+      <Clue Row="14" Col="12" Num="66" Dir="Across" Ans="NOIR">Gritty genre</Clue>
+      <Clue Row="15" Col="1" Num="67" Dir="Across" Ans="SKYE">Kind of terrier</Clue>
+      <Clue Row="15" Col="6" Num="68" Dir="Across" Ans="TEENS">Awkward period, often</Clue>
+      <Clue Row="15" Col="12" Num="69" Dir="Across" Ans="GAME">Up (for) or down (for)</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="ZITI">Baked pasta dish</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ECON">Taxing subject, briefly?</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="TORCHRELAY">Pre-Olympic event</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="ANYHOO">"Moving right along ..."</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="SIFT">Strain</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="TRIASSIC">Period when mammals first appeared</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="REGRESS">Backslide</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="ENHALO">Treat as a saint</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="WET">Monsoonlike</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="PANAMAS">Wide-brimmed hats</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="ORGS">Assns.</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="PAWS">Things at the ends of dogs' legs</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="ELSE">Otherwise</Clue>
+      <Clue Row="3" Col="11" Num="19" Dir="Down" Ans="IMO">Texter's qualifier</Clue>
+      <Clue Row="5" Col="5" Num="24" Dir="Down" Ans="ECLAT">Show of brilliance</Clue>
+      <Clue Row="5" Col="10" Num="26" Dir="Down" Ans="DROPIN">Pay a visit</Clue>
+      <Clue Row="6" Col="1" Num="27" Dir="Down" Ans="WRYLY">How some jokes are delivered</Clue>
+      <Clue Row="6" Col="2" Num="28" Dir="Down" Ans="PASEO">Evening stroll</Clue>
+      <Clue Row="6" Col="6" Num="29" Dir="Down" Ans="EUROPE">Blue area on a Risk board</Clue>
+      <Clue Row="6" Col="13" Num="31" Dir="Down" Ans="CUPOFCOCOA">Place for a marshmallow</Clue>
+      <Clue Row="6" Col="14" Num="32" Dir="Down" Ans="DRANO">Product with a pipe on its packaging</Clue>
+      <Clue Row="6" Col="15" Num="33" Dir="Down" Ans="CESAR">Annual cinéma award</Clue>
+      <Clue Row="7" Col="11" Num="37" Dir="Down" Ans="HASAT">Attacks</Clue>
+      <Clue Row="8" Col="9" Num="40" Dir="Down" Ans="GRIDIRON">Where a bowl is set</Clue>
+      <Clue Row="9" Col="4" Num="43" Dir="Down" Ans="DOORDIE">Last-ditch</Clue>
+      <Clue Row="9" Col="8" Num="44" Dir="Down" Ans="ITERATE">Repeat for emphasis</Clue>
+      <Clue Row="10" Col="7" Num="48" Dir="Down" Ans="UNTUNE">Disharmonize</Clue>
+      <Clue Row="10" Col="12" Num="49" Dir="Down" Ans="WINING">Entertaining, in a way</Clue>
+      <Clue Row="11" Col="5" Num="51" Dir="Down" Ans="PES">Foot: Lat.</Clue>
+      <Clue Row="12" Col="1" Num="53" Dir="Down" Ans="OWNS">Has control over</Clue>
+      <Clue Row="12" Col="2" Num="54" Dir="Down" Ans="HOOK">Tee shot goof</Clue>
+      <Clue Row="12" Col="3" Num="55" Dir="Down" Ans="ARTY">Bohemian</Clue>
+      <Clue Row="12" Col="10" Num="57" Dir="Down" Ans="PENS">Writes</Clue>
+      <Clue Row="12" Col="14" Num="59" Dir="Down" Ans="SKIM">Take the top off</Clue>
+      <Clue Row="12" Col="15" Num="60" Dir="Down" Ans="EYRE">Literary heroine who says "Even for me life had its gleams of sunshine"</Clue>
+      <Clue Row="13" Col="6" Num="62" Dir="Down" Ans="QAT">Chewed stimulant in the Mideast</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Tim combines two theme types today &mdash; a WORD rebus + parsing WORD as &quot;W or D&quot; for a <a href="https://www.xwordinfo.com/Quantum">Schrödinger</a> (jokes can be delivered WRYLY or DRYLY, dogs have PAWS or PADS at the ends of their legs, and WINING and DINING are forms of entertainment). It&#39;s a neat mesh of two tried-and-true theme types, producing something different. </p>
+
+<p><a href="https://en.wikipedia.org/wiki/Word_square" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sator_Square_at_Opp%C3%A8de.jpg/440px-Sator_Square_at_Opp%C3%A8de.jpg" style="border:1px solid lightgray; float:right; height:218px; margin:6px 0px 6px 12px; width:220px" title="One of the earliest WORD SQUAREs" /></a></p>
+
+<p>The best Schrodingers are those where both options seem equally valid &mdash; solvers would put either in, 50/50. That&#39;s exactly the case for WRYLY / DRYLY.</p>
+
+<p>PAWS and PADS not as much &ndash; I immediately put in PAWS. I had to think a bit after finishing before PADS made sense.</p>
+
+<p>And WINING / DINING &hellip; that one felt slightly different to me, as it&#39;s rare to use DINING to describe &quot;entertaining&quot; without combining it with WINING. So WINING (which is much more used by itself), felt strongly like the only &quot;correct&quot; answer.</p>
+
+<p>I&#39;ve heard of WORD SQUAREs before, but wasn&#39;t exactly sure what they were. Came back to me quickly after reading the Wikipedia article, though, and it made for a perfect descriptor of the concept.</p>
+
+<p>Ah, PES. The anatomic foot. Next to QAT, one of those words Scrabble players must learn in order to play competitively. Why the two ooky glooky offenders? As much as I love TRIASSIC and GRIDIRON, two delightful grid bonuses, they were the cause. If you use black squares to break up TRIASSIC at the first S and GRIDIRON at the D, it makes the north and south sections so much easier to fill well.</p>
+
+<p>TRIASSIC / GRIDIRON worth the price of PES / QAT? Not to me, especially since Tim already fulfilled my quota of great fill with TORCH RELAY and CUP OF COCOA. PES in particular is one of those Maleskan words that give crosswords a bad name. YOU HAVE TO KNOW RIDICULOUS STUFF TO DO CROSSWORDS! I&#39;d mark it as a puzzle-killer, if I had my druthers.</p>
+
+<p>(I can just see Scrabble-lovers up in arms saying QAT IS AN IMPORTANT WORD!!!)</p>
+
+<p>Overall though, I liked the innovation, mixifying two standard theme types to produce something new. That&#39;s the kind of thing I love in a NYT Thursday puzzle.</p>]]></JeffNotes>
+  </Puzzle>
+</Puzzles>

@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Wednesday, May 30, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/29/2018 at 7:01 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Wed, May 30, 2018</Title>
+    <Author>Sande Milton and Jeff Chen</Author>
+    <CanonicalNames>
+      <Constructor>Sande Milton</Constructor>
+      <Constructor>Jeff Chen</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/30/2018</Date>
+    <Size>
+      <Rows>13</Rows>
+      <Cols>17</Cols>
+    </Size>
+    <Grid>
+      <Row>LIPS.ACETATE.CHIP</Row>
+      <Row>OKRA.MORALES.RANG</Row>
+      <Row>BEEB.PLAYERS.ORCA</Row>
+      <Row>.APOLLO...MIASMA.</Row>
+      <Row>...TEENA.TIERS...</Row>
+      <Row>RESET.ISLET.ROMPS</Row>
+      <Row>UNCUT.STILE.AVILA</Row>
+      <Row>BARRE.TILES.NEXUS</Row>
+      <Row>.BASRA.NIX.OGRES.</Row>
+      <Row>ALB.SUM...PRE.DST</Row>
+      <Row>GIBE.JUMBLED.ABIE</Row>
+      <Row>UNLV.USROUTE.HAZE</Row>
+      <Row>AGEE.STINGER.AGES</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="LIPS">Loose ones sink ships, in a saying</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="ACETATE">Transparent sheet used for overlays</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Across" Ans="CHIP">Approach shot in golf</Clue>
+      <Clue Row="2" Col="1" Num="16" Dir="Across" Ans="OKRA">Gooey vegetable</Clue>
+      <Clue Row="2" Col="6" Num="17" Dir="Across" Ans="MORALES">Bolivian president Evo</Clue>
+      <Clue Row="2" Col="14" Num="18" Dir="Across" Ans="RANG">Pealed</Clue>
+      <Clue Row="3" Col="1" Num="19" Dir="Across" Ans="BEEB">Alternative to Sky UK, with "the"</Clue>
+      <Clue Row="3" Col="6" Num="20" Dir="Across" Ans="PLAYERS">Rack #1: AELPRSY</Clue>
+      <Clue Row="3" Col="14" Num="21" Dir="Across" Ans="ORCA">Shamu, e.g.</Clue>
+      <Clue Row="4" Col="2" Num="22" Dir="Across" Ans="APOLLO">Iconic theater in Harlem</Clue>
+      <Clue Row="4" Col="11" Num="24" Dir="Across" Ans="MIASMA">Foul atmosphere</Clue>
+      <Clue Row="5" Col="4" Num="26" Dir="Across" Ans="TEENA">___ Marie, singer of the 1985 hit "Lovergirl"</Clue>
+      <Clue Row="5" Col="10" Num="28" Dir="Across" Ans="TIERS">Features of many wedding cakes</Clue>
+      <Clue Row="6" Col="1" Num="29" Dir="Across" Ans="RESET">Odometer button</Clue>
+      <Clue Row="6" Col="7" Num="32" Dir="Across" Ans="ISLET">Key</Clue>
+      <Clue Row="6" Col="13" Num="34" Dir="Across" Ans="ROMPS">Yawners, in sports</Clue>
+      <Clue Row="7" Col="1" Num="38" Dir="Across" Ans="UNCUT">Like diamonds from a mine</Clue>
+      <Clue Row="7" Col="7" Num="39" Dir="Across" Ans="STILE">Subway entry</Clue>
+      <Clue Row="7" Col="13" Num="40" Dir="Across" Ans="AVILA">Historic walled city of Spain</Clue>
+      <Clue Row="8" Col="1" Num="41" Dir="Across" Ans="BARRE">Dance studio fixture</Clue>
+      <Clue Row="8" Col="7" Num="42" Dir="Across" Ans="TILES">Game pieces in 31-Down</Clue>
+      <Clue Row="8" Col="13" Num="43" Dir="Across" Ans="NEXUS">Connecting point</Clue>
+      <Clue Row="9" Col="2" Num="44" Dir="Across" Ans="BASRA">Iraq's main port</Clue>
+      <Clue Row="9" Col="8" Num="46" Dir="Across" Ans="NIX">Turn down</Clue>
+      <Clue Row="9" Col="12" Num="47" Dir="Across" Ans="OGRES">Shrek's relatives</Clue>
+      <Clue Row="10" Col="1" Num="48" Dir="Across" Ans="ALB">Priestly attire</Clue>
+      <Clue Row="10" Col="5" Num="49" Dir="Across" Ans="SUM">34, for each row, column and main diagonal in a 4x4 magic square</Clue>
+      <Clue Row="10" Col="11" Num="51" Dir="Across" Ans="PRE">Lead-in to screening</Clue>
+      <Clue Row="10" Col="15" Num="52" Dir="Across" Ans="DST">Summer hours: Abbr.</Clue>
+      <Clue Row="11" Col="1" Num="54" Dir="Across" Ans="GIBE">Dig</Clue>
+      <Clue Row="11" Col="6" Num="56" Dir="Across" Ans="JUMBLED">Rack #3: BDEJLMU</Clue>
+      <Clue Row="11" Col="14" Num="60" Dir="Across" Ans="ABIE">Irish Rose's love</Clue>
+      <Clue Row="12" Col="1" Num="61" Dir="Across" Ans="UNLV">The Runnin' Rebels of the N.C.A.A.</Clue>
+      <Clue Row="12" Col="6" Num="62" Dir="Across" Ans="USROUTE">50 from Calif. to Md., e.g.</Clue>
+      <Clue Row="12" Col="14" Num="63" Dir="Across" Ans="HAZE">Dreamy state</Clue>
+      <Clue Row="13" Col="1" Num="64" Dir="Across" Ans="AGEE">Miracle Met Tommie</Clue>
+      <Clue Row="13" Col="6" Num="65" Dir="Across" Ans="STINGER">Business end of a wasp</Clue>
+      <Clue Row="13" Col="14" Num="66" Dir="Across" Ans="AGES">Specs printed on a toy box</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="LOB">High ball</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="IKEA">Retail giant in furniture</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="PREP">Get-ready work</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="SABOTEURS">Some counterintelligence targets</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="AMPLE">Sufficient</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="COLONIST">Mayflower Pilgrim, e.g.</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="ERA">Procter &amp; Gamble detergent</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="TAY">Scotland's longest river</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="ALE">It has a head and hops</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="TERMITES">Danger for homeowners</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="ESSIE">Big name in nail polish</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="CROSSOVER">Go to the opposite side</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="HARM">Injure</Clue>
+      <Clue Row="1" Col="16" Num="14" Dir="Down" Ans="INCA">___ Trail (path in the Andes)</Clue>
+      <Clue Row="1" Col="17" Num="15" Dir="Down" Ans="PGA">Org. with a lot of links on its website</Clue>
+      <Clue Row="4" Col="5" Num="23" Dir="Down" Ans="LETTERS">Rack #4: EELRSTT</Clue>
+      <Clue Row="4" Col="13" Num="25" Dir="Down" Ans="ARRANGE">Rack #2: AAEGNRR</Clue>
+      <Clue Row="5" Col="8" Num="27" Dir="Down" Ans="ASTIN">Actor Sean of "The Lord of the Rings"</Clue>
+      <Clue Row="5" Col="10" Num="28" Dir="Down" Ans="TELEX">Message system superseded by fax</Clue>
+      <Clue Row="6" Col="1" Num="29" Dir="Down" Ans="RUB">Chafe</Clue>
+      <Clue Row="6" Col="2" Num="30" Dir="Down" Ans="ENABLING">Allowing to happen</Clue>
+      <Clue Row="6" Col="3" Num="31" Dir="Down" Ans="SCRABBLE">Game described by this puzzle's four racks</Clue>
+      <Clue Row="6" Col="9" Num="33" Dir="Down" Ans="LILI">1953 Leslie Caron title role</Clue>
+      <Clue Row="6" Col="15" Num="35" Dir="Down" Ans="MIXEDBAG">Assortment ... or a description of 32-, 39- and 42-Across?</Clue>
+      <Clue Row="6" Col="16" Num="36" Dir="Down" Ans="PLUSSIZE">XXL, e.g.</Clue>
+      <Clue Row="6" Col="17" Num="37" Dir="Down" Ans="SAS">Carrier to Stockholm</Clue>
+      <Clue Row="9" Col="6" Num="45" Dir="Down" Ans="AUJUS">How some beef is served</Clue>
+      <Clue Row="9" Col="12" Num="47" Dir="Down" Ans="ORDER">"Atten-shun!," e.g.</Clue>
+      <Clue Row="10" Col="1" Num="48" Dir="Down" Ans="AGUA">Water, in Oaxaca</Clue>
+      <Clue Row="10" Col="7" Num="50" Dir="Down" Ans="MUST">It's compulsory</Clue>
+      <Clue Row="10" Col="11" Num="51" Dir="Down" Ans="PETE">Pistol ___ (Oklahoma State's mascot)</Clue>
+      <Clue Row="10" Col="17" Num="53" Dir="Down" Ans="TEES">Links things</Clue>
+      <Clue Row="11" Col="4" Num="55" Dir="Down" Ans="EVE">First lady</Clue>
+      <Clue Row="11" Col="8" Num="57" Dir="Down" Ans="MRI">It can see right through you, in brief</Clue>
+      <Clue Row="11" Col="9" Num="58" Dir="Down" Ans="BON">Nice, in Nice</Clue>
+      <Clue Row="11" Col="10" Num="59" Dir="Down" Ans="LUG">Car nut</Clue>
+      <Clue Row="11" Col="14" Num="60" Dir="Down" Ans="AHA">"I caught you!"</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Sande comes up with some of the most creative ideas of any of my collaborators. I liked his initial concept of doing something Scrabble-related in a crossword. Having four &quot;racks&quot; around a scrabble board, plus a &quot;bag&quot; made out of black squares (look at the center of the grid again!)? That was pretty good.</p>
+
+<p><a href="https://wiki.godvillegame.com/Bag_of_scrabble_tiles" style="border:none"><img alt="" src="https://wiki.godvillegame.com/images/3/32/Bagofscrabbletiles.jpg" style="border:1px solid lightgray; float:right; height:165px; margin:6px 0px 6px 12px; width:220px" title="MIXED BAG, anyone?" /></a></p>
+
+<p>Then he came up with the idea of TILES inside the bag, mixed up into STILE and ISLET. Even better!</p>
+
+<p>But I felt like we had to have Scrabble-esque words in the four racks, not what he proposed: any four seven-letter words that would help us produce good fill. I worried that this would kill the idea. Ah well, lots of ideas need to die a natural death.</p>
+
+<p>Then he came back with PLAYERS ANAGRAM JUMBLED LETTERS. Oh so perfect! Now it was just a matter of working up a grid skeleton.</p>
+
+<p>Nothing good by revision 10. Tricky lengths to work with, considering we had to build around that central &quot;bag.&quot;</p>
+
+<p>Revision 30? Still flailing.</p>
+
+<p>Somewhere around 50, things started to look up.</p>
+
+<p>Back down by rev 60.</p>
+
+<p>Finally, I thought, what if we punted on a 15x15 grid? 16x15 or 14x16 is no problem for the NYT, but those didn&#39;t help. Finally, I tested out a weird 13x17 on a lark and bingo! It all fell into place.</p>
+
+<p>After 40 more revisions.</p>
+
+<p>Thankfully, Will thought he could bend some rules to the get the odd shape to work with his syndication partners. What a relief! Revision number 101, clued and filed as final.</p>
+
+<p>The sight of a single Scrabble TILE will fill me with Pavlovian shudders from now on.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p><strong>SANDE:</strong> It&#39;s a real thrill to publish my first NYT puzzle. I&#39;ve been solving these things for over 60 years, first cutting my teeth on the NY Post, then graduating to the Times, in the days when an ANOA would paddle his PROA to a STOA in GOA. The puzzles have changed so much since then. Used to be that if you could find a word hidden away in an old edition of the OED, Britannica or Gray&#39;s Anatomy, it was &quot;legal.&quot; No brand names, no hip expressions were allowed.</p>
+
+<p>I submitted two puzzles in 1972 when Will Weng was the editor. The daily had a bad word in it, BULTACO (a Spanish motorcycle). I knew the word wasn&#39;t legal, but I was hoping that Mr. Weng wouldn&#39;t notice it: fat chance!</p>
+
+<p>Decades later, after retiring as a faculty member at Florida State, I brought an idea for a Sunday puzzle to Nancy Salomon, through <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://cruciverb.com&amp;source=gmail&amp;ust=1527026545111000&amp;usg=AFQjCNFIUtqF3dqjc5riANLzalrzYFo4jw" href="http://cruciverb.com/" style="color:#1155cc">cruciverb.com</a>. She passed me along to Jeff, and we&#39;re now collaborating on our third puzzle. My advice to solvers considering trying their lot at construction: if you love waiting for Fridays and Saturdays, you&#39;ll find that constructing your own is like having the hardest Saturday you&#39;ve ever faced, open and challenging you &mdash; all day long. There&#39;s nothing like it. But I do recommend working with an experienced constructor: you have a lot more to learn than you think.</p>
+
+<p>This puzzle was a pleasure to work on because the Scrabble theme opened up so many possibilities. The theme is multi-layered. First, there are four racks of mixed-up &quot;tiles,&quot; which when solved announce the flow of the game: PLAYERS ARRANGE JUMBLED LETTERS. Second, there&#39;s bag of mixed &quot;tiles&quot; (anagrams) in the center section. Finally, the two reveal clues tell you that it&#39;s a SCRABBLE game and that there&#39;s a MIXED BAG in the middle. So much going on!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

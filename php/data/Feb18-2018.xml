@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Sunday, February 18, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 2/17/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sun, Feb 18, 2018 SEE 68-ACROSS</Title>
+    <Author>Elizabeth A. Long</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>2/18/2018</Date>
+    <Size>
+      <Rows>21</Rows>
+      <Cols>21</Cols>
+    </Size>
+    <Grid>
+      <Row>APSE.MISSALS.FIB.CRED</Row>
+      <Row>DEUX.ONTARIO.URETHANE</Row>
+      <Row>INIT.OCELOTS.TORRANCE</Row>
+      <Row>OUTRUN.ETNA.BINGERROR</Row>
+      <Row>SPEAKSFLY.FOIL....IRE</Row>
+      <Row>...VEER..GIMLET.SHOES</Row>
+      <Row>HOPI.TAY.URAL.AWAITS.</Row>
+      <Row>QUIRK.NEATER..METE...</Row>
+      <Row>SIEGE.KART.SLUMBERPAY</Row>
+      <Row>..RIG...REC.AMIES.RRR</Row>
+      <Row>ICON.NAMEDROPPER.LOTS</Row>
+      <Row>MUG.SOFIA.USE...JOB..</Row>
+      <Row>PRIMCOLORS.ALPE.UTICA</Row>
+      <Row>...AONE..EGGSON.TUTOR</Row>
+      <Row>.PORTER.PERE.EDU.SYNC</Row>
+      <Row>TONYS.SERIES..ONCE...</Row>
+      <Row>DEE....GENA.EARLYAMEN</Row>
+      <Row>PHONEMARS.SARI.ELTORO</Row>
+      <Row>ALCAPONE.MINORCA.ERIN</Row>
+      <Row>SEALIONS.REDDEER.RACE</Row>
+      <Row>SRTA.RES.TRIESON.SLAT</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="APSE">___ aisle, part of a church</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="MISSALS">Prayer books</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Across" Ans="FIB">Bit of baloney</Clue>
+      <Clue Row="1" Col="18" Num="15" Dir="Across" Ans="CRED">Rep</Clue>
+      <Clue Row="2" Col="1" Num="19" Dir="Across" Ans="DEUX">Two, in Toulouse</Clue>
+      <Clue Row="2" Col="6" Num="20" Dir="Across" Ans="ONTARIO">Neighbor of New York</Clue>
+      <Clue Row="2" Col="14" Num="21" Dir="Across" Ans="URETHANE">Pesticide ingredient</Clue>
+      <Clue Row="3" Col="1" Num="23" Dir="Across" Ans="INIT">Still a contender</Clue>
+      <Clue Row="3" Col="6" Num="24" Dir="Across" Ans="OCELOTS">Cousins of jaguarundis</Clue>
+      <Clue Row="3" Col="14" Num="25" Dir="Across" Ans="TORRANCE">City in Los Angeles County</Clue>
+      <Clue Row="4" Col="1" Num="26" Dir="Across" Ans="OUTRUN">Leave in the dust</Clue>
+      <Clue Row="4" Col="8" Num="28" Dir="Across" Ans="ETNA">European eruption site</Clue>
+      <Clue Row="4" Col="13" Num="29" Dir="Across" Ans="BINGERROR">Search engine failure?</Clue>
+      <Clue Row="5" Col="1" Num="30" Dir="Across" Ans="SPEAKSFLY">Is able to translate what was heard on the wall?</Clue>
+      <Clue Row="5" Col="11" Num="32" Dir="Across" Ans="FOIL">Thwart</Clue>
+      <Clue Row="5" Col="19" Num="34" Dir="Across" Ans="IRE">Choler</Clue>
+      <Clue Row="6" Col="4" Num="35" Dir="Across" Ans="VEER">Not stay the course?</Clue>
+      <Clue Row="6" Col="10" Num="36" Dir="Across" Ans="GIMLET">Gin, lime and soda combo</Clue>
+      <Clue Row="6" Col="17" Num="38" Dir="Across" Ans="SHOES">Things that are bought and soled</Clue>
+      <Clue Row="7" Col="1" Num="40" Dir="Across" Ans="HOPI">Arizona tribe</Clue>
+      <Clue Row="7" Col="6" Num="43" Dir="Across" Ans="TAY">Scotland's longest river</Clue>
+      <Clue Row="7" Col="10" Num="45" Dir="Across" Ans="URAL">River through Russia and Kazakhstan</Clue>
+      <Clue Row="7" Col="15" Num="46" Dir="Across" Ans="AWAITS">Is expecting</Clue>
+      <Clue Row="8" Col="1" Num="48" Dir="Across" Ans="QUIRK">Oddity</Clue>
+      <Clue Row="8" Col="7" Num="50" Dir="Across" Ans="NEATER">More in order</Clue>
+      <Clue Row="8" Col="15" Num="52" Dir="Across" Ans="METE">Dole (out)</Clue>
+      <Clue Row="9" Col="1" Num="53" Dir="Across" Ans="SIEGE">Tactic in a war of attrition</Clue>
+      <Clue Row="9" Col="7" Num="54" Dir="Across" Ans="KART">It goes after go</Clue>
+      <Clue Row="9" Col="12" Num="55" Dir="Across" Ans="SLUMBERPAY">Mattress tester's compensation?</Clue>
+      <Clue Row="10" Col="3" Num="61" Dir="Across" Ans="RIG">Word after big or oil</Clue>
+      <Clue Row="10" Col="9" Num="62" Dir="Across" Ans="REC">Suggestion of what to do, slangily</Clue>
+      <Clue Row="10" Col="13" Num="64" Dir="Across" Ans="AMIES">Opposite of ennemies</Clue>
+      <Clue Row="10" Col="19" Num="65" Dir="Across" Ans="RRR">Basics of education, briefly</Clue>
+      <Clue Row="11" Col="1" Num="66" Dir="Across" Ans="ICON">Super superstar</Clue>
+      <Clue Row="11" Col="6" Num="68" Dir="Across" Ans="NAMEDROPPER">Supercilious sort ... or the title for this puzzle</Clue>
+      <Clue Row="11" Col="18" Num="72" Dir="Across" Ans="LOTS">A bushelful</Clue>
+      <Clue Row="12" Col="1" Num="73" Dir="Across" Ans="MUG">Make faces in front of a camera</Clue>
+      <Clue Row="12" Col="5" Num="74" Dir="Across" Ans="SOFIA">European capital named after a saint</Clue>
+      <Clue Row="12" Col="11" Num="75" Dir="Across" Ans="USE">"___ your head!"</Clue>
+      <Clue Row="12" Col="17" Num="76" Dir="Across" Ans="JOB">Monster.com posting</Clue>
+      <Clue Row="13" Col="1" Num="77" Dir="Across" Ans="PRIMCOLORS">Dress code requirement for the Puritans?</Clue>
+      <Clue Row="13" Col="12" Num="80" Dir="Across" Ans="ALPE">Peak in Suisse</Clue>
+      <Clue Row="13" Col="17" Num="83" Dir="Across" Ans="UTICA">City on the Erie Canal</Clue>
+      <Clue Row="14" Col="4" Num="86" Dir="Across" Ans="AONE">Tops</Clue>
+      <Clue Row="14" Col="10" Num="87" Dir="Across" Ans="EGGSON">Goads</Clue>
+      <Clue Row="14" Col="17" Num="89" Dir="Across" Ans="TUTOR">Test prep aid</Clue>
+      <Clue Row="15" Col="2" Num="90" Dir="Across" Ans="PORTER">Dark beer</Clue>
+      <Clue Row="15" Col="9" Num="92" Dir="Across" Ans="PERE">France's ___ Noël</Clue>
+      <Clue Row="15" Col="14" Num="93" Dir="Across" Ans="EDU">What may follow a school period?</Clue>
+      <Clue Row="15" Col="18" Num="95" Dir="Across" Ans="SYNC">Connect, as picture with sound</Clue>
+      <Clue Row="16" Col="1" Num="96" Dir="Across" Ans="TONYS">Annual CBS awards broadcast, with "the"</Clue>
+      <Clue Row="16" Col="7" Num="97" Dir="Across" Ans="SERIES">Playoff matchup</Clue>
+      <Clue Row="16" Col="15" Num="99" Dir="Across" Ans="ONCE">Years ago</Clue>
+      <Clue Row="17" Col="1" Num="101" Dir="Across" Ans="DEE">"Mudbound" director Rees</Clue>
+      <Clue Row="17" Col="8" Num="102" Dir="Across" Ans="GENA">Actress Rowlands</Clue>
+      <Clue Row="17" Col="13" Num="103" Dir="Across" Ans="EARLYAMEN">Hoped-for conclusion by someone with sore knees?</Clue>
+      <Clue Row="18" Col="1" Num="108" Dir="Across" Ans="PHONEMARS">Make a really long-distance call?</Clue>
+      <Clue Row="18" Col="11" Num="113" Dir="Across" Ans="SARI">Rani's raiment</Clue>
+      <Clue Row="18" Col="16" Num="115" Dir="Across" Ans="ELTORO">Matador's foe</Clue>
+      <Clue Row="19" Col="1" Num="116" Dir="Across" Ans="ALCAPONE">Infamous Chicago bootlegger</Clue>
+      <Clue Row="19" Col="10" Num="117" Dir="Across" Ans="MINORCA">Mediterranean resort island</Clue>
+      <Clue Row="19" Col="18" Num="119" Dir="Across" Ans="ERIN">"___ go bragh!"</Clue>
+      <Clue Row="20" Col="1" Num="120" Dir="Across" Ans="SEALIONS">Swimmers with flippers</Clue>
+      <Clue Row="20" Col="10" Num="121" Dir="Across" Ans="REDDEER">Rufous ruminant</Clue>
+      <Clue Row="20" Col="18" Num="122" Dir="Across" Ans="RACE">Census datum</Clue>
+      <Clue Row="21" Col="1" Num="123" Dir="Across" Ans="SRTA">Sp. miss</Clue>
+      <Clue Row="21" Col="6" Num="124" Dir="Across" Ans="RES">Follower of hi or lo</Clue>
+      <Clue Row="21" Col="10" Num="125" Dir="Across" Ans="TRIESON">Slips into at a store, say</Clue>
+      <Clue Row="21" Col="18" Num="126" Dir="Across" Ans="SLAT">Louver</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="ADIOS">"Hasta la vista"</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="PENUP">Corral</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="SUITE">Software package</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="EXTRAVIRGIN">Like high-quality olive oil</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="MOONSET">Nighttime event in the western sky</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="INC">Business magazine</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="STEEL">Resolve</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="SALTY">Coarse, as language</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="ARON">Elvis ___ Presley</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="LITAFIRE">Engaged in arson</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="SOS">Request for aid</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="FUTILE">Pointless</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="IRON">Go over one's wardrobe?</Clue>
+      <Clue Row="1" Col="16" Num="14" Dir="Down" Ans="BERG">Titanic's undoing</Clue>
+      <Clue Row="1" Col="18" Num="15" Dir="Down" Ans="CHAR">Burn a little</Clue>
+      <Clue Row="1" Col="19" Num="16" Dir="Down" Ans="RANRIOT">Went wild</Clue>
+      <Clue Row="1" Col="20" Num="17" Dir="Down" Ans="ENCORES">Added numbers</Clue>
+      <Clue Row="1" Col="21" Num="18" Dir="Down" Ans="DEERES">Many mowers</Clue>
+      <Clue Row="2" Col="17" Num="22" Dir="Down" Ans="TRE">Number of i's in "Sicilia"</Clue>
+      <Clue Row="4" Col="5" Num="27" Dir="Down" Ans="UKE">Hula accompaniment, for short</Clue>
+      <Clue Row="4" Col="13" Num="29" Dir="Down" Ans="BILL">With 29-Across, surprise in the mail</Clue>
+      <Clue Row="5" Col="7" Num="31" Dir="Down" Ans="FRANK">With 30-Across, is blunt</Clue>
+      <Clue Row="5" Col="12" Num="33" Dir="Down" Ans="OMARS">Khayyám and others</Clue>
+      <Clue Row="6" Col="10" Num="36" Dir="Down" Ans="GUTTED">Left only the exterior of</Clue>
+      <Clue Row="6" Col="15" Num="37" Dir="Down" Ans="TAMMIE">Green of the L.P.G.A.</Clue>
+      <Clue Row="6" Col="17" Num="38" Dir="Down" Ans="SATES">Fills</Clue>
+      <Clue Row="6" Col="18" Num="39" Dir="Down" Ans="HIER">24 heures ago</Clue>
+      <Clue Row="7" Col="1" Num="40" Dir="Down" Ans="HQS">Central command spots, for short</Clue>
+      <Clue Row="7" Col="2" Num="41" Dir="Down" Ans="OUI">Sénat affirmative</Clue>
+      <Clue Row="7" Col="3" Num="42" Dir="Down" Ans="PIEROGI">Polish dumpling</Clue>
+      <Clue Row="7" Col="8" Num="44" Dir="Down" Ans="YEA">Senate affirmative</Clue>
+      <Clue Row="7" Col="16" Num="47" Dir="Down" Ans="WEBER">Big brand of grills</Clue>
+      <Clue Row="8" Col="5" Num="49" Dir="Down" Ans="KEG">Gunpowder holder</Clue>
+      <Clue Row="8" Col="9" Num="51" Dir="Down" Ans="ARREAR">Overdue amount</Clue>
+      <Clue Row="9" Col="13" Num="56" Dir="Down" Ans="LAPELS">Things that might be grabbed by someone in an argument</Clue>
+      <Clue Row="9" Col="14" Num="57" Dir="Down" Ans="UMP">Authority on diamonds?</Clue>
+      <Clue Row="9" Col="19" Num="58" Dir="Down" Ans="PROBITY">Uprightness</Clue>
+      <Clue Row="9" Col="20" Num="59" Dir="Down" Ans="ART">With 55-Across, big sleepover</Clue>
+      <Clue Row="9" Col="21" Num="60" Dir="Down" Ans="YRS">What mos. and mos. add up to</Clue>
+      <Clue Row="10" Col="11" Num="63" Dir="Down" Ans="CRU">French vineyard</Clue>
+      <Clue Row="11" Col="1" Num="66" Dir="Down" Ans="IMP">Devilkin</Clue>
+      <Clue Row="11" Col="2" Num="67" Dir="Down" Ans="CUR">Apt rhyme for "grr"</Clue>
+      <Clue Row="11" Col="6" Num="68" Dir="Down" Ans="NOONE">Everybody's opposite</Clue>
+      <Clue Row="11" Col="7" Num="69" Dir="Down" Ans="AFLERS">New York Titans and Dallas Texans, in '60s sports</Clue>
+      <Clue Row="11" Col="8" Num="70" Dir="Down" Ans="MIO">Mine, in Milano</Clue>
+      <Clue Row="11" Col="12" Num="71" Dir="Down" Ans="OSAGES">Plains tribe</Clue>
+      <Clue Row="11" Col="18" Num="72" Dir="Down" Ans="LOTUSEATERS">Lackadaisical sorts</Clue>
+      <Clue Row="12" Col="5" Num="74" Dir="Down" Ans="SCOTS">Glaswegians, e.g.</Clue>
+      <Clue Row="12" Col="17" Num="76" Dir="Down" Ans="JUT">Protrude</Clue>
+      <Clue Row="13" Col="4" Num="78" Dir="Down" Ans="MARY">With 77-Across, red, blue and yellow</Clue>
+      <Clue Row="13" Col="10" Num="79" Dir="Down" Ans="SEEIN">Welcome at the front door</Clue>
+      <Clue Row="13" Col="14" Num="81" Dir="Down" Ans="POE">"The Oblong Box" writer</Clue>
+      <Clue Row="13" Col="15" Num="82" Dir="Down" Ans="ENDOR">Witch's home</Clue>
+      <Clue Row="13" Col="20" Num="84" Dir="Down" Ans="CON">Against</Clue>
+      <Clue Row="13" Col="21" Num="85" Dir="Down" Ans="ARC">Electrical connection?</Clue>
+      <Clue Row="14" Col="11" Num="88" Dir="Down" Ans="GREASIER">Like fried food vis-à-vis grilled food, typically</Clue>
+      <Clue Row="15" Col="2" Num="90" Dir="Down" Ans="POEHLER">Fey's co-star in "Baby Mama" and "Sisters"</Clue>
+      <Clue Row="15" Col="3" Num="91" Dir="Down" Ans="ONEOCAT">Simple variant of baseball</Clue>
+      <Clue Row="15" Col="9" Num="92" Dir="Down" Ans="PRES">Part of Potus: Abbr.</Clue>
+      <Clue Row="15" Col="16" Num="94" Dir="Down" Ans="UNLEARN">Break, as a habit</Clue>
+      <Clue Row="16" Col="1" Num="96" Dir="Down" Ans="TDPASS">QB's feat</Clue>
+      <Clue Row="16" Col="8" Num="98" Dir="Down" Ans="EGRESS">Way out</Clue>
+      <Clue Row="16" Col="17" Num="100" Dir="Down" Ans="CYL">Three-dimensional fig.</Clue>
+      <Clue Row="17" Col="13" Num="103" Dir="Down" Ans="ERODE">Wear down</Clue>
+      <Clue Row="17" Col="14" Num="104" Dir="Down" Ans="AIRES">Buenos ___</Clue>
+      <Clue Row="17" Col="19" Num="105" Dir="Down" Ans="MORAL">End of story?</Clue>
+      <Clue Row="17" Col="20" Num="106" Dir="Down" Ans="ERICA">With 103-Across, simple furniture style</Clue>
+      <Clue Row="17" Col="21" Num="107" Dir="Down" Ans="NONET">Schubert's "Eine Kleine Trauermusik," e.g.</Clue>
+      <Clue Row="18" Col="4" Num="109" Dir="Down" Ans="NALA">Lion queen in "The Lion King"</Clue>
+      <Clue Row="18" Col="5" Num="110" Dir="Down" Ans="EPI">Prefix with dermis</Clue>
+      <Clue Row="18" Col="6" Num="111" Dir="Down" Ans="MOOR">Anchor</Clue>
+      <Clue Row="18" Col="7" Num="112" Dir="Down" Ans="ANNE">With 108-Across, not talking loudly on a cell, e.g.</Clue>
+      <Clue Row="18" Col="12" Num="114" Dir="Down" Ans="ANDI">"The King ___"</Clue>
+      <Clue Row="19" Col="10" Num="117" Dir="Down" Ans="MRT">"D.C. Cab" co-star</Clue>
+      <Clue Row="19" Col="15" Num="118" Dir="Down" Ans="CEO">Board hiree, for short</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>I find it incredibly frustrating when I can&#39;t figure out a theme until late in the game, so the payoff has to be worth it. Definitely the case today! Elizabeth is a NAME DROPPER, hanging names off the bottoms of phrases &hellip; and doing so in a way that forms a kooky phrase!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Mattress" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Shifman_Mattress_Set.JPG/600px-Shifman_Mattress_Set.JPG" style="border:1px solid lightgray; float:left; height:137px; margin:6px 12px 6px 0px; width:219px" title="That's my kind of job!" /></a></p>
+
+<p>EARLY AM(ERICA)N is a perfect example. EARLY AMEN is amusing, creating an image of a person wishing and praying for church to end. And what a neat find, ERICA in there, with AM(ERICA)N forming AMEN. Very cool.</p>
+
+<p>I love it when a puzzle leaves me with a &quot;how&#39;d the author come up with all of those?&quot; feeling. I imagine it was simply a matter of putting in the time, searching for words that work in this special way, and figuring out what phrases fit with those words. Still, it seems a bit magical that Elizabeth found so many good ones.</p>
+
+<p>I mean, SLUMBER PAY as a fee for testing mattresses is funny. And SLUMBER P(ART)Y as a base phrase is great!</p>
+
+<p>The cross-referencing was necessary, but it sure did increase my grumbling for those first 15 minutes of my solve. There&#39;s not much I like less than being forced to jump around, searching for a particular number. This is a crossword, not a number search, goldarnit! But again, the payoff was worth it.</p>
+
+<p>Also worth it was the grid execution. Granted, Elizabeth went to 144 words, four past the usual max, but with so many pairs of intersecting themers, it was likely necessary. I didn&#39;t even mind, considering she still gave some bonuses in EXTRA VIRGIN, LOTUS EATERS, SEA LIONS, LIT A FIRE, even the fun PROBITY.</p>
+
+<p>I&#39;d love to see Will change his spec sheet to &quot;max 140 words for a Sunday ... except if the theme complexity warrants 144.&quot; There was still a good amount of HIER, CYL, SRTA, etc. kind of stuff, but a tad less than we usually see (in spades) in Sunday puzzles. Not having to slog through a ton of gunk is a fantastic thing.</p>
+
+<p>I considered this for the POW!, given the neat concept and great finds. If only there hadn&#39;t been *quite* as much frustration in my first 15 minutes &hellip;</p>]]></JeffNotes>
+  </Puzzle>
+</Puzzles>

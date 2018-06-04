@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Friday, March 9, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/9/2018 at 7:21 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Fri, Mar 09, 2018</Title>
+    <Author>Neville Fogarty and Doug Peterson</Author>
+    <CanonicalNames>
+      <Constructor>Neville Fogarty</Constructor>
+      <Constructor>Doug Peterson</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/9/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>RATPACK..NBAJAM</Row>
+      <Row>EURASIAN.YESIDO</Row>
+      <Row>ABUDHABI.SEWNON</Row>
+      <Row>PAIR.OLGA.NAGAT</Row>
+      <Row>EDSEL.OHMS.NONA</Row>
+      <Row>REM.EXOTICA.INN</Row>
+      <Row>...HAREM.RUSSIA</Row>
+      <Row>.ONEDAYATATIME.</Row>
+      <Row>GROMIT.RAPID...</Row>
+      <Row>ADS.NEMESES.PAC</Row>
+      <Row>NELL.DAFT.MARSH</Row>
+      <Row>GROAN.SUEZ.ROSA</Row>
+      <Row>SOUPED.EBENEZER</Row>
+      <Row>TUCSON.LUKEWARM</Row>
+      <Row>ATHENA..DETECTS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="RATPACK">Group in the original "Ocean's 11"</Clue>
+      <Clue Row="1" Col="10" Num="8" Dir="Across" Ans="NBAJAM">Classic arcade game with lots of shooting</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="EURASIAN">Like Istanbul</Clue>
+      <Clue Row="2" Col="10" Num="16" Dir="Across" Ans="YESIDO">Emphatic admission</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="ABUDHABI">First world capital, alphabetically</Clue>
+      <Clue Row="3" Col="10" Num="18" Dir="Across" Ans="SEWNON">Like clothes buttons, generally</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="PAIR">Unexciting poker holding</Clue>
+      <Clue Row="4" Col="6" Num="20" Dir="Across" Ans="OLGA">2008 Bond girl Kurylenko</Clue>
+      <Clue Row="4" Col="11" Num="22" Dir="Across" Ans="NAGAT">Bedevil</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Across" Ans="EDSEL">Car once promoted with the line "The thrill starts with the grille"</Clue>
+      <Clue Row="5" Col="7" Num="25" Dir="Across" Ans="OHMS">Speaker units</Clue>
+      <Clue Row="5" Col="12" Num="27" Dir="Across" Ans="NONA">Prefix with -gon</Clue>
+      <Clue Row="6" Col="1" Num="28" Dir="Across" Ans="REM">Nocturnal acronym</Clue>
+      <Clue Row="6" Col="5" Num="29" Dir="Across" Ans="EXOTICA">Strange things</Clue>
+      <Clue Row="6" Col="13" Num="32" Dir="Across" Ans="INN">Super 8, e.g.</Clue>
+      <Clue Row="7" Col="4" Num="33" Dir="Across" Ans="HAREM">Group of female seals</Clue>
+      <Clue Row="7" Col="10" Num="34" Dir="Across" Ans="RUSSIA">Powerhouse in Olympic weightlifting</Clue>
+      <Clue Row="8" Col="2" Num="36" Dir="Across" Ans="ONEDAYATATIME">Gradually</Clue>
+      <Clue Row="9" Col="1" Num="39" Dir="Across" Ans="GROMIT">Animated character who graduated from Dogwarts University</Clue>
+      <Clue Row="9" Col="8" Num="40" Dir="Across" Ans="RAPID">The "R" of 28-Across</Clue>
+      <Clue Row="10" Col="1" Num="41" Dir="Across" Ans="ADS">Circular parts</Clue>
+      <Clue Row="10" Col="5" Num="42" Dir="Across" Ans="NEMESES">Formidable opponents</Clue>
+      <Clue Row="10" Col="13" Num="44" Dir="Across" Ans="PAC">Campaign aid</Clue>
+      <Clue Row="11" Col="1" Num="47" Dir="Across" Ans="NELL">"The Old Curiosity Shop" girl</Clue>
+      <Clue Row="11" Col="6" Num="49" Dir="Across" Ans="DAFT">Touched</Clue>
+      <Clue Row="11" Col="11" Num="50" Dir="Across" Ans="MARSH">Rail center?</Clue>
+      <Clue Row="12" Col="1" Num="52" Dir="Across" Ans="GROAN">Express stress, in a way</Clue>
+      <Clue Row="12" Col="7" Num="54" Dir="Across" Ans="SUEZ">Gulf of ___</Clue>
+      <Clue Row="12" Col="12" Num="56" Dir="Across" Ans="ROSA">Santa ___, Calif.</Clue>
+      <Clue Row="13" Col="1" Num="57" Dir="Across" Ans="SOUPED">Juiced (up)</Clue>
+      <Clue Row="13" Col="8" Num="59" Dir="Across" Ans="EBENEZER">Jacob's partner in "A Christmas Carol"</Clue>
+      <Clue Row="14" Col="1" Num="61" Dir="Across" Ans="TUCSON">City nicknamed "The Old Pueblo"</Clue>
+      <Clue Row="14" Col="8" Num="62" Dir="Across" Ans="LUKEWARM">So-so, as support</Clue>
+      <Clue Row="15" Col="1" Num="63" Dir="Across" Ans="ATHENA">Acropolis figure</Clue>
+      <Clue Row="15" Col="9" Num="64" Dir="Across" Ans="DETECTS">Spots</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="REAPER">One going against the grain?</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="AUBADE">Poem greeting the dawn</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="TRUISM">"What's past is past," e.g.</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="PADRE">Giant competitor</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="ASH">Last name of cosmetics giant Mary Kay</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="CIAO">"See ya"</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="KABLOOEY">Bad way to go</Clue>
+      <Clue Row="1" Col="10" Num="8" Dir="Down" Ans="NYS">Buffalo's home: Abbr.</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="BEEN">Has-___</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="ASWAN">Source of stone used to build the ancient Egyptian pyramids</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="JINGOISM">Flag-waving and such</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="ADOANNIE">Musical "girl who cain't say no"</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="MONTANA">Joe known as "The Comeback Kid"</Clue>
+      <Clue Row="2" Col="8" Num="15" Dir="Down" Ans="NIGHTMAREFUEL">Cause of bad dreams, in modern lingo</Clue>
+      <Clue Row="4" Col="9" Num="21" Dir="Down" Ans="AMI">Follower of bon or mon</Clue>
+      <Clue Row="5" Col="5" Num="24" Dir="Down" Ans="LEADIN">Show immediately preceding another</Clue>
+      <Clue Row="5" Col="10" Num="26" Dir="Down" Ans="SCRAPE">Scuffle</Clue>
+      <Clue Row="6" Col="6" Num="30" Dir="Down" Ans="XRATED">For adults only</Clue>
+      <Clue Row="6" Col="11" Num="31" Dir="Down" Ans="AUTISM">Special-education challenge</Clue>
+      <Clue Row="7" Col="4" Num="33" Dir="Down" Ans="HEM">Bottom line?</Clue>
+      <Clue Row="7" Col="12" Num="35" Dir="Down" Ans="SID">Tom Sawyer's half brother</Clue>
+      <Clue Row="8" Col="2" Num="36" Dir="Down" Ans="ORDEROUT">Request for food delivery</Clue>
+      <Clue Row="8" Col="3" Num="37" Dir="Down" Ans="NOSLOUCH">Someone who's pretty darn good</Clue>
+      <Clue Row="8" Col="9" Num="38" Dir="Down" Ans="TASTEBUD">It could be on the tip of your tongue</Clue>
+      <Clue Row="9" Col="1" Num="39" Dir="Down" Ans="GANGSTA">___ rap</Clue>
+      <Clue Row="10" Col="7" Num="43" Dir="Down" Ans="MAS">More, in México</Clue>
+      <Clue Row="10" Col="13" Num="44" Dir="Down" Ans="PROZAC">O.C.D. fighter, maybe</Clue>
+      <Clue Row="10" Col="14" Num="45" Dir="Down" Ans="ASSERT">Put forth</Clue>
+      <Clue Row="10" Col="15" Num="46" Dir="Down" Ans="CHARMS">Enamors</Clue>
+      <Clue Row="11" Col="4" Num="48" Dir="Down" Ans="LAPSE">Small slip</Clue>
+      <Clue Row="11" Col="12" Num="51" Dir="Down" Ans="AREWE">"___ done now?"</Clue>
+      <Clue Row="12" Col="5" Num="53" Dir="Down" Ans="NEON">Superbright</Clue>
+      <Clue Row="12" Col="10" Num="55" Dir="Down" Ans="ZEKE">"The Wizard of Oz" farmhand</Clue>
+      <Clue Row="13" Col="6" Num="58" Dir="Down" Ans="DNA">Helicases split it</Clue>
+      <Clue Row="13" Col="11" Num="60" Dir="Down" Ans="NET">Court divider</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>I wasn&#39;t familiar with the term NIGHTMARE FUEL, but that&#39;s a good phrase to learn. Sounds like something straight out of &quot;Monsters, Inc.&quot;! Maybe I&#39;m not familiar with the term because researching what it meant crEEEEPED ME OUT SPIDERS AND BEDBUGS AND ICK!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Wallace_and_Gromit" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/e/ec/Wallace_and_gromit.jpg" style="border:1px solid lightgray; float:right; height:164px; margin:6px 0px 6px 12px; width:220px" title="Cheese, Gromit!" /></a></p>
+
+<p>All shuddering aside, the phrase-that-shall-remain-unspoken crossing ONE DAY AT A TIME made for a solid spine to the puzzle. Love KABLOOEY too, although I confidently plunked in KABLOOIE. Either makes for a happy Jeff &ndash; such a funny word.</p>
+
+<p>Themelesses built off of interlocking central spines can be tough, because each of the usual stacks of long entries now has to work with those spines. I thought Neville and Doug did a nice job with the NW, getting RAT PACK, EURASIAN, and ABU DHABI intersecting with KABLOOEY / NIGHTMARE FUEL. Solid result.</p>
+
+<p>A bit of wastage in the other long slots though, in ORDER OUT and DETECTS (not super interesting), ADO ANNIE (from &hellip; &quot;Oklahoma!&quot;?), and even MONTANA. As much as I love #16 &ndash; tons of great memories watching the Niners as a kid &ndash; just a last name isn&#39;t nearly as great as working in the full JOE MONTANA. It&#39;s pretty common to have some LUKEWARM long entries in themelesses built off intersecting spines.</p>
+
+<p>I appreciated that the short fill did its job, mostly staying out of the way (ARE WE, I see you). And even chipping in, with a great clue for EDSEL &ndash; &quot;The thrill starts with the grille&quot; is an awesome way to add color to a puzzle.</p>
+
+<p>And finally, the mid-length stuff helped raise the puzzle&#39;s impact for me, NBA JAM a favorite of my youth. Along with GROMIT (cheese!), EXOTICA, a TRUISM, and some PROZAC, the mid-length fill was in many ways the star of the show.</p>
+
+<p>A lot to enjoy out of this one. If more of the longer slots had sizzled, this would have been in POW! contention.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>We&#39;re both big fans of the Golden Age of Television, so we racked our brains to find some way to sneak a classic TV reference into this puzzle. Should we use <em>Simon &amp; Simon</em> or <em>Riptide</em> in the DETECTS clue? How about the &quot;L&quot; monograms that were SEWN ON all of Laverne DeFazio&#39;s tops? We could&#39;ve asked which cop show was the LEAD-IN to <em>The Love Boat</em> for four seasons. (<em>T.J. Hooker</em>. Duh.) Or maybe a shoutout to our favorite NEMESES, Jo and Blair from the <em>Facts of Life</em>. In the end, we decided there was simply no elegant way to refer to a &#39;70s-&#39;80s sitcom that ran for 9 seasons on CBS and was recently rebooted as a successful Netflix series. Maybe next puzzle!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

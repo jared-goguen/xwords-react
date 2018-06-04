@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Monday, February 19, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 2/18/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Mon, Feb 19, 2018</Title>
+    <Author>Bruce Haight</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>2/19/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>HEMS.ELMO.BALDS</Row>
+      <Row>AVEC.MEAL.CLARK</Row>
+      <Row>LIFEGUARD.CASEY</Row>
+      <Row>FLINT.PLEA..CAL</Row>
+      <Row>WEREON.ANDSOAMI</Row>
+      <Row>AYS.SEA..SADLOT</Row>
+      <Row>YETI.LIES.LOAN.</Row>
+      <Row>...FILMLOVER...</Row>
+      <Row>.SHOD.SIRI.SHEL</Row>
+      <Row>GOALIE..TEM.OVA</Row>
+      <Row>HANDGRIP.WESLEY</Row>
+      <Row>OKS..AMOS.RHINE</Row>
+      <Row>USOFA.POLICEDOG</Row>
+      <Row>LULUS.ELAN.BANG</Row>
+      <Row>SPORK.ISMS.AYES</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="HEMS">Skirt bottoms</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="ELMO">Ticklish Muppet</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Across" Ans="BALDS">Gets thin on top</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="AVEC">With: Fr.</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="MEAL">Banquet</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Across" Ans="CLARK">Lewis and ___ Expedition</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="LIFEGUARD">GARFIELD + U = Beach V.I.P.</Clue>
+      <Clue Row="3" Col="11" Num="19" Dir="Across" Ans="CASEY">"___ at the Bat"</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="FLINT">City NW of Detroit</Clue>
+      <Clue Row="4" Col="7" Num="21" Dir="Across" Ans="PLEA">"Help me, Obi-Wan Kenobi," e.g.</Clue>
+      <Clue Row="4" Col="13" Num="23" Dir="Across" Ans="CAL">Home for Nixon and Reagan: Abbr.</Clue>
+      <Clue Row="5" Col="1" Num="24" Dir="Across" Ans="WEREON">"It's a date!"</Clue>
+      <Clue Row="5" Col="8" Num="26" Dir="Across" Ans="ANDSOAMI">MADISON + A = "Me, too!"</Clue>
+      <Clue Row="6" Col="1" Num="29" Dir="Across" Ans="AYS">Shakespearean cries</Clue>
+      <Clue Row="6" Col="5" Num="30" Dir="Across" Ans="SEA">Bounding main</Clue>
+      <Clue Row="6" Col="10" Num="32" Dir="Across" Ans="SADLOT">Pathetic group</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Across" Ans="YETI">Mysterious sighting in the Himalayas</Clue>
+      <Clue Row="7" Col="6" Num="35" Dir="Across" Ans="LIES">Some rulings on PolitiFact</Clue>
+      <Clue Row="7" Col="11" Num="38" Dir="Across" Ans="LOAN">Mortgage, e.g.</Clue>
+      <Clue Row="8" Col="4" Num="39" Dir="Across" Ans="FILMLOVER">FILLMORE + V = Movie buff</Clue>
+      <Clue Row="9" Col="2" Num="42" Dir="Across" Ans="SHOD">Like racehorses' feet</Clue>
+      <Clue Row="9" Col="7" Num="44" Dir="Across" Ans="SIRI">Who asks "What can I help you with?" on an iPhone</Clue>
+      <Clue Row="9" Col="12" Num="45" Dir="Across" Ans="SHEL">Author Silverstein</Clue>
+      <Clue Row="10" Col="1" Num="49" Dir="Across" Ans="GOALIE">Soccer blocker</Clue>
+      <Clue Row="10" Col="9" Num="51" Dir="Across" Ans="TEM">President pro ___</Clue>
+      <Clue Row="10" Col="13" Num="53" Dir="Across" Ans="OVA">Lab eggs</Clue>
+      <Clue Row="11" Col="1" Num="54" Dir="Across" Ans="HANDGRIP">HARDING + P = Squeezable exercise tool</Clue>
+      <Clue Row="11" Col="10" Num="57" Dir="Across" Ans="WESLEY">Actor Snipes of "White Men Can't Jump"</Clue>
+      <Clue Row="12" Col="1" Num="59" Dir="Across" Ans="OKS">Approves</Clue>
+      <Clue Row="12" Col="6" Num="60" Dir="Across" Ans="AMOS">Famous ___ cookies</Clue>
+      <Clue Row="12" Col="11" Num="62" Dir="Across" Ans="RHINE">River of Cologne</Clue>
+      <Clue Row="13" Col="1" Num="63" Dir="Across" Ans="USOFA">Uncle Sam's land, for short</Clue>
+      <Clue Row="13" Col="7" Num="66" Dir="Across" Ans="POLICEDOG">COOLIDGE + P = Narc's four-footed helper</Clue>
+      <Clue Row="14" Col="1" Num="68" Dir="Across" Ans="LULUS">Humdingers</Clue>
+      <Clue Row="14" Col="7" Num="69" Dir="Across" Ans="ELAN">Panache</Clue>
+      <Clue Row="14" Col="12" Num="70" Dir="Across" Ans="BANG">Pistol sound</Clue>
+      <Clue Row="15" Col="1" Num="71" Dir="Across" Ans="SPORK">Hybrid picnic utensil</Clue>
+      <Clue Row="15" Col="7" Num="72" Dir="Across" Ans="ISMS">Philosophies</Clue>
+      <Clue Row="15" Col="12" Num="73" Dir="Across" Ans="AYES">First half of a Senate vote</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="HALFWAY">Two-year mark, in a presidential term</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="EVILEYE">Wicked look</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="MEFIRST">Egoistic demand</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="SCENE">National Mall, for a presidential inauguration</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="EMU">Six-foot bird</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="LEAP">___ years (when presidents are elected)</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="MARLA">Maples formerly married to Donald Trump</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="OLDEN">Like the days of yore</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="BCC">Send covertly, as an email</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="ALA">Leader in a state roll call: Abbr.</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="LASCALA">Milan opera house</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="DREAMON">"You wish!"</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="SKYLIT">Like atria</Clue>
+      <Clue Row="3" Col="5" Num="18" Dir="Down" Ans="GTOS">Onetime Pontiac muscle cars</Clue>
+      <Clue Row="4" Col="10" Num="22" Dir="Down" Ans="ADS">What a majority of campaign spending goes toward</Clue>
+      <Clue Row="5" Col="6" Num="25" Dir="Down" Ans="NELL">Dickens's Little ___</Clue>
+      <Clue Row="5" Col="11" Num="27" Dir="Down" Ans="SALE">Store sign on Presidents' Day</Clue>
+      <Clue Row="5" Col="12" Num="28" Dir="Down" Ans="ODORS">Aromas</Clue>
+      <Clue Row="6" Col="7" Num="31" Dir="Down" Ans="AIMS">Gets ready to shoot</Clue>
+      <Clue Row="7" Col="4" Num="34" Dir="Down" Ans="IFOLD">"Too rich for my blood"</Clue>
+      <Clue Row="7" Col="8" Num="36" Dir="Down" Ans="ELI">QB Manning</Clue>
+      <Clue Row="7" Col="9" Num="37" Dir="Down" Ans="SORT">Separate, as whites from colors</Clue>
+      <Clue Row="8" Col="5" Num="40" Dir="Down" Ans="IDIG">"Got it!," beatnik-style</Clue>
+      <Clue Row="8" Col="10" Num="41" Dir="Down" Ans="VIEW">ABC show on weekday mornings, with "The"</Clue>
+      <Clue Row="9" Col="2" Num="42" Dir="Down" Ans="SOAKSUP">Absorbs</Clue>
+      <Clue Row="9" Col="3" Num="43" Dir="Down" Ans="HANSOLO">"Star Wars" pilot</Clue>
+      <Clue Row="9" Col="13" Num="46" Dir="Down" Ans="HOLIDAY">There's one to honor presidents every February</Clue>
+      <Clue Row="9" Col="14" Num="47" Dir="Down" Ans="EVENONE">The slightest amount</Clue>
+      <Clue Row="9" Col="15" Num="48" Dir="Down" Ans="LAYEGGS">What hens do</Clue>
+      <Clue Row="10" Col="1" Num="49" Dir="Down" Ans="GHOULS">Grave robbers</Clue>
+      <Clue Row="10" Col="6" Num="50" Dir="Down" Ans="ERA">Word after many presidents' names</Clue>
+      <Clue Row="10" Col="11" Num="52" Dir="Down" Ans="MERC">Bygone Ford make, briefly</Clue>
+      <Clue Row="11" Col="7" Num="55" Dir="Down" Ans="IMPEI">Celebrated Chinese-born architect</Clue>
+      <Clue Row="11" Col="8" Num="56" Dir="Down" Ans="POOLS">Diving venues</Clue>
+      <Clue Row="11" Col="12" Num="58" Dir="Down" Ans="SHEBA">Queen of ___ (visitor of King Solomon, in the Bible)</Clue>
+      <Clue Row="12" Col="9" Num="61" Dir="Down" Ans="SLAM">Poetry competition</Clue>
+      <Clue Row="13" Col="4" Num="64" Dir="Down" Ans="FUR">Mink or sable</Clue>
+      <Clue Row="13" Col="5" Num="65" Dir="Down" Ans="ASK">Query</Clue>
+      <Clue Row="13" Col="10" Num="67" Dir="Down" Ans="INS">Political connections</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>It&#39;s the second time around for Bruce&#39;s &quot;+letter then anagram&quot; concept, and I still don&#39;t get it. I mean, I get it &ndash; toss in a random letter along with a word and anagram to form a valid phrase &ndash; but why? It feels related to &quot;randomgramming,&quot; a term constructors use, meaning &quot;jumble up the letters because REASONS, that&#39;s why.&quot; So, same qualms as last time.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Police_dog" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/WI_Police_Dog.jpg/440px-WI_Police_Dog.jpg" style="border:none; float:left; height:204px; margin:6px 12px 6px 0px; width:220px" title="Can I see your badge, sir?" /></a></p>
+
+<p>How awesome would it have been for the extra letters to spell out US OF A! I think this might be a real possibility. But looking through combinations of 44 different presidents x 26 extra letters is not something I&#39;m willing to do just to answer that question.</p>
+
+<p>Anyhoo, one aspect of Bruce&#39;s gridwork I&#39;m digging these days is his usage of seven-letter slots. Often, these get filled with neutral stuff, placeholders that solvers skim over as they go. But ME FIRST / EVIL EYE, LA SCALA / DREAM ON, HAN SOLO &mdash; that&#39;s a ton of great mid-length bonus material!</p>
+
+<p>It does come at a small price, with a bit of AYS, BALDS (odd verb usage) to make those corners work. Totally worth the cost.</p>
+
+<p>I wish there had at least been more time between Bruce&#39;s states + letter randomgramming puzzle and this one. The first time at least felt unique. To get another instance so quickly, with no real change in ideology, wasn&#39;t great.</p>
+
+<p>Still, what is great is the phrase POLICE DOG. Love it. And I&#39;ll go ahead and choose to believe that GARFIELD (plus you, or U) were both LIFEGUARDs.</p>
+
+<p>Or something like that.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>I did an <a href="https://www.xwordinfo.com/Crossword?date=5/16/2017">anagrams +1 puzzle on 5/16/17 with state names</a>, so I decided to try one with president&#39;s names. There are some sites online that do this kind of thing, but most of them only give you single word anagrams &mdash; it took me quite a bit of digging to find multiple word phrase options.</p>
+
+<p>My submitted puzzle had IMPEL at 55-Down and LSTS at 72-Across. I think that latter entry did not sit well with the editors because they were willing to put I.M. PEI in there even on a Monday to get rid of it. I still think every entry in the puzzle is reasonable for a Monday.</p>
+
+<p>I remember getting all done and realizing I had FORD in the grid &mdash; ouch &mdash; I found out that even when you know he needs to go, it&#39;s sometimes not that easy to remove a president!</p>
+
+<p>Last time one of the reviewers (Jeff Chen) dinged me for not finding added letters that spelled something interesting. This time I went all out and came up with add-on letters (U,A,V,P,P) that anagram to &quot;V.A. pup&quot;, which is of course closely related to a POLICE DOG. For some reason, Will left that piece of info out of the cluing...</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Wednesday, January 24, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/24/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Wed, Jan 24, 2018</Title>
+    <Author>Kathy Wienberg</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/24/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>ASPS.DIM..DRWHO</Row>
+      <Row>SIRE.ITAL.AAHED</Row>
+      <Row>AXIL.SCREENTIME</Row>
+      <Row>MAMMOTHCAVEAT..</Row>
+      <Row>IMPALA.EPI..EMU</Row>
+      <Row>....ESTATECARAT</Row>
+      <Row>BUSH.TAU..UPONE</Row>
+      <Row>ANTIGEN.STEPSIN</Row>
+      <Row>TIARA..EUR.SEAN</Row>
+      <Row>HONEYCOMBAT....</Row>
+      <Row>END..ORB.METALS</Row>
+      <Row>..FORWARDPASSAT</Row>
+      <Row>PIANOSTOOL.ACRE</Row>
+      <Row>ROSIN.EIRE.ROVE</Row>
+      <Row>OUTTA..LAD.STAR</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="ASPS">Menaces that name other menaces if you put a "w" at the start</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="DIM">Darken</Clue>
+      <Clue Row="1" Col="11" Num="8" Dir="Across" Ans="DRWHO">BBC sci-fi series, informally</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Across" Ans="SIRE">"Your Majesty"</Clue>
+      <Clue Row="2" Col="6" Num="14" Dir="Across" Ans="ITAL">It leans right: Abbr.</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Across" Ans="AAHED">Sounded satisfied</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="AXIL">Angle between a leafstalk and a stem</Clue>
+      <Clue Row="3" Col="6" Num="18" Dir="Across" Ans="SCREENTIME">Subject of a parent's restriction for a child</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="MAMMOTHCAVEAT">Big "but"?</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="IMPALA">Chevy sedan</Clue>
+      <Clue Row="5" Col="8" Num="23" Dir="Across" Ans="EPI">Prefix with dermis</Clue>
+      <Clue Row="5" Col="13" Num="24" Dir="Across" Ans="EMU">Member of a crossword zoo?</Clue>
+      <Clue Row="6" Col="5" Num="27" Dir="Across" Ans="ESTATECARAT">Small diamond handed down to an heir?</Clue>
+      <Clue Row="7" Col="1" Num="31" Dir="Across" Ans="BUSH">Number 41 or 43</Clue>
+      <Clue Row="7" Col="6" Num="35" Dir="Across" Ans="TAU">Cross shape</Clue>
+      <Clue Row="7" Col="11" Num="36" Dir="Across" Ans="UPONE">Barely leading</Clue>
+      <Clue Row="8" Col="1" Num="37" Dir="Across" Ans="ANTIGEN">Immune response trigger</Clue>
+      <Clue Row="8" Col="9" Num="39" Dir="Across" Ans="STEPSIN">Takes over (for)</Clue>
+      <Clue Row="9" Col="1" Num="41" Dir="Across" Ans="TIARA">Pageant prize</Clue>
+      <Clue Row="9" Col="8" Num="42" Dir="Across" Ans="EUR">Single market locale: Abbr.</Clue>
+      <Clue Row="9" Col="12" Num="43" Dir="Across" Ans="SEAN">Son of John and Yoko</Clue>
+      <Clue Row="10" Col="1" Num="44" Dir="Across" Ans="HONEYCOMBAT">Fight between two lovers?</Clue>
+      <Clue Row="11" Col="1" Num="48" Dir="Across" Ans="END">Goal</Clue>
+      <Clue Row="11" Col="6" Num="49" Dir="Across" Ans="ORB">Scepter go-with</Clue>
+      <Clue Row="11" Col="10" Num="50" Dir="Across" Ans="METALS">Elements with names ending in -ium, typically</Clue>
+      <Clue Row="12" Col="3" Num="55" Dir="Across" Ans="FORWARDPASSAT">Futuristic Volkswagen?</Clue>
+      <Clue Row="13" Col="1" Num="59" Dir="Across" Ans="PIANOSTOOL">Seat for a ragtime player</Clue>
+      <Clue Row="13" Col="12" Num="61" Dir="Across" Ans="ACRE">Amount of land a pair of oxen could plow in a day, historically</Clue>
+      <Clue Row="14" Col="1" Num="62" Dir="Across" Ans="ROSIN">Pitcher's aid</Clue>
+      <Clue Row="14" Col="7" Num="63" Dir="Across" Ans="EIRE">Where a brogue is spoken</Clue>
+      <Clue Row="14" Col="12" Num="64" Dir="Across" Ans="ROVE">Wander</Clue>
+      <Clue Row="15" Col="1" Num="65" Dir="Across" Ans="OUTTA">"Straight ___ Compton"</Clue>
+      <Clue Row="15" Col="8" Num="66" Dir="Across" Ans="LAD">Fella</Clue>
+      <Clue Row="15" Col="12" Num="67" Dir="Across" Ans="STAR">Symbol in the middle of a Scrabble board</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="ASAMI">"Likewise"</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="SIXAM">It comes a quarter of the way into the day</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="PRIMP">Prettify</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="SELMA">John Lewis march site</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="DISTASTE">Aversion</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="ITCH">What an oatmeal bath alleviates</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="MARCEAU">Marcel of few words</Clue>
+      <Clue Row="1" Col="11" Num="8" Dir="Down" Ans="DANE">Someone for whom "Thank you very much" is "Mange tak"</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Down" Ans="RATA">See 59-Down</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="WHITEROSE">Popular wedding flower</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="HEM">Fashion line?</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="ODE">Poetic praise</Clue>
+      <Clue Row="2" Col="9" Num="15" Dir="Down" Ans="LEAPT">Sprang</Clue>
+      <Clue Row="3" Col="10" Num="19" Dir="Down" Ans="EVIE">Christian singer Tornquist</Clue>
+      <Clue Row="4" Col="5" Num="21" Dir="Down" Ans="OLE">Good ___ days</Clue>
+      <Clue Row="5" Col="14" Num="25" Dir="Down" Ans="MANIA">Fad x 10</Clue>
+      <Clue Row="5" Col="15" Num="26" Dir="Down" Ans="UTENN">Knoxville sch.</Clue>
+      <Clue Row="6" Col="7" Num="28" Dir="Down" Ans="TAN">Give a whupping</Clue>
+      <Clue Row="6" Col="11" Num="29" Dir="Down" Ans="CUE">"Psst, you're on," e.g.</Clue>
+      <Clue Row="6" Col="12" Num="30" Dir="Down" Ans="APPS">iPad purchases</Clue>
+      <Clue Row="7" Col="1" Num="31" Dir="Down" Ans="BATHE">Scrub in the tub</Clue>
+      <Clue Row="7" Col="2" Num="32" Dir="Down" Ans="UNION">State of the ___</Clue>
+      <Clue Row="7" Col="3" Num="33" Dir="Down" Ans="STANDFAST">Not budge</Clue>
+      <Clue Row="7" Col="4" Num="34" Dir="Down" Ans="HIRE">Charter</Clue>
+      <Clue Row="8" Col="5" Num="38" Dir="Down" Ans="GAY">Part of L.G.B.T.Q.</Clue>
+      <Clue Row="8" Col="9" Num="39" Dir="Down" Ans="SUB">Benchwarmer</Clue>
+      <Clue Row="8" Col="10" Num="40" Dir="Down" Ans="TRAMPLED">Ran roughshod over</Clue>
+      <Clue Row="9" Col="8" Num="42" Dir="Down" Ans="EMBROIL">Entangle</Clue>
+      <Clue Row="10" Col="6" Num="45" Dir="Down" Ans="COWS">Bullies</Clue>
+      <Clue Row="10" Col="7" Num="46" Dir="Down" Ans="ORATE">Use a soapbox</Clue>
+      <Clue Row="10" Col="11" Num="47" Dir="Down" Ans="TEA">Spot from a pot</Clue>
+      <Clue Row="11" Col="12" Num="51" Dir="Down" Ans="TSARS">Rulers before 1917</Clue>
+      <Clue Row="11" Col="13" Num="52" Dir="Down" Ans="ASCOT">Alternative to a four-in-hand</Clue>
+      <Clue Row="11" Col="14" Num="53" Dir="Down" Ans="LARVA">Pupa-to-be</Clue>
+      <Clue Row="11" Col="15" Num="54" Dir="Down" Ans="STEER">Herd member</Clue>
+      <Clue Row="12" Col="4" Num="56" Dir="Down" Ans="ONIT">Doing the job</Clue>
+      <Clue Row="12" Col="5" Num="57" Dir="Down" Ans="RONA">Jaffe who wrote "Mazes and Monsters"</Clue>
+      <Clue Row="12" Col="9" Num="58" Dir="Down" Ans="DORA">Toon explorer</Clue>
+      <Clue Row="13" Col="1" Num="59" Dir="Down" Ans="PRO">With 9-Down, according to share</Clue>
+      <Clue Row="13" Col="2" Num="60" Dir="Down" Ans="IOU">Slip in a pot</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Nice example of a standard theme type done well. Kathy adds AT to the ends of four themers, giving kooky results. MAMMOTH CAVE to MAMMOTH CAVEAT was amusing, as were most all of the transformations.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Mammoth" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mammuthus_trogontherii122DB.jpg/440px-Mammuthus_trogontherii122DB.jpg" style="border:1px solid lightgray; float:left; height:130px; margin:6px 12px 6px 0px; width:220px" title="That's one big butt! Er, but." /></a></p>
+
+<p>Sometimes people ask me to clarify what I mean by &quot;consistency.&quot; Today, Kathy adds AT to the very end of each theme answer. Consistency! She also makes sure that the pronunciation of the changed word gets a big change &mdash; CAR and CARAT are very different-sounding words, for example. Consistency!</p>
+
+<p>Two minor inconsistencies: 1.) HONEYCOMB is the only single word base phrase, and 2.) CAR is the only three-letter transformed word (the others are four). Realistically though, not many people will notice (or care) about this.</p>
+
+<p>We perfectionists are an annoying bunch.</p>
+
+<p>And ultimately, the most important aspect by far is whether or not a solver enjoys the theme. I think Kathy did well on that measure.</p>
+
+<p>Strong gridwork. I was particularly taken with how easily she worked in SCREEN TIME and WHITE ROSE without compromises. (U TENN seems to be in use, and I&#39;m a Doctor Who infidel who doesn&#39;t care if it&#39;s written that way or DR WHO. I know, I just lost all my nerd cred.)</p>
+
+<p>I did want to see a smoother NW corner. A 4x5 region like this, with a long themer and a mid-length entry (IMPALA) sticking out of it, is often tricky. SIX AM felt arbitrary to me, and AXIL &mdash; oof. These type of Maleskan words tend to turn off modern solvers in a big way. An extra black square at the I of IMPALA or the S of SELMA could have helped smooth things out.</p>
+
+<p>Even though this is a theme type that&#39;s been done over and over and over again, the interesting pronunciation changes and mostly strong execution resulted in a fun solve for me.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>I&#39;m excited to submit constructor notes for my &quot;At Issue&quot; puzzle because that means...I&#39;m published in The NY Times! The seed entry for this puzzle was CAVE(AT). After searching for other words that changed significantly in both meaning and pronunciation when AT was appended, I was surprised to find just five others (SAD and WOMB were the other two). So I thought I had a fairly tight theme and continued.</p>
+
+<p>My initial submission had BUMPER CARAT in the grid, but cluing it was problematic. I was asked to replace it and liven up the grid. Only about half my submitted clues survived the editing process. Will and team definitely polished a lot of clues. I thought my clue for MAMMOTH CAVEAT (Proviso about extinct elephants?) was pretty good, but theirs is much funnier.</p>
+
+<p>I enjoyed creating this puzzle and I hope you had fun solving it.</p>
+
+<p>Now for some long overdue props. More than 3 years ago my husband and I started constructing by hand. After several crash and burns, we reached out for help. Our mentor, whose family was expanding at the time, graciously found time to assist us. Not only did he offer advice and guidance, his optimism and creativity inspired us. We really enjoy constructing, and we have had over 20 puzzles accepted by 6 editors in the last 2 years. So Jeff, many thanks to the hardest working and nicest guy in the XWord world!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

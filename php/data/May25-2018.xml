@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Friday, May 25, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/24/2018 at 7:01 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Fri, May 25, 2018</Title>
+    <Author>Jeff Chen</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/25/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>IMSTUCK.DEEPFAT</Row>
+      <Row>HATESON.INDIANA</Row>
+      <Row>ONADARE.ADUNITS</Row>
+      <Row>PORN.SEALE.ERIE</Row>
+      <Row>.ABU.ELDER.SSN.</Row>
+      <Row>SMUG.TSARS.CHOW</Row>
+      <Row>HARE.......EAVE</Row>
+      <Row>UNSNARL.THANKED</Row>
+      <Row>NOTTRUE.HOSTELS</Row>
+      <Row>....TNT.ETC....</Row>
+      <Row>AHBLISS.VROOMED</Row>
+      <Row>NUCLEARFOOTBALL</Row>
+      <Row>DECO.TORIC.ACTI</Row>
+      <Row>EVES.ALACK.MOON</Row>
+      <Row>SODA.BLUES.ANNE</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="IMSTUCK">Frustrated solver's cry</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Across" Ans="DEEPFAT">Frying need for French fries</Clue>
+      <Clue Row="2" Col="1" Num="15" Dir="Across" Ans="HATESON">Verbally abuses, in slang</Clue>
+      <Clue Row="2" Col="9" Num="16" Dir="Across" Ans="INDIANA">So-called "Crossroads of America"</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="ONADARE">How bugs may be eaten</Clue>
+      <Clue Row="3" Col="9" Num="18" Dir="Across" Ans="ADUNITS">Marketing divisions</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="PORN">Steamy fare</Clue>
+      <Clue Row="4" Col="6" Num="20" Dir="Across" Ans="SEALE">Co-founder of the Black Panther Party</Clue>
+      <Clue Row="4" Col="12" Num="22" Dir="Across" Ans="ERIE">City north of Pittsburgh</Clue>
+      <Clue Row="5" Col="2" Num="23" Dir="Across" Ans="ABU">Son of : ibn :: father of : ___</Clue>
+      <Clue Row="5" Col="6" Num="24" Dir="Across" Ans="ELDER">Someone to respect</Clue>
+      <Clue Row="5" Col="12" Num="25" Dir="Across" Ans="SSN">Tax ID</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Across" Ans="SMUG">Overly pleased with oneself</Clue>
+      <Clue Row="6" Col="6" Num="27" Dir="Across" Ans="TSARS">Bulgaria's Simeon I and Simeon II</Clue>
+      <Clue Row="6" Col="12" Num="28" Dir="Across" Ans="CHOW">Grub</Clue>
+      <Clue Row="7" Col="1" Num="30" Dir="Across" Ans="HARE">"___ Today, Gone Tomorrow" ("Tiny Toon Adventures" episode)</Clue>
+      <Clue Row="7" Col="12" Num="31" Dir="Across" Ans="EAVE">Projected expense for a roofer?</Clue>
+      <Clue Row="8" Col="1" Num="32" Dir="Across" Ans="UNSNARL">Get straight, in a way</Clue>
+      <Clue Row="8" Col="9" Num="36" Dir="Across" Ans="THANKED">Gave recognition where recognition was due</Clue>
+      <Clue Row="9" Col="1" Num="39" Dir="Across" Ans="NOTTRUE">"Au contraire!"</Clue>
+      <Clue Row="9" Col="9" Num="40" Dir="Across" Ans="HOSTELS">Cheap accommodations</Clue>
+      <Clue Row="10" Col="5" Num="41" Dir="Across" Ans="TNT">1976 AC/DC single with the lyric "Watch me explode"</Clue>
+      <Clue Row="10" Col="9" Num="42" Dir="Across" Ans="ETC">"Yadda yadda yadda"</Clue>
+      <Clue Row="11" Col="1" Num="43" Dir="Across" Ans="AHBLISS">"Doesn't get any better than this!"</Clue>
+      <Clue Row="11" Col="9" Num="47" Dir="Across" Ans="VROOMED">Made loud noises on the road</Clue>
+      <Clue Row="12" Col="1" Num="52" Dir="Across" Ans="NUCLEARFOOTBALL">Important case for national security</Clue>
+      <Clue Row="13" Col="1" Num="54" Dir="Across" Ans="DECO">Erté's art</Clue>
+      <Clue Row="13" Col="6" Num="55" Dir="Across" Ans="TORIC">Doughnut-shaped</Clue>
+      <Clue Row="13" Col="12" Num="56" Dir="Across" Ans="ACTI">When the tempest occurs in "The Tempest"</Clue>
+      <Clue Row="14" Col="1" Num="57" Dir="Across" Ans="EVES">Cusps</Clue>
+      <Clue Row="14" Col="6" Num="58" Dir="Across" Ans="ALACK">Shakespearean lament</Clue>
+      <Clue Row="14" Col="12" Num="59" Dir="Across" Ans="MOON">Get cheeky with?</Clue>
+      <Clue Row="15" Col="1" Num="60" Dir="Across" Ans="SODA">Pop</Clue>
+      <Clue Row="15" Col="6" Num="61" Dir="Across" Ans="BLUES">Baby ___</Clue>
+      <Clue Row="15" Col="12" Num="62" Dir="Across" Ans="ANNE">Rice left on a shelf, maybe</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="IHOP">Sister chain of Applebee's</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="MANOAMANO">Simple fighting style</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="STARBURST">Fireworks effect</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="TEDNUGENT">Rocker nicknamed "The Motor City Madman"</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="USA">World Cup cheer</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="CORSET">Tight-fitting wear</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="KNEELS">Time-killing plays for quarterbacks</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="DIALER">Telemarketer's device</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="ENDERS">"___ Game" (1986 Hugo Award winner)</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="EDU">Brown. follower</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="PINESCENT">Common car freshener feature</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="FAIRSHAKE">Just treatment</Clue>
+      <Clue Row="1" Col="14" Num="13" Dir="Down" Ans="ANTINOVEL">Fictional work that eschews literary conventions</Clue>
+      <Clue Row="1" Col="15" Num="14" Dir="Down" Ans="TASE">Hit with a big charge</Clue>
+      <Clue Row="4" Col="8" Num="21" Dir="Down" Ans="ADA">Lovelace of early computing</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Down" Ans="SHUN">Snub</Clue>
+      <Clue Row="6" Col="15" Num="29" Dir="Down" Ans="WEDS">Joins</Clue>
+      <Clue Row="8" Col="5" Num="33" Dir="Down" Ans="ARTIE">Man's nickname that sounds like two letters</Clue>
+      <Clue Row="8" Col="6" Num="34" Dir="Down" Ans="RUNSATAB">Plans to pay later</Clue>
+      <Clue Row="8" Col="7" Num="35" Dir="Down" Ans="LETSROLL">"It's go time!"</Clue>
+      <Clue Row="8" Col="9" Num="36" Dir="Down" Ans="THEVOICE">Reality show whose contestants must be good with numbers</Clue>
+      <Clue Row="8" Col="10" Num="37" Dir="Down" Ans="HOTROCKS">12x platinum compilation album by the Rolling Stones, familiarly</Clue>
+      <Clue Row="8" Col="11" Num="38" Dir="Down" Ans="ASCOT">Bit of fancy attire</Clue>
+      <Clue Row="11" Col="1" Num="43" Dir="Down" Ans="ANDES">Long range</Clue>
+      <Clue Row="11" Col="2" Num="44" Dir="Down" Ans="HUEVO">Spanish omelet ingredient</Clue>
+      <Clue Row="11" Col="3" Num="45" Dir="Down" Ans="BCCED">Secretly included, in a way</Clue>
+      <Clue Row="11" Col="4" Num="46" Dir="Down" Ans="LLOSA">Author Mario Vargas ___</Clue>
+      <Clue Row="11" Col="12" Num="48" Dir="Down" Ans="OBAMA">Winner of two Grammys and a Nobel Peace Prize</Clue>
+      <Clue Row="11" Col="13" Num="49" Dir="Down" Ans="MACON">Georgia home of Mercer University</Clue>
+      <Clue Row="11" Col="14" Num="50" Dir="Down" Ans="ELTON">John in England</Clue>
+      <Clue Row="11" Col="15" Num="51" Dir="Down" Ans="DLINE">Gridiron group that tries to sack the QB, collectively</Clue>
+      <Clue Row="12" Col="8" Num="53" Dir="Down" Ans="FRAU">Madame, across the Rhine</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>This crossword was an enormous pain to put together. Like, trying several hundred times to fill it, with several dozen different black square skeletons, with countless hours lost to dead ends and restarts.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Nuclear_football" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/The_nuclear_football.jpg/440px-The_nuclear_football.jpg" style="border:1px solid lightgray; float:right; height:165px; margin:6px 0px 6px 12px; width:220px" title="That's not a football you'd want to fumble..." /></a></p>
+
+<p>I&#39;d be able to work in a few good long entries, but then I&#39;d run into some area where I&#39;d need a gluey bit to hold it all together.</p>
+
+<p>Or I&#39;d figure out how to turn one of the many corners, but then be unable to turn the next one successfully.</p>
+
+<p>Restart!</p>
+
+<p>And then it must have been 20 or more times that I got 95% of the puzzle finished, only to figure out that I couldn&#39;t get the ends to mesh.</p>
+
+<p>I love puzzles with wide-open grid flow, where you can solve without feeling like you run into dead ends or segmented corners. But man oh man does that make filling a grid so painfully difficult.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>Doug Peterson beat me to debuting NUCLEAR FOOTBALL a few years ago, so I took it off my list of potential seed entries. He&#39;s so great with his snazzy seeds; it&#39;s no surprise that he gets fantastic entries like T-SHIRT CANNON into crosswords way before me.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/American_football" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Edward_Jones_Dome_endzone_view.jpg/440px-Edward_Jones_Dome_endzone_view.jpg" style="border:1px solid lightgray; float:left; height:131px; margin:6px 12px 6px 0px; width:220px" title="The uprights" /></a></p>
+
+<p>About a year ago, Mary Lou Guizzo asked for help with a <a href="https://www.xwordinfo.com/Crossword?date=2/14/2018">Valentine&#39;s Day heart-shaped puzzle</a>. (Stay with me, I promise that this all comes together.) I liked her idea, but I didn&#39;t like that she had used asymmetry to help with the fill in the center of the heart. After trying out a few dozen arrangements, one stuck in my head &mdash; a goal-post set of black squares. Maybe something very cool there &hellip; what if we could find phrases that related to both football and to love?</p>
+
+<p>Alas, that didn&#39;t work out. We did have a lot of fun brainstorming what BLOCKED PUNT, TOUCHDOWN, and THIRD AND LONG might mean for Valentine&#39;s Day. Heh.</p>
+
+<p>Shortly after, it occurred to me that I had never seen this goal-post pattern used in a themeless. I was curious to see if it might open up some possibilities, a new layout that might allow for more long answers, minimal 3-letter answers, more mid-length, whatever &mdash; just as long as it was something new.</p>
+
+<p>After trying a few dozen arrangements, I hit upon something close to this current version. It had room for a single 15-letter seed entry, so I scanned my lists and my memory banks to see what FOOTBALL-related ones I could use. NUCLEAR FOOTBALL kept popping back up, so I finally gave in and decided to build around it.</p>
+
+<p>Long and twisty crossword journey. As they usually are.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

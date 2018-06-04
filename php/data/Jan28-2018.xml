@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Sunday, January 28, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/27/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sun, Jan 28, 2018 SURPRISE ENDINGS</Title>
+    <Author>Priscilla Clark and Jeff Chen</Author>
+    <CanonicalNames>
+      <Constructor>Priscilla Clark</Constructor>
+      <Constructor>Jeff Chen</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/28/2018</Date>
+    <Size>
+      <Rows>21</Rows>
+      <Cols>21</Cols>
+    </Size>
+    <Grid>
+      <Row>CASITA..BLACKOPS..TAP</Row>
+      <Row>AVOCETS.EARCANDY.AIME</Row>
+      <Row>REFERTO.HUSTLEANDFLOP</Row>
+      <Row>PRIAM.IPAD.VEG.EYEDUP</Row>
+      <Row>.TAXIDRIVEL...BREWERY</Row>
+      <Row>...ENO.CEDE.BERG.....</Row>
+      <Row>OJS.AWE...ILOVEYOUMAO</Row>
+      <Row>POP.TENDS..ERIN.USURP</Row>
+      <Row>THECOLOROFMONET.ROSIE</Row>
+      <Row>SNEER.LADLE.......CAN</Row>
+      <Row>..DOS.ABOUTABOT.CAL..</Row>
+      <Row>SAD.......ECASH.EDENS</Row>
+      <Row>CRAMS.BEVERLYHILLSCOW</Row>
+      <Row>ACTOR.ACES..SAGET.AVA</Row>
+      <Row>THEBIGCHILI...HAI.RAG</Row>
+      <Row>.....LOON.TSPS.PCP...</Row>
+      <Row>GORDIAN...SWAMPTHINS.</Row>
+      <Row>OBERON.ABS.ISLE.ALOHA</Row>
+      <Row>LICENCETOKILT.PAROLED</Row>
+      <Row>DEAD.ERICIDLE.EMPTIED</Row>
+      <Row>ASP..DATALOSS..ASSETS</Row>
+    </Grid>
+    <Circles>
+      <Circle Row="3" Col="21" />
+      <Circle Row="5" Col="11" />
+      <Circle Row="7" Col="21" />
+      <Circle Row="9" Col="15" />
+      <Circle Row="11" Col="15" />
+      <Circle Row="13" Col="21" />
+      <Circle Row="15" Col="11" />
+      <Circle Row="17" Col="20" />
+      <Circle Row="19" Col="13" />
+    </Circles>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="CASITA">Small house in the Southwest</Clue>
+      <Clue Row="1" Col="9" Num="7" Dir="Across" Ans="BLACKOPS">Covert missions</Clue>
+      <Clue Row="1" Col="19" Num="15" Dir="Across" Ans="TAP">Select</Clue>
+      <Clue Row="2" Col="1" Num="18" Dir="Across" Ans="AVOCETS">Wading birds</Clue>
+      <Clue Row="2" Col="9" Num="20" Dir="Across" Ans="EARCANDY">Light, catchy tunes</Clue>
+      <Clue Row="2" Col="18" Num="21" Dir="Across" Ans="AIME">"Je t'___"</Clue>
+      <Clue Row="3" Col="1" Num="22" Dir="Across" Ans="REFERTO">Cite</Clue>
+      <Clue Row="3" Col="9" Num="23" Dir="Across" Ans="HUSTLEANDFLOP">Pimp launches career in rap ... BUT HAS AN EPIC FAIL!</Clue>
+      <Clue Row="4" Col="1" Num="25" Dir="Across" Ans="PRIAM">Father of Paris, in myth</Clue>
+      <Clue Row="4" Col="7" Num="26" Dir="Across" Ans="IPAD">Apple buy-product?</Clue>
+      <Clue Row="4" Col="12" Num="28" Dir="Across" Ans="VEG">Relax, with "out"</Clue>
+      <Clue Row="4" Col="16" Num="29" Dir="Across" Ans="EYEDUP">Assessed</Clue>
+      <Clue Row="5" Col="2" Num="30" Dir="Across" Ans="TAXIDRIVEL">Cabby saves prostitute ... WITH HIS BLATHERING!</Clue>
+      <Clue Row="5" Col="15" Num="33" Dir="Across" Ans="BREWERY">Labatt, for one</Clue>
+      <Clue Row="6" Col="4" Num="34" Dir="Across" Ans="ENO">Composer known for mood music</Clue>
+      <Clue Row="6" Col="8" Num="35" Dir="Across" Ans="CEDE">Relinquish</Clue>
+      <Clue Row="6" Col="13" Num="36" Dir="Across" Ans="BERG">Something coming off the shelf?</Clue>
+      <Clue Row="7" Col="1" Num="38" Dir="Across" Ans="OJS">Tropicana products, for short</Clue>
+      <Clue Row="7" Col="5" Num="41" Dir="Across" Ans="AWE">Floor</Clue>
+      <Clue Row="7" Col="11" Num="43" Dir="Across" Ans="ILOVEYOUMAO">Guy makes a new best friend ... WHO TURNS OUT TO BE A COMMUNIST!</Clue>
+      <Clue Row="8" Col="1" Num="50" Dir="Across" Ans="POP">Beverage called a "tonic" in Boston</Clue>
+      <Clue Row="8" Col="5" Num="51" Dir="Across" Ans="TENDS">Inclines</Clue>
+      <Clue Row="8" Col="12" Num="54" Dir="Across" Ans="ERIN">Enya's land</Clue>
+      <Clue Row="8" Col="17" Num="55" Dir="Across" Ans="USURP">Appropriate</Clue>
+      <Clue Row="9" Col="1" Num="56" Dir="Across" Ans="THECOLOROFMONET">Retired pool shark returns ... TO WIN FRENCH IMPRESSIONIST PAINTING!</Clue>
+      <Clue Row="9" Col="17" Num="60" Dir="Across" Ans="ROSIE">"___ Revere, Engineer" (best-selling 2013 children's book)</Clue>
+      <Clue Row="10" Col="1" Num="61" Dir="Across" Ans="SNEER">Facial expression often accompanied by "Heh, heh, heh"</Clue>
+      <Clue Row="10" Col="7" Num="62" Dir="Across" Ans="LADLE">Big dipper</Clue>
+      <Clue Row="10" Col="19" Num="63" Dir="Across" Ans="CAN">Pink-slip</Clue>
+      <Clue Row="11" Col="3" Num="64" Dir="Across" Ans="DOS">___ Equis (Mexican beer)</Clue>
+      <Clue Row="11" Col="7" Num="65" Dir="Across" Ans="ABOUTABOT">Chap gets life lessons from kid ... WHO'S REALLY AN ANDROID!</Clue>
+      <Clue Row="11" Col="17" Num="70" Dir="Across" Ans="CAL">One side in college football's "Big Game"</Clue>
+      <Clue Row="12" Col="1" Num="72" Dir="Across" Ans="SAD">Blue</Clue>
+      <Clue Row="12" Col="11" Num="74" Dir="Across" Ans="ECASH">Bitcoin, e.g.</Clue>
+      <Clue Row="12" Col="17" Num="75" Dir="Across" Ans="EDENS">Utopias</Clue>
+      <Clue Row="13" Col="1" Num="78" Dir="Across" Ans="CRAMS">Shoves (in)</Clue>
+      <Clue Row="13" Col="7" Num="81" Dir="Across" Ans="BEVERLYHILLSCOW">West Coast officers track wisecracking detective ... TO A BOVINE!</Clue>
+      <Clue Row="14" Col="1" Num="86" Dir="Across" Ans="ACTOR">One with a role to play</Clue>
+      <Clue Row="14" Col="7" Num="87" Dir="Across" Ans="ACES">Bullets, in cards</Clue>
+      <Clue Row="14" Col="13" Num="88" Dir="Across" Ans="SAGET">First "America's Funniest Home Videos" host</Clue>
+      <Clue Row="14" Col="19" Num="89" Dir="Across" Ans="AVA">Glamorous Gardner</Clue>
+      <Clue Row="15" Col="1" Num="90" Dir="Across" Ans="THEBIGCHILI">Friends gather for a funeral ... AND COOK UP AN ENORMOUS STEW!</Clue>
+      <Clue Row="15" Col="15" Num="93" Dir="Across" Ans="HAI">"Bali ___"</Clue>
+      <Clue Row="15" Col="19" Num="94" Dir="Across" Ans="RAG">Lively tune</Clue>
+      <Clue Row="16" Col="6" Num="95" Dir="Across" Ans="LOON">Symbolic bird in "On Golden Pond"</Clue>
+      <Clue Row="16" Col="11" Num="96" Dir="Across" Ans="TSPS">Recipe amts.</Clue>
+      <Clue Row="16" Col="16" Num="100" Dir="Across" Ans="PCP">"Angel dust"</Clue>
+      <Clue Row="17" Col="1" Num="102" Dir="Across" Ans="GORDIAN">Kind of knot</Clue>
+      <Clue Row="17" Col="11" Num="107" Dir="Across" Ans="SWAMPTHINS">Bog monster emerges ... WITH A NEW LINE OF SNACK CRACKERS!</Clue>
+      <Clue Row="18" Col="1" Num="111" Dir="Across" Ans="OBERON">Shakespearean king</Clue>
+      <Clue Row="18" Col="8" Num="112" Dir="Across" Ans="ABS">Auto safety feature to prevent skidding, for short</Clue>
+      <Clue Row="18" Col="12" Num="115" Dir="Across" Ans="ISLE">Man, for one</Clue>
+      <Clue Row="18" Col="17" Num="116" Dir="Across" Ans="ALOHA">Greeting on Maui</Clue>
+      <Clue Row="19" Col="1" Num="118" Dir="Across" Ans="LICENCETOKILT">007 gets fired ... AND LANDS A JOB AS A SCOTTISH TAILOR!</Clue>
+      <Clue Row="19" Col="15" Num="121" Dir="Across" Ans="PAROLED">Out early</Clue>
+      <Clue Row="20" Col="1" Num="123" Dir="Across" Ans="DEAD">Playing ___</Clue>
+      <Clue Row="20" Col="6" Num="124" Dir="Across" Ans="ERICIDLE">"Spamalot" writer</Clue>
+      <Clue Row="20" Col="15" Num="125" Dir="Across" Ans="EMPTIED">Drained</Clue>
+      <Clue Row="21" Col="1" Num="126" Dir="Across" Ans="ASP">Object of veneration by ancient Egyptians</Clue>
+      <Clue Row="21" Col="6" Num="127" Dir="Across" Ans="DATALOSS">Casualty of a crash?</Clue>
+      <Clue Row="21" Col="16" Num="128" Dir="Across" Ans="ASSETS">One side of a ledger</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="CARP">Goldfish, e.g.</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="AVERT">Sidestep</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="SOFIA">Balkan capital</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="ICEAXE">Mountaineer's tool</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="TERMINATORS">Skynet's T-800's, e.g.</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="ATT">One who's passed the bar: Abbr.</Clue>
+      <Clue Row="1" Col="9" Num="7" Dir="Down" Ans="BEHAVE">Parent's scolding</Clue>
+      <Clue Row="1" Col="10" Num="8" Dir="Down" Ans="LAUDED">Praised</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="ARS">"___ Poetica"</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="CCTV">Letters on a video surveillance screen</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="KALE">Trendy smoothie ingredient</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="ONEG">Force on earth, in brief</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="PDA">Bussing on a bus, for short?</Clue>
+      <Clue Row="1" Col="16" Num="14" Dir="Down" Ans="SYNERGY">Two plus two equaling five, e.g.</Clue>
+      <Clue Row="1" Col="19" Num="15" Dir="Down" Ans="TILDE">High mark in Spanish class?</Clue>
+      <Clue Row="1" Col="20" Num="16" Dir="Down" Ans="AMOUR">"Mon ___" (words of endearment)</Clue>
+      <Clue Row="1" Col="21" Num="17" Dir="Down" Ans="PEPPY">Energetic</Clue>
+      <Clue Row="2" Col="7" Num="19" Dir="Down" Ans="SOIR">"Bon" time</Clue>
+      <Clue Row="2" Col="18" Num="21" Dir="Down" Ans="AFEW">Some</Clue>
+      <Clue Row="3" Col="17" Num="24" Dir="Down" Ans="DYE">Color changer</Clue>
+      <Clue Row="4" Col="8" Num="27" Dir="Down" Ans="PIC">Flick</Clue>
+      <Clue Row="5" Col="6" Num="31" Dir="Down" Ans="DOWEL">Carpentry rod</Clue>
+      <Clue Row="5" Col="11" Num="32" Dir="Down" Ans="LEI">Gift on a string</Clue>
+      <Clue Row="5" Col="15" Num="33" Dir="Down" Ans="BRENT">Spiner of "Star Trek: T.N.G."</Clue>
+      <Clue Row="6" Col="13" Num="36" Dir="Down" Ans="BORN">Destined (to be)</Clue>
+      <Clue Row="6" Col="14" Num="37" Dir="Down" Ans="EVIE">Singer Sands</Clue>
+      <Clue Row="7" Col="1" Num="38" Dir="Down" Ans="OPTS">Goes (for)</Clue>
+      <Clue Row="7" Col="2" Num="39" Dir="Down" Ans="JOHN">In song, Jacob Jingleheimer Schmidt's first name</Clue>
+      <Clue Row="7" Col="3" Num="40" Dir="Down" Ans="SPEEDDATE">Mix and match?</Clue>
+      <Clue Row="7" Col="7" Num="42" Dir="Down" Ans="ENOLA">___ Gay (W.W. II plane)</Clue>
+      <Clue Row="7" Col="12" Num="44" Dir="Down" Ans="LEO">Fifth sign</Clue>
+      <Clue Row="7" Col="17" Num="45" Dir="Down" Ans="OUR">"___ Gang"</Clue>
+      <Clue Row="7" Col="18" Num="46" Dir="Down" Ans="USO">Grp. with the motto "Until every one comes home"</Clue>
+      <Clue Row="7" Col="19" Num="47" Dir="Down" Ans="MUSCLECAR">Gran Torino, e.g.</Clue>
+      <Clue Row="7" Col="20" Num="48" Dir="Down" Ans="ARIA">Part of a score, maybe</Clue>
+      <Clue Row="7" Col="21" Num="49" Dir="Down" Ans="OPEN">Dentist's directive</Clue>
+      <Clue Row="8" Col="8" Num="52" Dir="Down" Ans="DRAB">Lacking pizazz</Clue>
+      <Clue Row="8" Col="9" Num="53" Dir="Down" Ans="SODO">"___ I" ("Same here")</Clue>
+      <Clue Row="9" Col="4" Num="57" Dir="Down" Ans="CEO">Position sought by some M.B.A.s</Clue>
+      <Clue Row="9" Col="10" Num="58" Dir="Down" Ans="FLU">Kind of shot</Clue>
+      <Clue Row="9" Col="11" Num="59" Dir="Down" Ans="METER">Olympics unit</Clue>
+      <Clue Row="11" Col="12" Num="66" Dir="Down" Ans="ACL">Concern of an orthopedic M.D.</Clue>
+      <Clue Row="11" Col="13" Num="67" Dir="Down" Ans="BAYS">Howls</Clue>
+      <Clue Row="11" Col="14" Num="68" Dir="Down" Ans="OSHA">Org. that's found by accident?</Clue>
+      <Clue Row="11" Col="15" Num="69" Dir="Down" Ans="THIGH">Piece of chicken</Clue>
+      <Clue Row="11" Col="17" Num="70" Dir="Down" Ans="CELTICHARPS">Symbols on Irish euro coins</Clue>
+      <Clue Row="11" Col="18" Num="71" Dir="Down" Ans="ADS">Video intrusions</Clue>
+      <Clue Row="12" Col="1" Num="72" Dir="Down" Ans="SCAT">Tracker's clue</Clue>
+      <Clue Row="12" Col="2" Num="73" Dir="Down" Ans="ARCH">Sole part</Clue>
+      <Clue Row="12" Col="20" Num="76" Dir="Down" Ans="NOVA">Astronomical event</Clue>
+      <Clue Row="12" Col="21" Num="77" Dir="Down" Ans="SWAG">Goodies in a goody bag</Clue>
+      <Clue Row="13" Col="4" Num="79" Dir="Down" Ans="MOB">Swarm</Clue>
+      <Clue Row="13" Col="5" Num="80" Dir="Down" Ans="SRI">Hindu honorific</Clue>
+      <Clue Row="13" Col="7" Num="81" Dir="Down" Ans="BACON">Burger topper</Clue>
+      <Clue Row="13" Col="8" Num="82" Dir="Down" Ans="ECHO">Backtalk?</Clue>
+      <Clue Row="13" Col="9" Num="83" Dir="Down" Ans="VEIN">Miner's find</Clue>
+      <Clue Row="13" Col="10" Num="84" Dir="Down" Ans="ESL">Immigrant's class, in brief</Clue>
+      <Clue Row="13" Col="16" Num="85" Dir="Down" Ans="LEAPT">Bounded</Clue>
+      <Clue Row="15" Col="6" Num="91" Dir="Down" Ans="GLANCED">Sneaked a peek</Clue>
+      <Clue Row="15" Col="11" Num="92" Dir="Down" Ans="ITS">Part of T.G.I.F.</Clue>
+      <Clue Row="16" Col="12" Num="97" Dir="Down" Ans="SWILLS">Slops</Clue>
+      <Clue Row="16" Col="13" Num="98" Dir="Down" Ans="PASTES">Wallops</Clue>
+      <Clue Row="16" Col="14" Num="99" Dir="Down" Ans="SML">T-shirt choices, briefly</Clue>
+      <Clue Row="16" Col="18" Num="101" Dir="Down" Ans="PILOTS">What drones lack</Clue>
+      <Clue Row="17" Col="1" Num="102" Dir="Down" Ans="GOLDA">2008 Israeli political biography</Clue>
+      <Clue Row="17" Col="2" Num="103" Dir="Down" Ans="OBIES">Relatives of Tonys</Clue>
+      <Clue Row="17" Col="3" Num="104" Dir="Down" Ans="RECAP">Sum up</Clue>
+      <Clue Row="17" Col="4" Num="105" Dir="Down" Ans="DRED">___ Scott</Clue>
+      <Clue Row="17" Col="5" Num="106" Dir="Down" Ans="ION">"Positively Entertaining" cable network</Clue>
+      <Clue Row="17" Col="15" Num="108" Dir="Down" Ans="PEPE">Le Pew of Looney Tunes</Clue>
+      <Clue Row="17" Col="19" Num="109" Dir="Down" Ans="NOLIE">"That's the truth!"</Clue>
+      <Clue Row="17" Col="20" Num="110" Dir="Down" Ans="SHEET">Makeshift ghost costume</Clue>
+      <Clue Row="18" Col="8" Num="112" Dir="Down" Ans="ATIT">Warring</Clue>
+      <Clue Row="18" Col="9" Num="113" Dir="Down" Ans="BOCA">Florida city, informally</Clue>
+      <Clue Row="18" Col="10" Num="114" Dir="Down" Ans="SKIL">Brand of tools</Clue>
+      <Clue Row="18" Col="21" Num="117" Dir="Down" Ans="ADDS">Says further</Clue>
+      <Clue Row="19" Col="7" Num="119" Dir="Down" Ans="ERA">Great time</Clue>
+      <Clue Row="19" Col="11" Num="120" Dir="Down" Ans="IDO">Sworn statement</Clue>
+      <Clue Row="19" Col="16" Num="122" Dir="Down" Ans="AMA">G.P.'s grp.</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>When I ask a collaborator to explore the solution space for a theme, I usually get a couple of ideas. Maybe a dozen. Rarely, a Word document.</p>
+
+<p>Pris created a spreadsheet. Awesome!</p>
+
+<p>The spreadsheet grew and grew &hellip; doubly awesome!</p>
+
+<p>&hellip; to over 300 entries. HEE HEE HEE SQUEE!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Kilt" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Scottish_Kilt.jpg/500px-Scottish_Kilt.jpg" style="border:1px solid lightgray; float:left; height:250px; margin:6px 12px 6px 0px; width:201px" title="I HEREBY REVOKE THIS GUY'S LICENCE TO KILT" /></a></p>
+
+<p>I love it when a collaborator is more than willing to put in the work. There are so many *pretty* good movie titles on that spreadsheet, but Pris was never happy until we found one that made us both laugh out loud. Took a long time to hit on LICENCE TO KILT, but man, do I love that one.</p>
+
+<p>Tough grid to put together. I wanted the circled P L O T T W I S T letters (hopefully you noticed that hidden phrase?) to look like they were twisting, like a DNA helix. Crossword symmetry didn&#39;t make that perfectly possible, but I hope this layout came close.</p>
+
+<p>My stubbornness to stick with this twisty layout meant we didn&#39;t have much flexibility in themer placement. I ended up using more cheater squares than I like, but hopefully it doesn&#39;t look too overrun by black squares.</p>
+
+<p>Nine themers is never easy to work with in a Sunday 140-word puzzle, but we tried to include a little bonus fill for everyone. We debated whether TERMINATORS was too close to the theme? But both of us enjoyed that one so much. And then BLACK OPS, EAR CANDY, SPEED DATE, MUSCLE CAR, CELTIC HARPS, ERIC IDLE seemed like they were from different enough walks of life.</p>
+
+<p>Who knows, maybe there&#39;s even some SYNERGY there &hellip;</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p><strong>PRIS:</strong> This is my second puzzle in the NYT &mdash; both collaborations with Jeff. My first one was a bucket list goal which took almost ten years to achieve. I honestly thought I was done after that, but I found I missed the daily mental wrangling with themes and words, so I started sending Jeff themer ideas. There were some very polite &quot;I&#39;m not sures ...&quot; but sometimes I got a &quot;very funny &mdash; are there others like this?&quot; In spite of our best efforts, there often weren&#39;t more &quot;like this&quot; but the search resulted in new possibilities.</p>
+
+<p>I have found that what appeals to me as a constructor is humor. I want to laugh when I&#39;m making a puzzle and hope solvers do also. It&#39;s what keeps me engaged. I so enjoy working with Jeff and learning from him, and the pleasure that comes from sharing creative energy is a wonderful added benefit.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Thursday, January 4, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/4/2018 at 8:22 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Thu, Jan 04, 2018</Title>
+    <Author>Daniel Mauer</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/4/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>OTDOWN.ARF.ACTO</Row>
+      <Row>STEVIE.REA.CREE</Row>
+      <Row>IOLANI.MACARENA</Row>
+      <Row>ERA.ELL.MEL.ACC</Row>
+      <Row>SENS.LAB.CASTER</Row>
+      <Row>.DOTE.TARANTINO</Row>
+      <Row>...ENTERER.ANTS</Row>
+      <Row>FWARDINGADDRESS</Row>
+      <Row>FAGE.MEANSIT...</Row>
+      <Row>ALLOWEDIN.DUOS.</Row>
+      <Row>CRISIS.NEV.PRES</Row>
+      <Row>RUT.ETS.XII.SAW</Row>
+      <Row>OSTINATO.ENRICO</Row>
+      <Row>SEED.MAX.DMINOR</Row>
+      <Row>SSRS.PRY.FEDOWN</Row>
+    </Grid>
+    <RebusEntries>
+      <Rebus Row="1" Col="1" Short="O">1</Rebus>
+      <Rebus Row="1" Col="2" Short="T">2</Rebus>
+      <Rebus Row="1" Col="15" Short="O">1</Rebus>
+      <Rebus Row="2" Col="15" Short="E">8</Rebus>
+      <Rebus Row="8" Col="1" Short="F">4</Rebus>
+      <Rebus Row="9" Col="1" Short="F">4</Rebus>
+      <Rebus Row="15" Col="10" Short="F">4</Rebus>
+      <Rebus Row="15" Col="11" Short="E">8</Rebus>
+    </RebusEntries>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="12DOWN">Ten cents</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Across" Ans="ARF">Yelp alternative</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="ACT1">When a messenger from Godot arrives in "Waiting for Godot"</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="STEVIE">Many-hit Wonder</Clue>
+      <Clue Row="2" Col="8" Num="15" Dir="Across" Ans="REA">Stephen of "The Crying Game"</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="CRE8">Make</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="IOLANI">Honolulu's ___ Palace</Clue>
+      <Clue Row="3" Col="8" Num="18" Dir="Across" Ans="MACARENA">[Answer found elsewhere]</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="ERA">Century 21 competitor</Clue>
+      <Clue Row="4" Col="5" Num="21" Dir="Across" Ans="ELL">Right-angle pipe</Clue>
+      <Clue Row="4" Col="9" Num="23" Dir="Across" Ans="MEL">Nickname shared by two Spice Girls</Clue>
+      <Clue Row="4" Col="13" Num="24" Dir="Across" Ans="ACC">Virginia Cavaliers' org.</Clue>
+      <Clue Row="5" Col="1" Num="25" Dir="Across" Ans="SENS">Hill workers: Abbr.</Clue>
+      <Clue Row="5" Col="6" Num="27" Dir="Across" Ans="LAB">Indoor place in which coats are worn</Clue>
+      <Clue Row="5" Col="10" Num="29" Dir="Across" Ans="CASTER">Desk chair part</Clue>
+      <Clue Row="6" Col="2" Num="31" Dir="Across" Ans="DOTE">What many grandparents do</Clue>
+      <Clue Row="6" Col="7" Num="33" Dir="Across" Ans="TARANTINO">"Jackie Brown" director, 1997</Clue>
+      <Clue Row="7" Col="4" Num="35" Dir="Across" Ans="ENTERER">One providing input</Clue>
+      <Clue Row="7" Col="12" Num="37" Dir="Across" Ans="ANTS">Hill workers</Clue>
+      <Clue Row="8" Col="1" Num="38" Dir="Across" Ans="4WARDINGADDRESS">Something to leave at the post office ... or a hint to this puzzle's theme?</Clue>
+      <Clue Row="9" Col="1" Num="42" Dir="Across" Ans="4AGE">Gather food</Clue>
+      <Clue Row="9" Col="6" Num="43" Dir="Across" Ans="MEANSIT">Is dead serious</Clue>
+      <Clue Row="10" Col="1" Num="44" Dir="Across" Ans="ALLOWEDIN">[Answer found elsewhere]</Clue>
+      <Clue Row="10" Col="11" Num="46" Dir="Across" Ans="DUOS">Pairs</Clue>
+      <Clue Row="11" Col="1" Num="49" Dir="Across" Ans="CRISIS">Emergency</Clue>
+      <Clue Row="11" Col="8" Num="50" Dir="Across" Ans="NEV">Henderson's home: Abbr.</Clue>
+      <Clue Row="11" Col="12" Num="52" Dir="Across" Ans="PRES">U.S. 1?</Clue>
+      <Clue Row="12" Col="1" Num="54" Dir="Across" Ans="RUT">In a ___ (stuck)</Clue>
+      <Clue Row="12" Col="5" Num="55" Dir="Across" Ans="ETS">Some characters on TV's "Futurama," briefly</Clue>
+      <Clue Row="12" Col="9" Num="57" Dir="Across" Ans="XII">Last pope named Pius</Clue>
+      <Clue Row="12" Col="13" Num="59" Dir="Across" Ans="SAW">Caught, as a movie</Clue>
+      <Clue Row="13" Col="1" Num="60" Dir="Across" Ans="OSTINATO">Recurring melodic phrase</Clue>
+      <Clue Row="13" Col="10" Num="63" Dir="Across" Ans="ENRICO">Physicist Fermi</Clue>
+      <Clue Row="14" Col="1" Num="65" Dir="Across" Ans="SEED">___ money</Clue>
+      <Clue Row="14" Col="6" Num="66" Dir="Across" Ans="MAX">Take to the limit, with "out"</Clue>
+      <Clue Row="14" Col="10" Num="67" Dir="Across" Ans="DMINOR">Key of Dvorák's Symphony No. 7</Clue>
+      <Clue Row="15" Col="1" Num="68" Dir="Across" Ans="SSRS">Historical group of 15, for short</Clue>
+      <Clue Row="15" Col="6" Num="69" Dir="Across" Ans="PRY">Ask too-personal questions</Clue>
+      <Clue Row="15" Col="10" Num="70" Dir="Across" Ans="48DOWN">Sea cow</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="1SIES">Toddlers' attire</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="2TORED">Gave private lessons to</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="DELANO">Name of a family from which Franklin Roosevelt was descended</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="OVA">Fallopian tube travelers</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="WINE">"One of the most civilized things in the world," per Hemingway</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="NEILL">"The Piano" actor Sam</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="ARM">QB's asset</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="REAM">500 sheets</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="FACECARDS">Kings and queens</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="ACR">Height: Prefix</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="CREATINE">Powder supplement for bodybuilders</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="TENCENTS">[Answer found elsewhere]</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="18ACROSS">Macarena</Clue>
+      <Clue Row="3" Col="11" Num="19" Dir="Down" Ans="ALAN">Computer scientist Turing</Clue>
+      <Clue Row="4" Col="7" Num="22" Dir="Down" Ans="LATENED">Approached dusk</Clue>
+      <Clue Row="5" Col="4" Num="26" Dir="Down" Ans="STEREOS">You might put CDs on them</Clue>
+      <Clue Row="5" Col="8" Num="28" Dir="Down" Ans="BARGAIN">Real deal</Clue>
+      <Clue Row="5" Col="12" Num="30" Dir="Down" Ans="STARTUP">Angels might come to its aid</Clue>
+      <Clue Row="6" Col="5" Num="32" Dir="Down" Ans="END">Extreme</Clue>
+      <Clue Row="6" Col="9" Num="34" Dir="Down" Ans="REANNEX">Take back, as territory</Clue>
+      <Clue Row="7" Col="6" Num="36" Dir="Down" Ans="TIMESTAMP">Part of many a digital photo</Clue>
+      <Clue Row="8" Col="1" Num="38" Dir="Down" Ans="44ACROSS">Allowed in</Clue>
+      <Clue Row="8" Col="2" Num="39" Dir="Down" Ans="WALRUSES">Blubbery ones</Clue>
+      <Clue Row="8" Col="3" Num="40" Dir="Down" Ans="AGLITTER">Twinkling</Clue>
+      <Clue Row="8" Col="11" Num="41" Dir="Down" Ans="DID">Perpetrated</Clue>
+      <Clue Row="10" Col="5" Num="45" Dir="Down" Ans="WIEN">Capital of Österreich</Clue>
+      <Clue Row="10" Col="13" Num="47" Dir="Down" Ans="ORSINO">"If music be the food of love, play on" speaker</Clue>
+      <Clue Row="10" Col="14" Num="48" Dir="Down" Ans="SEACOW">[Answer found elsewhere]</Clue>
+      <Clue Row="11" Col="10" Num="51" Dir="Down" Ans="VIED4">Tried to win, as a title</Clue>
+      <Clue Row="11" Col="15" Num="53" Dir="Down" Ans="SWORN">___ enemy</Clue>
+      <Clue Row="12" Col="7" Num="56" Dir="Down" Ans="STAR">Sun</Clue>
+      <Clue Row="12" Col="11" Num="58" Dir="Down" Ans="INM8">Prisoner</Clue>
+      <Clue Row="13" Col="4" Num="61" Dir="Down" Ans="IDS">Social Security cards, e.g.</Clue>
+      <Clue Row="13" Col="8" Num="62" Dir="Down" Ans="OXY">Acne medication brand</Clue>
+      <Clue Row="13" Col="12" Num="64" Dir="Down" Ans="RID">Disposed (of)</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Dan asked me to look at this in its early stages. I felt it had a lot of potential, but I found it so hard to explain the theme. Let&#39;s see if I can do it without discombobulating everyone:</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Macarena_(song)" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/a/aa/MacarenaLosDelRio.jpg" style="border:1px solid lightgray; float:right; height:220px; margin:6px 0px 6px 12px; width:220px" title="Hard to imagine that this was once &quot;a thing&quot; ..." /></a></p>
+
+<ul>
+	<li>Entries refer to other entries (1-Across is 12 DOWN, which points to the entry at 12-Down)</li>
+	<li>The clue from one reference is the entry at the other reference</li>
+	<li>Numbers are used, but as homophones in the crossing direction</li>
+	<li>It&#39;s all tied together by 4WARDING ADDRESS</li>
+</ul>
+
+<p>Still with me? Didn&#39;t think so.</p>
+
+<p>Okay, 1-Down isn&#39;t 1SIES, but ONESIES. 2-Down is 2TORED = TUTORED. And 1-Across is clued as [Ten cents], which is the entry at 12-Down. And 12 DOWN is the entry at 1-Across.</p>
+
+<p>Whew!</p>
+
+<p>Plenty of puzzles have used cross-referencing, numbers in grids, homophones, even clues duped as entries &mdash; but the combination feels like something different and unique.</p>
+
+<p>One point I made to Dan was that it would be a lot better if it weren&#39;t random entries that were duped from clue to entry. Why SEA COW, MACARENA, etc.? &quot;Just because they fit&quot; usually isn&#39;t a good enough rationale for me. It&#39;d be orders of magnitude harder &mdash; maybe impossible &mdash; to work in entries that hint at the puzzle&#39;s theme (maybe DUPLICATION, CLONING, EVIL TWIN, etc.). So I like the balance he achieved, giving us some snazzier answers in TEN CENTS and MACARENA.</p>
+
+<p>I liked a lot of the bonuses in the fill &mdash; TIME STAMP, STARTUP, TARANTINO, CREATINE. And Dan kept his short fill fairly smooth, a tough task given all the themers packed into the grid. SSRS and WIEN were cringe-y outliers, but ELL, NEV, PRES, SENS are mostly ignorable.</p>
+
+<p>I would have liked more bonuses, as things like REANNEX, ENTERER, ALLOWED IN all felt neutral to negative, but that&#39;s tough to do given how much real estate the themers take up.</p>
+
+<p>All in all, I appreciated the novelty of the solve. It felt different. I think different is a great thing for crosswords.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>Hello solvers! This is my second published puzzle, and I&#39;m pretty excited about it. I had the idea late last year in the context of &quot;pointers&quot; in computer programming: a chunk of memory that doesn&#39;t store relevant data itself but instead, points to another location in memory where the data can be found. Seemed an interesting concept to use as a trick in a crossword, so I got to work.</p>
+
+<p>While thinking of words with &quot;digit sounds&quot; in them to cross the location answers, 4WARD popped into my head, which led me to 4WARDING ADDRESS &mdash; a perfect metaphor, and it was 15 characters long. Eureka! The 4 and S both fitting into the xxACROSS answers was a nice bonus, and really tied the theme together.</p>
+
+<p>What made this a bear to construct was that only some digits work as sounds in other words, and adding or removing even a single black square could totally change the entries&#39; numbering. Furthermore, the &quot;forwarded&quot; answers had to be reasonably interesting on their own (thanks to Jeff Chen, who took a look at an early version, for pointing out the importance of that last bit). Put that all together, and you have a lot of constraints to deal with.</p>
+
+<p>It took a ton of work to get it into shape, but eventually, it was ready to submit. Will liked the concept, and after a bit more work it was approved. There was one significant editorial change worth mentioning: originally I had actual clues for the &quot;forwarded&quot; answers, marked with an asterisk, e.g. &quot;Granted access*&quot; at 38-Down instead of &quot;Allowed in&quot;. The destination locations were clued with just an arrow, and the revealer clue was &quot;Something to leave at the post office... or what the answers to the four starred clues each have&quot;. Will felt it would be a little too difficult to make that large a mental leap in solving, so it was changed to what you see now. I&#39;m happy with the result, and proud of the puzzle. Hope you enjoyed it!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

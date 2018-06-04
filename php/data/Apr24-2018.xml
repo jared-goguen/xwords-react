@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Tuesday, April 24, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/24/2018 at 8:54 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Tue, Apr 24, 2018</Title>
+    <Author>Peter Gordon</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/24/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>DEPP.TILES.SKID</Row>
+      <Row>ACRE.ERICA.EIRE</Row>
+      <Row>BRETEASTONELLIS</Row>
+      <Row>SUPERB...GDANSK</Row>
+      <Row>....MAT.HRE....</Row>
+      <Row>.CUBAGOODINGJR.</Row>
+      <Row>GARR.SERTA.RAYS</Row>
+      <Row>OLGA..CCV..IKEA</Row>
+      <Row>DIEZ.CLASP.ZEST</Row>
+      <Row>...IDRISELBA...</Row>
+      <Row>SIDLEUP.TURBINE</Row>
+      <Row>ICRIED...GOESON</Row>
+      <Row>NOMANISANISLAND</Row>
+      <Row>ANON.TENON.LACE</Row>
+      <Row>ISMS.YEARS.ACED</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="DEPP">Johnny of "Chocolat" and "Charlie and the Chocolate Factory"</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="TILES">Pieces in the game Rummikub</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="SKID">Lose control on ice, say</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="ACRE">Unit for surveyors</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="ERICA">"Fear of Flying" author Jong</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="EIRE">Dubliner's home</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="BRETEASTONELLIS">Author of "American Psycho"</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="SUPERB">Magnificent</Clue>
+      <Clue Row="4" Col="10" Num="21" Dir="Across" Ans="GDANSK">Polish seaport</Clue>
+      <Clue Row="5" Col="5" Num="22" Dir="Across" Ans="MAT">Yoga surface</Clue>
+      <Clue Row="5" Col="9" Num="24" Dir="Across" Ans="HRE">Charlemagne's domain: Abbr.</Clue>
+      <Clue Row="6" Col="2" Num="25" Dir="Across" Ans="CUBAGOODINGJR">"Jerry Maguire" Oscar winner</Clue>
+      <Clue Row="7" Col="1" Num="32" Dir="Across" Ans="GARR">Teri with a big "Tootsie" role</Clue>
+      <Clue Row="7" Col="6" Num="33" Dir="Across" Ans="SERTA">Company with numbered sheep plush toys</Clue>
+      <Clue Row="7" Col="12" Num="34" Dir="Across" Ans="RAYS">Southernmost team in the American League</Clue>
+      <Clue Row="8" Col="1" Num="36" Dir="Across" Ans="OLGA">Eldest of Chekhov's "Three Sisters"</Clue>
+      <Clue Row="8" Col="7" Num="37" Dir="Across" Ans="CCV">The year 205</Clue>
+      <Clue Row="8" Col="12" Num="38" Dir="Across" Ans="IKEA">Furniture superstore</Clue>
+      <Clue Row="9" Col="1" Num="39" Dir="Across" Ans="DIEZ">Dos x 5</Clue>
+      <Clue Row="9" Col="6" Num="40" Dir="Across" Ans="CLASP">Bracelet fastener</Clue>
+      <Clue Row="9" Col="12" Num="42" Dir="Across" Ans="ZEST">Piquancy</Clue>
+      <Clue Row="10" Col="4" Num="43" Dir="Across" Ans="IDRISELBA">Star of "Mandela: Long Walk to Freedom"</Clue>
+      <Clue Row="11" Col="1" Num="46" Dir="Across" Ans="SIDLEUP">Approach furtively, with "to"</Clue>
+      <Clue Row="11" Col="9" Num="49" Dir="Across" Ans="TURBINE">Machine that produces power</Clue>
+      <Clue Row="12" Col="1" Num="53" Dir="Across" Ans="ICRIED">Patti Page song that begins "It was winter when you told me you were leaving"</Clue>
+      <Clue Row="12" Col="10" Num="54" Dir="Across" Ans="GOESON">Continues</Clue>
+      <Clue Row="13" Col="1" Num="55" Dir="Across" Ans="NOMANISANISLAND">John Donne quote disproved by 17-, 25- and 43-Across?</Clue>
+      <Clue Row="14" Col="1" Num="59" Dir="Across" Ans="ANON">Ever's partner</Clue>
+      <Clue Row="14" Col="6" Num="60" Dir="Across" Ans="TENON">Mortise's partner</Clue>
+      <Clue Row="14" Col="12" Num="61" Dir="Across" Ans="LACE">13th-anniversary gift</Clue>
+      <Clue Row="15" Col="1" Num="62" Dir="Across" Ans="ISMS">Belief systems</Clue>
+      <Clue Row="15" Col="6" Num="63" Dir="Across" Ans="YEARS">What birthday cake candles represent</Clue>
+      <Clue Row="15" Col="12" Num="64" Dir="Across" Ans="ACED">Passed with flying colors</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="DABS">Brylcreem amounts</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ECRU">Stationery color</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="PREP">Ready for surgery</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="PETE">Sessions of Congress</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="TEABAGS">They're likely to get into hot water</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="IRS">Form letters?</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="LIT">Hammered</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="ECO">Green: Prefix</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="SANGRIA">Drink made with red wine and fruit</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="SELA">Emmy winner Ward</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="KILN">Oven for pottery</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="IRIS">Apt name for an ophthalmologist</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="DESK">Rolltop, e.g.</Clue>
+      <Clue Row="3" Col="5" Num="18" Dir="Down" Ans="ERMA">Humor columnist Bombeck</Clue>
+      <Clue Row="3" Col="11" Num="19" Dir="Down" Ans="EDEN">Genesis garden</Clue>
+      <Clue Row="5" Col="7" Num="23" Dir="Down" Ans="TOECLIP">Pedal attachment on a racing bike</Clue>
+      <Clue Row="5" Col="9" Num="24" Dir="Down" Ans="HDTVSET">Modern hotel room item</Clue>
+      <Clue Row="6" Col="2" Num="25" Dir="Down" Ans="CALI">Colombian city that hosted the 1971 Pan American Games</Clue>
+      <Clue Row="6" Col="3" Num="26" Dir="Down" Ans="URGE">Impulse</Clue>
+      <Clue Row="6" Col="4" Num="27" Dir="Down" Ans="BRAZILIANS">Largest group of Portuguese speakers</Clue>
+      <Clue Row="6" Col="8" Num="28" Dir="Down" Ans="ORCAS">Menaces of the deep</Clue>
+      <Clue Row="6" Col="12" Num="29" Dir="Down" Ans="GRIZABELLA">"Memory" singer in "Cats"</Clue>
+      <Clue Row="6" Col="13" Num="30" Dir="Down" Ans="JAKE">Hunky-dory</Clue>
+      <Clue Row="6" Col="14" Num="31" Dir="Down" Ans="RYES">Deli loaves</Clue>
+      <Clue Row="7" Col="1" Num="32" Dir="Down" Ans="GOD">One of two words added to the Pledge of Allegiance in 1954</Clue>
+      <Clue Row="7" Col="15" Num="35" Dir="Down" Ans="SAT">Wasn't a straphanger</Clue>
+      <Clue Row="9" Col="6" Num="40" Dir="Down" Ans="CRUDITY">Primitiveness</Clue>
+      <Clue Row="9" Col="10" Num="41" Dir="Down" Ans="PLUGINS">Software add-ons that offer extra features</Clue>
+      <Clue Row="10" Col="5" Num="44" Dir="Down" Ans="DEEN">Paula who wrote "It Ain't All About the Cookin'"</Clue>
+      <Clue Row="10" Col="11" Num="45" Dir="Down" Ans="BROS">Some sibs</Clue>
+      <Clue Row="11" Col="1" Num="46" Dir="Down" Ans="SINAI">Egyptian peninsula</Clue>
+      <Clue Row="11" Col="2" Num="47" Dir="Down" Ans="ICONS">Mao and Xi, in China</Clue>
+      <Clue Row="11" Col="3" Num="48" Dir="Down" Ans="DRMOM">She might check for a fever with her hand</Clue>
+      <Clue Row="11" Col="13" Num="50" Dir="Down" Ans="ISAAC">Fashion designer Mizrahi</Clue>
+      <Clue Row="11" Col="14" Num="51" Dir="Down" Ans="NONCE">Time being</Clue>
+      <Clue Row="11" Col="15" Num="52" Dir="Down" Ans="ENDED">Over and done</Clue>
+      <Clue Row="13" Col="7" Num="56" Dir="Down" Ans="SEE">Visualize</Clue>
+      <Clue Row="13" Col="8" Num="57" Dir="Down" Ans="ANA">Santa ___, Calif.</Clue>
+      <Clue Row="13" Col="9" Num="58" Dir="Down" Ans="NOR">Negative conjunction</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Great idea, NO MAN IS AN ISLAND refuted by <strong>CUBA</strong> GOODING JR, IDRIS <strong>ELBA</strong>, and &hellip; BRET EASTON <strong>ELLIS</strong>. I was only vaguely familiar with that last one, but most best-selling authors ought to be crossworthy, yeah?</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Grizabella" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/a/af/Grizabella.jpg" style="border:1px solid lightgray; float:right; height:217px; margin:6px 0px 6px 12px; width:220px" title="She's the &quot;glamour cat&quot;? Really?" /></a></p>
+
+<p>He also felt out of place because no one refers to ELLIS Island as just Ellis (do they?), whereas CUBA and ELBA are islands on their own. Sometimes it&#39;s tough to find enough examples to flesh out a crossword theme, and you have to accept some not-quite-ideal themers.</p>
+
+<p>As Peter said, mirror symmetry is sometimes a lifesaver. The constraints are weird &ndash; it works, as long as all your themers are odd in length, or you have one pair matched by length + two that are odd-numbered in length. But that matched pair can&#39;t be too long!</p>
+
+<p>It&#39;s a very specific set of constraints, but when it works, it works.</p>
+
+<p>You can also do some neat things, like split up PERRY / ELLIS, as it&#39;s 5 / 5. I might have preferred that, myself.</p>
+
+<p>I haven&#39;t been crazy about Peter&#39;s recent low-word-count grids recently, as they introduce too many compromises for an early-week puzzle. Today&#39;s grid felt much stronger, the openness allowing for such goodies as BRAZILIANS and GRIZABELLA. Along with TEABAGS / SANGRIA + PLUG-INS, this was a lot of great material to keep solvers going.</p>
+
+<p>A couple of entries did make me pause:</p>
+
+<ul>
+	<li>GDANSK might be tough for newer solvers, but the crossing answers felt fair. And that GD- start is interesting.</li>
+	<li>CRUDITY made me hitch &ndash; isn&#39;t it usually &quot;crudeness&quot;? CRUDITE, as in the French appetizer, might have been more up my alley, but it&#39;s probably more foreign (yes, pun intended) to less-experienced solvers.</li>
+	<li>HD TV SET also felt slightly off. The SET felt like a tag-on.</li>
+</ul>
+
+<p>But overall, a nice grid. Going down to 72 words can make a good change of pace, as long as the result is smooth, which today&#39;s was.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>The idea for this puzzle came while solving <a href="https://www.stagger-sessions.com/">Andrew Ries&#39;s &quot;Stagger Sessions,&quot; a 20-crossword EP</a>. In one puzzle, ELBA is clued like so:</p>
+
+<p>[Idris who&#39;s a counterargument to John Donne&#39;s &quot;no man is an island&quot; bit]</p>
+
+<p>I immediately noticed that NO MAN IS AN ISLAND is 15 letters, and thought if I could come up with some other men whose names were islands, I might have a theme. All I found were CUBA GOODING JR., BRET EASTON ELLIS, DOCK ELLIS (an All-Star pitcher who supposedly threw a no-hitter while on LSD), and the fashion designer PERRY ELLIS. The ELLIS names didn&#39;t work with the other theme lengths of 9, 13, and 15, so I thought this theme wouldn&#39;t work. But then I realized I could make it a left-right symmetric puzzle, and the grid worked nicely with just 72 words.</p>
+
+<p>I contacted Andrew Ries to make sure he was okay with me adapting his clue into an entire puzzle. He said that he had had the same idea seven years ago, and had CECIL RHODES and JOHN IRELAND on his list, but not CUBA GOODING JR. He said JOHN IRELAND had the problem of repeating LAND with NO MAN IS AN ISLAND, and back then IDRIS ELBA was not nearly as famous as he is now, so he scrapped the idea and ended up incorporating it into the ELBA clue. He gave me the go-ahead for my theme, and here we are.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

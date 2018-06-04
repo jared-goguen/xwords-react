@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Sunday, February 11, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 2/10/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sun, Feb 11, 2018 PARONOMASIA</Title>
+    <Author>Matt Ginsberg</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>2/11/2018</Date>
+    <Size>
+      <Rows>21</Rows>
+      <Cols>21</Cols>
+    </Size>
+    <Grid>
+      <Row>ABLE...WILDE.TET.HADJ</Row>
+      <Row>WOODS.FIVERS.ORATORIO</Row>
+      <Row>ORCHESTRATES.DINETTES</Row>
+      <Row>LEO.RELENTS.LOCKSMITH</Row>
+      <Row>..MOANERS.SPA..ASIF..</Row>
+      <Row>GROUPIES.GERIATRICIAN</Row>
+      <Row>MATTEL..WERE.LODE.CLU</Row>
+      <Row>AMID.EIGHT.EBBS..PIET</Row>
+      <Row>IBOOK.CUES.MOUSETRAPS</Row>
+      <Row>LON.ARENA.FIRM.SAILHO</Row>
+      <Row>...SLED.TIRED.CALM...</Row>
+      <Row>LIFTED.TITO.EERIE.PET</Row>
+      <Row>IDEALOGUES.BALI.SCHMO</Row>
+      <Row>LEVY..ALSO.RUMBA.LACE</Row>
+      <Row>TSE.INRI.PAIX..ROARER</Row>
+      <Row>STRATOSPHERE.DULCIMER</Row>
+      <Row>..ILLS..INB.LINEARA..</Row>
+      <Row>MISTLETOE.ORIGINS.COO</Row>
+      <Row>ISHEDEAD.PROFITEERING</Row>
+      <Row>ALLROUND.RELETS.YASIR</Row>
+      <Row>SAYS.MGS.ODORS...ETTE</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="ABLE">Like most seamen, supposedly</Clue>
+      <Clue Row="1" Col="8" Num="5" Dir="Across" Ans="WILDE">Writer who said "Women are meant to be loved, not to be understood"</Clue>
+      <Clue Row="1" Col="14" Num="10" Dir="Across" Ans="TET">Holiday celebrating the arrival of spring</Clue>
+      <Clue Row="1" Col="18" Num="13" Dir="Across" Ans="HADJ">Islam's final pillar</Clue>
+      <Clue Row="2" Col="1" Num="17" Dir="Across" Ans="WOODS">Non-irons</Clue>
+      <Clue Row="2" Col="7" Num="19" Dir="Across" Ans="FIVERS">Two make a Hamilton</Clue>
+      <Clue Row="2" Col="14" Num="20" Dir="Across" Ans="ORATORIO">Handel's "Messiah," e.g.</Clue>
+      <Clue Row="3" Col="1" Num="22" Dir="Across" Ans="ORCHESTRATES">Narrow passages for killer whales?</Clue>
+      <Clue Row="3" Col="14" Num="24" Dir="Across" Ans="DINETTES">Kitchen nooks</Clue>
+      <Clue Row="4" Col="1" Num="25" Dir="Across" Ans="LEO">Zodiac feline</Clue>
+      <Clue Row="4" Col="5" Num="26" Dir="Across" Ans="RELENTS">Backs down</Clue>
+      <Clue Row="4" Col="13" Num="27" Dir="Across" Ans="LOCKSMITH">Fable about smoked salmon?</Clue>
+      <Clue Row="5" Col="3" Num="28" Dir="Across" Ans="MOANERS">Kvetches</Clue>
+      <Clue Row="5" Col="11" Num="30" Dir="Across" Ans="SPA">Balneotherapy site</Clue>
+      <Clue Row="5" Col="16" Num="32" Dir="Across" Ans="ASIF">"Yeah, right"</Clue>
+      <Clue Row="6" Col="1" Num="33" Dir="Across" Ans="GROUPIES">Raised some vegetables?</Clue>
+      <Clue Row="6" Col="10" Num="35" Dir="Across" Ans="GERIATRICIAN">Decrease in the number of people named Gerald?</Clue>
+      <Clue Row="7" Col="1" Num="40" Dir="Across" Ans="MATTEL">Hot Wheels maker</Clue>
+      <Clue Row="7" Col="9" Num="41" Dir="Across" Ans="WERE">Are no longer</Clue>
+      <Clue Row="7" Col="14" Num="42" Dir="Across" Ans="LODE">Mother ___</Clue>
+      <Clue Row="7" Col="19" Num="43" Dir="Across" Ans="CLU">Gulager of "The Return of the Living Dead"</Clue>
+      <Clue Row="8" Col="1" Num="44" Dir="Across" Ans="AMID">In amongst</Clue>
+      <Clue Row="8" Col="6" Num="45" Dir="Across" Ans="EIGHT">Number of bits in a byte</Clue>
+      <Clue Row="8" Col="12" Num="48" Dir="Across" Ans="EBBS">Gradually diminishes</Clue>
+      <Clue Row="8" Col="18" Num="50" Dir="Across" Ans="PIET">Abstract artist Mondrian</Clue>
+      <Clue Row="9" Col="1" Num="51" Dir="Across" Ans="IBOOK">First mass consumer product offering Wi-Fi</Clue>
+      <Clue Row="9" Col="7" Num="53" Dir="Across" Ans="CUES">Sticks for breaking things</Clue>
+      <Clue Row="9" Col="12" Num="54" Dir="Across" Ans="MOUSETRAPS">Belts for a Chinese leader?</Clue>
+      <Clue Row="10" Col="1" Num="57" Dir="Across" Ans="LON">Chaney who was called "The Man of a Thousand Faces"</Clue>
+      <Clue Row="10" Col="5" Num="58" Dir="Across" Ans="ARENA">Oakland's Oracle, for example</Clue>
+      <Clue Row="10" Col="11" Num="60" Dir="Across" Ans="FIRM">Not budging</Clue>
+      <Clue Row="10" Col="16" Num="61" Dir="Across" Ans="SAILHO">Cry from the mizzen top</Clue>
+      <Clue Row="11" Col="4" Num="62" Dir="Across" Ans="SLED">Conveyance in "Calvin and Hobbes"</Clue>
+      <Clue Row="11" Col="9" Num="63" Dir="Across" Ans="TIRED">Overused</Clue>
+      <Clue Row="11" Col="15" Num="65" Dir="Across" Ans="CALM">Storm harbinger, maybe</Clue>
+      <Clue Row="12" Col="1" Num="66" Dir="Across" Ans="LIFTED">Gave a pick-me-up</Clue>
+      <Clue Row="12" Col="8" Num="69" Dir="Across" Ans="TITO">Josip Broz, familiarly</Clue>
+      <Clue Row="12" Col="13" Num="70" Dir="Across" Ans="EERIE">Like many a campfire story</Clue>
+      <Clue Row="12" Col="19" Num="72" Dir="Across" Ans="PET">Responsibility lesson for a child</Clue>
+      <Clue Row="13" Col="1" Num="75" Dir="Across" Ans="IDEALOGUES">Inventors' diaries?</Clue>
+      <Clue Row="13" Col="12" Num="77" Dir="Across" Ans="BALI">So-called "Island of the Gods"</Clue>
+      <Clue Row="13" Col="17" Num="78" Dir="Across" Ans="SCHMO">Ordinary Joe</Clue>
+      <Clue Row="14" Col="1" Num="80" Dir="Across" Ans="LEVY">Impose</Clue>
+      <Clue Row="14" Col="7" Num="81" Dir="Across" Ans="ALSO">Afterthought indicator</Clue>
+      <Clue Row="14" Col="12" Num="82" Dir="Across" Ans="RUMBA">Well-known Cuban export</Clue>
+      <Clue Row="14" Col="18" Num="84" Dir="Across" Ans="LACE">Fancy collar material</Clue>
+      <Clue Row="15" Col="1" Num="85" Dir="Across" Ans="TSE">Lao-___</Clue>
+      <Clue Row="15" Col="5" Num="86" Dir="Across" Ans="INRI">Crucifixion letters</Clue>
+      <Clue Row="15" Col="10" Num="88" Dir="Across" Ans="PAIX">Guerre's opposite</Clue>
+      <Clue Row="15" Col="16" Num="90" Dir="Across" Ans="ROARER">MGM's lion, e.g.</Clue>
+      <Clue Row="16" Col="1" Num="92" Dir="Across" Ans="STRATOSPHERE">Cloudophobia?</Clue>
+      <Clue Row="16" Col="14" Num="95" Dir="Across" Ans="DULCIMER">Opposite of a strong boil?</Clue>
+      <Clue Row="17" Col="3" Num="97" Dir="Across" Ans="ILLS">Pandora's release</Clue>
+      <Clue Row="17" Col="9" Num="98" Dir="Across" Ans="INB">Like Verdi's "La donna è mobile"</Clue>
+      <Clue Row="17" Col="13" Num="99" Dir="Across" Ans="LINEARA">As-yet-undeciphered Cretan script</Clue>
+      <Clue Row="18" Col="1" Num="100" Dir="Across" Ans="MISTLETOE">What brings the rocket to the pad?</Clue>
+      <Clue Row="18" Col="11" Num="104" Dir="Across" Ans="ORIGINS">Archaeologists' study</Clue>
+      <Clue Row="18" Col="19" Num="106" Dir="Across" Ans="COO">Managerial exec</Clue>
+      <Clue Row="19" Col="1" Num="109" Dir="Across" Ans="ISHEDEAD">Mark Twain farce about a painter who fakes his own demise</Clue>
+      <Clue Row="19" Col="10" Num="110" Dir="Across" Ans="PROFITEERING">Jewelry for the oracle at Delphi?</Clue>
+      <Clue Row="20" Col="1" Num="112" Dir="Across" Ans="ALLROUND">Versatile</Clue>
+      <Clue Row="20" Col="10" Num="113" Dir="Across" Ans="RELETS">Subleases</Clue>
+      <Clue Row="20" Col="17" Num="114" Dir="Across" Ans="YASIR">Arafat of the P.L.O.</Clue>
+      <Clue Row="21" Col="1" Num="115" Dir="Across" Ans="SAYS">What Simon does</Clue>
+      <Clue Row="21" Col="6" Num="116" Dir="Across" Ans="MGS">Classic British roadsters</Clue>
+      <Clue Row="21" Col="10" Num="117" Dir="Across" Ans="ODORS">Rank things</Clue>
+      <Clue Row="21" Col="18" Num="118" Dir="Across" Ans="ETTE">Trix alternative</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="AWOL">Not reporting as instructed, maybe</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="BORE">Induce ennui in</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="LOCOMOTION">Fuss about "The West Wing" actor Rob?</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="EDH">Old English letter</Clue>
+      <Clue Row="1" Col="8" Num="5" Dir="Down" Ans="WIRERS">Electricians</Clue>
+      <Clue Row="1" Col="9" Num="6" Dir="Down" Ans="IVANS">Several Russian czars</Clue>
+      <Clue Row="1" Col="10" Num="7" Dir="Down" Ans="LETT">Resident of Riga</Clue>
+      <Clue Row="1" Col="11" Num="8" Dir="Down" Ans="DRESSER">Cousin of a highboy</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Down" Ans="ESS">Part of a road test track</Clue>
+      <Clue Row="1" Col="14" Num="10" Dir="Down" Ans="TODO">List heading</Clue>
+      <Clue Row="1" Col="15" Num="11" Dir="Down" Ans="ERIC">Runner Liddell depicted in "Chariots of Fire"</Clue>
+      <Clue Row="1" Col="16" Num="12" Dir="Down" Ans="TANKARD">Pub container</Clue>
+      <Clue Row="1" Col="18" Num="13" Dir="Down" Ans="HOTMIC">It might pick up a passing comment</Clue>
+      <Clue Row="1" Col="19" Num="14" Dir="Down" Ans="ARTIFICIAL">Contrived</Clue>
+      <Clue Row="1" Col="20" Num="15" Dir="Down" Ans="DIET">Beverly Hills ___</Clue>
+      <Clue Row="1" Col="21" Num="16" Dir="Down" Ans="JOSH">Kid</Clue>
+      <Clue Row="2" Col="5" Num="18" Dir="Down" Ans="SERAPE">Colorful shawl</Clue>
+      <Clue Row="2" Col="7" Num="19" Dir="Down" Ans="FTLEE">Neighbor of Palisades Park, N.J.</Clue>
+      <Clue Row="2" Col="17" Num="21" Dir="Down" Ans="TESSIE">Chanteuse O'Shea</Clue>
+      <Clue Row="3" Col="6" Num="23" Dir="Down" Ans="SENILE">Declining due to age</Clue>
+      <Clue Row="4" Col="13" Num="27" Dir="Down" Ans="LAI">China's Chou En-___</Clue>
+      <Clue Row="5" Col="4" Num="29" Dir="Down" Ans="OUTDO">Best</Clue>
+      <Clue Row="5" Col="12" Num="31" Dir="Down" Ans="PREEMIE">Early arrival</Clue>
+      <Clue Row="6" Col="1" Num="33" Dir="Down" Ans="GMAIL">Service with more than a billion users</Clue>
+      <Clue Row="6" Col="2" Num="34" Dir="Down" Ans="RAMBO">Recurring role for Stallone</Clue>
+      <Clue Row="6" Col="10" Num="35" Dir="Down" Ans="GETS">Groks</Clue>
+      <Clue Row="6" Col="14" Num="36" Dir="Down" Ans="ALBUM">Philatelist's item</Clue>
+      <Clue Row="6" Col="15" Num="37" Dir="Down" Ans="TOSS">Turn's partner</Clue>
+      <Clue Row="6" Col="20" Num="38" Dir="Down" Ans="ALEPH">Hebrew leader</Clue>
+      <Clue Row="6" Col="21" Num="39" Dir="Down" Ans="NUTSO">Wack</Clue>
+      <Clue Row="7" Col="9" Num="41" Dir="Down" Ans="WHEATIES">Small undergarments?</Clue>
+      <Clue Row="8" Col="7" Num="46" Dir="Down" Ans="ICED">Like some sprains and champagnes</Clue>
+      <Clue Row="8" Col="8" Num="47" Dir="Down" Ans="GUN">Rev</Clue>
+      <Clue Row="8" Col="13" Num="49" Dir="Down" Ans="BORDEAUX">Carried cash around?</Clue>
+      <Clue Row="8" Col="18" Num="50" Dir="Down" Ans="PRIM">Schoolmarmish</Clue>
+      <Clue Row="9" Col="5" Num="52" Dir="Down" Ans="KALEL">Superman's birth name</Clue>
+      <Clue Row="9" Col="16" Num="55" Dir="Down" Ans="ESAI">Morales of "NYPD Blue"</Clue>
+      <Clue Row="9" Col="17" Num="56" Dir="Down" Ans="TALES">Some Poe works</Clue>
+      <Clue Row="10" Col="6" Num="59" Dir="Down" Ans="REDO">Mulligan</Clue>
+      <Clue Row="10" Col="11" Num="60" Dir="Down" Ans="FRO">Un-to</Clue>
+      <Clue Row="11" Col="4" Num="62" Dir="Down" Ans="STAY">Legal pause</Clue>
+      <Clue Row="11" Col="10" Num="64" Dir="Down" Ans="ITSOPEN">"Come on in!"</Clue>
+      <Clue Row="11" Col="15" Num="65" Dir="Down" Ans="CRIB">Home, in slang</Clue>
+      <Clue Row="12" Col="1" Num="66" Dir="Down" Ans="LILTS">Buoyant cadences</Clue>
+      <Clue Row="12" Col="2" Num="67" Dir="Down" Ans="IDEST">"That is," to Caesar</Clue>
+      <Clue Row="12" Col="3" Num="68" Dir="Down" Ans="FEVERISHLY">At a frantic pace</Clue>
+      <Clue Row="12" Col="8" Num="69" Dir="Down" Ans="TULIP">___ bulb</Clue>
+      <Clue Row="12" Col="14" Num="71" Dir="Down" Ans="ELM">Wood often used for bow-making</Clue>
+      <Clue Row="12" Col="19" Num="72" Dir="Down" Ans="PHARMACIST">Help with the harvest?</Clue>
+      <Clue Row="12" Col="20" Num="73" Dir="Down" Ans="EMCEE">V.I.P. at the Oscars</Clue>
+      <Clue Row="12" Col="21" Num="74" Dir="Down" Ans="TOERR">What's human, they say</Clue>
+      <Clue Row="13" Col="7" Num="76" Dir="Down" Ans="GARS">Needle-nosed fish</Clue>
+      <Clue Row="13" Col="12" Num="77" Dir="Down" Ans="BRIE">Grocer's wheel</Clue>
+      <Clue Row="13" Col="18" Num="79" Dir="Down" Ans="CLAIR">"___ de Lune"</Clue>
+      <Clue Row="14" Col="16" Num="83" Dir="Down" Ans="ARLENE">Garfield's girlfriend in "Garfield"</Clue>
+      <Clue Row="15" Col="5" Num="86" Dir="Down" Ans="ITLLDO">Tepid approval</Clue>
+      <Clue Row="15" Col="6" Num="87" Dir="Down" Ans="NOSEEUM">Small, biting fly</Clue>
+      <Clue Row="15" Col="11" Num="89" Dir="Down" Ans="ARBORED">Lined with trees</Clue>
+      <Clue Row="15" Col="17" Num="91" Dir="Down" Ans="OCASEY">Playwright Sean who wrote "Juno and the Paycock"</Clue>
+      <Clue Row="16" Col="4" Num="93" Dir="Down" Ans="ALTERS">Lets out, e.g.</Clue>
+      <Clue Row="16" Col="9" Num="94" Dir="Down" Ans="HIE">Step on it</Clue>
+      <Clue Row="16" Col="14" Num="95" Dir="Down" Ans="DIGITS">All thumbs</Clue>
+      <Clue Row="16" Col="15" Num="96" Dir="Down" Ans="UNITS">Second and fifth</Clue>
+      <Clue Row="17" Col="13" Num="99" Dir="Down" Ans="LIFER">Career employee</Clue>
+      <Clue Row="18" Col="1" Num="100" Dir="Down" Ans="MIAS">G.I.s of concern</Clue>
+      <Clue Row="18" Col="2" Num="101" Dir="Down" Ans="ISLA">Cuba, por ejemplo</Clue>
+      <Clue Row="18" Col="7" Num="102" Dir="Down" Ans="TANG">Drink disliked by Buzz Aldrin [true fact!]</Clue>
+      <Clue Row="18" Col="8" Num="103" Dir="Down" Ans="ODDS">Strangely enough, they're often even</Clue>
+      <Clue Row="18" Col="12" Num="105" Dir="Down" Ans="ROLO">Hershey chocolate</Clue>
+      <Clue Row="18" Col="20" Num="107" Dir="Down" Ans="ONIT">Doing the job</Clue>
+      <Clue Row="18" Col="21" Num="108" Dir="Down" Ans="OGRE">Shrek, for one</Clue>
+      <Clue Row="19" Col="10" Num="110" Dir="Down" Ans="PRO">Voting affirmatively</Clue>
+      <Clue Row="19" Col="18" Num="111" Dir="Down" Ans="RAE">Arctic explorer John</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>What cool finds! ORCHESTRATES sounds like &quot;orca straits&quot; = a neat a-ha moment. I love it when you&#39;re left with a &quot;how in heck did the author find those?&quot; feeling. I missed some of them as I solved, so I highlighted them below. I don&#39;t want anyone to miss WHEATIES as &quot;wee tees&quot;!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Wheaties" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Wheaties_cheerleaders.jpg/440px-Wheaties_cheerleaders.jpg" style="border:1px solid lightgray; float:right; height:165px; margin:6px 0px 6px 12px; width:220px" title="That ain't wee!" /></a></p>
+
+<p>The overall solving experience wasn&#39;t nearly as fun as the themers, though. EDH in the starting corner didn&#39;t bode well. I glunked through about a dozen of these gluey bits, making my solve feel inelegant. A couple of nice bonuses in HOT MIC and ORATORIO didn&#39;t alleviate that.</p>
+
+<p>Why so much gloop? Take another look at the grid highlights below. While it&#39;s an amazing feat to get so much themage interlocked, there&#39;s isn&#39;t a subspace that doesn&#39;t have two or more themers running through it. No Bueno!</p>
+
+<p>After highlighting the themers, my opinion of the puzzle changed &mdash; I would have expected more crossword glue than Matt needed. It&#39;s an amazing job, given the fact that a standard 140-word Sunday puzzle is hard enough to make &hellip;</p>
+
+<p>But it&#39;s still too much fluff. And it was so easy to miss those themers, that even I &mdash; an inconceivably anal constructor &mdash; didn&#39;t see or appreciate the interlock until I did my highlighting. Heck, I missed highlighting a themer and then had to go back through a third time! So I don&#39;t think it&#39;s a good layout for the NYT&#39;s mass audience. Doesn&#39;t do the themers justice.</p>
+
+<p>But some great finds that made me want to go back and appreciate each one. I think it could have been a standout puzzle if the themers had been pared back and then presented in such a way to make them easily noticeable &mdash; perhaps all in the across direction, or even shading the theme squares.</p>
+
+<p>It&#39;s tough when your themers are normal words/phrases, and BORDEAUX is the same length as ORATORIO, DINETTES, IS HE DEAD, ALL ROUND. Way too easy to confuse what&#39;s theme and what&#39;s not.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>This was such a fun puzzle to make; I hope it was as much fun to solve! Since everything is a word, Dr.Fill rips through it with no mistakes in a few seconds.</p>
+
+<p>Will was very kind to my clues this time, using the vast majority of them and, as always, I found some of his changes interesting. I had gone with the slightly edgier [Bridgegate locale] for 19-D and with [Death of a telethon host?] for 35-A. Not sure what people will think of those. Will also removed my slightly political [Company that recalled 18 million products after outsourcing production to China in 2002] for 40-A. I had clued 9-D as [Start of something big] and was sorry to see that changed.<br />
+<br />
+I never know where to clue fill as an abbreviation. So, for example, my clue for 100-D involved a couple of actresses. 110-D was [Am partner], and 106-A was [Baby/pigeon commonality]. I&#39;d love to hear what people think of these changes, and I&#39;ll hopefully learn something!<br />
+<br />
+Mostly, though, I had a great time finding the ever-so-painful puns and then subjecting everyone where I work to them. Hopefully, all of you groaned as much as they did. I guess I&#39;d be remiss not to include some of the words that wound up on the cutting room floor. Here are the clues; the answers are below in a random order.</p>
+
+<ul>
+	<li>What a wild stallion may do</li>
+	<li>Asked for help</li>
+	<li>Like &quot;go fly a kite&quot;</li>
+	<li>Plain ol&#39; spud</li>
+	<li>Drag Karl around</li>
+	<li>Passover celebration for the staff</li>
+</ul>
+
+<ul>
+	<li>COMMENTATOR</li>
+	<li>SAUTEED</li>
+	<li>CRUSADER</li>
+	<li>BUXOM</li>
+	<li>HALLMARKS</li>
+	<li>FORWARDS</li>
+</ul>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

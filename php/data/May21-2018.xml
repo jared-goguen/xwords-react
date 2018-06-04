@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Monday, May 21, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/20/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Mon, May 21, 2018</Title>
+    <Author>Hannah Slovut</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/21/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>JEAN.PALM.HASNT</Row>
+      <Row>ORBS.IPSO.OCHOA</Row>
+      <Row>BABYALBUM.TRAMS</Row>
+      <Row>STANCE...AFIRST</Row>
+      <Row>...CHILDPRODIGY</Row>
+      <Row>EBB..TORINO....</Row>
+      <Row>TEENVOGUE.TOAST</Row>
+      <Row>CAREEN...SIMILE</Row>
+      <Row>HUMOR.ADULTSWIM</Row>
+      <Row>....MODULE..APP</Row>
+      <Row>SENIORMOMENT...</Row>
+      <Row>ACORNS...PEEWEE</Row>
+      <Row>GOTAT.GHOSTTOWN</Row>
+      <Row>ELATE.TERI.ROOD</Row>
+      <Row>SIXER.OXEN.ASKS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="JEAN">Levi's material</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="PALM">Coconut tree</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Across" Ans="HASNT">Lacks, in brief</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="ORBS">The sun and the moon</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="IPSO">___ facto</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Across" Ans="OCHOA">Women's golf star Lorena</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="BABYALBUM">Holder of some precious memories</Clue>
+      <Clue Row="3" Col="11" Num="19" Dir="Across" Ans="TRAMS">Transports between airport terminals</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="STANCE">Position for a baseball batter</Clue>
+      <Clue Row="4" Col="10" Num="21" Dir="Across" Ans="AFIRST">What sending someone to Mars would be</Clue>
+      <Clue Row="5" Col="4" Num="22" Dir="Across" Ans="CHILDPRODIGY">Wunderkind</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Across" Ans="EBB">Recede, as the tide</Clue>
+      <Clue Row="6" Col="6" Num="29" Dir="Across" Ans="TORINO">1960s-'70s Ford named for an Italian city</Clue>
+      <Clue Row="7" Col="1" Num="30" Dir="Across" Ans="TEENVOGUE">Fashion magazine spinoff</Clue>
+      <Clue Row="7" Col="11" Num="33" Dir="Across" Ans="TOAST">"Here's to you!," e.g.</Clue>
+      <Clue Row="8" Col="1" Num="38" Dir="Across" Ans="CAREEN">Turn at high speed</Clue>
+      <Clue Row="8" Col="10" Num="39" Dir="Across" Ans="SIMILE">"As American as apple pie," for example</Clue>
+      <Clue Row="9" Col="1" Num="40" Dir="Across" Ans="HUMOR">Jokes and such</Clue>
+      <Clue Row="9" Col="7" Num="41" Dir="Across" Ans="ADULTSWIM">Popular Cartoon Network programming block</Clue>
+      <Clue Row="10" Col="5" Num="44" Dir="Across" Ans="MODULE">The "M" of NASA's LEM</Clue>
+      <Clue Row="10" Col="13" Num="46" Dir="Across" Ans="APP">Smartphone download</Clue>
+      <Clue Row="11" Col="1" Num="47" Dir="Across" Ans="SENIORMOMENT">Temporary mental lapse</Clue>
+      <Clue Row="12" Col="1" Num="53" Dir="Across" Ans="ACORNS">Squirrel's stash</Clue>
+      <Clue Row="12" Col="10" Num="54" Dir="Across" Ans="PEEWEE">___ Herman (Paul Reubens character)</Clue>
+      <Clue Row="13" Col="1" Num="58" Dir="Across" Ans="GOTAT">Insinuated</Clue>
+      <Clue Row="13" Col="7" Num="59" Dir="Across" Ans="GHOSTTOWN">Place where no one lives anymore</Clue>
+      <Clue Row="14" Col="1" Num="62" Dir="Across" Ans="ELATE">Bring joy to</Clue>
+      <Clue Row="14" Col="7" Num="63" Dir="Across" Ans="TERI">Actress Hatcher</Clue>
+      <Clue Row="14" Col="12" Num="64" Dir="Across" Ans="ROOD">Crucifix</Clue>
+      <Clue Row="15" Col="1" Num="65" Dir="Across" Ans="SIXER">Philadelphia N.B.A. player, informally</Clue>
+      <Clue Row="15" Col="7" Num="66" Dir="Across" Ans="OXEN">Plow pullers</Clue>
+      <Clue Row="15" Col="12" Num="67" Dir="Across" Ans="ASKS">Inquires</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="JOBS">Steve who once headed Apple</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ERAT">The "E" of Q.E.D.</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="ABBA">Swedish pop quartet that won the 1974 Eurovision contest</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="NSYNC">Justin Timberlake's original group</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="PILEITON">Assign two projects, a long reading and several writing assignments, say</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="APB">Police alert, for short</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="LSU">Baton Rouge sch.</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="MOM">Dad's partner</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="HOTFOOTIT">Run fast</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="ACRID">Having a burning smell</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="SHARI">Puppeteer Lewis</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="NOMSG">Request to a waiter</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="TASTY">Yummy</Clue>
+      <Clue Row="3" Col="5" Num="18" Dir="Down" Ans="ACH">German's "Oh!"</Clue>
+      <Clue Row="4" Col="10" Num="21" Dir="Down" Ans="ARN">Prince Valiant's son</Clue>
+      <Clue Row="5" Col="7" Num="23" Dir="Down" Ans="LOG">Item in a grate</Clue>
+      <Clue Row="5" Col="8" Num="24" Dir="Down" Ans="DRU">___ Hill (R&amp;B group)</Clue>
+      <Clue Row="5" Col="9" Num="25" Dir="Down" Ans="PIE">Chart type</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Down" Ans="ETCH">Write on metal, say</Clue>
+      <Clue Row="6" Col="2" Num="27" Dir="Down" Ans="BEAU">Lover boy</Clue>
+      <Clue Row="6" Col="3" Num="28" Dir="Down" Ans="BERM">Road shoulder</Clue>
+      <Clue Row="7" Col="4" Num="31" Dir="Down" Ans="NEO">Prefix with liberal</Clue>
+      <Clue Row="7" Col="5" Num="32" Dir="Down" Ans="VERMONTER">Bernie Sanders, for one</Clue>
+      <Clue Row="7" Col="12" Num="34" Dir="Down" Ans="OMS">Meditation sounds</Clue>
+      <Clue Row="7" Col="13" Num="35" Dir="Down" Ans="AIWA">Onetime electronics giant</Clue>
+      <Clue Row="7" Col="14" Num="36" Dir="Down" Ans="SLIP">Lose one's footing</Clue>
+      <Clue Row="7" Col="15" Num="37" Dir="Down" Ans="TEMP">Worker hired for the day</Clue>
+      <Clue Row="8" Col="10" Num="39" Dir="Down" Ans="SLEEPSIN">Has a lazy Sunday morning, say</Clue>
+      <Clue Row="9" Col="7" Num="41" Dir="Down" Ans="ADM">Naval chief: Abbr.</Clue>
+      <Clue Row="9" Col="8" Num="42" Dir="Down" Ans="DUO">Batman and Robin are a "dynamic" one</Clue>
+      <Clue Row="9" Col="9" Num="43" Dir="Down" Ans="ULM">Einstein's birthplace</Clue>
+      <Clue Row="10" Col="6" Num="45" Dir="Down" Ans="ORS">Where surgeons do surgery, for short</Clue>
+      <Clue Row="11" Col="1" Num="47" Dir="Down" Ans="SAGES">Wise ones</Clue>
+      <Clue Row="11" Col="2" Num="48" Dir="Down" Ans="ECOLI">Bacterium that can help or hurt</Clue>
+      <Clue Row="11" Col="3" Num="49" Dir="Down" Ans="NOTAX">Levy-free</Clue>
+      <Clue Row="11" Col="4" Num="50" Dir="Down" Ans="IRATE">Furious</Clue>
+      <Clue Row="11" Col="11" Num="51" Dir="Down" Ans="NET">Alternative to .com</Clue>
+      <Clue Row="11" Col="12" Num="52" Dir="Down" Ans="TETRA">Prefix with -hedron</Clue>
+      <Clue Row="12" Col="13" Num="55" Dir="Down" Ans="WOOS">Tries to win, as a damsel</Clue>
+      <Clue Row="12" Col="14" Num="56" Dir="Down" Ans="EWOK">Furry "Star Wars" creature</Clue>
+      <Clue Row="12" Col="15" Num="57" Dir="Down" Ans="ENDS">Kills</Clue>
+      <Clue Row="13" Col="7" Num="59" Dir="Down" Ans="GTO">Sporty Pontiac</Clue>
+      <Clue Row="13" Col="8" Num="60" Dir="Down" Ans="HEX">Bewitch</Clue>
+      <Clue Row="13" Col="9" Num="61" Dir="Down" Ans="ORE">It's mined</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Progression, from BABY to CHILD to TEEN to ADULT to SENIOR to &hellip; GHOST? What an unexpected and funny conclusion to the series! I&#39;ve seen this theme done before, but not with that ending. Gave me a big smile &mdash; I like being pleasantly surprised.</p>
+
+<p>So tough to fill a six-themer grid, especially when the puzzle has to run on a Monday (because the theme is so straightforward). Hannah did wel</p>
+
+<p><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Marley%27s_Ghost_-_A_Christmas_Carol_%281843%29%2C_opposite_25_-_BL.jpg/340px-Marley%27s_Ghost_-_A_Christmas_Carol_%281843%29%2C_opposite_25_-_BL.jpg" style="border-color:lightgray; border-style:solid; border-width:1px; float:right; height:250px; margin:6px 0px 6px 12px; width:180px" title="Marley's GHOST, oooooo!" /></p>
+
+<p>l to spread out her themers, going every other row, staggering them left/right.</p>
+
+<p>I like her audacity, working in the juicy HOTFOOT IT and VERMONTER, along with PILE IT ON and SLEEPS IN. Great bonuses!</p>
+
+<p>The grid had too much crossword glue in it for a Monday puzzle, though. Not one I&#39;d give to a newer solver, as the collection of ARN, BERM, ROOD, ULM, ADM might turn them away from crosswords. Some of that is unavoidable &ndash; what else can the U?M pattern be, once the themers are fixed into place? But I think some of it could have been massaged out &mdash; ROOD, for example (in a region only lightly constrained).</p>
+
+<p>It&#39;s so important for Monday to feel accessible to a wide audience. I thought the theme did a great job of that, but not the fill.</p>
+
+<p>Still, a nice progression, with a fantastic punchline. I&#39;m hoping some clever constructor will riff on this for Hindus, where the last themer might somehow tie back to the first one. Reincarnation!</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>I&#39;m super excited to have a crossword published in the New York Times! I&#39;ve only been solving crosswords for about a year and a half&mdash;I began when my cousins introduced me to them over Thanksgiving in 2016. After that, I and was hooked&mdash;I now joke that crosswords are my only hobby.</p>
+
+<p>About a year ago, I was hosting a potluck on World Giraffe Day (June 21), and decided to try to make a crossword with giraffe trivia for my friends. It did not follow the common rules of crosswords (it was asymmetrical and had unchecked squares) but I had a lot of fun making it, and all my friends really enjoyed solving it. After that, I decided to try to construct crosswords to submit to be published.</p>
+
+<p>This is the second puzzle I submitted, and I went through many versions of it trying to get the cleanest fill possible before sending it in. Thank you to my family and friends for always being willing to be test solvers and for tolerating me frequently talking about crosswords! </p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

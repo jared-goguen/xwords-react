@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Friday, April 20, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/20/2018 at 5:41 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Fri, Apr 20, 2018</Title>
+    <Author>Joel Fagliano</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/20/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>DECKCHAIR.TBOLT</Row>
+      <Row>APOLOOHNO.WROTE</Row>
+      <Row>WINEGLASS.EAZYE</Row>
+      <Row>..TEST.HISNHERS</Row>
+      <Row>THIS..DONATE...</Row>
+      <Row>HEN.THIRSTY.EOE</Row>
+      <Row>ELEPHANT.IFONLY</Row>
+      <Row>WINSOME.GRIDDLE</Row>
+      <Row>HOTTUB.OLIVEOIL</Row>
+      <Row>OSS.SUBVOCE.FEE</Row>
+      <Row>...KAREEM..CAST</Row>
+      <Row>STRINGER.DIAN..</Row>
+      <Row>CROWD.PITABREAD</Row>
+      <Row>RELIT.ECOMMERCE</Row>
+      <Row>YEESH.DEEPSTATE</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="DECKCHAIR">Cruise seat</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Across" Ans="TBOLT">Fastener with a crosspiece</Clue>
+      <Clue Row="2" Col="1" Num="15" Dir="Across" Ans="APOLOOHNO">Winner of eight Winter Olympics medals in the 2000s</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Across" Ans="WROTE">Corresponded with</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="WINEGLASS">Household item usually stored upside down</Clue>
+      <Clue Row="3" Col="11" Num="18" Dir="Across" Ans="EAZYE">Rapper who was part of N.W.A</Clue>
+      <Clue Row="4" Col="3" Num="19" Dir="Across" Ans="TEST">Class struggle?</Clue>
+      <Clue Row="4" Col="8" Num="20" Dir="Across" Ans="HISNHERS">Couple's matching pair, informally</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="THIS">___ end up</Clue>
+      <Clue Row="5" Col="7" Num="24" Dir="Across" Ans="DONATE">Pledge drive plea</Clue>
+      <Clue Row="6" Col="1" Num="25" Dir="Across" Ans="HEN">Lady bird</Clue>
+      <Clue Row="6" Col="5" Num="26" Dir="Across" Ans="THIRSTY">Desperately in need of approval, in modern slang</Clue>
+      <Clue Row="6" Col="13" Num="28" Dir="Across" Ans="EOE">Fair-hiring inits.</Clue>
+      <Clue Row="7" Col="1" Num="31" Dir="Across" Ans="ELEPHANT">Animal with the longest gestation, at nearly two years</Clue>
+      <Clue Row="7" Col="10" Num="33" Dir="Across" Ans="IFONLY">"Wouldn't that be nice!"</Clue>
+      <Clue Row="8" Col="1" Num="35" Dir="Across" Ans="WINSOME">Charming</Clue>
+      <Clue Row="8" Col="9" Num="36" Dir="Across" Ans="GRIDDLE">Diner fixture</Clue>
+      <Clue Row="9" Col="1" Num="37" Dir="Across" Ans="HOTTUB">Warm place to chill</Clue>
+      <Clue Row="9" Col="8" Num="38" Dir="Across" Ans="OLIVEOIL">Supply for sautéing</Clue>
+      <Clue Row="10" Col="1" Num="39" Dir="Across" Ans="OSS">Org. in "Inglourious Basterds"</Clue>
+      <Clue Row="10" Col="5" Num="40" Dir="Across" Ans="SUBVOCE">Under the specified word, in a reference book</Clue>
+      <Clue Row="10" Col="13" Num="42" Dir="Across" Ans="FEE">Shipping or handling</Clue>
+      <Clue Row="11" Col="4" Num="43" Dir="Across" Ans="KAREEM">His number 33 is retired by the Lakers</Clue>
+      <Clue Row="11" Col="12" Num="44" Dir="Across" Ans="CAST">Put in play?</Clue>
+      <Clue Row="12" Col="1" Num="45" Dir="Across" Ans="STRINGER">Part-time newspaper employee</Clue>
+      <Clue Row="12" Col="10" Num="48" Dir="Across" Ans="DIAN">Fossey who studied gorillas</Clue>
+      <Clue Row="13" Col="1" Num="50" Dir="Across" Ans="CROWD">Stand too close to</Clue>
+      <Clue Row="13" Col="7" Num="51" Dir="Across" Ans="PITABREAD">Pocket of the Mideast</Clue>
+      <Clue Row="14" Col="1" Num="55" Dir="Across" Ans="RELIT">Back now after going out?</Clue>
+      <Clue Row="14" Col="7" Num="56" Dir="Across" Ans="ECOMMERCE">Net sales</Clue>
+      <Clue Row="15" Col="1" Num="57" Dir="Across" Ans="YEESH">"Oh, for heaven's sake!"</Clue>
+      <Clue Row="15" Col="7" Num="58" Dir="Across" Ans="DEEPSTATE">Entrenched network inside a government</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="DAW">Cousin of a crow</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="EPI">Prefix with -genetic</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="CONTINENTS">Topic of the mnemonic "Eat An Apple As A Nighttime Snack"</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="KLEES">Paintings such as "Cat and Bird" and "The Goldfish"</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="COGS">Teeth</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="HOLT">Otter's den</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="AHA">"How clever!"</Clue>
+      <Clue Row="1" Col="8" Num="8" Dir="Down" Ans="INSHORT">Words of summation</Clue>
+      <Clue Row="1" Col="9" Num="9" Dir="Down" Ans="ROSINS">Anti-slippage substances</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="TWENTYFIVE">With 26-Down, the place of today's puzzle among all New York Times crosswords</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="BRAHE">Kepler's contemporary and assistant</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="OOZE">Muck</Clue>
+      <Clue Row="1" Col="14" Num="13" Dir="Down" Ans="LTYR">Distance in astronomy: Abbr.</Clue>
+      <Clue Row="1" Col="15" Num="14" Dir="Down" Ans="TEES">Shots are taken off of them</Clue>
+      <Clue Row="4" Col="10" Num="21" Dir="Down" Ans="SATIRIC">Like HBO's "Last Week Tonight With John Oliver"</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Down" Ans="THEWHO">100+ million-selling band that once held a Guinness record for loudest concert</Clue>
+      <Clue Row="5" Col="2" Num="23" Dir="Down" Ans="HELIOS">Sol's counterpart</Clue>
+      <Clue Row="5" Col="7" Num="24" Dir="Down" Ans="DINE">Sup</Clue>
+      <Clue Row="6" Col="5" Num="26" Dir="Down" Ans="THOUSANDTH">See 10-Down</Clue>
+      <Clue Row="6" Col="6" Num="27" Dir="Down" Ans="HAMBURG">German city on the Elbe</Clue>
+      <Clue Row="6" Col="13" Num="28" Dir="Down" Ans="ENDOFANERA">Historical transition point</Clue>
+      <Clue Row="6" Col="14" Num="29" Dir="Down" Ans="OLLIES">Simple skate park tricks</Clue>
+      <Clue Row="6" Col="15" Num="30" Dir="Down" Ans="EYELET">Space for a lace</Clue>
+      <Clue Row="7" Col="4" Num="32" Dir="Down" Ans="PST">S.F. winter setting</Clue>
+      <Clue Row="7" Col="12" Num="34" Dir="Down" Ans="ODE">Lit class reading</Clue>
+      <Clue Row="8" Col="9" Num="36" Dir="Down" Ans="GLOM">Stick (onto)</Clue>
+      <Clue Row="9" Col="8" Num="38" Dir="Down" Ans="OVERICE">Not neat</Clue>
+      <Clue Row="10" Col="7" Num="41" Dir="Down" Ans="BEEPED">Confirmed being locked, as a car</Clue>
+      <Clue Row="11" Col="4" Num="43" Dir="Down" Ans="KIWIS">Birds on New Zealand dollar coins</Clue>
+      <Clue Row="11" Col="12" Num="44" Dir="Down" Ans="CARET">"To the power of" symbol</Clue>
+      <Clue Row="12" Col="1" Num="45" Dir="Down" Ans="SCRY">Foretell the future</Clue>
+      <Clue Row="12" Col="2" Num="46" Dir="Down" Ans="TREE">Diagram of possibilities</Clue>
+      <Clue Row="12" Col="3" Num="47" Dir="Down" Ans="ROLE">Capacity</Clue>
+      <Clue Row="12" Col="10" Num="48" Dir="Down" Ans="DAMP">Like unfinished laundry</Clue>
+      <Clue Row="12" Col="11" Num="49" Dir="Down" Ans="IBMS">Some early computers</Clue>
+      <Clue Row="13" Col="9" Num="52" Dir="Down" Ans="TOE">One out of 10</Clue>
+      <Clue Row="13" Col="14" Num="53" Dir="Down" Ans="ACT">A.C.A. part</Clue>
+      <Clue Row="13" Col="15" Num="54" Dir="Down" Ans="DEE">"It's Always Sunny in Philadelphia" woman</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>A couple of weeks ago, someone asked Deb what the little number under the bottom right corner of the grid here at XWord Info represents. (Every thousandth one is a milestone, so we make it a little easier to read today.) Could it be the number of NYT daily crosswords published since the <a href="https://www.xwordinfo.com/PS?date=2/15/1942">very first one in 1942</a>? Why, yes it is, and today marks the TWENTY-FIVE / THOUSANDTH! An accomplishment to celebrate.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Pita" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pita_felafel.jpg/480px-Pita_felafel.jpg" style="border:1px solid lightgray; float:right; height:165px; margin:6px 0px 6px 12px; width:220px" title="Oh, THAT kind of pocket!" /></a></p>
+
+<p>I did wonder why END OF AN ERA is in the puzzle today. A veiled message? Another <a href="https://www.xwordinfo.com/Crossword?date=4/1/2016">April Fool&#39;s Day joke</a>? Nope, just a coincidence. Unless you have something awful to tell us, Joel &hellip; ?</p>
+
+<p>A couple of great entries, DECK CHAIR, PITA BREAD / E-COMMERCE / DEEP STATE. Flashy entries like these don&#39;t need a fantastic clue to make them stand out. But there weren&#39;t as many as I like in a themeless.</p>
+
+<p>Where I thought the puzzle shined was in the cluing. So many fantastic clues that I lost count! I&#39;m usually happy when a themeless has two or three clever instances of wordplay. One that has TMTC (too many to count) makes me overjoyed. Here were my top three:</p>
+
+<ul>
+	<li>[Net sales] is a boring financial term I saw all the time in bschool. I had to squint and blink a lot before figuring out that &quot;net&quot; meant &quot;internet.&quot; Brilliant!</li>
+	<li>I&#39;m terrible at geography, so [Pocket of the Mideast] made me worry. Thankfully, it was all about the PITA pocket.</li>
+	<li>TEST is indeed a [Class struggle?]. Great repurposing of a common phrase.</li>
+</ul>
+
+<p>Note that the first two clues elevated already strong entries, and those entries are stacked! Made for a gold-medal SE corner.</p>
+
+<p>I wondered if Tycho BRAHE / EAZY E might be a killer for some. But EOZY E or EEZY E &hellip; hmm. Tycho BREHE and EEZY E, that I could buy. Probably not the best crossing in the world.</p>
+
+<p>Nice way to commemorate the TWENTY FIVE / THOUSANDTH NYT xw!</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>When Will asked me to make this puzzle for the 25,000 mark of the New York Times Crossword, I was honored and a little intimidated. I haven&#39;t made a themeless crossword in several years, and the bar has gotten so much higher for the smoothness and liveliness of the fill.</p>
+
+<p>From a constructing perspective, anchoring in the two long Down entries put some extra constraints on filling this with as many lively, fresh phrases as possible. I started with that bottom right stack, and built up, finishing in the upper left corner. My focus was on limiting the amount of names and getting solid words and phrases that could receive fun clues. I think a lot of puzzles now look for the flashy modern answer, but to me, something like ELEPHANT or CONTINENTS can be just as good, just because of all of the fun cluing possibilities.</p>
+
+<p>Anyway, here&#39;s to many more Times crosswords in the years to come &mdash; it&#39;s a dream come true to get to make and edit them for a living.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Tuesday, April 10, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/10/2018 at 6:53 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Tue, Apr 10, 2018</Title>
+    <Author>Alan Arbesfeld</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/10/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>SNUB.OPEDS.TAZO</Row>
+      <Row>EARL.KIROV.ADIN</Row>
+      <Row>CYBERSPACE.URLS</Row>
+      <Row>..ADO..SELA.ACE</Row>
+      <Row>ERN.SILENTNIGHT</Row>
+      <Row>SIMCITY.TENN...</Row>
+      <Row>SAYONARA..ANGST</Row>
+      <Row>ATTY.LARVA.AONE</Row>
+      <Row>YAHOO..CITATION</Row>
+      <Row>...TISH.TREETOP</Row>
+      <Row>SCIENCEFAIR.ATM</Row>
+      <Row>TIC.KARL..ISL..</Row>
+      <Row>AREA.PSYCHEDOUT</Row>
+      <Row>ICAN.EENIE.ANKA</Row>
+      <Row>NEXT.SYNOD.KEEN</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="SNUB">Cold-shoulder</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="OPEDS">Opinion pieces</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="TAZO">Brand of tea</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="EARL">___ Grey tea</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="KIROV">Russian ballet company</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="ADIN">Score before deuce, maybe</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="CYBERSPACE">The online world</Clue>
+      <Clue Row="3" Col="12" Num="19" Dir="Across" Ans="URLS">They help you access 17-Across, for short</Clue>
+      <Clue Row="4" Col="3" Num="20" Dir="Across" Ans="ADO">Commotion</Clue>
+      <Clue Row="4" Col="8" Num="21" Dir="Across" Ans="SELA">Actress Ward of "Sisters"</Clue>
+      <Clue Row="4" Col="13" Num="23" Dir="Across" Ans="ACE">King topper</Clue>
+      <Clue Row="5" Col="1" Num="24" Dir="Across" Ans="ERN">Ending with east or west</Clue>
+      <Clue Row="5" Col="5" Num="26" Dir="Across" Ans="SILENTNIGHT">Song whose first verse ends "Sleep in heavenly peace"</Clue>
+      <Clue Row="6" Col="1" Num="30" Dir="Across" Ans="SIMCITY">Pioneering building game for computers</Clue>
+      <Clue Row="6" Col="9" Num="32" Dir="Across" Ans="TENN">Graceland's home: Abbr.</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Across" Ans="SAYONARA">Japanese farewell</Clue>
+      <Clue Row="7" Col="11" Num="35" Dir="Across" Ans="ANGST">Woody Allen emotion</Clue>
+      <Clue Row="8" Col="1" Num="39" Dir="Across" Ans="ATTY">Court fig.</Clue>
+      <Clue Row="8" Col="6" Num="40" Dir="Across" Ans="LARVA">Grub or maggot</Clue>
+      <Clue Row="8" Col="12" Num="43" Dir="Across" Ans="AONE">Top-notch</Clue>
+      <Clue Row="9" Col="1" Num="44" Dir="Across" Ans="YAHOO">"Whoopee!"</Clue>
+      <Clue Row="9" Col="8" Num="46" Dir="Across" Ans="CITATION">1948 Triple Crown winner</Clue>
+      <Clue Row="10" Col="4" Num="48" Dir="Across" Ans="TISH">Mrs. Addams, to Gomez</Clue>
+      <Clue Row="10" Col="9" Num="51" Dir="Across" Ans="TREETOP">Star's spot at Christmas</Clue>
+      <Clue Row="11" Col="1" Num="52" Dir="Across" Ans="SCIENCEFAIR">Big school event attended by parents</Clue>
+      <Clue Row="11" Col="13" Num="56" Dir="Across" Ans="ATM">Source of PIN money?</Clue>
+      <Clue Row="12" Col="1" Num="57" Dir="Across" Ans="TIC">Spasm</Clue>
+      <Clue Row="12" Col="5" Num="58" Dir="Across" Ans="KARL">Marx who co-wrote "The Communist Manifesto"</Clue>
+      <Clue Row="12" Col="11" Num="59" Dir="Across" Ans="ISL">Manhattan, for one: Abbr.</Clue>
+      <Clue Row="13" Col="1" Num="61" Dir="Across" Ans="AREA">One-half base x height, for a triangle</Clue>
+      <Clue Row="13" Col="6" Num="63" Dir="Across" Ans="PSYCHEDOUT">Undermined the confidence of</Clue>
+      <Clue Row="14" Col="1" Num="68" Dir="Across" Ans="ICAN">Volunteer's offer</Clue>
+      <Clue Row="14" Col="6" Num="69" Dir="Across" Ans="EENIE">Start of a kid's choosing rhyme</Clue>
+      <Clue Row="14" Col="12" Num="70" Dir="Across" Ans="ANKA">"Puppy Love" hitmaker, 1960</Clue>
+      <Clue Row="15" Col="1" Num="71" Dir="Across" Ans="NEXT">On deck</Clue>
+      <Clue Row="15" Col="6" Num="72" Dir="Across" Ans="SYNOD">Church council</Clue>
+      <Clue Row="15" Col="12" Num="73" Dir="Across" Ans="KEEN">Sharp</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="SEC">Jiffy</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="NAY">"I vote no"</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="URBANMYTH">Story debunked on Snopes.com</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="BLED">Ran, as fabric dye</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="OKS">Signs off on</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="PIP">Backup singer for Gladys Knight</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="ERASE">Wipe the board clean</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="DOCENT">Museum guide</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="SVELTE">Gracefully thin</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="TAU">Greek letter shaped like a cross</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="ADRAG">"What ___ it is getting old" (Rolling Stones lyric)</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="ZILCH">Nothing, informally</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="ONSET">Beginning</Clue>
+      <Clue Row="3" Col="5" Num="18" Dir="Down" Ans="ROSIN">Bagful on a pitcher's mound</Clue>
+      <Clue Row="4" Col="11" Num="22" Dir="Down" Ans="ANNA">Fashion's Wintour</Clue>
+      <Clue Row="5" Col="1" Num="24" Dir="Down" Ans="ESSAY">Optional part of the SAT</Clue>
+      <Clue Row="5" Col="2" Num="25" Dir="Down" Ans="RIATA">Cowboy's lasso</Clue>
+      <Clue Row="5" Col="6" Num="27" Dir="Down" Ans="ITAL">Slanted type: Abbr.</Clue>
+      <Clue Row="5" Col="7" Num="28" Dir="Down" Ans="LYRA">Constellation named for a stringed instrument</Clue>
+      <Clue Row="5" Col="12" Num="29" Dir="Down" Ans="INNATE">Present at birth</Clue>
+      <Clue Row="6" Col="4" Num="31" Dir="Down" Ans="COYOTE">Wild animal that yips</Clue>
+      <Clue Row="7" Col="8" Num="34" Dir="Down" Ans="ARC">Path followed by a shooting star</Clue>
+      <Clue Row="7" Col="13" Num="36" Dir="Down" Ans="GOITALONE">Eschew help</Clue>
+      <Clue Row="7" Col="14" Num="37" Dir="Down" Ans="SNOOT">Supercilious sort</Clue>
+      <Clue Row="7" Col="15" Num="38" Dir="Down" Ans="TENPM">Local news hour, on some stations</Clue>
+      <Clue Row="8" Col="9" Num="41" Dir="Down" Ans="VITA">"La Dolce ___"</Clue>
+      <Clue Row="8" Col="10" Num="42" Dir="Down" Ans="ATRI">Longfellow's bell town</Clue>
+      <Clue Row="9" Col="5" Num="45" Dir="Down" Ans="OINK">Sound on Old MacDonald's farm</Clue>
+      <Clue Row="9" Col="11" Num="47" Dir="Down" Ans="AERIE">High home for a hawk</Clue>
+      <Clue Row="10" Col="6" Num="49" Dir="Down" Ans="SCAPES">Scenic vistas, briefly</Clue>
+      <Clue Row="10" Col="7" Num="50" Dir="Down" Ans="HERSEY">"Hiroshima" author John</Clue>
+      <Clue Row="11" Col="1" Num="52" Dir="Down" Ans="STAIN">Blemish on one's reputation</Clue>
+      <Clue Row="11" Col="2" Num="53" Dir="Down" Ans="CIRCE">"Odyssey" temptress</Clue>
+      <Clue Row="11" Col="3" Num="54" Dir="Down" Ans="ICEAX">Alpine climbing tool</Clue>
+      <Clue Row="11" Col="8" Num="55" Dir="Down" Ans="FLYNN">Swashbuckling Errol</Clue>
+      <Clue Row="12" Col="12" Num="60" Dir="Down" Ans="SDAK">Badlands locale: Abbr.</Clue>
+      <Clue Row="13" Col="4" Num="62" Dir="Down" Ans="ANT">Picnic pest</Clue>
+      <Clue Row="13" Col="9" Num="64" Dir="Down" Ans="CIO">Grp. in a 1955 labor merger</Clue>
+      <Clue Row="13" Col="10" Num="65" Dir="Down" Ans="HED">"If only ___ listened ..."</Clue>
+      <Clue Row="13" Col="14" Num="66" Dir="Down" Ans="UKE">Luau instrument, familiarly</Clue>
+      <Clue Row="13" Col="15" Num="67" Dir="Down" Ans="TAN">Shade darker than beige</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Okay, you all know the joke I&#39;m going to make. But I&#39;m still going to do it. Just hold on a sec while I analyze the puzzle.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Citation_(horse)" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Citation_%28USA%29.jpg" style="border:1px solid lightgray; float:right; height:182px; margin:6px 0px 6px 12px; width:220px" title="PSYTATION, with a Gangnam style pose" /></a></p>
+
+<p>I couldn&#39;t quite figure out what the theme was at first. The themers &hellip; start with the same sound? CY, SI, SCI, PSY? Oh, wait. SAY and CI also have this sound, in SAYONARA and CITATION? Okay, that&#39;s pretty interesting, how many ways the sound can be spelled.</p>
+
+<p>Another cool element: I couldn&#39;t come up with any other entries that would fit, with a different spelling of that sound. There&#39;s PSI, but PSI OMEGA or something doesn&#39;t work in the same way, as PSI is a full word. So I appreciated the tightness of the theme, a full set of six.</p>
+
+<p>But the grid execution &hellip;</p>
+
+<p>SIGH.</p>
+
+<p>(You couldn&#39;t expect me to resist that, could you?)</p>
+
+<p>Way too much crossword glue. These days, a puzzle can&#39;t allow TENN ERN RIATA SDAK UKE ATRI anymore, unless it was all working for an incredible theme. What ADRAG, indeed.</p>
+
+<p>Yes, it&#39;s tough to execute on six themers, all of them pretty long. But there are a lot of ways of executing on six themers that work much better.</p>
+
+<ul>
+	<li>Swapping the shorter answers, SAYONARA / CITATION, with SILENT NIGHT / SCIENCE FAIR, often produces better spacing.</li>
+	<li>You can also try squishing themers together, say in rows 3 and 4.</li>
+	<li>Or putting two of the themers vertical.</li>
+	<li>Or perhaps sacrificing some of the long fill. URBAN MYTH and GO IT ALONE are nice, but not if the price to pay in terms of crossword glue is so high.</li>
+</ul>
+
+<p>Although I had to think about the theme a lot, it&#39;s a neat concept. (Or maybe <em>because</em> I had to think about it?) But the gridwork let the puzzle down.</p>]]></JeffNotes>
+  </Puzzle>
+</Puzzles>

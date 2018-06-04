@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Monday, May 14, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/13/2018 at 3:14 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Mon, May 14, 2018</Title>
+    <Author>Andrea Carla Michaels</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/14/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>LEER.OBLA.POULT</Row>
+      <Row>ARTE.FUEL.LUCIE</Row>
+      <Row>BITEVALVE.ATLAS</Row>
+      <Row>SCUBA.KICKSTART</Row>
+      <Row>...ORBS..EMO...</Row>
+      <Row>LILKIM.DIY.WAIL</Row>
+      <Row>ANO.EOSIN.TINNY</Row>
+      <Row>SCRATCHANDSNIFF</Row>
+      <Row>SURLY.ELSIE.SET</Row>
+      <Row>OREL.PAS.ELDERS</Row>
+      <Row>...OTC..AMIE...</Row>
+      <Row>PUNCHBOWL.OUGHT</Row>
+      <Row>AROAR.FIGHTCLUB</Row>
+      <Row>PLUTO.FRAU.EELS</Row>
+      <Row>ASNEW.SEEM.SNAP</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="LEER">Wolfish look</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="OBLA">Lead-in to "di" or "da" in a Beatles song</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Across" Ans="POULT">Fowl raised for food</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="ARTE">Commedia dell'___</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="FUEL">Gas, oil or coal</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Across" Ans="LUCIE">Port St. ___, Fla.</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="BITEVALVE">End of a drinking hose</Clue>
+      <Clue Row="3" Col="11" Num="19" Dir="Across" Ans="ATLAS">Rand McNally volume</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="SCUBA">Diving gear</Clue>
+      <Clue Row="4" Col="7" Num="21" Dir="Across" Ans="KICKSTART">Get going, as an old motorcycle or a new company</Clue>
+      <Clue Row="5" Col="4" Num="23" Dir="Across" Ans="ORBS">Spheres, in poetry</Clue>
+      <Clue Row="5" Col="10" Num="25" Dir="Across" Ans="EMO">Angsty music genre</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Across" Ans="LILKIM">Rapper with the 1996 double-platinum album "Hard Core"</Clue>
+      <Clue Row="6" Col="8" Num="29" Dir="Across" Ans="DIY">Handyman's inits.</Clue>
+      <Clue Row="6" Col="12" Num="31" Dir="Across" Ans="WAIL">What sirens do</Clue>
+      <Clue Row="7" Col="1" Num="35" Dir="Across" Ans="ANO">Enero begins it</Clue>
+      <Clue Row="7" Col="5" Num="36" Dir="Across" Ans="EOSIN">Certain red dye</Clue>
+      <Clue Row="7" Col="11" Num="38" Dir="Across" Ans="TINNY">Having a high metallic sound</Clue>
+      <Clue Row="8" Col="1" Num="39" Dir="Across" Ans="SCRATCHANDSNIFF">Like some magazine perfume ads</Clue>
+      <Clue Row="9" Col="1" Num="42" Dir="Across" Ans="SURLY">Ill-tempered</Clue>
+      <Clue Row="9" Col="7" Num="43" Dir="Across" Ans="ELSIE">Borden milk's cow</Clue>
+      <Clue Row="9" Col="13" Num="44" Dir="Across" Ans="SET">6-3 or 7-6, e.g.</Clue>
+      <Clue Row="10" Col="1" Num="45" Dir="Across" Ans="OREL">Cy Young Award winner Hershiser</Clue>
+      <Clue Row="10" Col="6" Num="46" Dir="Across" Ans="PAS">Faux ___</Clue>
+      <Clue Row="10" Col="10" Num="47" Dir="Across" Ans="ELDERS">Tribal leaders</Clue>
+      <Clue Row="11" Col="4" Num="49" Dir="Across" Ans="OTC">Like non-Rx drugs</Clue>
+      <Clue Row="11" Col="9" Num="51" Dir="Across" Ans="AMIE">Female friend of François</Clue>
+      <Clue Row="12" Col="1" Num="52" Dir="Across" Ans="PUNCHBOWL">Party vessel with a ladle</Clue>
+      <Clue Row="12" Col="11" Num="57" Dir="Across" Ans="OUGHT">"There ___ to be a law!"</Clue>
+      <Clue Row="13" Col="1" Num="61" Dir="Across" Ans="AROAR">Loud, as a crowd</Clue>
+      <Clue Row="13" Col="7" Num="62" Dir="Across" Ans="FIGHTCLUB">1999 Brad Pitt movie hinted at by the beginnings of 17-, 21-, 39- and 52-Across</Clue>
+      <Clue Row="14" Col="1" Num="64" Dir="Across" Ans="PLUTO">Planet demoted to "dwarf planet" in 2006</Clue>
+      <Clue Row="14" Col="7" Num="65" Dir="Across" Ans="FRAU">Woman of the Haus</Clue>
+      <Clue Row="14" Col="12" Num="66" Dir="Across" Ans="EELS">Fishes that may shock you</Clue>
+      <Clue Row="15" Col="1" Num="67" Dir="Across" Ans="ASNEW">Good ___ (repaired perfectly)</Clue>
+      <Clue Row="15" Col="7" Num="68" Dir="Across" Ans="SEEM">Appear (to be)</Clue>
+      <Clue Row="15" Col="12" Num="69" Dir="Across" Ans="SNAP">Go bananas</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="LABS">Parts of science courses</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ERIC">"Spamalot" creator Idle</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="ETTU">Caesar's rebuke to Brutus</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="REEBOK">Nike competitor</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="OFA">Birds ___ feather</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="BULKS">Gains muscle, with "up"</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="LEVI">Blue jeans pioneer Strauss</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="ALEC">Trump portrayer Baldwin</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="PLASM">Blood fluid</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="OUTTOWIN">Not just playing for fun</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="UCLA">The N.C.A.A.'s Bruins</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="LIAR">Word repeated before "pants on fire"</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="TEST">Word repeated while tapping a microphone</Clue>
+      <Clue Row="3" Col="5" Num="18" Dir="Down" Ans="VARIETY">Magazine of show business</Clue>
+      <Clue Row="4" Col="10" Num="22" Dir="Down" Ans="KEY">Code breaker</Clue>
+      <Clue Row="5" Col="6" Num="24" Dir="Down" Ans="BMOC">Fellow who might be senior class president, for short</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Down" Ans="LASSO">Rope in a Wild West show</Clue>
+      <Clue Row="6" Col="2" Num="27" Dir="Down" Ans="INCUR">Run up, as expenses</Clue>
+      <Clue Row="6" Col="3" Num="28" Dir="Down" Ans="LORRE">Peter of "The Maltese Falcon"</Clue>
+      <Clue Row="6" Col="8" Num="29" Dir="Down" Ans="DIALS">Uses a rotary phone</Clue>
+      <Clue Row="6" Col="9" Num="30" Dir="Down" Ans="INNS">Bed-and-breakfasts</Clue>
+      <Clue Row="6" Col="13" Num="32" Dir="Down" Ans="ANISE">Licorice flavoring</Clue>
+      <Clue Row="6" Col="14" Num="33" Dir="Down" Ans="INFER">Derive by logic</Clue>
+      <Clue Row="6" Col="15" Num="34" Dir="Down" Ans="LYFTS">Alternatives to Ubers</Clue>
+      <Clue Row="7" Col="7" Num="37" Dir="Down" Ans="SHEA">Mets' former ballpark</Clue>
+      <Clue Row="7" Col="11" Num="38" Dir="Down" Ans="TSELIOT">Poet whose work inspired "Cats"</Clue>
+      <Clue Row="8" Col="4" Num="40" Dir="Down" Ans="ALLOCATE">Distribute, as resources</Clue>
+      <Clue Row="8" Col="10" Num="41" Dir="Down" Ans="DIEM">Carpe ___ (seize the day: Lat.)</Clue>
+      <Clue Row="10" Col="6" Num="46" Dir="Down" Ans="PCB">Banned pollutant, in brief</Clue>
+      <Clue Row="10" Col="12" Num="48" Dir="Down" Ans="DEUCES">Cards that may be "wild" in poker</Clue>
+      <Clue Row="11" Col="5" Num="50" Dir="Down" Ans="THROW">Lose on purpose</Clue>
+      <Clue Row="11" Col="9" Num="51" Dir="Down" Ans="ALGAE">Fish tank gunk</Clue>
+      <Clue Row="12" Col="1" Num="52" Dir="Down" Ans="PAPA">"___ Was a Rollin' Stone" (Temptations hit)</Clue>
+      <Clue Row="12" Col="2" Num="53" Dir="Down" Ans="URLS">Addresses that may be linked on the web</Clue>
+      <Clue Row="12" Col="3" Num="54" Dir="Down" Ans="NOUN">Person, place or thing</Clue>
+      <Clue Row="12" Col="7" Num="55" Dir="Down" Ans="OFFS">Murders, mob-style</Clue>
+      <Clue Row="12" Col="8" Num="56" Dir="Down" Ans="WIRE">Hide a mike on</Clue>
+      <Clue Row="12" Col="13" Num="58" Dir="Down" Ans="GLEN">Campbell who sang "By the Time I Get to Phoenix"</Clue>
+      <Clue Row="12" Col="14" Num="59" Dir="Down" Ans="HULA">Hawaiian dance</Clue>
+      <Clue Row="12" Col="15" Num="60" Dir="Down" Ans="TBSP">Recipe measure: Abbr.</Clue>
+      <Clue Row="13" Col="10" Num="63" Dir="Down" Ans="HUM">Vocalize on a kazoo</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>FIGHT CLUB! Now that was a movie that surprised and delighted me, in oddly unexpected ways. Acme plays on it today, hiding fighting words at the starts of phrases. KICK and PUNCH &hellip; them&#39;s fighting words!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Fight_Club" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:168px" title="First rule of FIGHT CLUB: no biting!" /></a></p>
+
+<p>Don&#39;t groan. You knew I was going to say it.</p>
+
+<p>BITE and SCRATCH weren&#39;t as apt for me, as they don&#39;t seem very FIGHT CLUB to me. Man, that movie was violent! BITE and SCRATCH seem more appropriate for a Three Stooges routine.</p>
+
+<p>Of the themers, I liked PUNCH BOWL best, because it hides the meaning of PUNCH completely ... unless you&#39;re Tyler Durden, in which case you might actually punch a PUNCH BOWL. Talk about anger management issues.</p>
+
+<p>KICKSTART also hid the KICK meaning a little, since &quot;kickstarting&quot; a project goes away from a kickstarter on a motorcycle. You do sort of kick a motorcycle&#39;s kickstarter, though.</p>
+
+<p>BITE and SCRATCH don&#39;t hide their meanings at all within BITE VALVE and SCRATCH AND SNIFF. You literally bite a BITE VALVE in order to get water to throw. So again, I wasn&#39;t a fan of these two themer choices.</p>
+
+<p>THROW is in the fill? I&#39;d have greatly preferred to keep it out, especially since THROW is much more Durden-esque than SCRATCH. (Hmm, THROW RUG?)</p>
+
+<p>A couple of blips in the fill, noticeably ARTE, OBLA, OFA right off the top. I think the latter two could have been avoided by spacing out the themers more. Putting KICK START in row five (instead of row four) would have allowed for a couple of black squares separating BITE VALVE and KICK START, allowing them to play more nicely together.</p>
+
+<p>EOSIN is such a toughie. Normally I don&#39;t classify anything as &quot;not Monday material&quot; &ndash; if the crossings are fair, what&#39;s the harm in forcing solvers to learn one new thing? But even having a pharma background, EOSIN feels like it could elicit a &quot;I have to know trivia to do crosswords?&quot; response from newbies. No bueno!</p>
+
+<p>All in all, a good memory jog to a movie I enjoyed. Some missteps in execution, though.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>This is the kind of puzzle that used to just need three long themers, but Will has challenged me to go for at least four including a reveal. This one has four PLUS a punchline. Lots of theme fill to get into a Monday.</p>
+
+<p>I had never heard of a BITEWRENCH but I needed a BITE other than BITESIZED so it would have a different meaning for BITE. Proud it&#39;s not been used.</p>
+
+<p>Recently went to hear David Mamet speak and he pointed out TSELIOT was an anagram of TOILETS. That was my takeaway from the Pulitzer Prize winner!<br />
+(And appears as 38-Down)</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

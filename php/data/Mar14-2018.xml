@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Wednesday, March 14, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/14/2018 at 7:50 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Wed, Mar 14, 2018</Title>
+    <Author>Jeff Chen</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/14/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>RCA.UMP...SMOKY</Row>
+      <Row>ARE.ZORK.SECURE</Row>
+      <Row>ZEROINON.ASHTON</Row>
+      <Row>ODOR.CSINY.AINT</Row>
+      <Row>ROSS.HOTOATMEAL</Row>
+      <Row>..MOOED.WHAM...</Row>
+      <Row>RBI.KRIS..REMUS</Row>
+      <Row>ARTIFICIALGRASS</Row>
+      <Row>JOHNI..TREE.KEN</Row>
+      <Row>...KNOT.GOTME..</Row>
+      <Row>BARBERSHOP.ASPS</Row>
+      <Row>IDOL.SAUNA.IBET</Row>
+      <Row>ROBOTO.MARINARA</Row>
+      <Row>CRETIN.SUDS.NSC</Row>
+      <Row>HESSE...TSP.KEY</Row>
+    </Grid>
+    <Circles>
+      <Circle Row="3" Col="4" />
+      <Circle Row="3" Col="5" />
+      <Circle Row="3" Col="6" />
+      <Circle Row="3" Col="7" />
+      <Circle Row="3" Col="8" />
+      <Circle Row="5" Col="7" />
+      <Circle Row="5" Col="8" />
+      <Circle Row="5" Col="9" />
+      <Circle Row="5" Col="10" />
+      <Circle Row="5" Col="11" />
+      <Circle Row="5" Col="12" />
+      <Circle Row="8" Col="7" />
+      <Circle Row="8" Col="8" />
+      <Circle Row="8" Col="9" />
+      <Circle Row="8" Col="10" />
+      <Circle Row="8" Col="11" />
+      <Circle Row="8" Col="12" />
+      <Circle Row="11" Col="4" />
+      <Circle Row="11" Col="5" />
+      <Circle Row="11" Col="6" />
+      <Circle Row="11" Col="7" />
+      <Circle Row="11" Col="8" />
+    </Circles>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="RCA">Early maker of color TVs</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Across" Ans="UMP">Stereotypically "blind" official, for short</Clue>
+      <Clue Row="1" Col="11" Num="7" Dir="Across" Ans="SMOKY">Like a cigar bar's atmosphere</Clue>
+      <Clue Row="2" Col="1" Num="12" Dir="Across" Ans="ARE">"___ we there yet?"</Clue>
+      <Clue Row="2" Col="5" Num="13" Dir="Across" Ans="ZORK">Pioneering text adventure game</Clue>
+      <Clue Row="2" Col="10" Num="15" Dir="Across" Ans="SECURE">Impervious to hackers</Clue>
+      <Clue Row="3" Col="1" Num="16" Dir="Across" Ans="ZEROINON">Take dead aim at</Clue>
+      <Clue Row="3" Col="10" Num="18" Dir="Across" Ans="ASHTON">Kutcher who played Steve Jobs in "Jobs"</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="ODOR">Locker room emanation</Clue>
+      <Clue Row="4" Col="6" Num="20" Dir="Across" Ans="CSINY">CBS series that starred Gary Sinise</Clue>
+      <Clue Row="4" Col="12" Num="22" Dir="Across" Ans="AINT">Colloquial contraction</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Across" Ans="ROSS">"Friends" character ___ Geller</Clue>
+      <Clue Row="5" Col="6" Num="24" Dir="Across" Ans="HOTOATMEAL">Breakfast order often containing cinnamon</Clue>
+      <Clue Row="6" Col="3" Num="26" Dir="Across" Ans="MOOED">Made a cattle call</Clue>
+      <Clue Row="6" Col="9" Num="28" Dir="Across" Ans="WHAM">"Kapow!"</Clue>
+      <Clue Row="7" Col="1" Num="29" Dir="Across" Ans="RBI">Result of a successful squeeze bunt, for short</Clue>
+      <Clue Row="7" Col="5" Num="31" Dir="Across" Ans="KRIS">Jenner of reality TV</Clue>
+      <Clue Row="7" Col="11" Num="33" Dir="Across" Ans="REMUS">Storytelling uncle of fiction</Clue>
+      <Clue Row="8" Col="1" Num="37" Dir="Across" Ans="ARTIFICIALGRASS">Indoor stadium surface</Clue>
+      <Clue Row="9" Col="1" Num="41" Dir="Across" Ans="JOHNI">First in a line of 23 popes</Clue>
+      <Clue Row="9" Col="8" Num="42" Dir="Across" Ans="TREE">Ancestry.com diagram</Clue>
+      <Clue Row="9" Col="13" Num="43" Dir="Across" Ans="KEN">Jennings who wrote "Brainiac"</Clue>
+      <Clue Row="10" Col="4" Num="44" Dir="Across" Ans="KNOT">Garden hose annoyance</Clue>
+      <Clue Row="10" Col="9" Num="47" Dir="Across" Ans="GOTME">"Hell if I know"</Clue>
+      <Clue Row="11" Col="1" Num="49" Dir="Across" Ans="BARBERSHOP">A cappella genre</Clue>
+      <Clue Row="11" Col="12" Num="53" Dir="Across" Ans="ASPS">Hieroglyphics snakes</Clue>
+      <Clue Row="12" Col="1" Num="56" Dir="Across" Ans="IDOL">Fanzine favorite</Clue>
+      <Clue Row="12" Col="6" Num="57" Dir="Across" Ans="SAUNA">Spa amenity that originated in Finland</Clue>
+      <Clue Row="12" Col="12" Num="58" Dir="Across" Ans="IBET">"Su-u-u-ure it is"</Clue>
+      <Clue Row="13" Col="1" Num="59" Dir="Across" Ans="ROBOTO">"Mr. ___" (1983 Styx hit)</Clue>
+      <Clue Row="13" Col="8" Num="61" Dir="Across" Ans="MARINARA">Sauce made from ingredients mixed up in 16-, 24-, 37- and 49-Across</Clue>
+      <Clue Row="14" Col="1" Num="63" Dir="Across" Ans="CRETIN">Simpleton, disparagingly</Clue>
+      <Clue Row="14" Col="8" Num="64" Dir="Across" Ans="SUDS">Brewski</Clue>
+      <Clue Row="14" Col="13" Num="65" Dir="Across" Ans="NSC">Pres. advisory group</Clue>
+      <Clue Row="15" Col="1" Num="66" Dir="Across" Ans="HESSE">German state with Wiesbaden</Clue>
+      <Clue Row="15" Col="9" Num="67" Dir="Across" Ans="TSP">Recipe meas.</Clue>
+      <Clue Row="15" Col="13" Num="68" Dir="Across" Ans="KEY">C major, for one</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="RAZOR">Whisker whacker</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="CREDO">Words to live by</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="AEROSMITH">Rock band fronted by Steven Tyler</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Down" Ans="UZI">Submachine gun designer ___ Gal</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="MONCHERI">"My darling," in France</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="PROSODIC">Pertaining to the rhythm of speech</Clue>
+      <Clue Row="1" Col="11" Num="7" Dir="Down" Ans="SES">French possessive</Clue>
+      <Clue Row="1" Col="12" Num="8" Dir="Down" Ans="MCHAMMER">"U Can't Touch This" rapper</Clue>
+      <Clue Row="1" Col="13" Num="9" Dir="Down" Ans="OUTIE">Less common of two belly buttons</Clue>
+      <Clue Row="1" Col="14" Num="10" Dir="Down" Ans="KRONA">Icelandic money</Clue>
+      <Clue Row="1" Col="15" Num="11" Dir="Down" Ans="YENTL">Cross-dressing role for Streisand</Clue>
+      <Clue Row="2" Col="8" Num="14" Dir="Down" Ans="KNIT">Like a cardigan</Clue>
+      <Clue Row="2" Col="10" Num="15" Dir="Down" Ans="SAYAH">Request by someone with a tongue depressor</Clue>
+      <Clue Row="3" Col="4" Num="17" Dir="Down" Ans="ORSO">Words akin to "-ish"</Clue>
+      <Clue Row="4" Col="9" Num="21" Dir="Down" Ans="NOW">E.R.A.-backing grp.</Clue>
+      <Clue Row="5" Col="11" Num="25" Dir="Down" Ans="TARGET">Chain whose mascot is named Bullseye</Clue>
+      <Clue Row="6" Col="5" Num="27" Dir="Down" Ans="OKFINE">"All right, you win"</Clue>
+      <Clue Row="7" Col="1" Num="29" Dir="Down" Ans="RAJ">Indian-born character on "The Big Bang Theory"</Clue>
+      <Clue Row="7" Col="2" Num="30" Dir="Down" Ans="BRO">Dude</Clue>
+      <Clue Row="7" Col="8" Num="32" Dir="Down" Ans="SIT">Plop down</Clue>
+      <Clue Row="7" Col="13" Num="34" Dir="Down" Ans="MAKESBANK">Rakes in the dough</Clue>
+      <Clue Row="7" Col="14" Num="35" Dir="Down" Ans="USE">Put into play</Clue>
+      <Clue Row="7" Col="15" Num="36" Dir="Down" Ans="SSN">123-45-6789, on a sample doc.</Clue>
+      <Clue Row="8" Col="4" Num="38" Dir="Down" Ans="INKBLOTS">Symmetrical images in psychological tests</Clue>
+      <Clue Row="8" Col="9" Num="39" Dir="Down" Ans="ARGONAUT">One of Jason's crew</Clue>
+      <Clue Row="8" Col="10" Num="40" Dir="Down" Ans="LEOPARDS">Preyers on antelopes</Clue>
+      <Clue Row="10" Col="6" Num="45" Dir="Down" Ans="ORSON">Game show regular ___ Bean</Clue>
+      <Clue Row="10" Col="7" Num="46" Dir="Down" Ans="TSA">Org. with millimeter wave scanners</Clue>
+      <Clue Row="10" Col="12" Num="48" Dir="Down" Ans="MAIN">Major water line</Clue>
+      <Clue Row="11" Col="1" Num="49" Dir="Down" Ans="BIRCH">Source of bark for canoes</Clue>
+      <Clue Row="11" Col="2" Num="50" Dir="Down" Ans="ADORE">Be all googly-eyed over</Clue>
+      <Clue Row="11" Col="3" Num="51" Dir="Down" Ans="ROBES">Choir attire</Clue>
+      <Clue Row="11" Col="8" Num="52" Dir="Down" Ans="HUMS">Plays a kazoo</Clue>
+      <Clue Row="11" Col="14" Num="54" Dir="Down" Ans="PERSE">In itself</Clue>
+      <Clue Row="11" Col="15" Num="55" Dir="Down" Ans="STACY">Keach of TV's "Man With a Plan"</Clue>
+      <Clue Row="13" Col="5" Num="60" Dir="Down" Ans="TIE">Impossible Super Bowl outcome</Clue>
+      <Clue Row="13" Col="11" Num="62" Dir="Down" Ans="ISP">AOL or MSN</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>I so badly wanted the mixed-up ingredients to go vertically, each one intersecting MARINARA SAUCE (which would run horizontally across the center of the puzzle). How cool would that have been, like each ingredient being dropped in! But it was not to be &mdash; I had a limited pool of options for each ingredient (ONION, TOMATO, GARLIC, HERBS, in case you didn&#39;t figure them out), and I couldn&#39;t get the symmetry to work out.</p>
+
+<p>Gol durn crossword symmetry!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Zork" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/a/ac/Zork_I_box_art.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:210px" title="Why did I love this so much as a kid? Huh." /></a></p>
+
+<p>I even tried different &quot;recipes&quot; to get such a fortuitous interlock &mdash; PESTO SAUCE with BASIL, PINE NUTS, etc. was the closest to maybe possibly sorta kinda iffily working &mdash; but nothing would fully cooperate. Dratted PEN I STUN. Er, PINE NUTS.</p>
+
+<p>To those who have never played ZORK, you have not lived. Okay, maybe you have, but still, ZORK was such an integral part of my childhood, a sort of augmented Choose Your Own Adventure that got me obsessed with computers and programming.</p>
+
+<p>BTW, apologies to those who scratched their heads at the PROSODIC / ZORK crossing. I figured whether you&#39;re a techie or a fuzzy (engr/sci vs. humanities), you&#39;d likely know one of them. (PROSODIC is related to &quot;prose,&quot; so you should be able to suss it out, yeah?)</p>
+
+<p>I always try to work in a bunch of bonus entries, pushing and pushing, hopefully stopping before having to hold the puzzle together with a bunch of ugly crossword glue. And although my efforts to draw from different areas so that there&#39;s something for everyone &mdash; MAKES BANK, MON CHERI, INKBLOTS, ARGONAUT cover a lot of ground &mdash; I couldn&#39;t resist putting in MC HAMMER, even though I had already worked in AEROSMITH.</p>
+
+<p>What can I say, I love me some Hammer pants.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>It&#39;s kind of ironic that I made this puzzle, given that my idea of cooking MARINARA is:</p>
+
+<ol>
+	<li>Buy jar of Ragu</li>
+	<li>Open said jar</li>
+	<li>Find spoon</li>
+	<li>Eat sauce</li>
+</ol>
+
+<p>It makes so much sense! You don&#39;t have to wash a bowl. You don&#39;t use any oven/microwave power. And then you can just lick the spoon and put it back into the drawer. Easy cleanup!</p>
+
+<p>I hope my wife isn&#39;t reading this.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

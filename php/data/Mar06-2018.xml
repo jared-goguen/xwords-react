@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Tuesday, March 6, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/5/2018 at 8:40 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Tue, Mar 06, 2018</Title>
+    <Author>Bruce Greig</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/6/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>ABBES.ORE..BALD</Row>
+      <Row>LARGO.PIT.RODEO</Row>
+      <Row>FROGMARCH.OSMIC</Row>
+      <Row>ARK.ABACI.POISE</Row>
+      <Row>LIES.CHICKENRUN</Row>
+      <Row>FORTES...ASSERT</Row>
+      <Row>ASSAY.MAIM..DES</Row>
+      <Row>...BEARCRAWL...</Row>
+      <Row>ASP..CITE.BOARS</Row>
+      <Row>TOUSLE...EAGLET</Row>
+      <Row>TURKEYTROT.ELLO</Row>
+      <Row>ATRIA.OOZED.SIP</Row>
+      <Row>CHIEF.GOOSESTEP</Row>
+      <Row>HENRY.ANN.CRAVE</Row>
+      <Row>ERGS..SEE.OARED</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="ABBES">French clerics</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="ORE">Resource in the Mesabi Range</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Across" Ans="BALD">Lacking any tread</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Across" Ans="LARGO">Florida's Key ___</Clue>
+      <Clue Row="2" Col="7" Num="14" Dir="Across" Ans="PIT">Fruit center</Clue>
+      <Clue Row="2" Col="11" Num="15" Dir="Across" Ans="RODEO">Official state sport of Wyoming</Clue>
+      <Clue Row="3" Col="1" Num="16" Dir="Across" Ans="FROGMARCH">Forced walk with arms pinned behind the back</Clue>
+      <Clue Row="3" Col="11" Num="18" Dir="Across" Ans="OSMIC">Relating to element #76</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="ARK">Something "lost" in the highest-grossing movie of 1981</Clue>
+      <Clue Row="4" Col="5" Num="20" Dir="Across" Ans="ABACI">Precalculator calculators</Clue>
+      <Clue Row="4" Col="11" Num="21" Dir="Across" Ans="POISE">Grace under pressure</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="LIES">"Hogwash!"</Clue>
+      <Clue Row="5" Col="6" Num="24" Dir="Across" Ans="CHICKENRUN">Hit 2000 animated film set on a farm</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Across" Ans="FORTES">Specialties</Clue>
+      <Clue Row="6" Col="10" Num="28" Dir="Across" Ans="ASSERT">State with conviction</Clue>
+      <Clue Row="7" Col="1" Num="29" Dir="Across" Ans="ASSAY">Test, as 6-Across</Clue>
+      <Clue Row="7" Col="7" Num="30" Dir="Across" Ans="MAIM">Seriously injure</Clue>
+      <Clue Row="7" Col="13" Num="33" Dir="Across" Ans="DES">___ Moines, Iowa</Clue>
+      <Clue Row="8" Col="4" Num="34" Dir="Across" Ans="BEARCRAWL">Core-strengthening exercise performed on all fours</Clue>
+      <Clue Row="9" Col="1" Num="38" Dir="Across" Ans="ASP">Death on the Nile cause, perhaps</Clue>
+      <Clue Row="9" Col="6" Num="41" Dir="Across" Ans="CITE">Commend</Clue>
+      <Clue Row="9" Col="11" Num="42" Dir="Across" Ans="BOARS">Swine</Clue>
+      <Clue Row="10" Col="1" Num="46" Dir="Across" Ans="TOUSLE">Muss, as the hair</Clue>
+      <Clue Row="10" Col="10" Num="49" Dir="Across" Ans="EAGLET">Young raptor</Clue>
+      <Clue Row="11" Col="1" Num="50" Dir="Across" Ans="TURKEYTROT">Old ragtime dance</Clue>
+      <Clue Row="11" Col="12" Num="54" Dir="Across" Ans="ELLO">Cockney greeting</Clue>
+      <Clue Row="12" Col="1" Num="55" Dir="Across" Ans="ATRIA">Courtyards</Clue>
+      <Clue Row="12" Col="7" Num="56" Dir="Across" Ans="OOZED">Trickled</Clue>
+      <Clue Row="12" Col="13" Num="58" Dir="Across" Ans="SIP">Bit of a draft?</Clue>
+      <Clue Row="13" Col="1" Num="59" Dir="Across" Ans="CHIEF">Fire department V.I.P.</Clue>
+      <Clue Row="13" Col="7" Num="60" Dir="Across" Ans="GOOSESTEP">Straight-kneed military movement</Clue>
+      <Clue Row="14" Col="1" Num="62" Dir="Across" Ans="HENRY">Any of eight English kings</Clue>
+      <Clue Row="14" Col="7" Num="63" Dir="Across" Ans="ANN">"Barbara ___" (Beach Boys hit)</Clue>
+      <Clue Row="14" Col="11" Num="64" Dir="Across" Ans="CRAVE">Hunger for</Clue>
+      <Clue Row="15" Col="1" Num="65" Dir="Across" Ans="ERGS">Physics units</Clue>
+      <Clue Row="15" Col="7" Num="66" Dir="Across" Ans="SEE">"Get it?"</Clue>
+      <Clue Row="15" Col="11" Num="67" Dir="Across" Ans="OARED">Propelled a boat</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="ALFALFA">Cattle or horse feed</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="BARRIOS">New York's Spanish Harlem and others</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="BROKERS">Employees at Re/Max and Coldwell Banker</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="EGG">Bad thing to have on one's face</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="SOMA">"Brave New World" drug</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="OPRAH">Who said "I'm black. I don't feel burdened by it .... It's part of who I am. It does not define me"</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="RICCI">Christina who played Wednesday Addams</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="ETHIC">Honesty and hard work, e.g.</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Down" Ans="BOSONS">Particles in quantum mechanics</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="ADMIRED">Looked up to</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="LEISURE">Sports &amp; ___ (Trivial Pursuit category)</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="DOCENTS">Museum guides</Clue>
+      <Clue Row="2" Col="11" Num="15" Dir="Down" Ans="ROPES">Borders of boxing rings</Clue>
+      <Clue Row="3" Col="6" Num="17" Dir="Down" Ans="ABCS">Some kindergarten instruction</Clue>
+      <Clue Row="5" Col="4" Num="23" Dir="Down" Ans="STAB">Attack as Hamlet did Polonius</Clue>
+      <Clue Row="5" Col="10" Num="25" Dir="Down" Ans="KAMA">___ Sutra</Clue>
+      <Clue Row="6" Col="5" Num="27" Dir="Down" Ans="EYE">Hurricane's center</Clue>
+      <Clue Row="7" Col="7" Num="30" Dir="Down" Ans="MRI">Noninvasive diagnostic procedure, for short</Clue>
+      <Clue Row="7" Col="8" Num="31" Dir="Down" Ans="ACT">One of two in "Waiting for Godot"</Clue>
+      <Clue Row="7" Col="9" Num="32" Dir="Down" Ans="IRE">Ill temper</Clue>
+      <Clue Row="8" Col="6" Num="35" Dir="Down" Ans="ACEY">___-deucey (card game)</Clue>
+      <Clue Row="8" Col="11" Num="36" Dir="Down" Ans="WBA">Org. awarding titles to Mike Tyson and Tyson Fury</Clue>
+      <Clue Row="8" Col="12" Num="37" Dir="Down" Ans="LOGE">Balcony section</Clue>
+      <Clue Row="9" Col="1" Num="38" Dir="Down" Ans="ATTACHE">Embassy worker ... or something that worker might carry</Clue>
+      <Clue Row="9" Col="2" Num="39" Dir="Down" Ans="SOUTHER">Wind that typically brings warmer air</Clue>
+      <Clue Row="9" Col="3" Num="40" Dir="Down" Ans="PURRING">Operating smoothly, as an engine</Clue>
+      <Clue Row="9" Col="13" Num="43" Dir="Down" Ans="ALLSTAR">Kareem Abdul-Jabbar, for a record 19 times</Clue>
+      <Clue Row="9" Col="14" Num="44" Dir="Down" Ans="RELIEVE">Take over for</Clue>
+      <Clue Row="9" Col="15" Num="45" Dir="Down" Ans="STOPPED">Clogged (up)</Clue>
+      <Clue Row="10" Col="4" Num="47" Dir="Down" Ans="SKIERS">Super G competitors</Clue>
+      <Clue Row="10" Col="5" Num="48" Dir="Down" Ans="LEAFY">Like lettuce, spinach and kale</Clue>
+      <Clue Row="10" Col="10" Num="49" Dir="Down" Ans="ETES">French summers</Clue>
+      <Clue Row="11" Col="7" Num="51" Dir="Down" Ans="TOGAS">Coverage of senators in ancient Rome?</Clue>
+      <Clue Row="11" Col="8" Num="52" Dir="Down" Ans="ROONE">Onetime news exec Arledge</Clue>
+      <Clue Row="11" Col="9" Num="53" Dir="Down" Ans="OZONE">O3</Clue>
+      <Clue Row="12" Col="11" Num="57" Dir="Down" Ans="DECO">Art ___</Clue>
+      <Clue Row="13" Col="12" Num="61" Dir="Down" Ans="SRA">Mme., in Madrid</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Debut! Nice and consistent theme, phrases in the form of (animal + movement). I loved CHICKEN RUN, by the maker of &quot;Wallace and Gromit,&quot; and BEAR CRAWL and TURKEY TROT are such fun terms.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Chicken_Run" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/0/00/Chicken_run_ver1.jpg" style="border:1px solid lightgray; float:right; height:156px; margin:6px 0px 6px 12px; width:220px" title="CHICKEN RUN" /></a></p>
+
+<p>FROG MARCH &hellip; a bit off-putting, but colorful nonetheless.</p>
+
+<p>GOOSE STEP. Not sure a term so closely associated with the Nazis is something I want in my daily diversion. I might have chosen to leave it out, personally.</p>
+
+<p>Another reason to leave it out &ndash; look how nicely BEAR CRAWL could slip into GOOSE STEP&#39;s spot &ndash; is that working with a middle 9-letter themer makes the construction SO much harder. With just four themers, you have so much flexibility. Pretty easy to produce a colorful and smooth grid.</p>
+
+<p>Five themers, including a middle 9, is almost always going to require a couple of trade-offs. It creates all sorts of problems in the four corners.</p>
+
+<p>Start with ABBES to kick off the puzzle. Probably worth the nice ALFALFA, BARRIOS, BROKERS. It&#39;s super important to have a solid 1-Across since there&#39;s only one first impression you can make on your solver, but I think that NW corner is pretty good.</p>
+
+<p>In the SE, was ALLSTAR worth the price of WBA, LOGE, ELLO, SRA? To me, probably not. But I&#39;d listen to arguments otherwise.</p>
+
+<p>Toss in some OSMIC, DES, ERGS, ETES &hellip; I&#39;d have liked a smoother result, given that it&#39;s an early-week theme. Eliminating a themer would have allowed for that, but more cheater squares could likely have helped too. I like Bruce&#39;s usage of black squares before BALD and after ERGS &ndash; that most certainly made the NE and SW corners smoother. Another pair of added black squares in the opposite corners could have been useful, too.</p>
+
+<p>A good debut, especially in terms of themer consistency. A couple of hiccups in execution.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>Finally! After five (or six?) submissions, I got Will&#39;s blessing. After just one, relatively straightforward, set of edits, it was ready to go.</p>
+
+<p>The seed of this puzzle came from &quot;turkey trot&quot;, as I was considering participating in the annual Detroit Thanksgiving 5k race by that name. I didn&#39;t end up running, but I did get a good puzzle idea out of it! Soon I was wracking my brain for similar &quot;animal walk&quot; phrases. &quot;Bear crawl&quot; and &quot;frog march&quot; all came pretty quickly, plus they were a crossword-friendly 9 letters to boot! </p>
+
+<p>I knew I needed at least one more, or a revealer of some sort to put the puzzle into submission realm. I resorted to my old friend Google to search for animal phrases. &quot;Goose step&quot;, also at 9 letters worked well, but frankly &quot;Chicken Run&quot; was my least favorite as it did not seem as &quot;tight&quot; as the others since it was not something &quot;doable&quot; by a human &ndash; like the others.</p>
+
+<p>For my debut I was excited that Will used most of my fill, though probably less than half my clues. His cluing was certainly &quot;fresher&quot; than mine. I mean, &quot;Raiders of the Lost __&quot; ? That was just plain lazy. I love his replacement! After 35+ years of solving NYT puzzles, I am positively thrilled to finally join the club of constructors. One down, hopefully many more to go!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

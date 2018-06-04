@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Friday, April 6, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/5/2018 at 7:01 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Fri, Apr 06, 2018</Title>
+    <Author>David Steinberg</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/6/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>16</Cols>
+    </Size>
+    <Grid>
+      <Row>HELICOPTERPARENT</Row>
+      <Row>ARUNFORONESMONEY</Row>
+      <Row>SONICDEPTHFINDER</Row>
+      <Row>PSAT.LEERY..DODO</Row>
+      <Row>..RIPEN..DAZE...</Row>
+      <Row>SCRAPS.MERCILESS</Row>
+      <Row>CLOTS.LEVANT.ZEE</Row>
+      <Row>RAVE.DELETE.SPOT</Row>
+      <Row>ERE.SEVERE.STAUB</Row>
+      <Row>WARBABIES.MEASLY</Row>
+      <Row>...ROSA..GEARS..</Row>
+      <Row>ESME..TROUT.ELMO</Row>
+      <Row>THATSWHATSHESAID</Row>
+      <Row>DOYOUWANTTODANCE</Row>
+      <Row>STANDINGOODSTEAD</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="HELICOPTERPARENT">Someone who cares too much?</Clue>
+      <Clue Row="2" Col="1" Num="17" Dir="Across" Ans="ARUNFORONESMONEY">Serious competition</Clue>
+      <Clue Row="3" Col="1" Num="18" Dir="Across" Ans="SONICDEPTHFINDER">It sends waves through waves</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="PSAT">College Board offering, for short</Clue>
+      <Clue Row="4" Col="6" Num="20" Dir="Across" Ans="LEERY">Guarded</Clue>
+      <Clue Row="4" Col="13" Num="21" Dir="Across" Ans="DODO">Nincompoop</Clue>
+      <Clue Row="5" Col="3" Num="22" Dir="Across" Ans="RIPEN">Age</Clue>
+      <Clue Row="5" Col="10" Num="24" Dir="Across" Ans="DAZE">Foggy condition</Clue>
+      <Clue Row="6" Col="1" Num="27" Dir="Across" Ans="SCRAPS">They go to the dogs</Clue>
+      <Clue Row="6" Col="8" Num="29" Dir="Across" Ans="MERCILESS">Unrelenting</Clue>
+      <Clue Row="7" Col="1" Num="34" Dir="Across" Ans="CLOTS">Stops streaming</Clue>
+      <Clue Row="7" Col="7" Num="35" Dir="Across" Ans="LEVANT">Part of ISIL</Clue>
+      <Clue Row="7" Col="14" Num="36" Dir="Across" Ans="ZEE">Small slice of pizza?</Clue>
+      <Clue Row="8" Col="1" Num="37" Dir="Across" Ans="RAVE">Party hearty</Clue>
+      <Clue Row="8" Col="6" Num="38" Dir="Across" Ans="DELETE">X</Clue>
+      <Clue Row="8" Col="13" Num="39" Dir="Across" Ans="SPOT">Help in a gym</Clue>
+      <Clue Row="9" Col="1" Num="40" Dir="Across" Ans="ERE">Poetic preposition</Clue>
+      <Clue Row="9" Col="5" Num="41" Dir="Across" Ans="SEVERE">Draconian</Clue>
+      <Clue Row="9" Col="12" Num="42" Dir="Across" Ans="STAUB">Ex-Expo Rusty</Clue>
+      <Clue Row="10" Col="1" Num="43" Dir="Across" Ans="WARBABIES">Deliveries in the early 1940s</Clue>
+      <Clue Row="10" Col="11" Num="45" Dir="Across" Ans="MEASLY">Hardly generous</Clue>
+      <Clue Row="11" Col="4" Num="46" Dir="Across" Ans="ROSA">Santa ___</Clue>
+      <Clue Row="11" Col="10" Num="47" Dir="Across" Ans="GEARS">They have strong teeth</Clue>
+      <Clue Row="12" Col="1" Num="48" Dir="Across" Ans="ESME">Salinger title girl</Clue>
+      <Clue Row="12" Col="7" Num="51" Dir="Across" Ans="TROUT">Prey for an eagle or bear</Clue>
+      <Clue Row="12" Col="13" Num="54" Dir="Across" Ans="ELMO">Monster of TV</Clue>
+      <Clue Row="13" Col="1" Num="57" Dir="Across" Ans="THATSWHATSHESAID">Sophomoric rejoinder</Clue>
+      <Clue Row="14" Col="1" Num="61" Dir="Across" Ans="DOYOUWANTTODANCE">1958 Bobby Freeman hit covered by the Beach Boys and the Ramones</Clue>
+      <Clue Row="15" Col="1" Num="62" Dir="Across" Ans="STANDINGOODSTEAD">Be beneficial to</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="HASP">Part of a locker</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="EROS">Love symbol that names another love symbol if you move the first letter to the end</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="LUNARROVER">Moon buggy</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="INITIATE">Kick-start</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="CFC">Banned pollutant, for short</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="OODLES">A large quantity</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="PREEN">Show vanity, in a way</Clue>
+      <Clue Row="1" Col="8" Num="8" Dir="Down" Ans="TOPE">Have a large quantity of liquor</Clue>
+      <Clue Row="1" Col="9" Num="9" Dir="Down" Ans="ENTR">___'acte</Clue>
+      <Clue Row="1" Col="10" Num="10" Dir="Down" Ans="REHYDRATE">Drink after a race, say</Clue>
+      <Clue Row="1" Col="11" Num="11" Dir="Down" Ans="PSF">Pressure meas.</Clue>
+      <Clue Row="1" Col="12" Num="12" Dir="Down" Ans="AMI">French toast maker, maybe</Clue>
+      <Clue Row="1" Col="13" Num="13" Dir="Down" Ans="RONDEL">14-line poem with only two rhymes</Clue>
+      <Clue Row="1" Col="14" Num="14" Dir="Down" Ans="ENDO">Prefix with sperm</Clue>
+      <Clue Row="1" Col="15" Num="15" Dir="Down" Ans="NEED">"No ___"</Clue>
+      <Clue Row="1" Col="16" Num="16" Dir="Down" Ans="TYRO">Veteran's opposite</Clue>
+      <Clue Row="5" Col="5" Num="23" Dir="Down" Ans="PPS">Certain letter addendum, for short</Clue>
+      <Clue Row="5" Col="11" Num="25" Dir="Down" Ans="ACNE">Result of an oil surplus</Clue>
+      <Clue Row="5" Col="12" Num="26" Dir="Down" Ans="ZIT">25-Down unit</Clue>
+      <Clue Row="6" Col="1" Num="27" Dir="Down" Ans="SCREW">Thread holder</Clue>
+      <Clue Row="6" Col="2" Num="28" Dir="Down" Ans="CLARA">Santa ___</Clue>
+      <Clue Row="6" Col="8" Num="29" Dir="Down" Ans="MELEE">Word from the French for "mixed"</Clue>
+      <Clue Row="6" Col="9" Num="30" Dir="Down" Ans="EVERS">Civil rights icon Medgar</Clue>
+      <Clue Row="6" Col="14" Num="31" Dir="Down" Ans="EZPASSLANE">Quick way through a toll plaza</Clue>
+      <Clue Row="6" Col="15" Num="32" Dir="Down" Ans="SEOUL">Summer Olympics host before Barcelona</Clue>
+      <Clue Row="6" Col="16" Num="33" Dir="Down" Ans="SETBY">Save for later</Clue>
+      <Clue Row="7" Col="7" Num="35" Dir="Down" Ans="LEVIATHAN">Giant</Clue>
+      <Clue Row="8" Col="6" Num="38" Dir="Down" Ans="DEBS">Eugene in labor history</Clue>
+      <Clue Row="8" Col="13" Num="39" Dir="Down" Ans="STARESAT">Gives a blank look</Clue>
+      <Clue Row="9" Col="5" Num="41" Dir="Down" Ans="SAO">___ Jorge (one of the Azores)</Clue>
+      <Clue Row="9" Col="12" Num="42" Dir="Down" Ans="SEA">"He who holds the ___ must be master of the empire": Cicero</Clue>
+      <Clue Row="10" Col="4" Num="44" Dir="Down" Ans="BRETON">Native of NW France</Clue>
+      <Clue Row="10" Col="11" Num="45" Dir="Down" Ans="METHOD">Kind of acting</Clue>
+      <Clue Row="11" Col="10" Num="47" Dir="Down" Ans="GUSTO">Spirit</Clue>
+      <Clue Row="12" Col="1" Num="48" Dir="Down" Ans="ETDS">Some sked predictions</Clue>
+      <Clue Row="12" Col="2" Num="49" Dir="Down" Ans="SHOT">Completely ruined</Clue>
+      <Clue Row="12" Col="3" Num="50" Dir="Down" Ans="MAYA">Itzamna worshipers</Clue>
+      <Clue Row="12" Col="8" Num="52" Dir="Down" Ans="RANG">Requested service</Clue>
+      <Clue Row="12" Col="9" Num="53" Dir="Down" Ans="OTTO">Palindromic man's name</Clue>
+      <Clue Row="12" Col="15" Num="55" Dir="Down" Ans="MICA">It's flaky</Clue>
+      <Clue Row="12" Col="16" Num="56" Dir="Down" Ans="ODED">Had too much, in brief</Clue>
+      <Clue Row="13" Col="5" Num="58" Dir="Down" Ans="SUD">Dijon-to-Lyon direction</Clue>
+      <Clue Row="13" Col="6" Num="59" Dir="Down" Ans="WWI">Teens fight, for short</Clue>
+      <Clue Row="13" Col="12" Num="60" Dir="Down" Ans="EDS">Story assigners, in brief</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>I annoyed my Ultimate frisbee teammates so much back when &quot;The Office&quot; was on. (THAT&#39;S WHAT SHE SAID was Michael Scott&#39;s catch phrase, something to say after &quot;Looks like you&#39;re getting a big raise.&quot;) I grew out of that phase &hellip; well, I&#39;m still in it. My wife and I say it to each other! Nice triple-stack anchor, although I can see why Will put on a &quot;sophomoric&quot; qualifier in the clue.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Michael_Scott_(The_Office)" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/d/dc/MichaelScott.png" style="border:none; float:right; height:249px; margin:6px 0px 6px 12px; width:220px" title="THAT'S WHAT SHE SAID! Yes, sophomoric. But funny." /></a></p>
+
+<p>DO YOU WANT TO DANCE is a catchy song. It&#39;s too bad STAND IN GOOD STEAD is a little drier. Still, it&#39;s so tough to hit 3/3 snazzy long answers in a triple-stack.</p>
+
+<p>Same goes for the top stack. HELICOPTER PARENT is evocative, as is A RUN FOR ONES MONEY. But don&#39;t most people call a DEPTH FINDER a DEPTH FINDER? Some research showed that SONIC DEPTH FINDER is indeed a real term, probably to distinguish it from other types of DEPTH FINDERs, I suppose?</p>
+
+<p>Totally agreed with David, I appreciated LUNAR ROVER and EZ PASS LANE running through their stacks &ndash; those gave the puzzle more color. Triple-stack-focused puzzles often can be a bit dull outside the stacks, but these livened things up a lot.</p>
+
+<p>WAR BABIES. &quot;A child born in wartime, especially one fathered by a serviceman.&quot; Not sure why this makes me uncomfortable. No doubt a colorful term. Not sure I&#39;d strive to use it in one of my own crosswords, though.</p>
+
+<p>I thought I was going to be stumped in the west section. This mechanical engineer couldn&#39;t get his head around the idea that a SCREW was a [Thread holder]. I get that it was trying to misdirect toward some sort of spool. But I don&#39;t think the clue works without a question mark.</p>
+
+<p>If only the question mark for the HELICOPTER PARENT had been moved to the SCREW clue. A HELICOPTER PARENT is pretty much exactly someone who cares too much, yeah? Why the qualifying &quot;?&quot;?</p>
+
+<p>Screwy.</p>
+
+<p>Not unusual to get a good glut of crossword glue holding triple-stacks together, TYRO ENDO PSF ENTR TOPE taping the top section alone. A few too many compromises for my taste overall, but still, enough color in the long entries to keep me satisfied.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>This is the second themeless I&#39;ve constructed that features triple-stacked 16s (the first ran in <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.xwordinfo.com/Crossword?date%3D5/1/2015&amp;source=gmail&amp;ust=1522591816887000&amp;usg=AFQjCNEjiqeX3ut1pwutPboa0P_xJ0CwXg" href="https://www.xwordinfo.com/Crossword?date=5/1/2015" target="_blank">May 2015</a>). Since 15x16 and 16x15 grids have only recently become kosher, I have many fewer 16s than 15s in my word list (~5,000, as opposed to ~17,000). Finding stacks of 16s is thus significantly harder . . . but also more fun, I&#39;d say, since many of the 15s have been used SOO many times! I&#39;m looking at you, A LOT ON ONE&#39;S PLATE and A TEENAGER IN LOVE.</p>
+
+<p>In this puzzle, I started with HELICOPTER PARENT on the top and THAT&#39;S WHAT SHE SAID on the bottom. My criteria when making 16-stacks (or any themeless stacks for that matter) are 1) snappy 16s, 2) smooth short fill, and 3) room to work in bonus long downs. I&#39;m especially happy with how I did on 3), since LUNAR ROVER, LEVIATHAN, REHYDRATE, and EZ-PASS LANE are all nice in my book! I also like the 16s&mdash;SONIC DEPTH FINDER is nothing to write home about, but I&#39;m proud of my clue for it. And as for the short fill, only ENTR, PSF, and ETDS stand out as clunky to me. All in all, I like how this one turned out, and I hope it&#39;s a fun solve! In any case, I&#39;ll be back on Sunday with my first solo diagramless.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

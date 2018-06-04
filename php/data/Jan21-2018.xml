@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Sunday, January 21, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/20/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sun, Jan 21, 2018 SUBSTITUTES</Title>
+    <Author>Victor Barocas and Andy Kravis</Author>
+    <CanonicalNames>
+      <Constructor>Victor Barocas</Constructor>
+      <Constructor>Andy Kravis</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/21/2018</Date>
+    <Size>
+      <Rows>21</Rows>
+      <Cols>21</Cols>
+    </Size>
+    <Grid>
+      <Row>SCUBA.GOPRO.ALOP.TWEE</Row>
+      <Row>TENOR.OARED.CAREBEARS</Row>
+      <Row>PLAYFORTIME.ENDTABLES</Row>
+      <Row>ALLS.DEEM.SNOG.GROK..</Row>
+      <Row>TOLLED.NOTSAFEFORWORK</Row>
+      <Row>..AIDES..EACH.UAE.NEO</Row>
+      <Row>CRYFORHELP.LEANT.TWAS</Row>
+      <Row>EPEE..ALIEN.ANG.NEAR.</Row>
+      <Row>LID.RECIPEFORDISASTER</Row>
+      <Row>...BASKS..LOTS.HELENA</Row>
+      <Row>ASSENTS.GOGOS.CANARDS</Row>
+      <Row>CHEESE.GALA..NOVAS...</Row>
+      <Row>TEMPORARYEMPLOYEE.SNL</Row>
+      <Row>.DIEM.CAB.EIEIO..QEII</Row>
+      <Row>SFPD.TUDOR.EARTHQUAKE</Row>
+      <Row>HUR.JUT.ROTC..EATIN..</Row>
+      <Row>ELIZABETHANERA.DREYER</Row>
+      <Row>..VICE.BONO.EDIT.TONE</Row>
+      <Row>PIANOTRIO.TELECOMMUTE</Row>
+      <Row>TOTEBOARD.EMILE.MANED</Row>
+      <Row>SUES.PHDS.SITES.ANGRY</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="SCUBA">Enjoy some rays?</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="GOPRO">Skip one's senior year, say</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Across" Ans="ALOP">Off-kilter</Clue>
+      <Clue Row="1" Col="18" Num="15" Dir="Across" Ans="TWEE">Affectedly quaint</Clue>
+      <Clue Row="2" Col="1" Num="19" Dir="Across" Ans="TENOR">Plácido Domingo, for one</Clue>
+      <Clue Row="2" Col="7" Num="20" Dir="Across" Ans="OARED">Was part of a crew</Clue>
+      <Clue Row="2" Col="13" Num="21" Dir="Across" Ans="CAREBEARS">Colorful toys with symbols on their bellies</Clue>
+      <Clue Row="3" Col="1" Num="23" Dir="Across" Ans="PLAYFORTIME">Stall</Clue>
+      <Clue Row="3" Col="13" Num="25" Dir="Across" Ans="ENDTABLES">They may sit next to sofas</Clue>
+      <Clue Row="4" Col="1" Num="26" Dir="Across" Ans="ALLS">"God's in his heaven - ___ right with the world"</Clue>
+      <Clue Row="4" Col="6" Num="27" Dir="Across" Ans="DEEM">Adjudge</Clue>
+      <Clue Row="4" Col="11" Num="28" Dir="Across" Ans="SNOG">Make out, at Hogwarts</Clue>
+      <Clue Row="4" Col="16" Num="30" Dir="Across" Ans="GROK">Understand</Clue>
+      <Clue Row="5" Col="1" Num="31" Dir="Across" Ans="TOLLED">Sounded</Clue>
+      <Clue Row="5" Col="8" Num="33" Dir="Across" Ans="NOTSAFEFORWORK">At risk of being offensive</Clue>
+      <Clue Row="6" Col="3" Num="38" Dir="Across" Ans="AIDES">Deputies</Clue>
+      <Clue Row="6" Col="10" Num="40" Dir="Across" Ans="EACH">A pop</Clue>
+      <Clue Row="6" Col="15" Num="41" Dir="Across" Ans="UAE">Oil-rich nation, for short</Clue>
+      <Clue Row="6" Col="19" Num="42" Dir="Across" Ans="NEO">Prefix with -logism</Clue>
+      <Clue Row="7" Col="1" Num="43" Dir="Across" Ans="CRYFORHELP">Subtle sign from the distressed</Clue>
+      <Clue Row="7" Col="12" Num="47" Dir="Across" Ans="LEANT">Wasn't straight up</Clue>
+      <Clue Row="7" Col="18" Num="49" Dir="Across" Ans="TWAS">Holiday poem starter</Clue>
+      <Clue Row="8" Col="1" Num="50" Dir="Across" Ans="EPEE">Blade with no sharp edge</Clue>
+      <Clue Row="8" Col="7" Num="51" Dir="Across" Ans="ALIEN">The "A" in TV's ALF</Clue>
+      <Clue Row="8" Col="13" Num="53" Dir="Across" Ans="ANG">Director Lee</Clue>
+      <Clue Row="8" Col="17" Num="54" Dir="Across" Ans="NEAR">In the vicinity of</Clue>
+      <Clue Row="9" Col="1" Num="55" Dir="Across" Ans="LID">Tupperware feature</Clue>
+      <Clue Row="9" Col="5" Num="56" Dir="Across" Ans="RECIPEFORDISASTER">Very bad plan</Clue>
+      <Clue Row="10" Col="4" Num="61" Dir="Across" Ans="BASKS">Enjoys some rays</Clue>
+      <Clue Row="10" Col="11" Num="62" Dir="Across" Ans="LOTS">Auction units</Clue>
+      <Clue Row="10" Col="16" Num="63" Dir="Across" Ans="HELENA">Seat of Lewis and Clark County</Clue>
+      <Clue Row="11" Col="1" Num="64" Dir="Across" Ans="ASSENTS">Positive responses</Clue>
+      <Clue Row="11" Col="9" Num="67" Dir="Across" Ans="GOGOS">"Vacation" band</Clue>
+      <Clue Row="11" Col="15" Num="69" Dir="Across" Ans="CANARDS">Fake news items</Clue>
+      <Clue Row="12" Col="1" Num="70" Dir="Across" Ans="CHEESE">It's said to cause a smile</Clue>
+      <Clue Row="12" Col="8" Num="71" Dir="Across" Ans="GALA">Bash</Clue>
+      <Clue Row="12" Col="14" Num="72" Dir="Across" Ans="NOVAS">Cosmic bursts</Clue>
+      <Clue Row="13" Col="1" Num="73" Dir="Across" Ans="TEMPORARYEMPLOYEE">Seasonal cry (remember 43-Across)</Clue>
+      <Clue Row="13" Col="19" Num="77" Dir="Across" Ans="SNL">TV show with the most Primetime Emmy noms</Clue>
+      <Clue Row="14" Col="2" Num="80" Dir="Across" Ans="DIEM">Per ___</Clue>
+      <Clue Row="14" Col="7" Num="81" Dir="Across" Ans="CAB">Lyft alternative</Clue>
+      <Clue Row="14" Col="11" Num="82" Dir="Across" Ans="EIEIO">Farm refrain</Clue>
+      <Clue Row="14" Col="18" Num="83" Dir="Across" Ans="QEII">Prince Philip's spouse, for short</Clue>
+      <Clue Row="15" Col="1" Num="84" Dir="Across" Ans="SFPD">West Coast law force, for short</Clue>
+      <Clue Row="15" Col="6" Num="85" Dir="Across" Ans="TUDOR">House whose symbol is a red-and-white rose</Clue>
+      <Clue Row="15" Col="12" Num="87" Dir="Across" Ans="EARTHQUAKE">Recipe that entails a lot of shaking (remember 56-Across)</Clue>
+      <Clue Row="16" Col="1" Num="90" Dir="Across" Ans="HUR">Ben-___</Clue>
+      <Clue Row="16" Col="5" Num="91" Dir="Across" Ans="JUT">Stick (out)</Clue>
+      <Clue Row="16" Col="9" Num="92" Dir="Across" Ans="ROTC">Campus grp. that organizes marches</Clue>
+      <Clue Row="16" Col="15" Num="94" Dir="Across" Ans="EATIN">Stay home for dinner</Clue>
+      <Clue Row="17" Col="1" Num="95" Dir="Across" Ans="ELIZABETHANERA">Play of Shakespeare (remember 23-Across)</Clue>
+      <Clue Row="17" Col="16" Num="100" Dir="Across" Ans="DREYER">Edy's onetime ice cream partner</Clue>
+      <Clue Row="18" Col="3" Num="103" Dir="Across" Ans="VICE">Number two</Clue>
+      <Clue Row="18" Col="8" Num="104" Dir="Across" Ans="BONO">Pro ___</Clue>
+      <Clue Row="18" Col="13" Num="105" Dir="Across" Ans="EDIT">Computer menu heading</Clue>
+      <Clue Row="18" Col="18" Num="107" Dir="Across" Ans="TONE">Color feature</Clue>
+      <Clue Row="19" Col="1" Num="108" Dir="Across" Ans="PIANOTRIO">Beethoven's "Archduke," e.g.</Clue>
+      <Clue Row="19" Col="11" Num="111" Dir="Across" Ans="TELECOMMUTE">Not safe at home (remember 33-Across)</Clue>
+      <Clue Row="20" Col="1" Num="114" Dir="Across" Ans="TOTEBOARD">Racetrack display</Clue>
+      <Clue Row="20" Col="11" Num="115" Dir="Across" Ans="EMILE">Author Zola</Clue>
+      <Clue Row="20" Col="17" Num="116" Dir="Across" Ans="MANED">Like horses and lions</Clue>
+      <Clue Row="21" Col="1" Num="117" Dir="Across" Ans="SUES">Takes to court</Clue>
+      <Clue Row="21" Col="6" Num="118" Dir="Across" Ans="PHDS">Achievements of Henry Kissinger and Martin Luther King Jr., in brief</Clue>
+      <Clue Row="21" Col="11" Num="119" Dir="Across" Ans="SITES">Links link them</Clue>
+      <Clue Row="21" Col="17" Num="120" Dir="Across" Ans="ANGRY">Ticked off</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="STPAT">Patron of the Archdiocese of New York, briefly</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="CELLO">It's bowed between the legs</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="UNALLAYED">Not calmed</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="BOYSLIFE">Scout's magazine</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="ARF">Terrier's warning</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="GORE">Horror movie stuff</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="OATEN">Grainy, in a way</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="PRIMO">Choice</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="REM">___ sleep (a chance to dream)</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="ODESSA">1941 siege target</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="ACEOFHEARTS">Leader in a red suit</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="LANGE">Actress Jessica</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="ORD">Chicago airport code</Clue>
+      <Clue Row="1" Col="16" Num="14" Dir="Down" Ans="PETGOAT">Nanny around the house?</Clue>
+      <Clue Row="1" Col="18" Num="15" Dir="Down" Ans="TEBOW">Ex-N.F.L. QB Tim</Clue>
+      <Clue Row="1" Col="19" Num="16" Dir="Down" Ans="WALKONWATER">Perform a miraculous feat</Clue>
+      <Clue Row="1" Col="20" Num="17" Dir="Down" Ans="ERE">Before, poetically</Clue>
+      <Clue Row="1" Col="21" Num="18" Dir="Down" Ans="ESS">End of days?</Clue>
+      <Clue Row="2" Col="17" Num="22" Dir="Down" Ans="BARRE">Ballet support</Clue>
+      <Clue Row="3" Col="6" Num="24" Dir="Down" Ans="ODDER">Less ordinary</Clue>
+      <Clue Row="4" Col="12" Num="29" Dir="Down" Ans="NACL">It dissolves in H2O</Clue>
+      <Clue Row="5" Col="5" Num="32" Dir="Down" Ans="EDO">River east of Tokyo</Clue>
+      <Clue Row="5" Col="10" Num="34" Dir="Down" Ans="TEPEE">Home that sounds like two letters of the alphabet</Clue>
+      <Clue Row="5" Col="15" Num="35" Dir="Down" Ans="FUNGI">Mushrooms, e.g.</Clue>
+      <Clue Row="5" Col="20" Num="36" Dir="Down" Ans="REAREND">Derrière</Clue>
+      <Clue Row="5" Col="21" Num="37" Dir="Down" Ans="KOS">Flattens, for short</Clue>
+      <Clue Row="6" Col="7" Num="39" Dir="Down" Ans="SHACKS">Sights in a Hooverville</Clue>
+      <Clue Row="7" Col="1" Num="43" Dir="Down" Ans="CEL">Goofy drawing?</Clue>
+      <Clue Row="7" Col="2" Num="44" Dir="Down" Ans="RPI">Sch. on the upper Hudson</Clue>
+      <Clue Row="7" Col="8" Num="45" Dir="Down" Ans="ELIS">Ancient land where the Olympics began</Clue>
+      <Clue Row="7" Col="9" Num="46" Dir="Down" Ans="LIP">Important body part for a tuba player</Clue>
+      <Clue Row="7" Col="14" Num="48" Dir="Down" Ans="ANDS">"No ifs, ___ or buts"</Clue>
+      <Clue Row="7" Col="18" Num="49" Dir="Down" Ans="TESLAS">They're charged for rides</Clue>
+      <Clue Row="8" Col="11" Num="52" Dir="Down" Ans="NFLGAME">Certain Monday night entertainment</Clue>
+      <Clue Row="8" Col="17" Num="54" Dir="Down" Ans="NAENAE">Hip-hop dance move</Clue>
+      <Clue Row="9" Col="5" Num="56" Dir="Down" Ans="RANSOM">Holding charge</Clue>
+      <Clue Row="9" Col="6" Num="57" Dir="Down" Ans="ESTER">Chemical source of fruit flavor</Clue>
+      <Clue Row="9" Col="12" Num="58" Dir="Down" Ans="OOO">"Hollywood Squares" win</Clue>
+      <Clue Row="9" Col="16" Num="59" Dir="Down" Ans="SHAVE">Lose one's shadow, say</Clue>
+      <Clue Row="9" Col="21" Num="60" Dir="Down" Ans="RAS">Dorm V.I.P.s</Clue>
+      <Clue Row="10" Col="4" Num="61" Dir="Down" Ans="BEEPED">Sounded like R2-D2</Clue>
+      <Clue Row="11" Col="1" Num="64" Dir="Down" Ans="ACT">Pretense</Clue>
+      <Clue Row="11" Col="2" Num="65" Dir="Down" Ans="SHEDFUL">Quantity of garden tools</Clue>
+      <Clue Row="11" Col="3" Num="66" Dir="Down" Ans="SEMIPRIVATE">Like two-bed hospital rooms</Clue>
+      <Clue Row="11" Col="9" Num="67" Dir="Down" Ans="GAYBORHOODS">The Castro in San Francisco and Chelsea in Manhattan</Clue>
+      <Clue Row="11" Col="10" Num="68" Dir="Down" Ans="OLE">Stadium cheer</Clue>
+      <Clue Row="11" Col="15" Num="69" Dir="Down" Ans="COYOTE">Trickster of Navajo mythology</Clue>
+      <Clue Row="12" Col="8" Num="71" Dir="Down" Ans="GRAD">Alum</Clue>
+      <Clue Row="12" Col="14" Num="72" Dir="Down" Ans="NOIR">Couleur du café</Clue>
+      <Clue Row="13" Col="7" Num="74" Dir="Down" Ans="ACUTE">Below 90°</Clue>
+      <Clue Row="13" Col="12" Num="75" Dir="Down" Ans="PIECE">Component</Clue>
+      <Clue Row="13" Col="13" Num="76" Dir="Down" Ans="LEA">Pasture</Clue>
+      <Clue Row="13" Col="19" Num="77" Dir="Down" Ans="SEANYOUNG">Co-star of Harrison Ford in "Blade Runner"</Clue>
+      <Clue Row="13" Col="20" Num="78" Dir="Down" Ans="NIK">Ending with beat or word</Clue>
+      <Clue Row="13" Col="21" Num="79" Dir="Down" Ans="LIE">Be flat</Clue>
+      <Clue Row="14" Col="18" Num="83" Dir="Down" Ans="QUIETMAN">John Wayne movie set in Ireland, with "The"</Clue>
+      <Clue Row="15" Col="1" Num="84" Dir="Down" Ans="SHE">That woman</Clue>
+      <Clue Row="15" Col="6" Num="85" Dir="Down" Ans="TUBETOP">Shoulderless, sleeveless garment</Clue>
+      <Clue Row="15" Col="10" Num="86" Dir="Down" Ans="ROAN">Horse color</Clue>
+      <Clue Row="15" Col="16" Num="88" Dir="Down" Ans="HADTO">Saw no alternative</Clue>
+      <Clue Row="15" Col="17" Num="89" Dir="Down" Ans="QTR">12 mins., in the N.B.A.</Clue>
+      <Clue Row="16" Col="5" Num="91" Dir="Down" Ans="JACOB">Marley of "A Christmas Carol"</Clue>
+      <Clue Row="16" Col="11" Num="93" Dir="Down" Ans="TNOTES">They take 2-10 yrs. to mature</Clue>
+      <Clue Row="17" Col="4" Num="96" Dir="Down" Ans="ZINES">Fan publications, informally</Clue>
+      <Clue Row="17" Col="8" Num="97" Dir="Down" Ans="TBIRD">Sporty car of old</Clue>
+      <Clue Row="17" Col="13" Num="98" Dir="Down" Ans="RELIT">Like a candle that's gone out, maybe</Clue>
+      <Clue Row="17" Col="14" Num="99" Dir="Down" Ans="ADELE">"Send My Love (To Your New Lover)" singer, 2015</Clue>
+      <Clue Row="17" Col="20" Num="101" Dir="Down" Ans="ENTER">Come onstage</Clue>
+      <Clue Row="17" Col="21" Num="102" Dir="Down" Ans="REEDY">Very thin</Clue>
+      <Clue Row="18" Col="15" Num="106" Dir="Down" Ans="ICES">Knocks off</Clue>
+      <Clue Row="19" Col="1" Num="108" Dir="Down" Ans="PTS">Rewards card accumulation: Abbr.</Clue>
+      <Clue Row="19" Col="2" Num="109" Dir="Down" Ans="IOU">Debtor's letters</Clue>
+      <Clue Row="19" Col="7" Num="110" Dir="Down" Ans="RAH">Stadium cheer</Clue>
+      <Clue Row="19" Col="12" Num="112" Dir="Down" Ans="EMI">Old Parlophone parent</Clue>
+      <Clue Row="19" Col="17" Num="113" Dir="Down" Ans="MMA">U.F.C. sport</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p><a href="https://en.wikipedia.org/wiki/William_Shakespeare" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Title_page_William_Shakespeare%27s_First_Folio_1623.jpg/340px-Title_page_William_Shakespeare%27s_First_Folio_1623.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:157px" title="From Shakespeare's play. Er, time." /></a></p>
+
+<p>FORE!</p>
+
+<p>Er, four.</p>
+
+<p>For. No!</p>
+
+<p>Four FORs today!</p>
+
+<p>(I&#39;m definitely not four for four.)</p>
+
+<p>Victor and Andy pair up theme answers, RECIPE FOR DISASTER transforming [Recipe that entails a lot of shaking] into [DISASTER that entails a lot of shaking] = EARTHQUAKE. I like that the clue reads naturally both ways, making it seem so innocent as presented. Good stuff.</p>
+
+<p>The only one that made me hitch was PLAY FOR TIME modifying [Play of Shakespeare] into [TIME of Shakespeare] = ELIZABETHAN ERA. &quot;Shakespearean play,&quot; yes. &quot;Play written by Shakespeare,&quot; yes. &quot;Play of Shakespeare&quot; &hellip; not really. Even without the telltale &quot;remember X-Across&quot; hints, I would have known that something was up.</p>
+
+<p>There are so many X FOR Y phrases out there that this theme initially felt too loosey-goosey for my taste. Yes, crossword symmetry limits the pairings, since it&#39;s tough to get everything to match up in length. But it felt too easy to come up with examples, given the dozens of X FOR Y options to work with.</p>
+
+<p>After some thought though, I appreciated that they chose long X and Y words, much harder to work with than &quot;in for it&quot; or &quot;free for all&quot; or things that are less specific. Length matters! Ahem.</p>
+
+<p>As Andy noted, the element today that stood out for me was the bonus fill &mdash; so much of the long bonuses sizzled, elevating my solving experience. It&#39;s not easy to incorporate eight themers into a Sunday 140-worder, and they did extremely well in grid execution. A ton of fantastic bonuses, while keeping their crossword glue to only a small smattering of minor ERE ESS etc. Very few constructors can execute on a Sunday 140-word grid with such craftsmanship.</p>
+
+<p>Fantastic clues for TESLAS and CHEESE! [They&#39;re charged for rides] = people who take cabs and Ubers, right? And [It&#39;s said to cause a smile] had to be some happy thought? (It is weird that the word CHEESE forces you to smile. Bizarre.) Beautiful misdirections.</p>
+
+<p>Would have been great to have a sharper a-ha moment &mdash; the &quot;remember&quot; hints gave away the game much too easily &mdash; but I liked the concept.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>We enjoyed creating the puzzle and coming up with possible pairs (WATER FOR ELEPHANTS / LARGE-EARED = &quot;Like the water in Africa&quot; and PAN FOR GOLD / LEPRECHAUN = &quot;He keeps his pan in a pot&quot; didn&#39;t quite make the cut). We were really happy with how the fill came out, and we hope that people were satisfied with the difficulty level and the amount of connection provided between the substitutes and the substituted clues.<br />
+<br />
+<strong>VICTOR:</strong> I think that I am at my best as a constructor when I am coming up with new ways to play with how a puzzle works. I tend to write Wednesday, Thursday, and Sunday puzzles as a result, and I think that this was among my better efforts. I also seem to like ideas that are difficult to turn into a viable puzzle, which makes working with Andy, who is an amazing grid constructor/filler, really nice. I like collaborating in general because everyone has different skills, and something good almost always emerges. Now, if I could just learn to nae nae &hellip;</p>
+
+<p><strong>ANDY:</strong> Victor always has clever and ambitious theme ideas. It&#39;s a fun challenge to try to make clean, interesting grids out of them without compromising on theme content. This one needed a lot of tweaking, but eventually, everything just fell into place. I&#39;m really happy with all the fresh non-theme fill we were able to include (ACE OF HEARTS, WALK ON WATER, CARE BEARS, GAYBORHOODS, BOYS&#39; LIFE, PIANO TRIO, TOTE BOARD, SEAN YOUNG, PET GOAT, etc.) with very little crosswordese or junk fill.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Thursday, January 18, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/18/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Thu, Jan 18, 2018</Title>
+    <Author>Ryan McCarty and Alan Southworth</Author>
+    <CanonicalNames>
+      <Constructor>Ryan McCarty</Constructor>
+      <Constructor>Alan Southworth</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/18/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>CAROM.BRETT.GAP</Row>
+      <Row>ONICE.OUTER.ENE</Row>
+      <Row>HIGHROBBERY.MTA</Row>
+      <Row>IMHO.NBA.MOSSES</Row>
+      <Row>BAT.COEDS.ULTRA</Row>
+      <Row>ALONE.RUNATRAIN</Row>
+      <Row>...EMU.BOSC.TOT</Row>
+      <Row>SLOWEST.WHALERS</Row>
+      <Row>TOV.NEED.EMO...</Row>
+      <Row>ONESTREET.PORES</Row>
+      <Row>CDROM.NEONS.EVE</Row>
+      <Row>KODIAK.POR.SVEN</Row>
+      <Row>ANO.SUBSTATIONS</Row>
+      <Row>DEN.OBOES.UNTIE</Row>
+      <Row>ERE.NOWAY.BEEFS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="CAROM">Rebound</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="BRETT">Lady ___ Ashley, Jake Barnes's love in "The Sun Also Rises"</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Across" Ans="GAP">Interregnum</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="ONICE">Chilling</Clue>
+      <Clue Row="2" Col="7" Num="15" Dir="Across" Ans="OUTER">Like the planets beyond the asteroid belt</Clue>
+      <Clue Row="2" Col="13" Num="16" Dir="Across" Ans="ENE">Chemical suffix</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="HIGHROBBERY">Rooftop heist?</Clue>
+      <Clue Row="3" Col="13" Num="19" Dir="Across" Ans="MTA">Travel org. with an eTix app</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="IMHO">"If you ask me," to texters</Clue>
+      <Clue Row="4" Col="6" Num="21" Dir="Across" Ans="NBA">Org. that discourages traveling</Clue>
+      <Clue Row="4" Col="10" Num="22" Dir="Across" Ans="MOSSES">Flowerless plants</Clue>
+      <Clue Row="5" Col="1" Num="24" Dir="Across" Ans="BAT">Diamond club</Clue>
+      <Clue Row="5" Col="5" Num="25" Dir="Across" Ans="COEDS">Some roles in the Jack Benny film "College Holiday"</Clue>
+      <Clue Row="5" Col="11" Num="27" Dir="Across" Ans="ULTRA">Marathon leader?</Clue>
+      <Clue Row="6" Col="1" Num="28" Dir="Across" Ans="ALONE">Dateless, say</Clue>
+      <Clue Row="6" Col="7" Num="30" Dir="Across" Ans="RUNATRAIN">Handle engineer duties?</Clue>
+      <Clue Row="7" Col="4" Num="32" Dir="Across" Ans="EMU">Bird that has one long talon on each foot for fighting</Clue>
+      <Clue Row="7" Col="8" Num="34" Dir="Across" Ans="BOSC">Pear variety</Clue>
+      <Clue Row="7" Col="13" Num="35" Dir="Across" Ans="TOT">Preschooler</Clue>
+      <Clue Row="8" Col="1" Num="36" Dir="Across" Ans="SLOWEST">Last at Daytona, say</Clue>
+      <Clue Row="8" Col="9" Num="40" Dir="Across" Ans="WHALERS">N.H.L. team that became the Hurricanes in 1997</Clue>
+      <Clue Row="9" Col="1" Num="42" Dir="Across" Ans="TOV">"Mazel ___!"</Clue>
+      <Clue Row="9" Col="5" Num="43" Dir="Across" Ans="NEED">"No ___" ("I'm fine")</Clue>
+      <Clue Row="9" Col="10" Num="45" Dir="Across" Ans="EMO">My Chemical Romance genre</Clue>
+      <Clue Row="10" Col="1" Num="46" Dir="Across" Ans="ONESTREET">Della or Picabo?</Clue>
+      <Clue Row="10" Col="11" Num="49" Dir="Across" Ans="PORES">Openings at a day spa?</Clue>
+      <Clue Row="11" Col="1" Num="53" Dir="Across" Ans="CDROM">Jewel case insert</Clue>
+      <Clue Row="11" Col="7" Num="54" Dir="Across" Ans="NEONS">Bright lights</Clue>
+      <Clue Row="11" Col="13" Num="56" Dir="Across" Ans="EVE">Response to "Madam, I'm Adam" that is itself a palindrome</Clue>
+      <Clue Row="12" Col="1" Num="57" Dir="Across" Ans="KODIAK">Alaskan bear</Clue>
+      <Clue Row="12" Col="8" Num="59" Dir="Across" Ans="POR">___ favor</Clue>
+      <Clue Row="12" Col="12" Num="60" Dir="Across" Ans="SVEN">Reindeer in "Frozen"</Clue>
+      <Clue Row="13" Col="1" Num="61" Dir="Across" Ans="ANO">"Wheel of Fortune" buy</Clue>
+      <Clue Row="13" Col="5" Num="62" Dir="Across" Ans="SUBSTATIONS">Sandwich shops?</Clue>
+      <Clue Row="14" Col="1" Num="65" Dir="Across" Ans="DEN">Study</Clue>
+      <Clue Row="14" Col="5" Num="66" Dir="Across" Ans="OBOES">Orchestra tuners</Clue>
+      <Clue Row="14" Col="11" Num="67" Dir="Across" Ans="UNTIE">Pull some strings?</Clue>
+      <Clue Row="15" Col="1" Num="68" Dir="Across" Ans="ERE">"Listen ___!" (Cockney cry)</Clue>
+      <Clue Row="15" Col="5" Num="69" Dir="Across" Ans="NOWAY">"Forget it!" ... or a hint to 17-, 30-, 46- and 62-Across</Clue>
+      <Clue Row="15" Col="11" Num="70" Dir="Across" Ans="BEEFS">Gripes</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="COHIBA">Premium Cuban cigar</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ANIMAL">Category in a guessing game</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="RIGHTO">"You betcha!"</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="OCHO">Number above "Operador" on un teléfono</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="MER">La Méditerranée, e.g.</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="BOBBER">Tackle box item</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="RUBADUB">Start of a children's rhyme</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="ETE">It lasts trois mois</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="TERM">Contract period</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="TRYOUTCAMPS">Events for prospective pro athletes</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="GEMSTATE">Idaho, with "the"</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="ANTERIOR">Toward the front, anatomically</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="PEASANTS">Group rallied by Mao Zedong</Clue>
+      <Clue Row="3" Col="6" Num="18" Dir="Down" Ans="ONO">Fish at a Hawaiian barbecue</Clue>
+      <Clue Row="4" Col="12" Num="23" Dir="Down" Ans="SLR">Nikon product, for short</Clue>
+      <Clue Row="5" Col="5" Num="25" Dir="Down" Ans="CEMENTMASON">One who has concrete plans for the day?</Clue>
+      <Clue Row="5" Col="9" Num="26" Dir="Down" Ans="SNOW">___ globe</Clue>
+      <Clue Row="6" Col="4" Num="29" Dir="Down" Ans="NEW">Fresh out of the box</Clue>
+      <Clue Row="6" Col="10" Num="31" Dir="Down" Ans="ASHE">Queens stadium name</Clue>
+      <Clue Row="7" Col="6" Num="33" Dir="Down" Ans="USER">___ interface</Clue>
+      <Clue Row="8" Col="1" Num="36" Dir="Down" Ans="STOCKADE">Defense fence</Clue>
+      <Clue Row="8" Col="2" Num="37" Dir="Down" Ans="LONDONER">Cockney, e.g.</Clue>
+      <Clue Row="8" Col="3" Num="38" Dir="Down" Ans="OVERDONE">Trite</Clue>
+      <Clue Row="8" Col="7" Num="39" Dir="Down" Ans="TEEN">Typical college freshman</Clue>
+      <Clue Row="8" Col="12" Num="41" Dir="Down" Ans="LOO">John</Clue>
+      <Clue Row="9" Col="8" Num="44" Dir="Down" Ans="DEEPSEA">Home of lanternfish and giant squids</Clue>
+      <Clue Row="10" Col="4" Num="47" Dir="Down" Ans="SOI">"___ gather"</Clue>
+      <Clue Row="10" Col="9" Num="48" Dir="Down" Ans="TOOTSY">Foot, baby-style</Clue>
+      <Clue Row="10" Col="13" Num="50" Dir="Down" Ans="REVOTE">Election do-over</Clue>
+      <Clue Row="10" Col="14" Num="51" Dir="Down" Ans="EVENIF">No matter whether</Clue>
+      <Clue Row="10" Col="15" Num="52" Dir="Down" Ans="SENSES">Has an inkling</Clue>
+      <Clue Row="11" Col="10" Num="55" Dir="Down" Ans="NRA">Major group HQ'd in Fairfax, Va.</Clue>
+      <Clue Row="12" Col="6" Num="58" Dir="Down" Ans="KUBO">2016 animated film "___ and the Two Strings"</Clue>
+      <Clue Row="12" Col="12" Num="60" Dir="Down" Ans="SINE">Wave to a math teacher?</Clue>
+      <Clue Row="13" Col="7" Num="63" Dir="Down" Ans="BOW">Opposite of stern</Clue>
+      <Clue Row="13" Col="11" Num="64" Dir="Down" Ans="TUB">Moonshiner's vessel</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>NO WAY = remove &quot;way&quot; from phrases for kooky results. The theme confused me a bit since RUN A TRAIN is something I see in some of my kids&#39; books. It&#39;s a bit kooky &hellip; but a bit real, too. And SUBSTATIONS is a real word, isn&#39;t it? (Yup.)</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Concrete_mixer" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/CementMixerM2439.jpg/440px-CementMixerM2439.jpg" style="border:1px solid lightgray; float:left; height:144px; margin:6px 12px 6px 0px; width:220px" title="Turns out it's called a CONCRETE MIXER, not a CEMENT MIXER. Huh!" /></a></p>
+
+<p>Thankfully, HIGH ROBBERY clarified the theme (more or less) for me. There&#39;s no such thing as HIGH ROBBERY! And I like me some heist movies like &quot;Tower Heist,&quot; especially when they happen up on rooves. So that worked for me.</p>
+
+<p>ONE STREET &hellip; not kooky enough for me.</p>
+
+<p>But I did love some of the fill. RIGHT-O! The GEM STATE shone. (*rimshot*) A LONDONER next to a STOCKADE painted a funny 17th-century picture. And CEMENT MIXER was fantastic!</p>
+
+<p>Er, CEMENT MASON. Hmm. I so badly wanted it to be CEMENT MIXER. Such a great clue, riffing on &quot;concrete plans.&quot; Let&#39;s just pretend it was the much more awesome CEMENT MIXER, shall we?</p>
+
+<p>Overall, mixed results, especially given my high expectations for creativity on my Thursday puzzles. What other, more surprising WAY removals are there? WAYNE NEWTON to NE (Nebraska) NEWTON? PROJECT RUNWAY to PROJECT RUN? It turns out to be a tough trigram to work with. Huh.</p>
+
+<p>I did appreciate much of the gridwork, not bad at all to finish up with just some ignorable stuff in a debut puzzle. Let&#39;s just try not to eke (ha) out so much similar ETE, ERE, ENE stuff next time.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p><strong>RYAN:</strong> Alan and I met in college where we sang in several groups together, notably in our a cappella group the Princeton Nassoons. He was actually the person who first got me interested in crossword puzzles! After graduating we decided it would be fun to collaborate and create a puzzle together.</p>
+
+<p>Alan came up with the theme idea for this one, and we worked together to manually fill the grid and create clues. Based on the theme, we had clued this around Tuesday/Wednesday difficulty, though the NYT team accepted it for a Thursday and many of the clues were adjusted to be more challenging.</p>
+
+<p>Looking back it would have been nice to get a couple juicier longer down answers in the NE and SW, and perhaps some better short fill, although I liked how they used some atypical clues for a few (ONO, ERE, ANO). Nevertheless, the puzzle was fun to make together, and I hope you enjoy it!</p>
+
+<p><strong>ALAN:</strong> Very excited to be my making my NYT Crossword debut today! A bit about me: I&#39;m a 25-year-old energy market consultant/singer-songwriter/marathoner living in New York City. I found my way into the crossword community through a lifelong love of word games and puzzles (I grew up playing Scrabble and Boggle with my mom and solving Sudoku and Ken Ken before bed) but didn&#39;t really get into crosswords until college, where I met my collaborator, Ryan McCarty. Ryan and I were members of the Princeton University Glee Club and the Princeton Nassoons, the university&#39;s oldest a cappella group, before beginning our crossword collaboration.</p>
+
+<p>For today&#39;s puzzle, I started writing down crossword theme ideas in the &quot;Notes&quot; app on my phone during my commutes to work in 2015. Many of the early concepts I came up with revolved around phrases that lent themselves to literal interpretations involving a letter addition or removal (&quot;DROP THE F&quot; BOMB luckily never came to fruition&hellip;).</p>
+
+<p>But then NO WAY came to me and I realized dropping an entire word might result in some fresher &quot;wacky&quot; phrases. RUN A TRAIN was the first potential theme answer that I thought of, and with Ryan&#39;s expert grid construction skills and some more theme answer brainstorming, I knew we were on the right track, so to speak.</p>
+
+<p>Side note: as a runner, I was excited to use &quot;Marathon leader?&quot; as the clue for ULTRA, but I wasn&#39;t sure if the Ultramarathon reference was too obscure for the general public. After a quick Google search eased my initial worries, I noticed the following blurb in the Wikipedia article for Ultramarathon:</p>
+
+<p>Since 1997, runners have been competing in the <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/Self-Transcendence_3100_Mile_Race&amp;source=gmail&amp;ust=1516117165977000&amp;usg=AFQjCNHHYxArNbsYRImQ1O3cPxmBunHCaA" href="https://en.wikipedia.org/wiki/Self-Transcendence_3100_Mile_Race">Self-Transcendence 3100 Mile Race</a>, which is billed as the longest official footrace in the world. They run 100 laps a day for up to 50 days around a single block in Queens, NY, for a total distance of 3,100 miles (5,000 km)</p>
+
+<p>This absurd race has been the topic of many conversations since finding out about it during my crossword research. Just thinking about the fact that Suprabha Beckjord ran the race 14 times (i.e., she spent over two years of her life running around a high school in Queens) makes my legs hurt...</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

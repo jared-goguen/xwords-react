@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Saturday, May 5, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/4/2018 at 7:01 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sat, May 05, 2018</Title>
+    <Author>Damon Gulczynski</Author>
+    <CanonicalNames>
+      <Constructor>Damon J. Gulczynski</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/5/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>SNUG.ADAM.HEEDS</Row>
+      <Row>POGO.SOBA.INNIE</Row>
+      <Row>UTAH.HODGEPODGE</Row>
+      <Row>MONAD.MUON.STE.</Row>
+      <Row>ENDLESSLOOP.IRE</Row>
+      <Row>DEAFEN....AWMAN</Row>
+      <Row>...SPARKY.RHETT</Row>
+      <Row>ISAIDGOODDAYSIR</Row>
+      <Row>TOMEI.WASABI...</Row>
+      <Row>CRASS....ROOSTS</Row>
+      <Row>HER.HIGHFALUTIN</Row>
+      <Row>.HEF.DAYO.AGAPE</Row>
+      <Row>GETUPANDGO.HYPE</Row>
+      <Row>MATZO.GRUB.TIER</Row>
+      <Row>ADOZE.SAPS.ANDS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="SNUG">Close and comfortable</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="ADAM">Leader of a long race?</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Across" Ans="HEEDS">Minds</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="POGO">Comics character who says "Having lost sight of our objectives, we redoubled our efforts"</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="SOBA">Japanese bowlful</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Across" Ans="INNIE">Roughly nine of 10 people have one</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="UTAH">Geographical hexagon</Clue>
+      <Clue Row="3" Col="6" Num="18" Dir="Across" Ans="HODGEPODGE">Stew</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="MONAD">Single unit</Clue>
+      <Clue Row="4" Col="7" Num="22" Dir="Across" Ans="MUON">Unstable subatomic particle</Clue>
+      <Clue Row="4" Col="12" Num="23" Dir="Across" Ans="STE">Chateau ___ Michelle</Clue>
+      <Clue Row="5" Col="1" Num="24" Dir="Across" Ans="ENDLESSLOOP">Code violation requiring an emergency exit?</Clue>
+      <Clue Row="5" Col="13" Num="27" Dir="Across" Ans="IRE">Choler</Clue>
+      <Clue Row="6" Col="1" Num="29" Dir="Across" Ans="DEAFEN">Pierce the ears of</Clue>
+      <Clue Row="6" Col="11" Num="30" Dir="Across" Ans="AWMAN">"Geez, that just ain't right!"</Clue>
+      <Clue Row="7" Col="4" Num="32" Dir="Across" Ans="SPARKY">Anderson who managed Cincinnati's Big Red Machine</Clue>
+      <Clue Row="7" Col="11" Num="36" Dir="Across" Ans="RHETT">Butler of fiction</Clue>
+      <Clue Row="8" Col="1" Num="37" Dir="Across" Ans="ISAIDGOODDAYSIR">"Take a hike, bub!"</Clue>
+      <Clue Row="9" Col="1" Num="41" Dir="Across" Ans="TOMEI">Marisa of "The Wrestler"</Clue>
+      <Clue Row="9" Col="7" Num="42" Dir="Across" Ans="WASABI">Sinus-clearing condiment</Clue>
+      <Clue Row="10" Col="1" Num="43" Dir="Across" Ans="CRASS">Uncouth</Clue>
+      <Clue Row="10" Col="10" Num="44" Dir="Across" Ans="ROOSTS">Night sticks?</Clue>
+      <Clue Row="11" Col="1" Num="48" Dir="Across" Ans="HER">2013 Best Picture nominee with a major unseen female character</Clue>
+      <Clue Row="11" Col="5" Num="49" Dir="Across" Ans="HIGHFALUTIN">Fancy-pants</Clue>
+      <Clue Row="12" Col="2" Num="54" Dir="Across" Ans="HEF">Late mag publisher</Clue>
+      <Clue Row="12" Col="6" Num="56" Dir="Across" Ans="DAYO">Refrain word in the song with the lyric "Come, Mister Tally Man, tally me banana"</Clue>
+      <Clue Row="12" Col="11" Num="57" Dir="Across" Ans="AGAPE">Wide open</Clue>
+      <Clue Row="13" Col="1" Num="58" Dir="Across" Ans="GETUPANDGO">Vim</Clue>
+      <Clue Row="13" Col="12" Num="61" Dir="Across" Ans="HYPE">Boost</Clue>
+      <Clue Row="14" Col="1" Num="62" Dir="Across" Ans="MATZO">Food described in Exodus</Clue>
+      <Clue Row="14" Col="7" Num="63" Dir="Across" Ans="GRUB">Eats</Clue>
+      <Clue Row="14" Col="12" Num="64" Dir="Across" Ans="TIER">Seating specification</Clue>
+      <Clue Row="15" Col="1" Num="65" Dir="Across" Ans="ADOZE">Catching some Z's</Clue>
+      <Clue Row="15" Col="7" Num="66" Dir="Across" Ans="SAPS">They're easily taken</Clue>
+      <Clue Row="15" Col="12" Num="67" Dir="Across" Ans="ANDS">Additional stipulations</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="SPUMED">Made bubbles, as an ocean wave</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="NOTONE">Zero</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="UGANDA">Setting for "The Last King of Scotland"</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="GOHALFSIES">Split the bill, informally</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="ASH">Neutral color</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="DOOMS">Sentences</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="ABDUL">___ Aziz bin Fahd, Saudi prince</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="MAGOO">Mr. once played by Leslie Nielsen</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="HIP">Axilla : armpit :: coxa : ___</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="ENOS">Slaughter who was a star of the 1946 World Series</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="ENDTIMES">Revelation subject</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="DIGERATI">Tech-savvy group</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="SEE">Go with</Clue>
+      <Clue Row="3" Col="10" Num="19" Dir="Down" Ans="ENO">Ambient composer of note</Clue>
+      <Clue Row="4" Col="5" Num="21" Dir="Down" Ans="DEEPDISH">Chicago-style, in a way</Clue>
+      <Clue Row="5" Col="6" Num="25" Dir="Down" Ans="SNAG">Catch</Clue>
+      <Clue Row="5" Col="11" Num="26" Dir="Down" Ans="PARABOLA">One with a focus in mathematics</Clue>
+      <Clue Row="5" Col="15" Num="28" Dir="Down" Ans="ENTR">Start of an intermission?</Clue>
+      <Clue Row="6" Col="12" Num="31" Dir="Down" Ans="WHYIOUGHTA">Vague threat from a Stooge</Clue>
+      <Clue Row="7" Col="7" Num="33" Dir="Down" Ans="ROW">Seating specification</Clue>
+      <Clue Row="7" Col="8" Num="34" Dir="Down" Ans="KOA">R.V. hookup org.</Clue>
+      <Clue Row="7" Col="9" Num="35" Dir="Down" Ans="YDS">Gridiron figs.</Clue>
+      <Clue Row="8" Col="1" Num="37" Dir="Down" Ans="ITCH">Target for nails?</Clue>
+      <Clue Row="8" Col="2" Num="38" Dir="Down" Ans="SOREHEAD">Poor sport</Clue>
+      <Clue Row="8" Col="3" Num="39" Dir="Down" Ans="AMARETTO">Tiramisu flavorer</Clue>
+      <Clue Row="8" Col="10" Num="40" Dir="Down" Ans="DARA">___ Torres, 12-time Olympic swimming medalist</Clue>
+      <Clue Row="10" Col="13" Num="45" Dir="Down" Ans="STAYIN">Be a homebody</Clue>
+      <Clue Row="10" Col="14" Num="46" Dir="Down" Ans="TIPPED">Gave a little extra</Clue>
+      <Clue Row="10" Col="15" Num="47" Dir="Down" Ans="SNEERS">Doesn't look good?</Clue>
+      <Clue Row="11" Col="6" Num="50" Dir="Down" Ans="IDA">Lupino of old Hollywood</Clue>
+      <Clue Row="11" Col="7" Num="51" Dir="Down" Ans="GANGS">City police concern</Clue>
+      <Clue Row="11" Col="8" Num="52" Dir="Down" Ans="HYDRA">Monster slain by Hercules</Clue>
+      <Clue Row="11" Col="9" Num="53" Dir="Down" Ans="FOGUP">Get steamy</Clue>
+      <Clue Row="12" Col="4" Num="55" Dir="Down" Ans="FUZZ">Beginnings of a beard</Clue>
+      <Clue Row="13" Col="1" Num="58" Dir="Down" Ans="GMA">"Today" rival, briefly</Clue>
+      <Clue Row="13" Col="5" Num="59" Dir="Down" Ans="POE">___ Dameron, fighter pilot for the Resistance in "Star Wars" films</Clue>
+      <Clue Row="13" Col="10" Num="60" Dir="Down" Ans="OBS">Delivery people, for short</Clue>
+    </Clues>
+    <JimNotes><![CDATA[Excellent puzzle.]]></JimNotes>
+    <JeffNotes><![CDATA[<p>Can&#39;t remember when I&#39;ve loved so many feature entries so much. These flat-out delighted me:</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Parabola" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Parts_of_Parabola.svg/600px-Parts_of_Parabola.svg.png" style="border:none; float:right; height:180px; margin:6px 0px 6px 12px; width:219px" title="The PARABOLA never loses its focus!" /></a></p>
+
+<ul>
+	<li>HODGEPODGE</li>
+	<li>ENDLESS LOOP (programming term)</li>
+	<li>I SAID GOOD DAY, SIR!</li>
+	<li>HIGH FALUTIN</li>
+	<li>GET UP AND GO</li>
+	<li>GO HALFSIES</li>
+	<li>WHY I OUGHTA</li>
+</ul>
+
+<p>Every one of the seven 9+ letter entries wasn&#39;t just great &mdash; they were amazing. I don&#39;t think I&#39;ve ever felt like that with a themeless. Just I SAID GOOD DAY SIR would have almost been enough, but to get seven ultra-colorful headliners in one puzzle? Whoa!</p>
+
+<p>I had a long internal debate, part of me needing to give this one the POW! based on the snazz factor alone. So many memorable entries!</p>
+
+<p>But I have this annoying constructor yin to my delighted solver&#39;s yang. I&#39;ve learned to stomp it down to ignore the minor stuff like ENTR. And SOREHEAD &hellip; is that something people actually call each other?</p>
+
+<p>But a single ADOZE makes that dark side tremble mightily.</p>
+
+<p>Then MONAD?</p>
+
+<p>And SPUMED?</p>
+
+<p>HULK SMASH!</p>
+
+<p>Note how each of those three uglies exhibits the alternative vowel-consonant pattern, so helpful to constructors. It&#39;s not a surprise that entries like this tend to make it into crosswords.</p>
+
+<p>I know, I know, some of this was necessary to make all the goodness happen. SPUMED / MONAD is in a big region highly constrained by GO HALFSIES / ENDLESS LOOP. Maybe a cheater square at the S of SPUMED would have helped. But corner black squares can be unsightly.</p>
+
+<p>Terrific clue for PARABOLA, although non-math types might not have appreciated its brilliance. PARABOLAs have a focus, i.e., the point where blah blah blah I don&#39;t remember exactly, but it&#39;s a great misdirect using the word &quot;focus.&quot;</p>
+
+<p>When I step back and look at the big picture, this puzzle contains so much greatness that it deserves a POW! It&#39;s a shame that just a few short entries sadly held me back.</p>
+
+<p>(sounds of struggle) DIE, YIN! BWA HA HA HA YOU STUPID FLAW-POINTING-OUTER PEDANT, I&#39;M GIVING OUT TWO POW!S THIS WEEK!</p>
+
+<p>(Gotta keep all you readers on your toes every once in a while!)</p>]]></JeffNotes>
+  </Puzzle>
+</Puzzles>

@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Friday, February 9, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 2/9/2018 at 5:27 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Fri, Feb 09, 2018</Title>
+    <Author>Brendan Emmett Quigley</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>2/9/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>IINSIST.COLLATE</Row>
+      <Row>STEAMER.AVIATOR</Row>
+      <Row>LEASETO.ROOTFOR</Row>
+      <Row>EMPHASISMINE...</Row>
+      <Row>...ANA.QED.CABS</Row>
+      <Row>ZANY.GAUL.LAPEL</Row>
+      <Row>APE.BOLA.LOLITA</Row>
+      <Row>PORTRAITGALLERY</Row>
+      <Row>PLURAL.JAZZ.CUE</Row>
+      <Row>ELDON.RUBY.FEED</Row>
+      <Row>ROAM.JAM.BOO...</Row>
+      <Row>...BOOKPROPOSAL</Row>
+      <Row>LEMONDE.ONADATE</Row>
+      <Row>SCENEII.MERINOS</Row>
+      <Row>TOHELEN.ESTEEMS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="IINSIST">"No, really"</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Across" Ans="COLLATE">Sort</Clue>
+      <Clue Row="2" Col="1" Num="15" Dir="Across" Ans="STEAMER">Carpet cleaner</Clue>
+      <Clue Row="2" Col="9" Num="16" Dir="Across" Ans="AVIATOR">High-minded sort?</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="LEASETO">Give a flat fee?</Clue>
+      <Clue Row="3" Col="9" Num="18" Dir="Across" Ans="ROOTFOR">Back in the stadium</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="EMPHASISMINE">[Can you believe they wrote this?!]</Clue>
+      <Clue Row="5" Col="4" Num="21" Dir="Across" Ans="ANA">TV commentator Navarro</Clue>
+      <Clue Row="5" Col="8" Num="22" Dir="Across" Ans="QED">Abbr. in math class</Clue>
+      <Clue Row="5" Col="12" Num="23" Dir="Across" Ans="CABS">Stock at a wine bar</Clue>
+      <Clue Row="6" Col="1" Num="27" Dir="Across" Ans="ZANY">Off the wall</Clue>
+      <Clue Row="6" Col="6" Num="30" Dir="Across" Ans="GAUL">Battle of Soissons setting</Clue>
+      <Clue Row="6" Col="11" Num="32" Dir="Across" Ans="LAPEL">Place for a miniature flag</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Across" Ans="APE">Goon</Clue>
+      <Clue Row="7" Col="5" Num="34" Dir="Across" Ans="BOLA">Weapon with a rope and balls</Clue>
+      <Clue Row="7" Col="10" Num="35" Dir="Across" Ans="LOLITA">Literary nickname for Dolores</Clue>
+      <Clue Row="8" Col="1" Num="36" Dir="Across" Ans="PORTRAITGALLERY">One of the Smithsonian buildings</Clue>
+      <Clue Row="9" Col="1" Num="39" Dir="Across" Ans="PLURAL">What "they" can only be, to grammar sticklers</Clue>
+      <Clue Row="9" Col="8" Num="40" Dir="Across" Ans="JAZZ">Enliven, with "up"</Clue>
+      <Clue Row="9" Col="13" Num="41" Dir="Across" Ans="CUE">Signal</Clue>
+      <Clue Row="10" Col="1" Num="42" Dir="Across" Ans="ELDON">Iowa town where Grant Wood's "American Gothic" is set</Clue>
+      <Clue Row="10" Col="7" Num="43" Dir="Across" Ans="RUBY">Shade of red</Clue>
+      <Clue Row="10" Col="12" Num="44" Dir="Across" Ans="FEED">Word with chicken or news</Clue>
+      <Clue Row="11" Col="1" Num="45" Dir="Across" Ans="ROAM">Go here and there</Clue>
+      <Clue Row="11" Col="6" Num="46" Dir="Across" Ans="JAM">Tight spot</Clue>
+      <Clue Row="11" Col="10" Num="47" Dir="Across" Ans="BOO">Scare quote?</Clue>
+      <Clue Row="12" Col="4" Num="49" Dir="Across" Ans="BOOKPROPOSAL">Pitch to a publisher</Clue>
+      <Clue Row="13" Col="1" Num="55" Dir="Across" Ans="LEMONDE">Paper that runs mots croisés</Clue>
+      <Clue Row="13" Col="9" Num="58" Dir="Across" Ans="ONADATE">Seeing someone, say</Clue>
+      <Clue Row="14" Col="1" Num="59" Dir="Across" Ans="SCENEII">When Caesar says "Yond Cassius has a lean and hungry look"</Clue>
+      <Clue Row="14" Col="9" Num="60" Dir="Across" Ans="MERINOS">Prized sheep</Clue>
+      <Clue Row="15" Col="1" Num="61" Dir="Across" Ans="TOHELEN">1831 Poe work</Clue>
+      <Clue Row="15" Col="9" Num="62" Dir="Across" Ans="ESTEEMS">Prizes</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="ISLE">Carnival Cruise stop</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ITEM">Twosome</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="NEAP">___ tide</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="SASHAY">Walk alluringly</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="IMEAN">"Well ..."</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="SETSAGOAL">Aspires to do something</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="TROI">"Star Trek: T.N.G." role</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="CARMEL">Mount near Haifa</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="OVOID">Like a squashed circle</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="LION">Peugeot symbol</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="LATECALL">It may come long after the play</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="ATF">Gangbusters, for short?</Clue>
+      <Clue Row="1" Col="14" Num="13" Dir="Down" Ans="TOO">"___ soon?"</Clue>
+      <Clue Row="1" Col="15" Num="14" Dir="Down" Ans="ERR">Go astray</Clue>
+      <Clue Row="4" Col="8" Num="20" Dir="Down" Ans="SQUATJUMP">Exercise started by crouching</Clue>
+      <Clue Row="5" Col="13" Num="24" Dir="Down" Ans="APIECE">Per</Clue>
+      <Clue Row="5" Col="14" Num="25" Dir="Down" Ans="BETRUE">Not stray</Clue>
+      <Clue Row="5" Col="15" Num="26" Dir="Down" Ans="SLAYED">Did phenomenally onstage</Clue>
+      <Clue Row="6" Col="1" Num="27" Dir="Down" Ans="ZAPPER">Debugging tool?</Clue>
+      <Clue Row="6" Col="2" Num="28" Dir="Down" Ans="APOLLO">Cyclops killer of myth</Clue>
+      <Clue Row="6" Col="3" Num="29" Dir="Down" Ans="NERUDA">Poet who wrote "Tonight I can write the saddest lines"</Clue>
+      <Clue Row="6" Col="7" Num="31" Dir="Down" Ans="ALI">Ayaan Hirsi ___, Somali-born advocate for women's rights and religious freedom</Clue>
+      <Clue Row="6" Col="11" Num="32" Dir="Down" Ans="LOLZ">Online hilarity</Clue>
+      <Clue Row="7" Col="5" Num="34" Dir="Down" Ans="BRAN">Healthful breakfast choice</Clue>
+      <Clue Row="7" Col="10" Num="35" Dir="Down" Ans="LAZYBONES">Do-nothing</Clue>
+      <Clue Row="8" Col="4" Num="37" Dir="Down" Ans="TROMBONE">Ska band instrument</Clue>
+      <Clue Row="8" Col="9" Num="38" Dir="Down" Ans="GAB">Be garrulous</Clue>
+      <Clue Row="10" Col="7" Num="43" Dir="Down" Ans="RAKEIN">Make hand over fist</Clue>
+      <Clue Row="10" Col="12" Num="44" Dir="Down" Ans="FOODIE">Epicure</Clue>
+      <Clue Row="11" Col="6" Num="46" Dir="Down" Ans="JODIE">"Doctor Who" actress Whittaker</Clue>
+      <Clue Row="11" Col="11" Num="48" Dir="Down" Ans="OPART">Good genre for a maze maker</Clue>
+      <Clue Row="12" Col="5" Num="50" Dir="Down" Ans="ONEL">Intro to Torts student</Clue>
+      <Clue Row="12" Col="9" Num="51" Dir="Down" Ans="ROME">"The Bicycle Thief" setting</Clue>
+      <Clue Row="12" Col="13" Num="52" Dir="Down" Ans="SANE">All together, so to speak</Clue>
+      <Clue Row="12" Col="14" Num="53" Dir="Down" Ans="ATOM">Bond collector?</Clue>
+      <Clue Row="12" Col="15" Num="54" Dir="Down" Ans="LESS">Not so great</Clue>
+      <Clue Row="13" Col="1" Num="55" Dir="Down" Ans="LST">W.W. II craft: Abbr.</Clue>
+      <Clue Row="13" Col="2" Num="56" Dir="Down" Ans="ECO">Pro-sustainability, in lingo</Clue>
+      <Clue Row="13" Col="3" Num="57" Dir="Down" Ans="MEH">"It doesn't excite me"</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Fun to get that pile-up of rare letters in the middle of the puzzle, Q J J Z Z nearby. Loved it!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Squat_%28exercise%29" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Squat.png" style="border:1px solid lightgray; float:right; height:230px; margin:6px 0px 6px 12px; width:169px" title="Okay, it'd be pretty impressive if this dude can actually get off the ground..." /></a></p>
+
+<p>I like BOOK PROPOSAL a lot, being a writer and all, and EMPHASIS MINE was strong too.</p>
+
+<p>It&#39;s so tough to feature 12-letter entries in themelesses. Look at how those three black squares at the end of EMPHASIS MINE and the start of BOOK PROPOSAL fix so much into place. Themelesses often benefit from shifting black squares around like crazy, testing, testing, testing. Not easy to do when you already start with some fixed black squares.</p>
+
+<p>I didn&#39;t know what a SQUAT JUMP was, but it seemed self-explanatory (starting from a squat &hellip; and then jumping?). Neat how it interlocked with the 12s above, and also PORTRAIT GALLERY. Strong backbone to the puzzle.</p>
+
+<p>But also a fairly inflexible one. BEQ did well to work in LAZY BONES and TROMBONE (still waiting for someone to use the awesome SAD TROMBONE), but that further rigidified things. Not a surprise to end up needing some LST (yikes), ONEL in the SW, along with the more-neutral-than-positive SCENE II and TO HELEN.</p>
+
+<p>In general, it&#39;s so tough to make 7-letter entries stand out. I did like LE MONDE, and I INSIST was a nice one too. But COLLATE, LEASE TO, ROOT FOR, ESTEEMS &hellip; just taking up valuable real estate.</p>
+
+<p>ROOT FOR actually did get elevated by its clue &mdash; I was so confused, wondering what the back rows of a stadium were called. Nope, &quot;back&quot; as in support! That&#39;s the way to make a dull entry stand out.</p>
+
+<p>A neat skeleton structuring this 72-word grid. But as a 72-worder &mdash; the max number of allowable words in a themeless &mdash; I wanted a little more juice. Those corners full of 7s are so tough to make sing.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>This is one of my go to grids when making themelesses. Peter Gordon was the first (I believe) to do a pattern like this with the 12s and the stacked 7s. Basically it allows for some solid anchoring phrases and enough room to breathe to have clean fill in the remaining corners.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

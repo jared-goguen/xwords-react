@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Saturday, March 3, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/3/2018 at 6:29 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sat, Mar 03, 2018</Title>
+    <Author>Damon Gulczynski</Author>
+    <CanonicalNames>
+      <Constructor>Damon J. Gulczynski</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/3/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>POSTERIZE.LASTS</Row>
+      <Row>ESCAPEPOD.ARHAT</Row>
+      <Row>WHATSMORE.ZAIRE</Row>
+      <Row>SANTO..ARMYBRAT</Row>
+      <Row>...OMAR..OBSESS</Row>
+      <Row>CAMO.GOSOLO....</Row>
+      <Row>OFFICEMAX.NEATO</Row>
+      <Row>STASH.ALI.EXCOP</Row>
+      <Row>TASTE.NUDESCENE</Row>
+      <Row>....ERODED.USED</Row>
+      <Row>LAOTZU..SUSS...</Row>
+      <Row>ITSAWRAP..CEASE</Row>
+      <Row>LEASH.SAYSAYSAY</Row>
+      <Row>TAKEI.ARISTOTLE</Row>
+      <Row>STARZ.PANTSUITS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="POSTERIZE">Display, as an image, using only a small number of different tones</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Across" Ans="LASTS">Goes on</Clue>
+      <Clue Row="2" Col="1" Num="15" Dir="Across" Ans="ESCAPEPOD">Way out in space</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Across" Ans="ARHAT">Enlightened sort</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="WHATSMORE">"Further ..."</Clue>
+      <Clue Row="3" Col="11" Num="18" Dir="Across" Ans="ZAIRE">Site of a 1974 fight won by 40-Across</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="SANTO">Ron ___, nine-time All-Star from the 1960s-'70s Cubs</Clue>
+      <Clue Row="4" Col="8" Num="20" Dir="Across" Ans="ARMYBRAT">Kid with a moving life story?</Clue>
+      <Clue Row="5" Col="4" Num="22" Dir="Across" Ans="OMAR">"The Wire" stickup man</Clue>
+      <Clue Row="5" Col="10" Num="25" Dir="Across" Ans="OBSESS">Become completely absorbed</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Across" Ans="CAMO">G.I. garb, for short</Clue>
+      <Clue Row="6" Col="6" Num="29" Dir="Across" Ans="GOSOLO">Strike out on one's own</Clue>
+      <Clue Row="7" Col="1" Num="32" Dir="Across" Ans="OFFICEMAX">Staples competitor starting in 1988</Clue>
+      <Clue Row="7" Col="11" Num="34" Dir="Across" Ans="NEATO">Swell</Clue>
+      <Clue Row="8" Col="1" Num="39" Dir="Across" Ans="STASH">Put away</Clue>
+      <Clue Row="8" Col="7" Num="40" Dir="Across" Ans="ALI">See 18-Across</Clue>
+      <Clue Row="8" Col="11" Num="41" Dir="Across" Ans="EXCOP">Many a private investigator</Clue>
+      <Clue Row="9" Col="1" Num="42" Dir="Across" Ans="TASTE">Try</Clue>
+      <Clue Row="9" Col="7" Num="43" Dir="Across" Ans="NUDESCENE">Hot take?</Clue>
+      <Clue Row="10" Col="5" Num="45" Dir="Across" Ans="ERODED">Like many shorelines</Clue>
+      <Clue Row="10" Col="12" Num="47" Dir="Across" Ans="USED">Car lot designation</Clue>
+      <Clue Row="11" Col="1" Num="48" Dir="Across" Ans="LAOTZU">Philosopher who said "A journey of a thousand miles must begin with a single step"</Clue>
+      <Clue Row="11" Col="9" Num="52" Dir="Across" Ans="SUSS">Puzzle (out)</Clue>
+      <Clue Row="12" Col="1" Num="54" Dir="Across" Ans="ITSAWRAP">"We're done here"</Clue>
+      <Clue Row="12" Col="11" Num="57" Dir="Across" Ans="CEASE">"Enough!"</Clue>
+      <Clue Row="13" Col="1" Num="61" Dir="Across" Ans="LEASH">Restraint</Clue>
+      <Clue Row="13" Col="7" Num="62" Dir="Across" Ans="SAYSAYSAY">1983 #1 hit with the lyric "Take, take, take what you need"</Clue>
+      <Clue Row="14" Col="1" Num="65" Dir="Across" Ans="TAKEI">Co-star with Shatner and Nimoy</Clue>
+      <Clue Row="14" Col="7" Num="66" Dir="Across" Ans="ARISTOTLE">So-called "Father of Zoology"</Clue>
+      <Clue Row="15" Col="1" Num="67" Dir="Across" Ans="STARZ">Cinemax competitor</Clue>
+      <Clue Row="15" Col="7" Num="68" Dir="Across" Ans="PANTSUITS">Common business attire</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="PEWS">Bible supporters, often</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="OSHA">Org. with inspectors</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="SCAN">Good look</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="TATTOOIST">One who might needle you?</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="EPSOM">With 59-Down, spa supply</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="REM">Band with the monster album "Monster"</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="IPO">Market event, briefly</Clue>
+      <Clue Row="1" Col="8" Num="8" Dir="Down" Ans="ZORA">Novelist ___ Neale Hurston</Clue>
+      <Clue Row="1" Col="9" Num="9" Dir="Down" Ans="EDER">Linda of Broadway's "Jekyll &amp; Hyde"</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="LAZYBONES">Slugabed</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="ARABS">Ishmael's people</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="SHIRE">Ending with Oxford or Cambridge</Clue>
+      <Clue Row="1" Col="14" Num="13" Dir="Down" Ans="TARAS">Gogol's "___ Bulba"</Clue>
+      <Clue Row="1" Col="15" Num="14" Dir="Down" Ans="STETS">Correction corrections</Clue>
+      <Clue Row="4" Col="10" Num="21" Dir="Down" Ans="MOL">Chem. unit</Clue>
+      <Clue Row="5" Col="6" Num="23" Dir="Down" Ans="AGE">Questionnaire info</Clue>
+      <Clue Row="5" Col="7" Num="24" Dir="Down" Ans="ROMANO">Parmesan alternative</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Down" Ans="COST">___ analysis</Clue>
+      <Clue Row="6" Col="2" Num="27" Dir="Down" Ans="AFTA">Men's grooming brand</Clue>
+      <Clue Row="6" Col="3" Num="28" Dir="Down" Ans="MFAS">Dramatists' degs.</Clue>
+      <Clue Row="6" Col="8" Num="30" Dir="Down" Ans="SALUD">"Gesundheit!"</Clue>
+      <Clue Row="6" Col="9" Num="31" Dir="Down" Ans="OXIDES">Lime and others</Clue>
+      <Clue Row="7" Col="5" Num="33" Dir="Down" Ans="CHEEZWHIZ">Popular cracker topper</Clue>
+      <Clue Row="7" Col="12" Num="35" Dir="Down" Ans="EXCUSEYOU">"How rude!"</Clue>
+      <Clue Row="7" Col="13" Num="36" Dir="Down" Ans="ACES">Crackerjack</Clue>
+      <Clue Row="7" Col="14" Num="37" Dir="Down" Ans="TONE">Shade</Clue>
+      <Clue Row="7" Col="15" Num="38" Dir="Down" Ans="OPED">Piece of punditry</Clue>
+      <Clue Row="9" Col="10" Num="44" Dir="Down" Ans="EDU">Email address ending</Clue>
+      <Clue Row="10" Col="6" Num="46" Dir="Down" Ans="RUR">1921 play for which the word "robot" was invented</Clue>
+      <Clue Row="11" Col="1" Num="48" Dir="Down" Ans="LILTS">Airs</Clue>
+      <Clue Row="11" Col="2" Num="49" Dir="Down" Ans="ATEAT">Plagued</Clue>
+      <Clue Row="11" Col="3" Num="50" Dir="Down" Ans="OSAKA">City at the mouth of the Yodo River</Clue>
+      <Clue Row="11" Col="4" Num="51" Dir="Down" Ans="TASER">Real stunner</Clue>
+      <Clue Row="11" Col="11" Num="53" Dir="Down" Ans="SCATS">Improvises, in a way</Clue>
+      <Clue Row="12" Col="7" Num="55" Dir="Down" Ans="ASAP">[Can't wait!]</Clue>
+      <Clue Row="12" Col="8" Num="56" Dir="Down" Ans="PARA">Brief researcher, briefly</Clue>
+      <Clue Row="12" Col="13" Num="58" Dir="Down" Ans="ASTI">Riesling alternative, familiarly</Clue>
+      <Clue Row="12" Col="14" Num="59" Dir="Down" Ans="SALT">See 5-Down</Clue>
+      <Clue Row="12" Col="15" Num="60" Dir="Down" Ans="EYES">Intel satellites, metaphorically</Clue>
+      <Clue Row="13" Col="9" Num="63" Dir="Down" Ans="YIN">Dark side</Clue>
+      <Clue Row="13" Col="10" Num="64" Dir="Down" Ans="SST">High-speed inits.</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>POSTERIZE! I&#39;ve done that a few times in my day, my defender&#39;s face all crinkled up in agony. (Okay fine, on an 8-foot hoop.)</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Taras_Bulba_(1962_film)" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/e/e6/Taras_Bulba_-_1962_-_Poster.png" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:163px" title="TARAS BULBA ... the movie! Looks like there's a lot going on there." /></a></p>
+
+<p>Oh &hellip; it means [Display, as an image, using only a small number of different tones] too?</p>
+
+<p>Huh. Fully agreed with Damon. I suppose it&#39;s a niche term that will get lost on non-bball fans, but still, I think it&#39;s an awesome piece of slang to learn. Hopefully, it will expand to other spheres of life. That annoying driver, not moving when the light turns green because he&#39;s staring at his cell phone, and the cops nab him for breaking Washington&#39;s distracted driving law?</p>
+
+<p>POSTERIZEd!</p>
+
+<p>Okay, maybe not.</p>
+
+<p>Choosing to ignore that cluing decision, I loved how the puzzle kicked off. Combining POSTERIZE with ESCAPE POD and WHATS MORE made for a great triple.</p>
+
+<p>TATTOOIST running through it, though &hellip; it&#39;s a &quot;tattoo artist,&quot; isn&#39;t it? I have a tat, but I&#39;m not sure I&#39;d ever say I went to a TATTOOIST to get it.</p>
+
+<p>Aside from TATTOOIST, I liked Damon&#39;s usage of his long slots. EXCUSE YOU is colorful. ARMY BRAT clued as a kid with a &quot;moving&quot; life story, IT&#39;S A WRAP, the awesome brand name CHEEZ WHIZ, ARISTOTLE, etc. = more than enough to keep up my interest.</p>
+
+<p>I don&#39;t mind an esoteric name/thing here and there, especially in a Saturday puzzle. Ron SANTO ... I&#39;m expected to know non-Hall-of-Fame baseball players? Thankfully, Damon made all the crossings fair and easy, so SANTO didn&#39;t hinder my correct solve. But staring at SANTO, wondering if that could truly be right, wasn&#39;t a good feeling.</p>
+
+<p><strong>ADDED NOTE:</strong> apparently many of my readers are baseball fans! Ron SANTO was elected to the HOF in 2012, so that one is on me. Not the first or last time I&#39;ll be wrong! Thanks all for letting me know.</p>
+
+<p>And the NE corner &hellip; huh. I learned what an ARHAT was through crosswords, but I do think it&#39;s fair game. Just because it&#39;s from a culture not yours doesn&#39;t mean it&#39;s bad!</p>
+
+<p>TARAS Bulba I also learned from crosswords. That consonant-vowel alternation is so useful to constructors.</p>
+
+<p>STETS, too. I&#39;m not sure my editor at HarperCollins would know what STETS means. (His line editor definitely does, though.)</p>
+
+<p>Each of ARHAT / TARAS / STETS is pretty minor to me. All together though, and I might have asked for a redo of that corner.</p>
+
+<p>It&#39;s too bad &ndash; a sore spot on an otherwise pretty darn good puzzle.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>I made this one many years ago. It sat in the queue even longer than usual. It looks pretty good to me now, with one major exception. 1-Across was a seed answer, and the original clue was something like &quot;Humiliate on the hardwood.&quot; As basketball fans know, to POSTERIZE somebody is to dunk on them in such an impressive fashion that the image is worthy of being put on a poster. It&#39;s a fun, lively term evoking basketball awesomeness. Why, why, why then would you change the clue to reference a mundane, technical printing process? Maybe it helps the non-sports fan, but at the expense of watering-down the puzzle for everybody &ndash; it doesn&#39;t seem like a good trade-off to me.</p>
+
+<p>But there is a good chance I&#39;m way off on all of this and solvers won&#39;t care much about it, and instead, the main objection will be something else that never even crossed my mind. That seems to be how it goes.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

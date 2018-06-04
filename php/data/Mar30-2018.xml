@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Friday, March 30, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/29/2018 at 7:01 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Fri, Mar 30, 2018</Title>
+    <Author>Sam Trabucco</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/30/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>MAMABIRD.TURNIP</Row>
+      <Row>OSOLEMIO.ICHECK</Row>
+      <Row>WELLDAMN.GLOVES</Row>
+      <Row>SADE.FATHEADED.</Row>
+      <Row>...RCA.WAR.ARCO</Row>
+      <Row>.PAGAN.ARMS.FOB</Row>
+      <Row>ALLIN.ZIPON.AFI</Row>
+      <Row>WELCOMETOMYLIFE</Row>
+      <Row>MAO.NORUN.DALES</Row>
+      <Row>ASS.SLOP.DENSE.</Row>
+      <Row>NEAP.ATF.ORD...</Row>
+      <Row>.SURFSHOPS.LACE</Row>
+      <Row>ATROIS.REARAXLE</Row>
+      <Row>MOUSSE.MEGADEAL</Row>
+      <Row>UPSETS.ENEMYSPY</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="MAMABIRD">Egg warmer</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Across" Ans="TURNIP">A rutabaga is a cross between a cabbage and this</Clue>
+      <Clue Row="2" Col="1" Num="15" Dir="Across" Ans="OSOLEMIO">Pavarotti standard whose name means "My Sunshine"</Clue>
+      <Clue Row="2" Col="10" Num="16" Dir="Across" Ans="ICHECK">"No bet," in poker</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="WELLDAMN">"Ain't that somethin'!"</Clue>
+      <Clue Row="3" Col="10" Num="18" Dir="Across" Ans="GLOVES">Doctor's wear</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="SADE">"Your Love Is King" singer, 1984</Clue>
+      <Clue Row="4" Col="6" Num="20" Dir="Across" Ans="FATHEADED">Stupid</Clue>
+      <Clue Row="5" Col="4" Num="22" Dir="Across" Ans="RCA">Toshiba competitor</Clue>
+      <Clue Row="5" Col="8" Num="24" Dir="Across" Ans="WAR">"God created ___ so that Americans would learn geography" (line attributed to Mark Twain)</Clue>
+      <Clue Row="5" Col="12" Num="25" Dir="Across" Ans="ARCO">With the bow, in music</Clue>
+      <Clue Row="6" Col="2" Num="27" Dir="Across" Ans="PAGAN">Like many Christmas traditions</Clue>
+      <Clue Row="6" Col="8" Num="29" Dir="Across" Ans="ARMS">Some of Lockheed Martin's business</Clue>
+      <Clue Row="6" Col="13" Num="31" Dir="Across" Ans="FOB">___ chain</Clue>
+      <Clue Row="7" Col="1" Num="32" Dir="Across" Ans="ALLIN">Committed</Clue>
+      <Clue Row="7" Col="7" Num="33" Dir="Across" Ans="ZIPON">Like some jacket hoods</Clue>
+      <Clue Row="7" Col="13" Num="34" Dir="Across" Ans="AFI">"100 Years ... 100 Movies" org.</Clue>
+      <Clue Row="8" Col="1" Num="35" Dir="Across" Ans="WELCOMETOMYLIFE">"And I get dumped on again"</Clue>
+      <Clue Row="9" Col="1" Num="38" Dir="Across" Ans="MAO">Ubiquitous Chinese character</Clue>
+      <Clue Row="9" Col="5" Num="39" Dir="Across" Ans="NORUN">Like a three-pitch inning</Clue>
+      <Clue Row="9" Col="11" Num="40" Dir="Across" Ans="DALES">Low-lying areas</Clue>
+      <Clue Row="10" Col="1" Num="41" Dir="Across" Ans="ASS">Jerk</Clue>
+      <Clue Row="10" Col="5" Num="42" Dir="Across" Ans="SLOP">School cafeteria food, stereotypically</Clue>
+      <Clue Row="10" Col="10" Num="43" Dir="Across" Ans="DENSE">Stupid</Clue>
+      <Clue Row="11" Col="1" Num="44" Dir="Across" Ans="NEAP">___ tide</Clue>
+      <Clue Row="11" Col="6" Num="46" Dir="Across" Ans="ATF">D.O.J. branch</Clue>
+      <Clue Row="11" Col="10" Num="47" Dir="Across" Ans="ORD">Chicago airport code</Clue>
+      <Clue Row="12" Col="2" Num="48" Dir="Across" Ans="SURFSHOPS">Businesses often near beaches</Clue>
+      <Clue Row="12" Col="12" Num="51" Dir="Across" Ans="LACE">Spike</Clue>
+      <Clue Row="13" Col="1" Num="55" Dir="Across" Ans="ATROIS">For three: Fr.</Clue>
+      <Clue Row="13" Col="8" Num="56" Dir="Across" Ans="REARAXLE">Backspin producer?</Clue>
+      <Clue Row="14" Col="1" Num="58" Dir="Across" Ans="MOUSSE">Style setter?</Clue>
+      <Clue Row="14" Col="8" Num="59" Dir="Across" Ans="MEGADEAL">High-profile merger, e.g.</Clue>
+      <Clue Row="15" Col="1" Num="60" Dir="Across" Ans="UPSETS">Riles</Clue>
+      <Clue Row="15" Col="8" Num="61" Dir="Across" Ans="ENEMYSPY">Plant from another country</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="MOWS">Does some diamond cutting?</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ASEA">Offshore</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="MOLD">Jell-O maker</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="ALLERGIC">Like some reactions</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="BED">Safe place to crash</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="IMAFAN">"Your work inspires me"</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="RIMA">Italian poetic form</Clue>
+      <Clue Row="1" Col="8" Num="8" Dir="Down" Ans="DONTWAITUPFORME">"I won't be back till late"</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="TIGERMOM">Strict, demanding parent</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="UCLA">Most-applied-to school in the U.S.</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="RHODA">Hit 1970s sitcom</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="NEVERFAILS">"Works every time"</Clue>
+      <Clue Row="1" Col="14" Num="13" Dir="Down" Ans="ICEDCOFFEE">Summer drink with caffeine</Clue>
+      <Clue Row="1" Col="15" Num="14" Dir="Down" Ans="PKS">Tie-breaking shots in soccer: Abbr.</Clue>
+      <Clue Row="4" Col="9" Num="21" Dir="Down" Ans="HARPON">Refuse to drop</Clue>
+      <Clue Row="5" Col="5" Num="23" Dir="Down" Ans="CANONS">Nikon competitors</Clue>
+      <Clue Row="5" Col="15" Num="26" Dir="Down" Ans="OBIES">Cousins of Drama Desk Awards</Clue>
+      <Clue Row="6" Col="2" Num="27" Dir="Down" Ans="PLEASESTOP">"Enough!"</Clue>
+      <Clue Row="6" Col="3" Num="28" Dir="Down" Ans="ALLOSAURUS">Terror in Arthur Conan Doyle's "The Lost World"</Clue>
+      <Clue Row="6" Col="11" Num="30" Dir="Down" Ans="SNYDER">Tom of old late-night TV</Clue>
+      <Clue Row="7" Col="1" Num="32" Dir="Down" Ans="AWMAN">"Jeez, that's a shame!"</Clue>
+      <Clue Row="7" Col="7" Num="33" Dir="Down" Ans="ZEROTH">Preceder of first</Clue>
+      <Clue Row="8" Col="6" Num="36" Dir="Down" Ans="MOLASSES">Common ingredient in baked beans</Clue>
+      <Clue Row="8" Col="12" Num="37" Dir="Down" Ans="LANDLADY">Ethel Mertz, on "I Love Lucy"</Clue>
+      <Clue Row="10" Col="10" Num="43" Dir="Down" Ans="DOSAGE">Just what the doctor ordered</Clue>
+      <Clue Row="11" Col="4" Num="45" Dir="Down" Ans="PROSE">Essayist's writing</Clue>
+      <Clue Row="12" Col="5" Num="49" Dir="Down" Ans="FIST">It may pack a punch</Clue>
+      <Clue Row="12" Col="9" Num="50" Dir="Down" Ans="PEEN">Hammer's end</Clue>
+      <Clue Row="12" Col="13" Num="52" Dir="Down" Ans="AXES">Choppers</Clue>
+      <Clue Row="12" Col="14" Num="53" Dir="Down" Ans="CLAP">Thunderous sound</Clue>
+      <Clue Row="12" Col="15" Num="54" Dir="Down" Ans="EELY">Slithery</Clue>
+      <Clue Row="13" Col="1" Num="55" Dir="Down" Ans="AMU">Asia's ___ Darya River</Clue>
+      <Clue Row="13" Col="11" Num="57" Dir="Down" Ans="RAM">Broadside, maybe</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>As long as a themeless exhibits a decent level of gridwork proficiency, I&#39;m pretty happy. What turns a good themeless into a great one for me is the difficult-to-define quality of &quot;voice.&quot; In the writing world, agents and editors are all searching for voice, that spark in a manuscript that makes it un-put-down-able. Sometimes it&#39;s personal resonance, sometimes it&#39;s the author&#39;s ability to generate tension, or a character&#39;s memorable dialogue.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Constance_Wu" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/9/91/ConstanceImage.jpg" style="border:1px solid lightgray; float:right; height:191px; margin:6px 0px 6px 12px; width:220px" title="TIGER MOM from &quot;Fresh Off the Boat.&quot; She's spot on!" /></a></p>
+
+<p>A long-winded way of saying that I&#39;m a fan of Sam&#39;s voice. Such a nice pairing of WELCOME TO MY LIFE and DON&#39;T WAIT UP FOR ME, both catchy, common phrases. NEVER FAILS echoes WELCOME TO MY LIFE, as does PLEASE STOP and DON&#39;T WAIT UP FOR ME. I like when a themeless shows these fortuitous connections.</p>
+
+<p>And the beautiful entry/clue pairings:</p>
+
+<ul>
+	<li>ENEMY SPY is great on its own. But [Plant from another country] so innocently made me think of flora. It&#39;s a beautiful clue that couldn&#39;t have been used for just SPY, elevating an already great entry to standout status.</li>
+	<li>A REAR AXLE generates &quot;backspin&quot; &mdash; as in, the back axle of the car spinning. A bit groany, but also a bit genius.</li>
+</ul>
+
+<p>The puzzle also spoke to me through TIGER MOM, a term both hilarious and tear-inducing for me and my peers. I&#39;m still waiting for someone to debut ASIAN F (an A minus, according to TIGER MOMs).</p>
+
+<p>Seriously, my mom once looked at my report card that had all As and one A minus, and said &quot;why didn&#39;t you do better?&quot;</p>
+
+<p>There were a couple of dabs of crossword glue here and there &mdash; PKS (penalty kicks), the AMU Darya River, RIMA &mdash; but not enough to make me give Sam the side-eye. A ton of beautiful long entries that personally resonated with me (part of me is a surf bum at heart, wanting eventually to run a SURF SHOP). Close to getting the POW! but it got edged out by another puzzle to come this week.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>Is the term TIGER MOM common? It&#39;s super familiar to me, but I have led a ... let&#39;s say &quot;biased&quot; life, filled with math nerds and their helicopter parents. I hope that the metaphor is at least evocative even for those to whom the term is unfamiliar!</p>
+
+<p>And if you enjoyed this puzzle (or the ones from the past week by Finn, Andy, and Claire!), consider donating and buying <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://queerqrosswords.com/&amp;source=gmail&amp;ust=1522124612009000&amp;usg=AFQjCNGAl61DbXzR_MTJ06yCJZPth-2TPw" href="http://queerqrosswords.com/" target="_blank">Queer Qrosswords</a>!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

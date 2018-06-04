@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Tuesday, January 23, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/23/2018 at 2:51 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Tue, Jan 23, 2018</Title>
+    <Author>Jim Hilger</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/23/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>TWO.REIGNS.SLOG</Row>
+      <Row>AIR.OCTANE.TAKE</Row>
+      <Row>CPA.WHERESOEVER</Row>
+      <Row>TENSIONS.ABRADE</Row>
+      <Row>..GEN...CMON...</Row>
+      <Row>AVENGER.REL.UVW</Row>
+      <Row>MARS.GAZA.INNER</Row>
+      <Row>ELIE.OPEDS.OPRY</Row>
+      <Row>MINDY.IDLE.RAGE</Row>
+      <Row>ODD.ACE.EMPTIER</Row>
+      <Row>...CHAR...LOD..</Row>
+      <Row>SOSOON.ISTANBUL</Row>
+      <Row>PREMONITION.ITO</Row>
+      <Row>EZRA.EMERGE.LEA</Row>
+      <Row>COBS.SPREAD.LSD</Row>
+    </Grid>
+    <Circles>
+      <Circle Row="1" Col="2" />
+      <Circle Row="1" Col="7" />
+      <Circle Row="1" Col="9" />
+      <Circle Row="1" Col="15" />
+      <Circle Row="3" Col="1" />
+      <Circle Row="3" Col="6" />
+      <Circle Row="3" Col="7" />
+      <Circle Row="3" Col="9" />
+      <Circle Row="3" Col="10" />
+      <Circle Row="3" Col="14" />
+      <Circle Row="7" Col="1" />
+      <Circle Row="7" Col="2" />
+      <Circle Row="7" Col="6" />
+      <Circle Row="7" Col="7" />
+      <Circle Row="7" Col="8" />
+      <Circle Row="7" Col="11" />
+      <Circle Row="7" Col="13" />
+      <Circle Row="7" Col="14" />
+      <Circle Row="9" Col="1" />
+      <Circle Row="9" Col="2" />
+      <Circle Row="9" Col="4" />
+      <Circle Row="9" Col="8" />
+      <Circle Row="9" Col="9" />
+      <Circle Row="9" Col="10" />
+      <Circle Row="9" Col="13" />
+      <Circle Row="9" Col="14" />
+      <Circle Row="9" Col="15" />
+      <Circle Row="13" Col="1" />
+      <Circle Row="13" Col="5" />
+      <Circle Row="13" Col="7" />
+      <Circle Row="13" Col="11" />
+      <Circle Row="13" Col="14" />
+      <Circle Row="15" Col="3" />
+      <Circle Row="15" Col="9" />
+      <Circle Row="15" Col="15" />
+    </Circles>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="TWO">Value of snake eyes in craps</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Across" Ans="REIGNS">Rules as a monarch</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="SLOG">Difficult endeavor</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="AIR">Put on TV</Clue>
+      <Clue Row="2" Col="5" Num="15" Dir="Across" Ans="OCTANE">87, 89 or 93, on a gas pump</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="TAKE">With 25-Down, office request</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="CPA">Pro at tax time</Clue>
+      <Clue Row="3" Col="5" Num="18" Dir="Across" Ans="WHERESOEVER">In any place</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="TENSIONS">Counterparts of compressions, in physics</Clue>
+      <Clue Row="4" Col="10" Num="22" Dir="Across" Ans="ABRADE">Wear away</Clue>
+      <Clue Row="5" Col="3" Num="23" Dir="Across" Ans="GEN">___-X</Clue>
+      <Clue Row="5" Col="9" Num="24" Dir="Across" Ans="CMON">"Get serious!"</Clue>
+      <Clue Row="6" Col="1" Num="25" Dir="Across" Ans="AVENGER">Member of a Marvel Comics group</Clue>
+      <Clue Row="6" Col="9" Num="29" Dir="Across" Ans="REL">Divinity school subj.</Clue>
+      <Clue Row="6" Col="13" Num="30" Dir="Across" Ans="UVW">T-X connection</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Across" Ans="MARS">Neighbor of the asteroid belt</Clue>
+      <Clue Row="7" Col="6" Num="34" Dir="Across" Ans="GAZA">Strip discussed in the Oslo Accords</Clue>
+      <Clue Row="7" Col="11" Num="36" Dir="Across" Ans="INNER">Word with circle or ear</Clue>
+      <Clue Row="8" Col="1" Num="38" Dir="Across" Ans="ELIE">Nobel laureate Wiesel</Clue>
+      <Clue Row="8" Col="6" Num="39" Dir="Across" Ans="OPEDS">Opinion pieces</Clue>
+      <Clue Row="8" Col="12" Num="41" Dir="Across" Ans="OPRY">Nashville venue, informally</Clue>
+      <Clue Row="9" Col="1" Num="42" Dir="Across" Ans="MINDY">Mork's TV pal</Clue>
+      <Clue Row="9" Col="7" Num="44" Dir="Across" Ans="IDLE">Wait for a green light, say</Clue>
+      <Clue Row="9" Col="12" Num="45" Dir="Across" Ans="RAGE">Fire and fury</Clue>
+      <Clue Row="10" Col="1" Num="46" Dir="Across" Ans="ODD">Peculiar</Clue>
+      <Clue Row="10" Col="5" Num="47" Dir="Across" Ans="ACE">It doesn't get returned</Clue>
+      <Clue Row="10" Col="9" Num="49" Dir="Across" Ans="EMPTIER">Less sincere, as a promise</Clue>
+      <Clue Row="11" Col="4" Num="51" Dir="Across" Ans="CHAR">Make black, in a way</Clue>
+      <Clue Row="11" Col="11" Num="52" Dir="Across" Ans="LOD">El Al hub city</Clue>
+      <Clue Row="12" Col="1" Num="53" Dir="Across" Ans="SOSOON">"Already?"</Clue>
+      <Clue Row="12" Col="8" Num="56" Dir="Across" Ans="ISTANBUL">City straddling Europe and Asia</Clue>
+      <Clue Row="13" Col="1" Num="61" Dir="Across" Ans="PREMONITION">Foreboding</Clue>
+      <Clue Row="13" Col="13" Num="63" Dir="Across" Ans="ITO">Judge Lance of the O.J. trial</Clue>
+      <Clue Row="14" Col="1" Num="64" Dir="Across" Ans="EZRA">Book after Chronicles</Clue>
+      <Clue Row="14" Col="6" Num="65" Dir="Across" Ans="EMERGE">Surface</Clue>
+      <Clue Row="14" Col="13" Num="66" Dir="Across" Ans="LEA">Grazing area</Clue>
+      <Clue Row="15" Col="1" Num="67" Dir="Across" Ans="COBS">Drakes : ducks :: ___ : swans</Clue>
+      <Clue Row="15" Col="6" Num="68" Dir="Across" Ans="SPREAD">Apt word to follow each row of circled letters</Clue>
+      <Clue Row="15" Col="13" Num="69" Dir="Across" Ans="LSD">Subtext of Jefferson Airplane's "White Rabbit"</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="TACT">Diplomat's skill</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="WIPE">Film editor's gradual transition</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="ORANGERIND">Leftover in a juicer</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Down" Ans="ROWING">Olympic sport with strokes</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="ECHO">Repeat</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="ITEN">Calif.-to-Fla. route</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="GARS">Elongated, heavily armored fish</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="NNE">U-turn from SSW</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="SESAME">Opening word?</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="STERN">Rear admiral's rear</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="LAVA">___ flow</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="OKED">Green-lit</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="GERE">Richard of "Unfaithful"</Clue>
+      <Clue Row="3" Col="11" Num="19" Dir="Down" Ans="OBOLI">Coins of ancient Athens</Clue>
+      <Clue Row="4" Col="4" Num="21" Dir="Down" Ans="SENSED">Picked up on</Clue>
+      <Clue Row="5" Col="9" Num="24" Dir="Down" Ans="CRADLE">Place to sing "Rock-a-Bye Baby"</Clue>
+      <Clue Row="6" Col="1" Num="25" Dir="Down" Ans="AMEMO">See 16-Across</Clue>
+      <Clue Row="6" Col="2" Num="26" Dir="Down" Ans="VALID">Bona fide</Clue>
+      <Clue Row="6" Col="6" Num="27" Dir="Down" Ans="EGO">A narcissist has a big one</Clue>
+      <Clue Row="6" Col="7" Num="28" Dir="Down" Ans="RAPIER">Relative of an épée</Clue>
+      <Clue Row="6" Col="13" Num="30" Dir="Down" Ans="UNPAIDBILL">Concern for a debt collector</Clue>
+      <Clue Row="6" Col="14" Num="31" Dir="Down" Ans="VERGE">Brink</Clue>
+      <Clue Row="6" Col="15" Num="32" Dir="Down" Ans="WRYER">More sardonic</Clue>
+      <Clue Row="7" Col="8" Num="35" Dir="Down" Ans="ZED">End of a line on the Underground?</Clue>
+      <Clue Row="7" Col="12" Num="37" Dir="Down" Ans="NORTON">Antivirus software brand</Clue>
+      <Clue Row="8" Col="10" Num="40" Dir="Down" Ans="SEM">Divinity sch.</Clue>
+      <Clue Row="9" Col="5" Num="43" Dir="Down" Ans="YAHOO">Logo with an exclamation mark</Clue>
+      <Clue Row="10" Col="6" Num="48" Dir="Down" Ans="CANNES">Annual French film festival site</Clue>
+      <Clue Row="10" Col="11" Num="50" Dir="Down" Ans="PLANED">Smoothed out</Clue>
+      <Clue Row="11" Col="4" Num="51" Dir="Down" Ans="COMAS">Deep sleeps</Clue>
+      <Clue Row="12" Col="1" Num="53" Dir="Down" Ans="SPEC">Particular in a design</Clue>
+      <Clue Row="12" Col="2" Num="54" Dir="Down" Ans="ORZO">Ricelike pasta</Clue>
+      <Clue Row="12" Col="3" Num="55" Dir="Down" Ans="SERB">Belgrade denizen</Clue>
+      <Clue Row="12" Col="8" Num="56" Dir="Down" Ans="ITER">Anatomical canal</Clue>
+      <Clue Row="12" Col="9" Num="57" Dir="Down" Ans="SIRE">Royal title</Clue>
+      <Clue Row="12" Col="10" Num="58" Dir="Down" Ans="TOGA">Outfit in Caesar's senate</Clue>
+      <Clue Row="12" Col="14" Num="59" Dir="Down" Ans="UTES">Pac-12 team</Clue>
+      <Clue Row="12" Col="15" Num="60" Dir="Down" Ans="LOAD">Mutual fund consideration</Clue>
+      <Clue Row="13" Col="7" Num="62" Dir="Down" Ans="IMP">Little rascal</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Everyone, SPREAD out! At first, I was turned off by the visually jarring shotgun spray of circles strewn across the grid, but I ended up liking the general effect after figuring out what was going on. The longer ones &mdash; MAGAZINE and MIDDLE AGE spreads &mdash; were particularly nice.</p>
+
+<p>I&#39;ve seen this concept with various letters SPREAD through a single entry many times, <a href="http://crosswordfiend.com/2017/06/19/tuesday-june-20-2017/">most recently a few months ago</a>, but never spread across a full row. Nice way to get the longer SPREADs worked in.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Obol_(coin)" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Charon-obol2.jpg/420px-Charon-obol2.jpg" style="border:1px solid lightgray; float:right; height:105px; margin:6px 0px 6px 12px; width:220px" title="These, apparently, are OBOLI?" /></a></p>
+
+<p>Being able to spread letters across an entire row gives a ton of flexibility. Look at how many spots the letters W I N G can go. Shift them all around to heaven and back!</p>
+
+<p>Using six theme rows &mdash; plus the SPREAD revealer! &mdash; takes most of that flexibility away, and then some. It&#39;s particularly difficult in the middle of the puzzle, where you have so many MAGAZINE and MIDDLE AGE letters that get crammed into those two close rows. Not a surprise to get some A MEMO SEM OBOLI there.</p>
+
+<p>And UVW, oof! These types of crutch entries are so inelegant that I would have restarted the entire puzzle if it ever came to something like this. Will has his own &quot;puzzle-killers&quot; that DQ a grid just by themselves, and this would have been one of mine.</p>
+
+<p>There&#39;s way too much crossword glue needed to pull this audacious grid off. Given how much more impressed I was with MIDDLE AGE (compared to WING), I think sticking to just the four long SPREADs would have resulted in a better puzzle. Might have also allowed for a snazzier long entry than WHERESOEVER &mdash; something like CHECK PLEASE or HEATED SEATS or HORSE SENSE.</p>
+
+<p>I like the twist on the SPREAD idea though, using entire rows to accomplish the goal. Great way to pull off the longer SPREADs that other constructors using this concept haven&#39;t been able to use.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>Hi to everyone. It&#39;s great to have a crossword in the Times again. I built this puzzle back in the fall of 2016. The published version looks very similar to what I originally submitted, but with some clues simplified for a Tuesday-level solve. (Clue that survived: &quot;Rear admiral&#39;s rear&quot; for STERN. Clue that did not survive: &quot;TX separatists, loosely speaking?&quot; for UVW.)</p>
+
+<p>I remember reworking the bottom of this grid just barely pre-submission, once it occurred to me that I could not only have the SPREAD revealer but could reuse its &quot;E&quot; to unfold a BEDSPREAD in the bottom row. Somehow, that &quot;aha&quot; moment made the puzzle an extra-fun one for me to have constructed.</p>
+
+<p>Hopefully, the slowly appearing circled answers will result in spreading some fun &quot;aha&quot; moments among the solvers, somewhere around mid-solve.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

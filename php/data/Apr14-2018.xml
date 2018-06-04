@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Saturday, April 14, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/14/2018 at 5:32 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sat, Apr 14, 2018</Title>
+    <Author>Sam Ezersky</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/14/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>SODACANS.CAMEBY</Row>
+      <Row>ECOLABEL.URANIA</Row>
+      <Row>ATTENDTO.PESTER</Row>
+      <Row>MICROUSB.ONHOLD</Row>
+      <Row>ALOT.CUBSFAN...</Row>
+      <Row>NED.STREET.OMAR</Row>
+      <Row>..OAK.FREESTYLE</Row>
+      <Row>ANTLER...ALETAP</Row>
+      <Row>COULDITBE.ASH..</Row>
+      <Row>ANKA.OHENRY.BBS</Row>
+      <Row>...BUTALSO.SUCH</Row>
+      <Row>SOLONG.ALIPASHA</Row>
+      <Row>CREATE.BADACTOR</Row>
+      <Row>AZARIA.OVERHERE</Row>
+      <Row>BORDER.REDCARDS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="SODACANS">Tabs are kept on them</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Across" Ans="CAMEBY">Managed to acquire</Clue>
+      <Clue Row="2" Col="1" Num="15" Dir="Across" Ans="ECOLABEL">"Non-G.M.O." or "Dolphin-safe"</Clue>
+      <Clue Row="2" Col="10" Num="16" Dir="Across" Ans="URANIA">Muse symbolized by a globe and compass</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="ATTENDTO">Serve</Clue>
+      <Clue Row="3" Col="10" Num="18" Dir="Across" Ans="PESTER">Nag</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="MICROUSB">Small phone charger type</Clue>
+      <Clue Row="4" Col="10" Num="20" Dir="Across" Ans="ONHOLD">Waiting for an answer, perhaps</Clue>
+      <Clue Row="5" Col="1" Num="21" Dir="Across" Ans="ALOT">Rafts</Clue>
+      <Clue Row="5" Col="6" Num="22" Dir="Across" Ans="CUBSFAN">2016 World Series celebrant</Clue>
+      <Clue Row="6" Col="1" Num="24" Dir="Across" Ans="NED">Patriarch on "Game of Thrones"</Clue>
+      <Clue Row="6" Col="5" Num="25" Dir="Across" Ans="STREET">D.C.'s D or C</Clue>
+      <Clue Row="6" Col="12" Num="26" Dir="Across" Ans="OMAR">Grandson of Esau</Clue>
+      <Clue Row="7" Col="3" Num="30" Dir="Across" Ans="OAK">"Red" or "white" tree</Clue>
+      <Clue Row="7" Col="7" Num="32" Dir="Across" Ans="FREESTYLE">Like some laps and raps</Clue>
+      <Clue Row="8" Col="1" Num="34" Dir="Across" Ans="ANTLER">Half a rack</Clue>
+      <Clue Row="8" Col="10" Num="37" Dir="Across" Ans="ALETAP">Pub fixture</Clue>
+      <Clue Row="9" Col="1" Num="38" Dir="Across" Ans="COULDITBE">"Is this for real?"</Clue>
+      <Clue Row="9" Col="11" Num="42" Dir="Across" Ans="ASH">"Red" or "white" tree</Clue>
+      <Clue Row="10" Col="1" Num="43" Dir="Across" Ans="ANKA">Collaborator with Sedaka and Cooke on the 1964 album "3 Great Guys"</Clue>
+      <Clue Row="10" Col="6" Num="44" Dir="Across" Ans="OHENRY">Writer who called New York City "Baghdad-on-the-Subway"</Clue>
+      <Clue Row="10" Col="13" Num="46" Dir="Across" Ans="BBS">Some shot</Clue>
+      <Clue Row="11" Col="4" Num="49" Dir="Across" Ans="BUTALSO">"Not only that ..."</Clue>
+      <Clue Row="11" Col="12" Num="51" Dir="Across" Ans="SUCH">Similar examples</Clue>
+      <Clue Row="12" Col="1" Num="52" Dir="Across" Ans="SOLONG">Departure announcement</Clue>
+      <Clue Row="12" Col="8" Num="55" Dir="Across" Ans="ALIPASHA">Ottoman ruler referenced in "The Count of Monte Cristo"</Clue>
+      <Clue Row="13" Col="1" Num="57" Dir="Across" Ans="CREATE">Fashion</Clue>
+      <Clue Row="13" Col="8" Num="58" Dir="Across" Ans="BADACTOR">Malfeasant</Clue>
+      <Clue Row="14" Col="1" Num="59" Dir="Across" Ans="AZARIA">Hank who voices Moe Szyslak</Clue>
+      <Clue Row="14" Col="8" Num="60" Dir="Across" Ans="OVERHERE">"This way!"</Clue>
+      <Clue Row="15" Col="1" Num="61" Dir="Across" Ans="BORDER">Touch</Clue>
+      <Clue Row="15" Col="8" Num="62" Dir="Across" Ans="REDCARDS">Play stoppers</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="SEAMAN">Salt</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="OCTILE">One-eighth set, in statistics</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="DOTCODOTUK">Part of a London web address</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="ALERT">Reason to check one's phone</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="CANO">Robinson ___, many-time Yankees and Mariners All-Star</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="ABDUCT">Shanghai</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="NETSURF">Browse the web</Clue>
+      <Clue Row="1" Col="8" Num="8" Dir="Down" Ans="SLOBBER">Baby pool?</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="CUPOFTEA">Personal interest, metaphorically</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="ARENA">Oakland's Oracle ___</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="MASHNOTES">Expressions of affection</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="ENTO">Prefix with -dermal</Clue>
+      <Clue Row="1" Col="14" Num="13" Dir="Down" Ans="BIEL">Jessica of "The Book of Love"</Clue>
+      <Clue Row="1" Col="15" Num="14" Dir="Down" Ans="YARD">Ending with brick or stock</Clue>
+      <Clue Row="5" Col="9" Num="23" Dir="Down" Ans="SEE">"Capisce?"</Clue>
+      <Clue Row="6" Col="5" Num="25" Dir="Down" Ans="SKED">Working arrangement, for short</Clue>
+      <Clue Row="6" Col="13" Num="27" Dir="Down" Ans="MYTHBUSTER">Conductor of science experiments on TV</Clue>
+      <Clue Row="6" Col="14" Num="28" Dir="Down" Ans="ALA">Lead-in to a chef's name</Clue>
+      <Clue Row="6" Col="15" Num="29" Dir="Down" Ans="REP">P.R. concern</Clue>
+      <Clue Row="7" Col="4" Num="31" Dir="Down" Ans="ALLABOARD">Departure announcement</Clue>
+      <Clue Row="7" Col="11" Num="33" Dir="Down" Ans="SLAY">Kill it</Clue>
+      <Clue Row="8" Col="1" Num="34" Dir="Down" Ans="ACA">Much-debated inits. in 2010s politics</Clue>
+      <Clue Row="8" Col="2" Num="35" Dir="Down" Ans="NON">Vote in un parlement</Clue>
+      <Clue Row="8" Col="6" Num="36" Dir="Down" Ans="RIOTGEAR">Shields, tear gas, etc.</Clue>
+      <Clue Row="9" Col="7" Num="39" Dir="Down" Ans="THA">Hip-hop radio/TV host Charlamagne ___ God</Clue>
+      <Clue Row="9" Col="8" Num="40" Dir="Down" Ans="BELABOR">Go on and on about</Clue>
+      <Clue Row="9" Col="9" Num="41" Dir="Down" Ans="ENSLAVE">Opposite of free</Clue>
+      <Clue Row="10" Col="10" Num="45" Dir="Down" Ans="ROIDED">Used performance-enhancing substances, in slang</Clue>
+      <Clue Row="10" Col="14" Num="47" Dir="Down" Ans="BCHORD">Group of notes reflecting a five-sharp scale</Clue>
+      <Clue Row="10" Col="15" Num="48" Dir="Down" Ans="SHARES">Market purchases</Clue>
+      <Clue Row="11" Col="5" Num="50" Dir="Down" Ans="UNTIE">Let loose?</Clue>
+      <Clue Row="11" Col="12" Num="51" Dir="Down" Ans="SACHA">Comic ___ Baron Cohen</Clue>
+      <Clue Row="12" Col="1" Num="52" Dir="Down" Ans="SCAB">Provider of protective coverage</Clue>
+      <Clue Row="12" Col="2" Num="53" Dir="Down" Ans="ORZO">Minestrone soup ingredient</Clue>
+      <Clue Row="12" Col="3" Num="54" Dir="Down" Ans="LEAR">Who said "How sharper than a serpent's tooth it is to have a thankless child!"</Clue>
+      <Clue Row="12" Col="11" Num="56" Dir="Down" Ans="PARC">Paris's ___ Monceau</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Nice work on those beefy 4x8 chunks in the NW / SE &mdash; so tough to execute on big swaths of white space without resorting to long blah entries or gluey short ones. There wasn&#39;t anything that wowed me in either corner, but overall, they came out solid.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/MythBusters" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/2/24/MythBusters_title_screen.jpg" style="border:1px solid lightgray; float:right; height:123px; margin:6px 0px 6px 12px; width:219px" title="The MYTHBUSTERs" /></a></p>
+
+<p>Sam made his job even tougher by running long answers through them, DOT CO DOT UK and MYTHBUSTER giving the puzzle an even more open feel. I bet most other constructors who would dare tackle a 4x8 chunk would find a way to close it off, doing something like blacking out NED and BBS. Much easier that way.</p>
+
+<p>There were a couple of BAD ACTORs holding those corners together, but nothing horrible. PARC is gettable through the crosses, and it&#39;s a fairly common word in titles of French paintings.</p>
+
+<p>I had to stop and think about Robinson CANO. He&#39;s a big name here in Seattle, a coup to bring him over from the Yankees. He&#39;s &hellip; probably a big enough name to be crossworthy? Tough call; time will tell.</p>
+
+<p>B CHORD also made me pause. I&#39;m perfectly fine with B FLAT or KEY OF B or other common music terms. I&#39;m not a guitar player though &mdash; I wonder if guitarist solvers will think nothing of B CHORD? For this cellist, it&#39;s kind of weird. Not as randomly bad as B STARS, but not as good as B SHARP.</p>
+
+<p>I was sure ROIDED had to be wrong. Apparently, it is a term in use, though, as in &quot;ROIDED out.&quot; Do yourself a favor and don&#39;t search that term on Google Images. Eew.</p>
+
+<p>Speaking of eew, is DOT CO DOT UK legit? Not as solid as dot com, as in the dot com boom. But probably ... fine? After much deliberation, I&#39;m still not sure!</p>
+
+<p>Solid themeless, but not enough sizzling long stuff and too many entries I had to stop and weigh, to be in POW! contention.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>Second puzzle in a fortnight! If you weren&#39;t sick of me after my <a href="https://www.xwordinfo.com/Crossword?date=4/1/2018">April Fool&#39;s offering</a>, then perhaps you&#39;ll be sick of me now ... my seeds for this were indeed the ridiculous-looking MICRO-USB and the even-more-ridiculous-looking DOT CO DOT UK.</p>
+
+<p>For those of you that like your Saturdays on the crazy side, I hope I&#39;ve hit the sweet spot with that crossing from hell. For everyone else that found themselves muttering certain four-letter words at myself or the puzzle, perhaps there was at least a bit to enjoy in the remaining 66 answers.</p>
+
+<p>If you don&#39;t see my byline in the next two weeks (you shouldn&#39;t), it&#39;s because I&#39;ve gone into hiding. I have no need for RIOT GEAR.</p>
+
+<p>P.S.: The word &quot;web&quot; was originally omitted from the clue for 3-Down. Consider yourselves lucky.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Thursday, February 8, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 2/8/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Thu, Feb 08, 2018</Title>
+    <Author>Erik Agard</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>2/8/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>WELSH...RAMADAN</Row>
+      <Row>ELITIST.ARAPAHO</Row>
+      <Row>SILENTO.MEGRYAN</Row>
+      <Row>TAYEDIGGS.MOSS.</Row>
+      <Row>...PIXAR.BAN...</Row>
+      <Row>SAUL...EDU.SARA</Row>
+      <Row>ANSELELGORT.NOT</Row>
+      <Row>AGESAGO.TMOBILE</Row>
+      <Row>BLU.MARISATOMEI</Row>
+      <Row>SOPH.DEF...TEXT</Row>
+      <Row>...EOS.SCAMS...</Row>
+      <Row>.WAIF.HOLLYWOOD</Row>
+      <Row>SHUFFLE.AMRADIO</Row>
+      <Row>SIDEEYE.WARNING</Row>
+      <Row>STIRRED...HANKS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="WELSH">From Clwyd or Gwynedd counties</Clue>
+      <Clue Row="1" Col="9" Num="6" Dir="Across" Ans="RAMADAN">Month before Shawwal</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Across" Ans="ELITIST">Favoring the fortunate few</Clue>
+      <Clue Row="2" Col="9" Num="16" Dir="Across" Ans="ARAPAHO">Cheyenne ally</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="SILENTO">Feature in "People"?</Clue>
+      <Clue Row="3" Col="9" Num="18" Dir="Across" Ans="MEGRYAN">Germany</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="TAYEDIGGS">Steady gig</Clue>
+      <Clue Row="4" Col="11" Num="21" Dir="Across" Ans="MOSS">Actress Elisabeth who's been on the cover of Rolling Stone, ironically</Clue>
+      <Clue Row="5" Col="4" Num="22" Dir="Across" Ans="PIXAR">Company behind the 2017 film "Coco"</Clue>
+      <Clue Row="5" Col="10" Num="23" Dir="Across" Ans="BAN">More than a moratorium</Clue>
+      <Clue Row="6" Col="1" Num="24" Dir="Across" Ans="SAUL">Biblical king who sought the counsel of the Witch of Endor</Clue>
+      <Clue Row="6" Col="8" Num="27" Dir="Across" Ans="EDU">U.R.I. URL ending</Clue>
+      <Clue Row="6" Col="12" Num="29" Dir="Across" Ans="SARA">Starship's second #1 hit, after "We Built This City"</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Across" Ans="ANSELELGORT">Ernest Gallo</Clue>
+      <Clue Row="7" Col="13" Num="38" Dir="Across" Ans="NOT">With 66-Across, Bond specification</Clue>
+      <Clue Row="8" Col="1" Num="39" Dir="Across" Ans="AGESAGO">Way, way back</Clue>
+      <Clue Row="8" Col="9" Num="40" Dir="Across" Ans="TMOBILE">Sprint competitor</Clue>
+      <Clue Row="9" Col="1" Num="42" Dir="Across" Ans="BLU">___-ray</Clue>
+      <Clue Row="9" Col="5" Num="43" Dir="Across" Ans="MARISATOMEI">"It's-a me, Mario!"</Clue>
+      <Clue Row="10" Col="1" Num="45" Dir="Across" Ans="SOPH">Second-year student, for short</Clue>
+      <Clue Row="10" Col="6" Num="47" Dir="Across" Ans="DEF">___ Jam records</Clue>
+      <Clue Row="10" Col="12" Num="48" Dir="Across" Ans="TEXT">"___ me" (modern parting words)</Clue>
+      <Clue Row="11" Col="4" Num="49" Dir="Across" Ans="EOS">Goddess often pictured in a chariot</Clue>
+      <Clue Row="11" Col="8" Num="51" Dir="Across" Ans="SCAMS">Cons</Clue>
+      <Clue Row="12" Col="2" Num="55" Dir="Across" Ans="WAIF">Young stray</Clue>
+      <Clue Row="12" Col="7" Num="57" Dir="Across" Ans="HOLLYWOOD">With 61-Across, 1987 Robert Townsend satire ... or a hint to deciphering four clues in this puzzle</Clue>
+      <Clue Row="13" Col="1" Num="61" Dir="Across" Ans="SHUFFLE">See 57-Across</Clue>
+      <Clue Row="13" Col="9" Num="63" Dir="Across" Ans="AMRADIO">Band not known for music?</Clue>
+      <Clue Row="14" Col="1" Num="64" Dir="Across" Ans="SIDEEYE">Contemptuous countenance</Clue>
+      <Clue Row="14" Col="9" Num="65" Dir="Across" Ans="WARNING">Triangular road sign's signification</Clue>
+      <Clue Row="15" Col="1" Num="66" Dir="Across" Ans="STIRRED">See 38-Across</Clue>
+      <Clue Row="15" Col="11" Num="67" Dir="Across" Ans="HANKS">Hair pieces?</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="WEST">This side of the puzzle</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ELIA">___ Martell, "Game of Thrones" princess</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="LILY">Good name for a florist?</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="STEEPLES">Bell locales</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="HINDI">Language in Lucknow</Clue>
+      <Clue Row="1" Col="9" Num="6" Dir="Down" Ans="RAMS">Head-butts</Clue>
+      <Clue Row="1" Col="10" Num="7" Dir="Down" Ans="ARE">Total arithmetically</Clue>
+      <Clue Row="1" Col="11" Num="8" Dir="Down" Ans="MAGMA">Molten rock</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Down" Ans="APRONS">Things to wipe your hands on</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="DAYS">Standard work shifts</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="AHAS">"Eureka"-esque exclamations</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="NON">Prefix with denial</Clue>
+      <Clue Row="2" Col="6" Num="14" Dir="Down" Ans="STIX">Pixy ___ (candy)</Clue>
+      <Clue Row="2" Col="7" Num="15" Dir="Down" Ans="TOGA">When repeated, "Animal House" chant</Clue>
+      <Clue Row="4" Col="8" Num="20" Dir="Down" Ans="GREG">Maddux who won four Cy Young Awards</Clue>
+      <Clue Row="5" Col="10" Num="23" Dir="Down" Ans="BURMA">___-Shave</Clue>
+      <Clue Row="6" Col="1" Num="24" Dir="Down" Ans="SAABS">Onetime Volvo rivals</Clue>
+      <Clue Row="6" Col="2" Num="25" Dir="Down" Ans="ANGLO">WASP part</Clue>
+      <Clue Row="6" Col="3" Num="26" Dir="Down" Ans="USEUP">Exhaust</Clue>
+      <Clue Row="6" Col="9" Num="28" Dir="Down" Ans="DOTS">Ellipses, e.g.</Clue>
+      <Clue Row="6" Col="13" Num="30" Dir="Down" Ans="ANIME">Cartoon genre</Clue>
+      <Clue Row="6" Col="14" Num="31" Dir="Down" Ans="ROLEX">Brand with a crown logo</Clue>
+      <Clue Row="6" Col="15" Num="32" Dir="Down" Ans="ATEIT">Face-planted</Clue>
+      <Clue Row="7" Col="5" Num="34" Dir="Down" Ans="LAM">Escape</Clue>
+      <Clue Row="7" Col="6" Num="35" Dir="Down" Ans="EGADS">"Holy cow!"</Clue>
+      <Clue Row="7" Col="7" Num="36" Dir="Down" Ans="LORE">Folk stories</Clue>
+      <Clue Row="7" Col="11" Num="37" Dir="Down" Ans="TOT">Young 'un</Clue>
+      <Clue Row="8" Col="12" Num="41" Dir="Down" Ans="BOTSWANA">Its capital is Gaborone</Clue>
+      <Clue Row="9" Col="8" Num="44" Dir="Down" Ans="IFSO">"In that case ..."</Clue>
+      <Clue Row="10" Col="4" Num="46" Dir="Down" Ans="HEIFER">Young cow</Clue>
+      <Clue Row="11" Col="5" Num="50" Dir="Down" Ans="OFFER">Word that becomes its own synonym if you add "pr" to the front</Clue>
+      <Clue Row="11" Col="9" Num="52" Dir="Down" Ans="CLAW">Nail</Clue>
+      <Clue Row="11" Col="10" Num="53" Dir="Down" Ans="ALMA">___ mater</Clue>
+      <Clue Row="11" Col="11" Num="54" Dir="Down" Ans="MYRRH">Gift of Balthazar to the baby Jesus</Clue>
+      <Clue Row="12" Col="2" Num="55" Dir="Down" Ans="WHIT">Tiny amount</Clue>
+      <Clue Row="12" Col="3" Num="56" Dir="Down" Ans="AUDI">Mercedes competitor</Clue>
+      <Clue Row="12" Col="7" Num="57" Dir="Down" Ans="HEED">Attention</Clue>
+      <Clue Row="12" Col="13" Num="58" Dir="Down" Ans="ODIN">Chief figure in the Eddas</Clue>
+      <Clue Row="12" Col="14" Num="59" Dir="Down" Ans="OINK">Sound on Old MacDonald's farm</Clue>
+      <Clue Row="12" Col="15" Num="60" Dir="Down" Ans="DOGS">Barking lot?</Clue>
+      <Clue Row="13" Col="1" Num="61" Dir="Down" Ans="SSS">Serpentine sound</Clue>
+      <Clue Row="13" Col="6" Num="62" Dir="Down" Ans="LYE">Burn cause</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>The HOLLYWOOD / SHUFFLE! (sneaking over to Wikipedia as I pretend to know what that is &hellip; my first guess was embarrassingly related to the Icky Shuffle.) I&#39;m a huge Keenen Ivory Wayans fan. I&#39;ll have to check out the flick.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Ansel_Elgort" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ansel_Elgort_%2835875410045%29_%28colour_edited%29.jpg/440px-Ansel_Elgort_%2835875410045%29_%28colour_edited%29.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:167px" title="Ernest Gallo! Er, Ansel el Gort." /></a></p>
+
+<p>Some nice anagram finds. MEG RYAN into GERMANY I had seen before, But TAYE DIGGS into STEADY GIG is great. [&quot;It&#39;s-a me, Mario!&quot;] seemed a bit ickily stereotypical, until I realized it&#39;s an actual quote from Nintendo&#39;s Mario. Whew!</p>
+
+<p>The first one I uncovered was ANSEL ELGORT, which gets confusing when you don&#39;t know who that is. (Or who Ernest Gallo is, sadly.) But I think educated solvers should at least be able to recognize the name(s), as El Gort had a lead role in &quot;The Fault in Our Stars.&quot;</p>
+
+<p>Er, Elgort.</p>
+
+<p>You have to admit; El Gort sounds pretty cool.</p>
+
+<p>As always, Erik does well in executing his grid. Considering my pop culture idiocy, I especially appreciated some BOTSWANA, SILENT O, SIDE EYE (related to the stink eye?), which all helped keep up my interest.</p>
+
+<p>The HANKS clue &hellip; [Hair pieces?]. Question mark indeed! Maybe it had to do with the musical &quot;Hair&quot;? Or a catty remark about the rumors that Tom Hanks is covering up top? No &hellip; it seems that one definition of HANKS is &quot;coils of hair.&quot;</p>
+
+<p>Huh.</p>
+
+<p>There have been many anagramming themes over the years, and the best ones pull all the themers together in a great way. I liked how Erik used HOLLYWOOD / SHUFFLE to restrict to just big(gish?)-name actors, certainly tightening things up. It took me a while to realize that all the anagrams were also all real names or phrases, not just kooky ones (MATT DAMON = madman tot, for example), but that also helped make the execution stand out.</p>
+
+<p>Madman tot, tee hee!</p>]]></JeffNotes>
+  </Puzzle>
+</Puzzles>

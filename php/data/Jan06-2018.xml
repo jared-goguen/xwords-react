@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Saturday, January 6, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/6/2018 at 6:20 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sat, Jan 06, 2018</Title>
+    <Author>Peter Wentz</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/6/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>BELT.WALTZ.ACTS</Row>
+      <Row>ONEATATIME.ZAHN</Row>
+      <Row>BRAKEFLUID.EPEE</Row>
+      <Row>CADENT...STRIFE</Row>
+      <Row>AGUA.SEES.HATER</Row>
+      <Row>TEPID.GNOME.ADS</Row>
+      <Row>...MAJORLABELS.</Row>
+      <Row>..DARETODREAM..</Row>
+      <Row>.LITTERBOXES...</Row>
+      <Row>COG.GRIEF.BYLAW</Row>
+      <Row>HAIKU.PDFS.RENO</Row>
+      <Row>INCANT...PLINKO</Row>
+      <Row>COAT.VOODOODOLL</Row>
+      <Row>HUME.POWERLEVEL</Row>
+      <Row>ITSY.GFLAT.ROSY</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="BELT">Champion's accessory</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="WALTZ">What you can do to "Moon River"</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="ACTS">Follower of John</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="ONEATATIME">"Don't rush in!"</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="ZAHN">One of the initial anchors of CNN's "American Morning"</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="BRAKEFLUID">Something that might be replaced during car servicing</Clue>
+      <Clue Row="3" Col="12" Num="18" Dir="Across" Ans="EPEE">Event in every Summer Olympics since 1900</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="CADENT">Rhythmic</Clue>
+      <Clue Row="4" Col="10" Num="20" Dir="Across" Ans="STRIFE">Conflict</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="AGUA">Chaser of un trago de tequila</Clue>
+      <Clue Row="5" Col="6" Num="23" Dir="Across" Ans="SEES">Determines (if)</Clue>
+      <Clue Row="5" Col="11" Num="27" Dir="Across" Ans="HATER">Misanthrope</Clue>
+      <Clue Row="6" Col="1" Num="28" Dir="Across" Ans="TEPID">Lacking in passion</Clue>
+      <Clue Row="6" Col="7" Num="30" Dir="Across" Ans="GNOME">Garden sight</Clue>
+      <Clue Row="6" Col="13" Num="32" Dir="Across" Ans="ADS">Block between shows</Clue>
+      <Clue Row="7" Col="4" Num="33" Dir="Across" Ans="MAJORLABELS">Universal, Sony and Warner</Clue>
+      <Clue Row="8" Col="3" Num="36" Dir="Across" Ans="DARETODREAM">Have high hopes</Clue>
+      <Clue Row="9" Col="2" Num="37" Dir="Across" Ans="LITTERBOXES">Kitty-corner things?</Clue>
+      <Clue Row="10" Col="1" Num="38" Dir="Across" Ans="COG">Lowly worker</Clue>
+      <Clue Row="10" Col="5" Num="39" Dir="Across" Ans="GRIEF">Something good for Charlie Brown?</Clue>
+      <Clue Row="10" Col="11" Num="40" Dir="Across" Ans="BYLAW">Internal rule</Clue>
+      <Clue Row="11" Col="1" Num="44" Dir="Across" Ans="HAIKU">Writing form even more constrained than a tweet</Clue>
+      <Clue Row="11" Col="7" Num="46" Dir="Across" Ans="PDFS">Results of some scans</Clue>
+      <Clue Row="11" Col="12" Num="48" Dir="Across" Ans="RENO">City at the foot of the Sierra Nevada</Clue>
+      <Clue Row="12" Col="1" Num="49" Dir="Across" Ans="INCANT">Recite</Clue>
+      <Clue Row="12" Col="10" Num="51" Dir="Across" Ans="PLINKO">Popular pricing game on "The Price Is Right"</Clue>
+      <Clue Row="13" Col="1" Num="53" Dir="Across" Ans="COAT">Chesterfield, for one</Clue>
+      <Clue Row="13" Col="6" Num="54" Dir="Across" Ans="VOODOODOLL">Sticking point?</Clue>
+      <Clue Row="14" Col="1" Num="58" Dir="Across" Ans="HUME">Noted Brit in the news</Clue>
+      <Clue Row="14" Col="6" Num="59" Dir="Across" Ans="POWERLEVEL">Strength rating in video games</Clue>
+      <Clue Row="15" Col="1" Num="60" Dir="Across" Ans="ITSY">Teeny</Clue>
+      <Clue Row="15" Col="6" Num="61" Dir="Across" Ans="GFLAT">Black piano key</Clue>
+      <Clue Row="15" Col="12" Num="62" Dir="Across" Ans="ROSY">Promising</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="BOBCAT">Ohio University player</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ENRAGE">Tee off</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="LEADUP">Prelim</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="TAKEAIMAT">Put in one's sights</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="WAFTS">Moves lightly through the air</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="ATL">Home of the world's busiest airport: Abbr.</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="LIU">Actress Lucy</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="TMI">"Did not need to know that"</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="ZEDS">Terminals at London Heathrow?</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="AZERA">High-end Hyundai</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="CAPITALM">Main feature of the Gmail logo</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="THEFEDS">National force, informally</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="SNEERS">Mocking responses</Clue>
+      <Clue Row="2" Col="5" Num="15" Dir="Down" Ans="TEN">Blue-striped ball</Clue>
+      <Clue Row="4" Col="11" Num="21" Dir="Down" Ans="THEBEEB">English channel</Clue>
+      <Clue Row="5" Col="7" Num="24" Dir="Down" Ans="EGOTRIP">Something only I can go on?</Clue>
+      <Clue Row="5" Col="8" Num="25" Dir="Down" Ans="ENROBED">In vestments</Clue>
+      <Clue Row="5" Col="9" Num="26" Dir="Down" Ans="SOLDOFF">Liquidated</Clue>
+      <Clue Row="6" Col="5" Num="29" Dir="Down" Ans="DARTGUN">Park ranger's weapon</Clue>
+      <Clue Row="6" Col="10" Num="31" Dir="Down" Ans="MARX">Who said "Revolutions are the locomotives of history"</Clue>
+      <Clue Row="7" Col="6" Num="34" Dir="Down" Ans="JEER">Foul call</Clue>
+      <Clue Row="7" Col="12" Num="35" Dir="Down" Ans="EASYRIDER">1960s movie with the tagline "A man went looking for America. And couldn't find it anywhere"</Clue>
+      <Clue Row="8" Col="3" Num="36" Dir="Down" Ans="DIGICAMS">Devices that hurt sales at Kodak</Clue>
+      <Clue Row="9" Col="2" Num="37" Dir="Down" Ans="LOANOUT">Give for a bit</Clue>
+      <Clue Row="10" Col="1" Num="38" Dir="Down" Ans="CHICHI">Precious</Clue>
+      <Clue Row="10" Col="13" Num="41" Dir="Down" Ans="LENOVO">Dell competitor</Clue>
+      <Clue Row="10" Col="14" Num="42" Dir="Down" Ans="ANKLES">Places for braces</Clue>
+      <Clue Row="10" Col="15" Num="43" Dir="Down" Ans="WOOLLY">Like some caterpillars</Clue>
+      <Clue Row="11" Col="4" Num="45" Dir="Down" Ans="KATEY">Sagal of "Futurama"</Clue>
+      <Clue Row="11" Col="10" Num="47" Dir="Down" Ans="SPORT">Friendly term of address</Clue>
+      <Clue Row="12" Col="6" Num="50" Dir="Down" Ans="TVPG">What suggestive dialogue may result in</Clue>
+      <Clue Row="12" Col="11" Num="52" Dir="Down" Ans="LOL">Response to a joke, maybe</Clue>
+      <Clue Row="13" Col="7" Num="55" Dir="Down" Ans="OOF">"You got me good!"</Clue>
+      <Clue Row="13" Col="8" Num="56" Dir="Down" Ans="OWL">"Wide-staring" one in a Wordsworth poem</Clue>
+      <Clue Row="13" Col="9" Num="57" Dir="Down" Ans="DEA">Deal breakers, for short?</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>A triple of MAJOR LABELS / DARE TO DREAM (love it!) / LITTERBOXES with a funny &quot;kitty corner&quot; clue makes for a great centerpiece. Getting DART GUN, EGO TRIP, EASY RIDER, and THE BEEB (nickname for BBC) running through it makes it outstanding.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Voodoo_doll" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Doll_with_pins_in_it%2C_Museum_of_Witchcraft.jpg/440px-Doll_with_pins_in_it%2C_Museum_of_Witchcraft.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:187px" title="Those are some major sticking points!" /></a></p>
+
+<p>Stairstacks like this depend on the NW / SE corners to give extra sizzle, and Peter delivers on both counts. VOODOO DOLL was my favorite entry, and the awesome &quot;sticking point&quot; clue made it even better. POWER LEVEL was a fun one for this huge &quot;Clash Royale&quot; player (giant + night witch is my deck of choice).</p>
+
+<p>Not as wild about TAKE AIM AT in the other corner &mdash; felt more neutral than an asset, given that added preposition &mdash; but ONE AT A TIME makes me imagine some poor bureaucrat imploring people to wait. And BRAKE FLUID is pretty good.</p>
+
+<p>Stairstack puzzles can finally eke out a bit more juice in the SW / NE corners, but this is a tough task, given that these corners are already constrained by that middle stair stack. CAPITAL M was good, especially since it misdirects to the ENVELOPE in the Gmail logo &mdash; sneaky that both are eight letters! &mdash; but DIGICAMS and LOAN OUT didn&#39;t do much for me.</p>
+
+<p>I normally love THE FEDS as an entry, but the minor dupe with THE BEEB nearby felt inelegant.</p>
+
+<p>Such a smooth puzzle, maybe just INCANT a bit of an odd duck. So few constructors can get so much snazz packed into a 68-word grid without relying on any short crossword glue as a crutch.</p>
+
+<p>Overall, another beaut from one of my favorite themeless constructors.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>This grid layout has become something of a go-to for me, with <a href="https://www.xwordinfo.com/Crossword?date=2/13/2016">a similar one published about two years ago</a> and another being written as we speak. It offers good opportunities for a variety of stacks, is reasonably wide-open, and can accommodate edits without sacrificing the entire puzzle. This one appears to hold up even years after its original creation, so it&#39;ll likely continue to be a staple on down the line.</p>
+
+<p>I thought I&#39;d struck gold with my original clue for 11-Down [&quot;Family Matters&quot; central character], but the whole &quot;character&quot; bit of wordplay for CAPITAL_ entries is old-hat at this point, so the revised clue referencing the Gmail logo is a nice alternative. Lots of other improvements in the clue department as well, with my favorite probably being 54-Across.</p>
+
+<p>Hope everyone enjoys!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

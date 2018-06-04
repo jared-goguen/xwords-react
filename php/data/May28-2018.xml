@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Monday, May 28, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/27/2018 at 3:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Mon, May 28, 2018</Title>
+    <Author>Alex Eaton-Salners</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/28/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>.TRAMPS.CHARTS.</Row>
+      <Row>ARAMAIC.AILERON</Row>
+      <Row>PUTONAHAPPYFACE</Row>
+      <Row>HERS.NOTIT.SULU</Row>
+      <Row>IDA.POOLTOY.MOT</Row>
+      <Row>DACHA.LAO.ABASE</Row>
+      <Row>STEAL.DSL.WISER</Row>
+      <Row>...DATA.DANG...</Row>
+      <Row>BREAKINTOASMILE</Row>
+      <Row>REAM.SCAMS.ONES</Row>
+      <Row>ACRES.ERE.RUFFS</Row>
+      <Row>.OCALA...PETIT.</Row>
+      <Row>FULLOFGOODCHEER</Row>
+      <Row>EPI.GROWLAT.LYE</Row>
+      <Row>ESP.SOANDSO.DEB</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="2" Num="1" Dir="Across" Ans="TRAMPS">Trudges</Clue>
+      <Clue Row="1" Col="9" Num="7" Dir="Across" Ans="CHARTS">Billboard Hot 100 and others</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Across" Ans="ARAMAIC">Language spoken by Jesus</Clue>
+      <Clue Row="2" Col="9" Num="14" Dir="Across" Ans="AILERON">Hinged part of an airplane wing</Clue>
+      <Clue Row="3" Col="1" Num="16" Dir="Across" Ans="PUTONAHAPPYFACE">"Bye Bye Birdie" song</Clue>
+      <Clue Row="4" Col="1" Num="18" Dir="Across" Ans="HERS">Partner of his</Clue>
+      <Clue Row="4" Col="6" Num="19" Dir="Across" Ans="NOTIT">Untagged, in tag</Clue>
+      <Clue Row="4" Col="12" Num="20" Dir="Across" Ans="SULU">"Star Trek" lieutenant</Clue>
+      <Clue Row="5" Col="1" Num="21" Dir="Across" Ans="IDA">Ore-___ (frozen taters brand)</Clue>
+      <Clue Row="5" Col="5" Num="22" Dir="Across" Ans="POOLTOY">Inflatable item for water fun</Clue>
+      <Clue Row="5" Col="13" Num="24" Dir="Across" Ans="MOT">Bon ___ (clever remark)</Clue>
+      <Clue Row="6" Col="1" Num="25" Dir="Across" Ans="DACHA">Russian cottage</Clue>
+      <Clue Row="6" Col="7" Num="27" Dir="Across" Ans="LAO">Philosopher ___-tzu</Clue>
+      <Clue Row="6" Col="11" Num="28" Dir="Across" Ans="ABASE">Humiliate</Clue>
+      <Clue Row="7" Col="1" Num="30" Dir="Across" Ans="STEAL">Super bargain</Clue>
+      <Clue Row="7" Col="7" Num="31" Dir="Across" Ans="DSL">Internet connection faster than dial-up, for short</Clue>
+      <Clue Row="7" Col="11" Num="32" Dir="Across" Ans="WISER">More Solomonlike</Clue>
+      <Clue Row="8" Col="4" Num="33" Dir="Across" Ans="DATA">___ roaming (smartphone setting)</Clue>
+      <Clue Row="8" Col="9" Num="35" Dir="Across" Ans="DANG">"Well, shoot!"</Clue>
+      <Clue Row="9" Col="1" Num="37" Dir="Across" Ans="BREAKINTOASMILE">What you might do if you sing 16-Across</Clue>
+      <Clue Row="10" Col="1" Num="44" Dir="Across" Ans="REAM">500 sheets of paper</Clue>
+      <Clue Row="10" Col="6" Num="45" Dir="Across" Ans="SCAMS">Most deals that sound too good to be true</Clue>
+      <Clue Row="10" Col="12" Num="46" Dir="Across" Ans="ONES">1 1 1</Clue>
+      <Clue Row="11" Col="1" Num="47" Dir="Across" Ans="ACRES">Units of farmland</Clue>
+      <Clue Row="11" Col="7" Num="49" Dir="Across" Ans="ERE">Before, in poetry</Clue>
+      <Clue Row="11" Col="11" Num="50" Dir="Across" Ans="RUFFS">Elizabethan neck decorations</Clue>
+      <Clue Row="12" Col="2" Num="51" Dir="Across" Ans="OCALA">Florida's ___ National Forest</Clue>
+      <Clue Row="12" Col="10" Num="53" Dir="Across" Ans="PETIT">___ four (small pastry)</Clue>
+      <Clue Row="13" Col="1" Num="54" Dir="Across" Ans="FULLOFGOODCHEER">How you might feel if you sing 16-Across</Clue>
+      <Clue Row="14" Col="1" Num="59" Dir="Across" Ans="EPI">Prefix with center</Clue>
+      <Clue Row="14" Col="5" Num="60" Dir="Across" Ans="GROWLAT">Show hostility to, as a dog might a mail carrier</Clue>
+      <Clue Row="14" Col="13" Num="61" Dir="Across" Ans="LYE">Powerful cleaner</Clue>
+      <Clue Row="15" Col="1" Num="62" Dir="Across" Ans="ESP">Medium strength?</Clue>
+      <Clue Row="15" Col="5" Num="63" Dir="Across" Ans="SOANDSO">No-goodnik</Clue>
+      <Clue Row="15" Col="13" Num="64" Dir="Across" Ans="DEB">Girl at a ball, in brief</Clue>
+      <Clue Row="1" Col="2" Num="1" Dir="Down" Ans="TRUEDAT">Slangy "Amen!"</Clue>
+      <Clue Row="1" Col="3" Num="2" Dir="Down" Ans="RATRACE">Corporate hustle and bustle</Clue>
+      <Clue Row="1" Col="4" Num="3" Dir="Down" Ans="AMOS">"Famous" cookie name</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Down" Ans="MAN">Fellow</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="PIANO">It has 88 keys</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="SCHOOLDANCE">Prom, e.g.</Clue>
+      <Clue Row="1" Col="9" Num="7" Dir="Down" Ans="CAPITOLDOME">Washington image seen on the back of a $50 bill</Clue>
+      <Clue Row="1" Col="10" Num="8" Dir="Down" Ans="HIPTO">Aware of, informally</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="ALY">Prince ___ Khan</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="REFS">Ones whistling while they work?</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="TRAUMAS">Shocks with lasting impact</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="SOCLOSE">"Almost got it that time!"</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Down" Ans="APHIDS">Pests in the garden</Clue>
+      <Clue Row="2" Col="15" Num="15" Dir="Down" Ans="NEUTER">Spay, e.g.</Clue>
+      <Clue Row="3" Col="8" Num="17" Dir="Down" Ans="ATLAS">Travel aid made obsolescent by GPS</Clue>
+      <Clue Row="5" Col="5" Num="22" Dir="Down" Ans="PALAK">___ paneer (Indian dish made with spinach)</Clue>
+      <Clue Row="5" Col="11" Num="23" Dir="Down" Ans="YAWNS">Expressions of boredom</Clue>
+      <Clue Row="6" Col="4" Num="26" Dir="Down" Ans="HADAMEAL">Ate substantially</Clue>
+      <Clue Row="6" Col="12" Num="29" Dir="Down" Ans="BIGMOUTH">One who blabs</Clue>
+      <Clue Row="8" Col="6" Num="34" Dir="Down" Ans="TIS">"My country, ___ of thee ..."</Clue>
+      <Clue Row="8" Col="10" Num="36" Dir="Down" Ans="AAS">Some small batteries</Clue>
+      <Clue Row="9" Col="1" Num="37" Dir="Down" Ans="BRA">Undergarment with straps</Clue>
+      <Clue Row="9" Col="2" Num="38" Dir="Down" Ans="RECOUPS">Makes back, as an investment</Clue>
+      <Clue Row="9" Col="3" Num="39" Dir="Down" Ans="EARCLIP">Bit of jewelry on the side of the head</Clue>
+      <Clue Row="9" Col="8" Num="40" Dir="Down" Ans="TAR">Roofing sealant</Clue>
+      <Clue Row="9" Col="13" Num="41" Dir="Down" Ans="INFIELD">Area for six of the nine baseball positions</Clue>
+      <Clue Row="9" Col="14" Num="42" Dir="Down" Ans="LEFTEYE">Part of the head hidden on the jack of spades</Clue>
+      <Clue Row="9" Col="15" Num="43" Dir="Down" Ans="ESS">Curvy letter</Clue>
+      <Clue Row="11" Col="5" Num="48" Dir="Down" Ans="SLOGS">Long, tiring jobs</Clue>
+      <Clue Row="11" Col="11" Num="50" Dir="Down" Ans="RECTO">Right-hand page in a book</Clue>
+      <Clue Row="12" Col="6" Num="52" Dir="Down" Ans="AFRO">Big top?</Clue>
+      <Clue Row="12" Col="10" Num="53" Dir="Down" Ans="PDAS">BlackBerrys, e.g., in brief</Clue>
+      <Clue Row="13" Col="1" Num="54" Dir="Down" Ans="FEE">Lawyer's charge</Clue>
+      <Clue Row="13" Col="7" Num="55" Dir="Down" Ans="GOA">___ long way</Clue>
+      <Clue Row="13" Col="8" Num="56" Dir="Down" Ans="OWN">Possess</Clue>
+      <Clue Row="13" Col="9" Num="57" Dir="Down" Ans="OLD">Antiquated</Clue>
+      <Clue Row="13" Col="15" Num="58" Dir="Down" Ans="REB">Yank's Civil War foe</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>So pleasant to start the week with a smiley face. Alex did a great job with his grid art, that grin coming right through, along with easily recognizable eyebrows. The black bars on the sides of the puzzle even look like rosy cheeks!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Smiley" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/440px-SNice.svg.png" style="border:none; float:right; height:220px; margin:6px 0px 6px 12px; width:220px" title="How could anyone hate Mondays with a SMILE like this?" /></a></p>
+
+<p>No?</p>
+
+<p>Use your imagination, people!</p>
+
+<p>I don&#39;t mind the thinnish theme, as all three were grid-spanners, all three were apt, and there was excellent grid art. The theme left me FULL OF GOOD CHEER.</p>
+
+<p>What did not was the fill. Even on Mondays, I think it&#39;s fine to give solvers something to learn. If you don&#39;t know PALAK paneer, you don&#39;t know what you&#39;re missing, people!</p>
+
+<p>But you can&#39;t cross that with DACHA, leaving a high chance that solvers will get that square wrong. I wouldn&#39;t blame them for complaining.</p>
+
+<p>Similarly, see the AILERON / ALY crossing. Oof.</p>
+
+<p>RECTO &hellip; this writer learned the term from crosswords. Not as tasty as PALAK, but hey, learning is good for you, right? At least the crossings felt fairer.</p>
+
+<p>There&#39;s rarely a crossword that doesn&#39;t force constructors to make trade-offs. I understand why Alex decided to leave wide-open swaths of space all over the puzzle, as it made for beautiful grid art. However, the straightforward Monday theme wasn&#39;t served well by the fill that was so unfriendly to newer solvers. I would have much rather taken some compromises in the grid art, to produce a Monday-worthy fill.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>Unlike most puzzles where the creative process begins with the theme and theme entries, this one started with the central grid art. Making grid art is a nice diversion from typical crossword construction activities, and every once in a while I experiment with different block configurations to try to create something puzzle worthy. Even moving just a couple of black squares by a single space can often completely change the resulting picture.</p>
+
+<p>Once I had the basic smiling face in place, I went looking for appropriately happy 15-letter phrases to accompany it. Although three theme entries is a bit low for a themed puzzle these days, the constraints imposed by the grid art made that choice the most promising. Likewise, because I wanted the grid art to stand out, I chose to leave large areas of white space around the edges of the puzzle. I would have preferred to leave off even more of the black squares, but I couldn&#39;t get the grid to fill as cleanly without them.</p>
+
+<p>For experienced solvers that breeze through Monday offerings, I hope they enjoyed uncovering the six non-thematic NYT crossword debuts (SCHOOL DANCE, CAPITAL DOME, SO CLOSE, POOL TOY, PALAK, and GROWL AT). I think that&#39;s the most non-thematic debut entries so far this year in a Monday puzzle.</p>
+
+<p>Finally, I was particularly happy to position BREAK INTO A SMILE so that it &quot;breaks into&quot; the central smiling face. I hope at least a few solvers notice and appreciate this touch.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Monday, April 30, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/29/2018 at 3:22 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Mon, Apr 30, 2018</Title>
+    <Author>Bruce Haight</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/30/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>SHOTS.TIPSY.ITD</Row>
+      <Row>TORSO.ELOPE.NOR</Row>
+      <Row>LEGALBRIEFS.ALE</Row>
+      <Row>..ARIANA...ENDS</Row>
+      <Row>OWN.DISCJOCKEYS</Row>
+      <Row>THIRST..ASHGRAY</Row>
+      <Row>SOSO..HAMLET...</Row>
+      <Row>.AMATEURBOXERS.</Row>
+      <Row>...DRAMAS..SELF</Row>
+      <Row>ANTWERP..SETFEE</Row>
+      <Row>MOVIESHORTS.EWW</Row>
+      <Row>DOWN...SUITOR..</Row>
+      <Row>IDI.CASHDRAWERS</Row>
+      <Row>ALF.FAKED.TEENA</Row>
+      <Row>LEE.OHYAY.ESSAY</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="SHOTS">Quick drinks, as of whiskey</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="TIPSY">What one might be after doing 1-Across</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Across" Ans="ITD">"___ be my pleasure!"</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="TORSO">Trunk of the body</Clue>
+      <Clue Row="2" Col="7" Num="15" Dir="Across" Ans="ELOPE">Run off to the preacher</Clue>
+      <Clue Row="2" Col="13" Num="16" Dir="Across" Ans="NOR">Neither's partner</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="LEGALBRIEFS">Underwear for judges?</Clue>
+      <Clue Row="3" Col="13" Num="19" Dir="Across" Ans="ALE">Ginger ___ (soft drink)</Clue>
+      <Clue Row="4" Col="3" Num="20" Dir="Across" Ans="ARIANA">Singer Grande with the #1 albums "Yours Truly" and "My Everything"</Clue>
+      <Clue Row="4" Col="12" Num="21" Dir="Across" Ans="ENDS">Terminates</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="OWN">The "O" of B.Y.O.B.</Clue>
+      <Clue Row="5" Col="5" Num="24" Dir="Across" Ans="DISCJOCKEYS">Underwear for Frisbee enthusiasts?</Clue>
+      <Clue Row="6" Col="1" Num="28" Dir="Across" Ans="THIRST">Feeling of a person stranded in the desert</Clue>
+      <Clue Row="6" Col="9" Num="30" Dir="Across" Ans="ASHGRAY">Silvery hair color</Clue>
+      <Clue Row="7" Col="1" Num="31" Dir="Across" Ans="SOSO">Mediocre</Clue>
+      <Clue Row="7" Col="7" Num="32" Dir="Across" Ans="HAMLET">Who says "To be, or not to be: that is the question"</Clue>
+      <Clue Row="8" Col="2" Num="34" Dir="Across" Ans="AMATEURBOXERS">Underwear for beginners?</Clue>
+      <Clue Row="9" Col="4" Num="39" Dir="Across" Ans="DRAMAS">Soap operas, e.g.</Clue>
+      <Clue Row="9" Col="12" Num="40" Dir="Across" Ans="SELF">What "I" or "me" refers to</Clue>
+      <Clue Row="10" Col="1" Num="42" Dir="Across" Ans="ANTWERP">Belgian diamond center</Clue>
+      <Clue Row="10" Col="10" Num="45" Dir="Across" Ans="SETFEE">Fixed charge</Clue>
+      <Clue Row="11" Col="1" Num="47" Dir="Across" Ans="MOVIESHORTS">Underwear for actors?</Clue>
+      <Clue Row="11" Col="13" Num="50" Dir="Across" Ans="EWW">"Gross!"</Clue>
+      <Clue Row="12" Col="1" Num="51" Dir="Across" Ans="DOWN">One direction for an elevator</Clue>
+      <Clue Row="12" Col="8" Num="52" Dir="Across" Ans="SUITOR">Romantic hopeful</Clue>
+      <Clue Row="13" Col="1" Num="54" Dir="Across" Ans="IDI">Nasty Amin</Clue>
+      <Clue Row="13" Col="5" Num="55" Dir="Across" Ans="CASHDRAWERS">Underwear for tycoons?</Clue>
+      <Clue Row="14" Col="1" Num="60" Dir="Across" Ans="ALF">Furry sitcom alien</Clue>
+      <Clue Row="14" Col="5" Num="61" Dir="Across" Ans="FAKED">Like the moon landing, according to conspiracists</Clue>
+      <Clue Row="14" Col="11" Num="62" Dir="Across" Ans="TEENA">___ Marie, singer of the 1985 hit "Lovergirl"</Clue>
+      <Clue Row="15" Col="1" Num="63" Dir="Across" Ans="LEE">Director Spike</Clue>
+      <Clue Row="15" Col="5" Num="64" Dir="Across" Ans="OHYAY">"Woo-hoo!"</Clue>
+      <Clue Row="15" Col="11" Num="65" Dir="Across" Ans="ESSAY">English class assignment</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="STL">Cardinals, on scoreboards</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="HOE">Soil tiller</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="ORGANISM">Any living thing</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="TSAR">Romanov ruler</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="SOLIDS">Opponent of stripes in billiards</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="TERNS">Shore fliers</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="ILIAC">Relating to part of the pelvis</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="POE">Who wrote the line "Once upon a midnight dreary ..."</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="SPF">Rating on a Coppertone bottle, for short</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="YES">"Indubitably!"</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="INANER">More ridiculous</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="TOLDYA">"See, I was right!"</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="DRESSY">Like formal clothing</Clue>
+      <Clue Row="3" Col="6" Num="18" Dir="Down" Ans="BAIT">Worms for fishing</Clue>
+      <Clue Row="4" Col="12" Num="21" Dir="Down" Ans="EKGTEST">Heart health evaluation, for short</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Down" Ans="OTS">Extra periods, in brief</Clue>
+      <Clue Row="5" Col="2" Num="23" Dir="Down" Ans="WHOA">"Stop right there!"</Clue>
+      <Clue Row="5" Col="9" Num="25" Dir="Down" Ans="JAMBS">Doorframe parts</Clue>
+      <Clue Row="5" Col="10" Num="26" Dir="Down" Ans="OSLO">Nobel Peace Prize city</Clue>
+      <Clue Row="5" Col="11" Num="27" Dir="Down" Ans="CHEX">Cereal in a party mix</Clue>
+      <Clue Row="6" Col="4" Num="29" Dir="Down" Ans="ROADWIN">Victory in an away game</Clue>
+      <Clue Row="7" Col="7" Num="32" Dir="Down" Ans="HUMPH">"Well, I never!"</Clue>
+      <Clue Row="7" Col="8" Num="33" Dir="Down" Ans="ARA">Notre Dame's Parseghian</Clue>
+      <Clue Row="8" Col="5" Num="35" Dir="Down" Ans="TREE">Part of an arbor</Clue>
+      <Clue Row="8" Col="6" Num="36" Dir="Down" Ans="EARS">Distinctive features of Mr. Spock</Clue>
+      <Clue Row="8" Col="13" Num="37" Dir="Down" Ans="REFEREES">Whistle blowers</Clue>
+      <Clue Row="8" Col="14" Num="38" Dir="Down" Ans="SLEW">Whole bunch</Clue>
+      <Clue Row="9" Col="15" Num="41" Dir="Down" Ans="FEW">Small bunch</Clue>
+      <Clue Row="10" Col="1" Num="42" Dir="Down" Ans="AMDIAL">It goes from about 540 to 1700</Clue>
+      <Clue Row="10" Col="2" Num="43" Dir="Down" Ans="NOODLE">Casserole bit</Clue>
+      <Clue Row="10" Col="3" Num="44" Dir="Down" Ans="TVWIFE">Laura vis-à-vis Rob Petrie, on "The Dick Van Dyke Show"</Clue>
+      <Clue Row="10" Col="10" Num="45" Dir="Down" Ans="STIR">Use a swizzle stick</Clue>
+      <Clue Row="10" Col="11" Num="46" Dir="Down" Ans="ESTATE">Property in a will</Clue>
+      <Clue Row="11" Col="8" Num="48" Dir="Down" Ans="OSHEA">Actor Milo</Clue>
+      <Clue Row="11" Col="9" Num="49" Dir="Down" Ans="RUDDY">Rosy-cheeked</Clue>
+      <Clue Row="12" Col="12" Num="53" Dir="Down" Ans="OWES">Has bills</Clue>
+      <Clue Row="13" Col="5" Num="55" Dir="Down" Ans="CFO">Corp. money honcho</Clue>
+      <Clue Row="13" Col="6" Num="56" Dir="Down" Ans="AAH">"How relaxing!"</Clue>
+      <Clue Row="13" Col="7" Num="57" Dir="Down" Ans="SKY">Where clouds are</Clue>
+      <Clue Row="13" Col="14" Num="58" Dir="Down" Ans="RNA">Genetic stuff</Clue>
+      <Clue Row="13" Col="15" Num="59" Dir="Down" Ans="SAY">Second word of "The Star-Spangled Banner"</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Nearly the Platonic ideal of Monday crosswords. Catchy theme phrases, fun concept, strong bonuses in the longer fill, little to no gluey bits in the short fill. Platonic!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Amateur_boxing" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ouch-boxing-footwork.jpg/340px-Ouch-boxing-footwork.jpg" style="border:none; float:right; height:250px; margin:6px 0px 6px 12px; width:166px" title="AMATEUR BOXERS ... you think they're wearing boxers?" /></a></p>
+
+<p>Okay, I don&#39;t exactly know what &quot;Platonic ideal&quot; means. Something about the perfect thing ... right? I tried to read the <a href="https://en.wikipedia.org/wiki/Platonic_idealism">Wikipedia entry</a>, but it wasn&#39;t ideal.</p>
+
+<p>Middle-grade-level humor hits my sweet spot, so I enjoyed the plays upon BRIEFS, JOCKEYS, BOXERS, SHORTS, DRAWERS. Something about AMATEUR BOXERS really tickled me &mdash; keep on practicing, underwear, and one day you&#39;ll make the big time!</p>
+
+<p>It helps that I&#39;m a fan of these &quot;kooky interpretation&quot; types of puzzles. I enjoy snappy phrases in crossword grids, and I also like funny interpretations of said phrases.</p>
+
+<p>Amateur underwear, tee hee.</p>
+
+<p>I love how Bruce wove in a bit of extra mid-length stuff, ROAD WIN, and EKG TEST, to further spice things up past ORGANISM and REFEREES. Constructors usually break up these areas for ease of filling &ndash; you could place a black square at the D of ROAD WIN, for example. I did hitch slightly on EKG TEST, as it&#39;s usually called just an EKG, but ROAD WIN was well worth it for me. And no prices to pay, in terms of short fill around these regions!</p>
+
+<p>INANER was the lone squinty entry for me. I did squint pretty hard at it. But it&#39;s not the inaner-est thing in the world. Overlookable, given all the goodness in the puzzle.</p>
+
+<p>Wonderful puzzle, especially considering the difficulty of constructing around five themers, one of which is an awkward 13 letters. Not many (any?) Mondays are truly memorable to me, but that&#39;s not their purpose &ndash; they ought to first and foremost, be accessible and interesting to newbs. I&#39;d happily hand this to a rookie solver.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>I remember driving down the freeway a year ago and hearing someone on the radio use JOCKEYS as a synonym for underwear. I think some basketball player got faked out of his or her jockeys. This was news to me, and it got me thinking that there are quite a few underwear synonyms with wordplay potential. I remember my dad being excited right away that I had an underwear puzzle accepted by the New York Times &mdash; mom, on the other hand, had a few questions ...</p>
+
+<p>My <a href="https://www.xwordinfo.com/Crossword?date=1/3/2018">food pun puzzle of 1/3/18</a> had the phrase RIDE UP, which has multiple possible meanings but ended up being clued as &quot;What underwear may do, annoyingly&quot; &mdash; I&#39;m thinking skivvy humor may be under-appreciated, and I hope solvers have some fun with this.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

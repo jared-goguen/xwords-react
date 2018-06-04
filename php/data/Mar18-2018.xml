@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Sunday, March 18, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/17/2018 at 3:54 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sun, Mar 18, 2018 TAKING YOUR Q</Title>
+    <Author>Daniel Raymon</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/18/2018</Date>
+    <Size>
+      <Rows>21</Rows>
+      <Cols>21</Cols>
+    </Size>
+    <Grid>
+      <Row>CISCO.ESURANCE.THERAM</Row>
+      <Row>USTEN.SHAWNEES.MADAME</Row>
+      <Row>BARES.QUERYWASHINGTON</Row>
+      <Row>IDI.PEST..OSSEO.GAPED</Row>
+      <Row>SOVIET.SPIN.EXTS.RABE</Row>
+      <Row>TRENCHQUOTE...LED.CAR</Row>
+      <Row>SANG..UPTO.BABYQUAKES</Row>
+      <Row>...ROLO.HOPESO.SEA...</Row>
+      <Row>MARACAIBO.LILLE.TAPIR</Row>
+      <Row>APATHY.ROHAN.ORG..ISE</Row>
+      <Row>HERESLOOKINGATYOUQUID</Row>
+      <Row>ARE..AVA.PESCI.TRUSTY</Row>
+      <Row>LYRES.ADEPT.CESTLAVIE</Row>
+      <Row>...TAU.AYESIR.HISN...</Row>
+      <Row>QUICKBOXER.DUMA..TAPA</Row>
+      <Row>USS.SEN...PEACHYQUEEN</Row>
+      <Row>AHAS.RIFE.LOLL.EAMONN</Row>
+      <Row>HEINE.OUTTA..AEON.LAO</Row>
+      <Row>ORDERINTHEQUART.TWINY</Row>
+      <Row>GISELE.ONEUNDER.APACE</Row>
+      <Row>SNORED.NOSECONE.SANER</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="CISCO">Big name in computer networking</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="ESURANCE">Progressive rival</Clue>
+      <Clue Row="1" Col="16" Num="14" Dir="Across" Ans="THERAM">Aries</Clue>
+      <Clue Row="2" Col="1" Num="20" Dir="Across" Ans="USTEN">North Dakota-to-Michigan hwy.</Clue>
+      <Clue Row="2" Col="7" Num="21" Dir="Across" Ans="SHAWNEES">Members of an Oklahoma tribe</Clue>
+      <Clue Row="2" Col="16" Num="22" Dir="Across" Ans="MADAME">Addressee of a waiter in a French restaurant</Clue>
+      <Clue Row="3" Col="1" Num="23" Dir="Across" Ans="BARES">Exposes</Clue>
+      <Clue Row="3" Col="7" Num="24" Dir="Across" Ans="QUERYWASHINGTON">Interrogate a founding father?</Clue>
+      <Clue Row="4" Col="1" Num="26" Dir="Across" Ans="IDI">Uganda's Amin</Clue>
+      <Clue Row="4" Col="5" Num="27" Dir="Across" Ans="PEST">One getting shooed</Clue>
+      <Clue Row="4" Col="11" Num="29" Dir="Across" Ans="OSSEO">Bone: Prefix</Clue>
+      <Clue Row="4" Col="17" Num="30" Dir="Across" Ans="GAPED">Was wide open</Clue>
+      <Clue Row="5" Col="1" Num="31" Dir="Across" Ans="SOVIET">Like the first man-made space satellite</Clue>
+      <Clue Row="5" Col="8" Num="33" Dir="Across" Ans="SPIN">What the earth and many political analysts do</Clue>
+      <Clue Row="5" Col="13" Num="36" Dir="Across" Ans="EXTS">They're added on bus. lines</Clue>
+      <Clue Row="5" Col="18" Num="38" Dir="Across" Ans="RABE">"Sticks and Bones" playwright David</Clue>
+      <Clue Row="6" Col="1" Num="39" Dir="Across" Ans="TRENCHQUOTE">"There are no atheists in foxholes"?</Clue>
+      <Clue Row="6" Col="15" Num="41" Dir="Across" Ans="LED">Word aptly found in "controlled" and "marshaled"</Clue>
+      <Clue Row="6" Col="19" Num="43" Dir="Across" Ans="CAR">Token in the game Life</Clue>
+      <Clue Row="7" Col="1" Num="44" Dir="Across" Ans="SANG">Was a rat</Clue>
+      <Clue Row="7" Col="7" Num="45" Dir="Across" Ans="UPTO">Engaged in</Clue>
+      <Clue Row="7" Col="12" Num="46" Dir="Across" Ans="BABYQUAKES">Tremors?</Clue>
+      <Clue Row="8" Col="4" Num="50" Dir="Across" Ans="ROLO">Hershey brand</Clue>
+      <Clue Row="8" Col="9" Num="53" Dir="Across" Ans="HOPESO">"From your lips to God's ears"</Clue>
+      <Clue Row="8" Col="16" Num="55" Dir="Across" Ans="SEA">Frequent subject of paintings by Winslow Homer</Clue>
+      <Clue Row="9" Col="1" Num="56" Dir="Across" Ans="MARACAIBO">Largest lake in South America</Clue>
+      <Clue Row="9" Col="11" Num="60" Dir="Across" Ans="LILLE">Charles de Gaulle's birthplace</Clue>
+      <Clue Row="9" Col="17" Num="62" Dir="Across" Ans="TAPIR">Animal with a trunk</Clue>
+      <Clue Row="10" Col="1" Num="66" Dir="Across" Ans="APATHY">Interest's opposite</Clue>
+      <Clue Row="10" Col="8" Num="67" Dir="Across" Ans="ROHAN">Kingdom in Tolkien's "The Lord of the Rings"</Clue>
+      <Clue Row="10" Col="14" Num="69" Dir="Across" Ans="ORG">Email address ending</Clue>
+      <Clue Row="10" Col="19" Num="71" Dir="Across" Ans="ISE">Suffix in Sussex</Clue>
+      <Clue Row="11" Col="1" Num="72" Dir="Across" Ans="HERESLOOKINGATYOUQUID">Comment by a Brit down to his last coin?</Clue>
+      <Clue Row="12" Col="1" Num="77" Dir="Across" Ans="ARE">"We ___ the Champions"</Clue>
+      <Clue Row="12" Col="6" Num="78" Dir="Across" Ans="AVA">Gardner of "Mogambo"</Clue>
+      <Clue Row="12" Col="10" Num="79" Dir="Across" Ans="PESCI">Joe of "Home Alone"</Clue>
+      <Clue Row="12" Col="16" Num="80" Dir="Across" Ans="TRUSTY">True</Clue>
+      <Clue Row="13" Col="1" Num="81" Dir="Across" Ans="LYRES">Instruments played on Mount Olympus</Clue>
+      <Clue Row="13" Col="7" Num="84" Dir="Across" Ans="ADEPT">Expert</Clue>
+      <Clue Row="13" Col="13" Num="86" Dir="Across" Ans="CESTLAVIE">Words of resignation</Clue>
+      <Clue Row="14" Col="4" Num="88" Dir="Across" Ans="TAU">Greek cross</Clue>
+      <Clue Row="14" Col="8" Num="90" Dir="Across" Ans="AYESIR">"As you wish, Captain!"</Clue>
+      <Clue Row="14" Col="15" Num="92" Dir="Across" Ans="HISN">Huck Finn possessive</Clue>
+      <Clue Row="15" Col="1" Num="93" Dir="Across" Ans="QUICKBOXER">One knocking out an opponent in the first round?</Clue>
+      <Clue Row="15" Col="12" Num="97" Dir="Across" Ans="DUMA">Russian council</Clue>
+      <Clue Row="15" Col="18" Num="99" Dir="Across" Ans="TAPA">Spanish snack</Clue>
+      <Clue Row="16" Col="1" Num="103" Dir="Across" Ans="USS">___ Indianapolis</Clue>
+      <Clue Row="16" Col="5" Num="104" Dir="Across" Ans="SEN">One of 100: Abbr.</Clue>
+      <Clue Row="16" Col="11" Num="105" Dir="Across" Ans="PEACHYQUEEN">Monarch who's fine and dandy?</Clue>
+      <Clue Row="17" Col="1" Num="108" Dir="Across" Ans="AHAS">Cries of surprise</Clue>
+      <Clue Row="17" Col="6" Num="110" Dir="Across" Ans="RIFE">Teeming</Clue>
+      <Clue Row="17" Col="11" Num="113" Dir="Across" Ans="LOLL">Veg out</Clue>
+      <Clue Row="17" Col="16" Num="114" Dir="Across" Ans="EAMONN">Irish form of "Edmund"</Clue>
+      <Clue Row="18" Col="1" Num="115" Dir="Across" Ans="HEINE">Heinrich ___, "Die Lorelei" poet</Clue>
+      <Clue Row="18" Col="7" Num="117" Dir="Across" Ans="OUTTA">N.W.A's "Straight ___ Compton"</Clue>
+      <Clue Row="18" Col="14" Num="119" Dir="Across" Ans="AEON">More than a millennium</Clue>
+      <Clue Row="18" Col="19" Num="121" Dir="Across" Ans="LAO">Indochinese language</Clue>
+      <Clue Row="19" Col="1" Num="122" Dir="Across" Ans="ORDERINTHEQUART">Have a little ice cream delivered?</Clue>
+      <Clue Row="19" Col="17" Num="126" Dir="Across" Ans="TWINY">Like rope</Clue>
+      <Clue Row="20" Col="1" Num="128" Dir="Across" Ans="GISELE">Supermodel Bündchen</Clue>
+      <Clue Row="20" Col="8" Num="129" Dir="Across" Ans="ONEUNDER">Birdie</Clue>
+      <Clue Row="20" Col="17" Num="130" Dir="Across" Ans="APACE">With celerity</Clue>
+      <Clue Row="21" Col="1" Num="131" Dir="Across" Ans="SNORED">Kept others awake, maybe</Clue>
+      <Clue Row="21" Col="8" Num="132" Dir="Across" Ans="NOSECONE">Tip of a missile</Clue>
+      <Clue Row="21" Col="17" Num="133" Dir="Across" Ans="SANER">More sound</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="CUBISTS">Picasso and Braque, for two</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ISADORA">Dancer Duncan</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="STRIVEN">Gone to great lengths</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="CEE">Middling mark</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="ONSPEC">Like freelance work, often</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="ESQS">Attys.' titles</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="SHUTSUP">Stops yapping</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="UAE">Sheik's land, for short</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="RWR">Presidential inits.</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="ANYONE">"Who's interested?"</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="NEWS">Update, say</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="CEASE">Terminate</Clue>
+      <Clue Row="1" Col="14" Num="13" Dir="Down" Ans="ESSEX">English county</Clue>
+      <Clue Row="1" Col="16" Num="14" Dir="Down" Ans="TMI">Response to an oversharer</Clue>
+      <Clue Row="1" Col="17" Num="15" Dir="Down" Ans="HANG">Suspend</Clue>
+      <Clue Row="1" Col="18" Num="16" Dir="Down" Ans="EDGAR">Catherine's husband in "Wuthering Heights"</Clue>
+      <Clue Row="1" Col="19" Num="17" Dir="Down" Ans="RATPACK">Bishop's group, once</Clue>
+      <Clue Row="1" Col="20" Num="18" Dir="Down" Ans="AMOEBAE">Ones moving with the aid of pseudopods</Clue>
+      <Clue Row="1" Col="21" Num="19" Dir="Down" Ans="MENDERS">Seamstresses, at times</Clue>
+      <Clue Row="3" Col="15" Num="25" Dir="Down" Ans="HOTLY">With vehemence</Clue>
+      <Clue Row="4" Col="6" Num="28" Dir="Down" Ans="ETH">Ending of the Bible</Clue>
+      <Clue Row="5" Col="4" Num="32" Dir="Down" Ans="INGRATE">Unappreciative sort</Clue>
+      <Clue Row="5" Col="9" Num="34" Dir="Down" Ans="POTHOOK">Metallic S-shaped piece</Clue>
+      <Clue Row="5" Col="10" Num="35" Dir="Down" Ans="ITOO">"___, sing America" (start of a Langston Hughes poem)</Clue>
+      <Clue Row="5" Col="16" Num="37" Dir="Down" Ans="SEQS">"Look Who's Talking Too" and "2 Fast 2 Furious": Abbr.</Clue>
+      <Clue Row="6" Col="7" Num="40" Dir="Down" Ans="QUOI">Basic French question</Clue>
+      <Clue Row="6" Col="17" Num="42" Dir="Down" Ans="DUET">Number for two</Clue>
+      <Clue Row="7" Col="12" Num="46" Dir="Down" Ans="BEINGS">Sentient ones</Clue>
+      <Clue Row="7" Col="13" Num="47" Dir="Down" Ans="ASL">Words that can't be heard, for short</Clue>
+      <Clue Row="7" Col="14" Num="48" Dir="Down" Ans="BOLOTIE">Western wear</Clue>
+      <Clue Row="7" Col="18" Num="49" Dir="Down" Ans="AAA">Strong bond?</Clue>
+      <Clue Row="8" Col="5" Num="51" Dir="Down" Ans="OCHS">Publisher Arthur ___ Sulzberger</Clue>
+      <Clue Row="8" Col="6" Num="52" Dir="Down" Ans="LAYLA">Song woman who's asked "Darlin', won't you ease my worried mind?"</Clue>
+      <Clue Row="8" Col="11" Num="54" Dir="Down" Ans="PLANETS">Subject of the mnemonic "Men Very Easily Make Jugs Serve Useful Needs"</Clue>
+      <Clue Row="9" Col="1" Num="56" Dir="Down" Ans="MAHAL">Taj ___</Clue>
+      <Clue Row="9" Col="2" Num="57" Dir="Down" Ans="APERY">Mimic's activity</Clue>
+      <Clue Row="9" Col="3" Num="58" Dir="Down" Ans="RARER">Not so common</Clue>
+      <Clue Row="9" Col="8" Num="59" Dir="Down" Ans="BROADAX">Medieval weapon</Clue>
+      <Clue Row="9" Col="15" Num="61" Dir="Down" Ans="ERY">Suffix with trick</Clue>
+      <Clue Row="9" Col="19" Num="63" Dir="Down" Ans="PIUSV">Pope who excommunicated Elizabeth I</Clue>
+      <Clue Row="9" Col="20" Num="64" Dir="Down" Ans="ISITI">Judas's question to the Lord</Clue>
+      <Clue Row="9" Col="21" Num="65" Dir="Down" Ans="REDYE">Change the color of again</Clue>
+      <Clue Row="10" Col="10" Num="68" Dir="Down" Ans="HIPPER">More trendy</Clue>
+      <Clue Row="10" Col="16" Num="70" Dir="Down" Ans="GOTTI">TV's "Growing Up ___"</Clue>
+      <Clue Row="11" Col="7" Num="73" Dir="Down" Ans="OVA">Some gametes</Clue>
+      <Clue Row="11" Col="13" Num="74" Dir="Down" Ans="ACCRUAL">Accumulation</Clue>
+      <Clue Row="11" Col="17" Num="75" Dir="Down" Ans="URLS">Things with colons inside them</Clue>
+      <Clue Row="11" Col="18" Num="76" Dir="Down" Ans="QUANTUM">Kind of leap</Clue>
+      <Clue Row="13" Col="4" Num="82" Dir="Down" Ans="ETC">Abbr. that's sometimes doubled or tripled</Clue>
+      <Clue Row="13" Col="5" Num="83" Dir="Down" Ans="SAKS">Nordstrom rival</Clue>
+      <Clue Row="13" Col="9" Num="85" Dir="Down" Ans="EYE">Term for a hole in Swiss cheese</Clue>
+      <Clue Row="13" Col="15" Num="87" Dir="Down" Ans="SHAH">1979 exile</Clue>
+      <Clue Row="14" Col="6" Num="89" Dir="Down" Ans="UBER">It'll take you for a ride</Clue>
+      <Clue Row="14" Col="12" Num="91" Dir="Down" Ans="IDEO">Prefix with -graphic</Clue>
+      <Clue Row="15" Col="1" Num="93" Dir="Down" Ans="QUAHOGS">Hard-shell clams</Clue>
+      <Clue Row="15" Col="2" Num="94" Dir="Down" Ans="USHERIN">Mark the beginning of</Clue>
+      <Clue Row="15" Col="3" Num="95" Dir="Down" Ans="ISAIDSO">Unsatisfying answer to "Why?"</Clue>
+      <Clue Row="15" Col="7" Num="96" Dir="Down" Ans="ONION">Bagel variety</Clue>
+      <Clue Row="15" Col="14" Num="98" Dir="Down" Ans="MCLAREN">British sports automobile</Clue>
+      <Clue Row="15" Col="19" Num="100" Dir="Down" Ans="AEOLIAN">Kind of harp</Clue>
+      <Clue Row="15" Col="20" Num="101" Dir="Down" Ans="PENANCE">Atonement</Clue>
+      <Clue Row="15" Col="21" Num="102" Dir="Down" Ans="ANNOYER">Nuisance</Clue>
+      <Clue Row="16" Col="11" Num="105" Dir="Down" Ans="PLAQUE">Trophy alternative</Clue>
+      <Clue Row="16" Col="16" Num="106" Dir="Down" Ans="YEO">Navy petty officer: Abbr.</Clue>
+      <Clue Row="16" Col="17" Num="107" Dir="Down" Ans="QANTAS">The so-called "Flying Kangaroo"</Clue>
+      <Clue Row="17" Col="4" Num="109" Dir="Down" Ans="SNEER">Curl one's lip</Clue>
+      <Clue Row="17" Col="8" Num="111" Dir="Down" Ans="FUTON">Informal sleep option</Clue>
+      <Clue Row="17" Col="9" Num="112" Dir="Down" Ans="ETHNO">People: Prefix</Clue>
+      <Clue Row="18" Col="5" Num="116" Dir="Down" Ans="ERLE">Man's name that comes from an English noble</Clue>
+      <Clue Row="18" Col="10" Num="118" Dir="Down" Ans="TEES">Some summer wear</Clue>
+      <Clue Row="18" Col="15" Num="120" Dir="Down" Ans="ETRE">Ser : Spanish :: ___ : French</Clue>
+      <Clue Row="19" Col="6" Num="123" Dir="Down" Ans="IED">Iraq War danger, for short</Clue>
+      <Clue Row="19" Col="12" Num="124" Dir="Down" Ans="UNC">A.C.C. powerhouse</Clue>
+      <Clue Row="19" Col="13" Num="125" Dir="Down" Ans="ADO">Rumpus</Clue>
+      <Clue Row="19" Col="18" Num="127" Dir="Down" Ans="WPA">F.D.R. job-creating prog.</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>I like a sound change theme, done well. Q-sound changes / additions have been done several times before in different venues (sorry Dani!), but just as long as the results are amusing, there&#39;s room for another one.</p>
+
+<p>TRENCH QUOTE (from &quot;trench coat&quot;) as a quote from a guy in a trench? Funny stuff! ORDER IN THE QUART (from &quot;order in the court&quot;) as a request for ice cream delivery? Amusing.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Kerry_Washington" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kerry_Washington_Django_avp.jpg/440px-Kerry_Washington_Django_avp.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:166px" title="Dunno — ask her!" /></a></p>
+
+<p>There was only one that didn&#39;t kite &ndash; er, quite &ndash; do it for me: QUERY WASHINGTON. It works fine from a technical standpoint, deriving from Kerry Washington. But neither the resulting phrase nor its clue carries any humor &mdash; no entertaining images elicited. A shame to kick off the puzzle with your weakest themer.</p>
+
+<p>No doubt that humor is subjective.</p>
+
+<p>Fun to get all the Qs throughout the puzzle. It helped my solve, as once I was onto the theme, I kept asking myself what down answers were likely to contain Qs. [Trophy alternative] had to be PLA<strong>Q</strong>UE. [Hard-shell clams]? I confidently plunked in <strong>Q</strong>UAHOGS without any crossing letters.</p>
+
+<p>Fun when a theme helps with the rest of the solve! Made me feel kick on the draw.</p>
+
+<p>Er, quick.</p>
+
+<p>Good gridwork overall, especially considering how many Qs Dani had to work around. Some of those Qs came at a price, req&#39;ing SEQS and ESQS. But that&#39;s not bad at all.</p>
+
+<p>I hitched at some of the ERY REDYE ETHNO IDEO YEO stuff, but it wasn&#39;t much different from other Sunday 140-word puzzles.</p>
+
+<p>ROHAN &hellip; even this LotR fanboy had to squint at that one a few times before moving on.</p>
+
+<p>APACE ANNOYER stretched me a bit further. Darn it!</p>
+
+<p>But ultimately, it was a reasonable set of trade-offs given the level of difficulty.</p>
+
+<p>The only real wince I had was RWR crossing SHAWNEES (and ESURANCE to a lesser degree). I pieced it all together &ndash; SHAWNEES had to be more right than SHAHNEES or SHAYNEES, and I should have recognized SHAWNEES more immediately &mdash; but who is RWR?</p>
+
+<p>Ronald &hellip; Reagan? Since when does anyone refer to him as RWR? Or even Ronald W. Reagan? Huh.</p>
+
+<p>Overall, great to get all those Qs, in amusingly kooky phrases. Fun finds.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>I&#39;m super excited for everyone to see my first ever Sunday puzzle! It&#39;s been over ten years since I got my first crossword published, but the first time I tried to make a Sunday was last year. I wasn&#39;t sure I wanted to put in all the extra time and effort without even knowing how the puzzle would be received, but I finally figured I might as well try. And this is the result. Lesson learned!</p>
+
+<p>I think this theme (changing the &quot;K&quot; sound at the starts of words to the &quot;Q&quot; sound) is great because the idea is very simple and the resulting phrases are... quite quirky! As Will noted regarding a previous puzzle of mine, puns with Qs are a lot of fun. I&#39;m very surprised that this theme hadn&#39;t been done before.</p>
+
+<p>I&#39;m pleased that most of my clues were kept, and as always I appreciate the vast majority of the changes from Will and crew. A few clues I liked that didn&#39;t make it:</p>
+
+<p>46-Down: Are BEINGS by definition [Sentient ones]? Would that make the expression &quot;sentient beings&quot; redundant? Anyway, I thought my clue was cute: [Livers?].</p>
+
+<p>91-Down: I guess [Graphic opening?] doesn&#39;t pass the breakfast test, so it was replaced by [Prefix with -graphic]. Oh well.</p>
+
+<p>96-Down: I think my clue was more colorful than [Bagel variety]: [Source of the headline &quot;Area Man&#39;s Life Comes to Tragic Middle,&quot; with &quot;The&quot;].</p>
+
+<p>Have a fun solve!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

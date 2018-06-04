@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Friday, January 12, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/12/2018 at 8:58 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Fri, Jan 12, 2018</Title>
+    <Author>Erik Agard</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/12/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>THATSATALLORDER</Row>
+      <Row>EACHONETEACHONE</Row>
+      <Row>ARAISININTHESUN</Row>
+      <Row>MAKEAFRESHSTART</Row>
+      <Row>.MEL..OMS..TSE.</Row>
+      <Row>....REUPPED....</Row>
+      <Row>SPAREDNOEXPENSE</Row>
+      <Row>CAMELID.ECLAIRS</Row>
+      <Row>INCLASS.DIURNAL</Row>
+      <Row>...OXO...TSP...</Row>
+      <Row>IMAC.NACRE.ISAO</Row>
+      <Row>RABAT.MLI.DEALT</Row>
+      <Row>VICTORIASSECRET</Row>
+      <Row>INDEPENDENCEAVE</Row>
+      <Row>NEEDSTO.SLASHER</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="THATSATALLORDER">"You might be asking too much"</Clue>
+      <Clue Row="2" Col="1" Num="16" Dir="Across" Ans="EACHONETEACHONE">Rhyming educational proverb</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="ARAISININTHESUN">Classic 1959 drama with characters from Chicago's South Side</Clue>
+      <Clue Row="4" Col="1" Num="18" Dir="Across" Ans="MAKEAFRESHSTART">Begin all over</Clue>
+      <Clue Row="5" Col="2" Num="19" Dir="Across" Ans="MEL">Tillis or McDaniel of country music</Clue>
+      <Clue Row="5" Col="7" Num="20" Dir="Across" Ans="OMS">Meditation utterances</Clue>
+      <Clue Row="5" Col="12" Num="21" Dir="Across" Ans="TSE">"The Waste Land" poet's inits.</Clue>
+      <Clue Row="6" Col="5" Num="22" Dir="Across" Ans="REUPPED">Went back for more, in a way</Clue>
+      <Clue Row="7" Col="1" Num="26" Dir="Across" Ans="SPAREDNOEXPENSE">Blew the budget</Clue>
+      <Clue Row="8" Col="1" Num="34" Dir="Across" Ans="CAMELID">Llama, for one</Clue>
+      <Clue Row="8" Col="9" Num="35" Dir="Across" Ans="ECLAIRS">Pastries similar to long john doughnuts</Clue>
+      <Clue Row="9" Col="1" Num="36" Dir="Across" Ans="INCLASS">Attending a lecture, say</Clue>
+      <Clue Row="9" Col="9" Num="37" Dir="Across" Ans="DIURNAL">Daily</Clue>
+      <Clue Row="10" Col="4" Num="38" Dir="Across" Ans="OXO">Big brand of kitchenware</Clue>
+      <Clue Row="10" Col="10" Num="39" Dir="Across" Ans="TSP">Cough syrup amt.</Clue>
+      <Clue Row="11" Col="1" Num="40" Dir="Across" Ans="IMAC">Big Apple?</Clue>
+      <Clue Row="11" Col="6" Num="43" Dir="Across" Ans="NACRE">Iridescent material</Clue>
+      <Clue Row="11" Col="12" Num="47" Dir="Across" Ans="ISAO">Golfer Aoki</Clue>
+      <Clue Row="12" Col="1" Num="51" Dir="Across" Ans="RABAT">African capital where Berber is spoken</Clue>
+      <Clue Row="12" Col="7" Num="53" Dir="Across" Ans="MLI">15 years before the Battle of Hastings</Clue>
+      <Clue Row="12" Col="11" Num="54" Dir="Across" Ans="DEALT">Coped (with)</Clue>
+      <Clue Row="13" Col="1" Num="55" Dir="Across" Ans="VICTORIASSECRET">Where people may order push-ups</Clue>
+      <Clue Row="14" Col="1" Num="58" Dir="Across" Ans="INDEPENDENCEAVE">D.C. thoroughfare with the Smithsonian's National Air and Space Museum</Clue>
+      <Clue Row="15" Col="1" Num="59" Dir="Across" Ans="NEEDSTO">Must</Clue>
+      <Clue Row="15" Col="9" Num="60" Dir="Across" Ans="SLASHER">Freddy Krueger, e.g.</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="TEAM">Squad</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="HARAM">Not halal, in Arab cuisine</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="ACAKE">Follower of "pat" in Mother Goose</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="THIEL">Peter ___, co-founder of PayPal</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="SOSA">One of Sports Illustrated's two Sportsmen of the Year in 1998</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="ANIF">"It's not ___, it's a when"</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="TENROUNDS">Length of the final fight in "Rocky Balboa"</Clue>
+      <Clue Row="1" Col="8" Num="8" Dir="Down" Ans="ATIEMPO">On time, in Tijuana</Clue>
+      <Clue Row="1" Col="9" Num="9" Dir="Down" Ans="LENSSPEED">Stat for a photographer</Clue>
+      <Clue Row="1" Col="10" Num="10" Dir="Down" Ans="LATH">Wooden strip</Clue>
+      <Clue Row="1" Col="11" Num="11" Dir="Down" Ans="OCHS">Phil who described himself as a "singing journalist"</Clue>
+      <Clue Row="1" Col="12" Num="12" Dir="Down" Ans="RHETT">"Gone With the Wind" name</Clue>
+      <Clue Row="1" Col="13" Num="13" Dir="Down" Ans="DOSAS">South Indian pancakes</Clue>
+      <Clue Row="1" Col="14" Num="14" Dir="Down" Ans="ENURE">Accustom</Clue>
+      <Clue Row="1" Col="15" Num="15" Dir="Down" Ans="RENT">Dollars for quarters</Clue>
+      <Clue Row="6" Col="5" Num="22" Dir="Down" Ans="RELAX">"It's not the end of the world"</Clue>
+      <Clue Row="6" Col="6" Num="23" Dir="Down" Ans="EDISON">Motion picture pioneer</Clue>
+      <Clue Row="6" Col="10" Num="24" Dir="Down" Ans="EXCITE">Pump up</Clue>
+      <Clue Row="6" Col="11" Num="25" Dir="Down" Ans="DPLUS">Bad mark</Clue>
+      <Clue Row="7" Col="1" Num="26" Dir="Down" Ans="SCI">Lab subj.</Clue>
+      <Clue Row="7" Col="2" Num="27" Dir="Down" Ans="PAN">Attracted to people of all genders, in modern lingo</Clue>
+      <Clue Row="7" Col="3" Num="28" Dir="Down" Ans="AMC">Rival of Regal Cinemas</Clue>
+      <Clue Row="7" Col="4" Num="29" Dir="Down" Ans="RELOCATED">Made a move</Clue>
+      <Clue Row="7" Col="12" Num="30" Dir="Down" Ans="EARPIECES">Some Secret Service wear</Clue>
+      <Clue Row="7" Col="13" Num="31" Dir="Down" Ans="NIN">Writer who said "Living never wore one out so much as the effort not to live"</Clue>
+      <Clue Row="7" Col="14" Num="32" Dir="Down" Ans="SRA">Mrs., abroad</Clue>
+      <Clue Row="7" Col="15" Num="33" Dir="Down" Ans="ESL">Non-Anglophone's course, for short</Clue>
+      <Clue Row="11" Col="1" Num="40" Dir="Down" Ans="IRVIN">N.F.L. Hall-of-Famer Michael</Clue>
+      <Clue Row="11" Col="2" Num="41" Dir="Down" Ans="MAINE">New Brunswick neighbor</Clue>
+      <Clue Row="11" Col="3" Num="42" Dir="Down" Ans="ABCDE">Choices on a standard Scantron test</Clue>
+      <Clue Row="11" Col="7" Num="44" Dir="Down" Ans="AMINO">___ acid</Clue>
+      <Clue Row="11" Col="8" Num="45" Dir="Down" Ans="CLAD">Decked out</Clue>
+      <Clue Row="11" Col="9" Num="46" Dir="Down" Ans="RISES">Hillocks</Clue>
+      <Clue Row="11" Col="13" Num="48" Dir="Down" Ans="SARAH">Woman's name meaning "princess"</Clue>
+      <Clue Row="11" Col="14" Num="49" Dir="Down" Ans="ALEVE">Motrin alternative</Clue>
+      <Clue Row="11" Col="15" Num="50" Dir="Down" Ans="OTTER">Weasel family member</Clue>
+      <Clue Row="12" Col="5" Num="52" Dir="Down" Ans="TOPS">"... max"</Clue>
+      <Clue Row="12" Col="11" Num="54" Dir="Down" Ans="DECA">Numerical prefix</Clue>
+      <Clue Row="13" Col="6" Num="56" Dir="Down" Ans="RET">Out of the game: Abbr.</Clue>
+      <Clue Row="13" Col="10" Num="57" Dir="Down" Ans="SNL">Show featuring Leslie Jones, for short</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>What an unusual quad-stack arrangement! Can&#39;t remember seeing anything quite like this, featuring both mirror symmetry as well as three additional 15-letter grid-spanners. Talk about audacious! I love that Erik continually pushes his boundaries. Kicking things off with THAT&#39;S A TALL ORDER is right!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/A_Raisin_in_the_Sun" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/c/c5/RaisinInTheSun.JPG" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:172px" title="Starring Sidney Poitier and Rudy Dee? Wish I could have seen it!" /></a></p>
+
+<p>Quad-stacks are notorious for 1.) needing a ton of crossword glue to hold them together, 2.) containing grid-spanning entries that are a bit dull, 3.) requiring an excessive amount of common letters (E, R, S, T, etc.).</p>
+
+<p>I thought Erik did pretty well with criterion number 2. THAT&#39;S A TALL ORDER is great. MAKE A FRESH START, too. A RAISIN IN THE SUN has been used in a many a triple- or quad-stack, so it loses some points from me, but there&#39;s no doubt that it&#39;s crossworthy.</p>
+
+<p>I wasn&#39;t familiar with EACH ONE TEACH ONE, but what a neat phrase to learn. Took me a while to grok its meaning, but it&#39;s a great way to emphasize the importance of passing on one&#39;s learnings, making for an exponential passing on of knowledge.</p>
+
+<p>Criterion number 1 &hellip; well, quad stacks are tough. There are so many uber-constrained crossings to work through. Can&#39;t say I enjoyed A CAKE, A TIEMPO, LATH, ENURE (inure more commonly, yeah?), TSE, the tough HARAM / MEL crossing, all at the top of the puzzle. About par for the course for a quad-stack.</p>
+
+<p>Quad-stacks usually have so many compromises that I was super glad to wash away some of them with all the other feature material in SPARED NO EXPENSE, VICTORIA&#39;S SECRET, even INDEPENDENCE AVE. ECLAIRS and EAR PIECES also helped make me feel like I got my money&#39;s worth out of this puzzle.</p>
+
+<p>The bottom of the puzzle was much more to my taste than the quad-stack, in terms of trade-offs &mdash; two strong grid-spanners, with just a bit of RET, DECA, ISAO.</p>
+
+<p>Overall, I like seeing new patterns, new construction challenges in themelesses. The quad-stack didn&#39;t quite stand out for me given the liabilities needed to hold it together, but I did like the grid-spanning entries more than in usual quad-stacks. And the bottom of the puzzle worked well for me.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>Always wanted to do a quad stack. Probably won&#39;t go for the quint. Love and appreciation to the stack god <a class="hasphoto" href="https://www.xwordinfo.com/Thumbs?author=Martin+Ashwood-Smith">Martin Ashwood-Smith</a>, one of my favorite constructors to solve.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

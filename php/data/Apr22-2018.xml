@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Sunday, April 22, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/21/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sun, Apr 22, 2018 PLUSES AND MINUSES</Title>
+    <Author>Ross Trudeau</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/22/2018</Date>
+    <Size>
+      <Rows>21</Rows>
+      <Cols>21</Cols>
+    </Size>
+    <Grid>
+      <Row>PEST.TAPE.PAREE.BPLUS</Row>
+      <Row>TACH.EVEN.OCALA.ABASE</Row>
+      <Row>STARESANDSTRIPS.PACER</Row>
+      <Row>DEPORT.NAIF.SAYST.USA</Row>
+      <Row>.NEWMOM.STASIS.HICCUP</Row>
+      <Row>CIGS.FATHERINONESCAPE</Row>
+      <Row>ANO.STAR.DMX..ELMER..</Row>
+      <Row>PTA.MICAH...REAL.DADS</Row>
+      <Row>NOTEAMOMENTTOSPAR.CIO</Row>
+      <Row>...ALE.SEAOOZE.CATHER</Row>
+      <Row>CHURL....DRT....GRAZE</Row>
+      <Row>HYPNOS.PRESUME.WEI...</Row>
+      <Row>OPS.JETEPROPELLEDPLAN</Row>
+      <Row>WEAR.XING...DELTA.EMO</Row>
+      <Row>..NUDIE..AID.NAST.GEM</Row>
+      <Row>HADLESSHORSEMANE.KITE</Row>
+      <Row>ELDEST.URBANA.OAFISH.</Row>
+      <Row>AGO.ASAMI.PETS.SALLYS</Row>
+      <Row>VOWEL.LEASTBUTNOTLAST</Row>
+      <Row>ERNST.ORNOT.RYAN.ETTA</Row>
+      <Row>NESTS.PIANO.EXES.REST</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="PEST">Bedbug, e.g.</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="TAPE">"Police Line - Do Not Cross" material</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Across" Ans="PAREE">Gay ___</Clue>
+      <Clue Row="1" Col="17" Num="14" Dir="Across" Ans="BPLUS">Blemish for a straight-A student</Clue>
+      <Clue Row="2" Col="1" Num="19" Dir="Across" Ans="TACH">R.p.m. indicator</Clue>
+      <Clue Row="2" Col="6" Num="20" Dir="Across" Ans="EVEN">Having gone tit for tat</Clue>
+      <Clue Row="2" Col="11" Num="21" Dir="Across" Ans="OCALA">Florida city whose name ends with two state postal abbreviations</Clue>
+      <Clue Row="2" Col="17" Num="22" Dir="Across" Ans="ABASE">Humiliate</Clue>
+      <Clue Row="3" Col="1" Num="23" Dir="Across" Ans="STARESANDSTRIPS">Makes eye contact before undressing?</Clue>
+      <Clue Row="3" Col="17" Num="26" Dir="Across" Ans="PACER">Hoosier hoopster</Clue>
+      <Clue Row="4" Col="1" Num="27" Dir="Across" Ans="DEPORT">Expatriate</Clue>
+      <Clue Row="4" Col="8" Num="28" Dir="Across" Ans="NAIF">Wide-eyed type</Clue>
+      <Clue Row="4" Col="13" Num="29" Dir="Across" Ans="SAYST">"What ___ thou?"</Clue>
+      <Clue Row="4" Col="19" Num="31" Dir="Across" Ans="USA">One of five permanent members of the U.N. Security Council</Clue>
+      <Clue Row="5" Col="2" Num="32" Dir="Across" Ans="NEWMOM">One reading up on infant care, maybe</Clue>
+      <Clue Row="5" Col="9" Num="34" Dir="Across" Ans="STASIS">Equilibrium</Clue>
+      <Clue Row="5" Col="16" Num="36" Dir="Across" Ans="HICCUP">Minor setback</Clue>
+      <Clue Row="6" Col="1" Num="38" Dir="Across" Ans="CIGS">Butts</Clue>
+      <Clue Row="6" Col="6" Num="39" Dir="Across" Ans="FATHERINONESCAPE">Parent wearing your Superman costume?</Clue>
+      <Clue Row="7" Col="1" Num="42" Dir="Across" Ans="ANO">Year abroad</Clue>
+      <Clue Row="7" Col="5" Num="43" Dir="Across" Ans="STAR">The sun, for one</Clue>
+      <Clue Row="7" Col="10" Num="44" Dir="Across" Ans="DMX">"Party Up (Up in Here)" rapper, 2000</Clue>
+      <Clue Row="7" Col="15" Num="45" Dir="Across" Ans="ELMER">Bugs's cartoon pursuer</Clue>
+      <Clue Row="8" Col="1" Num="46" Dir="Across" Ans="PTA">Org. with evening meetings</Clue>
+      <Clue Row="8" Col="5" Num="47" Dir="Across" Ans="MICAH">Book after Jonah</Clue>
+      <Clue Row="8" Col="13" Num="49" Dir="Across" Ans="REAL">"Get ___"</Clue>
+      <Clue Row="8" Col="18" Num="51" Dir="Across" Ans="DADS">Root beer brand since 1937</Clue>
+      <Clue Row="9" Col="1" Num="54" Dir="Across" Ans="NOTEAMOMENTTOSPAR">Script suggestion about starting the fight scene?</Clue>
+      <Clue Row="9" Col="19" Num="60" Dir="Across" Ans="CIO">A.F.L. partner</Clue>
+      <Clue Row="10" Col="4" Num="61" Dir="Across" Ans="ALE">The "A" of I.P.A.</Clue>
+      <Clue Row="10" Col="8" Num="62" Dir="Across" Ans="SEAOOZE">Ocean buildup</Clue>
+      <Clue Row="10" Col="16" Num="63" Dir="Across" Ans="CATHER">Willa who wrote "My Ántonia"</Clue>
+      <Clue Row="11" Col="1" Num="65" Dir="Across" Ans="CHURL">Mean-spirited sort</Clue>
+      <Clue Row="11" Col="10" Num="68" Dir="Across" Ans="DRT">Richard Gere title role</Clue>
+      <Clue Row="11" Col="17" Num="69" Dir="Across" Ans="GRAZE">Eat a little here, a little there</Clue>
+      <Clue Row="12" Col="1" Num="70" Dir="Across" Ans="HYPNOS">Greek god of sleep</Clue>
+      <Clue Row="12" Col="8" Num="72" Dir="Across" Ans="PRESUME">Take for granted</Clue>
+      <Clue Row="12" Col="16" Num="76" Dir="Across" Ans="WEI">Early Chinese dynasty</Clue>
+      <Clue Row="13" Col="1" Num="77" Dir="Across" Ans="OPS">Black ___</Clue>
+      <Clue Row="13" Col="5" Num="78" Dir="Across" Ans="JETEPROPELLEDPLAN">Ballet choreography?</Clue>
+      <Clue Row="14" Col="1" Num="84" Dir="Across" Ans="WEAR">Sport</Clue>
+      <Clue Row="14" Col="6" Num="86" Dir="Across" Ans="XING">RR ___</Clue>
+      <Clue Row="14" Col="13" Num="87" Dir="Across" Ans="DELTA">Widening of the mouth?</Clue>
+      <Clue Row="14" Col="19" Num="88" Dir="Across" Ans="EMO">Broody genre</Clue>
+      <Clue Row="15" Col="3" Num="89" Dir="Across" Ans="NUDIE">Racy film</Clue>
+      <Clue Row="15" Col="10" Num="91" Dir="Across" Ans="AID">FEMA offering</Clue>
+      <Clue Row="15" Col="14" Num="94" Dir="Across" Ans="NAST">Cartoonist Thomas</Clue>
+      <Clue Row="15" Col="19" Num="95" Dir="Across" Ans="GEM">Beaut</Clue>
+      <Clue Row="16" Col="1" Num="96" Dir="Across" Ans="HADLESSHORSEMANE">Was harder for the bronco buster to hold on to?</Clue>
+      <Clue Row="16" Col="18" Num="101" Dir="Across" Ans="KITE">High flier</Clue>
+      <Clue Row="17" Col="1" Num="102" Dir="Across" Ans="ELDEST">Firstborn</Clue>
+      <Clue Row="17" Col="8" Num="103" Dir="Across" Ans="URBANA">University of Illinois city</Clue>
+      <Clue Row="17" Col="15" Num="104" Dir="Across" Ans="OAFISH">Lumbering, say</Clue>
+      <Clue Row="18" Col="1" Num="106" Dir="Across" Ans="AGO">In days of yore</Clue>
+      <Clue Row="18" Col="5" Num="107" Dir="Across" Ans="ASAMI">"Same with me"</Clue>
+      <Clue Row="18" Col="11" Num="109" Dir="Across" Ans="PETS">Subjects of an apartment restriction</Clue>
+      <Clue Row="18" Col="16" Num="111" Dir="Across" Ans="SALLYS">Actresses Field and Hawkins</Clue>
+      <Clue Row="19" Col="1" Num="113" Dir="Across" Ans="VOWEL">Rarity in a Polish name?</Clue>
+      <Clue Row="19" Col="7" Num="115" Dir="Across" Ans="LEASTBUTNOTLAST">Like the digit "0" in 2018?</Clue>
+      <Clue Row="20" Col="1" Num="118" Dir="Across" Ans="ERNST">Iowa senator elected in 2014</Clue>
+      <Clue Row="20" Col="7" Num="119" Dir="Across" Ans="ORNOT">"... but I could be wrong"</Clue>
+      <Clue Row="20" Col="13" Num="120" Dir="Across" Ans="RYAN">Reynolds of "Deadpool"</Clue>
+      <Clue Row="20" Col="18" Num="121" Dir="Across" Ans="ETTA">James who was nominated for a 1967 Grammy for "Tell Mama"</Clue>
+      <Clue Row="21" Col="1" Num="122" Dir="Across" Ans="NESTS">Hives, e.g.</Clue>
+      <Clue Row="21" Col="7" Num="123" Dir="Across" Ans="PIANO">Forte's opposite</Clue>
+      <Clue Row="21" Col="13" Num="124" Dir="Across" Ans="EXES">Old flames</Clue>
+      <Clue Row="21" Col="18" Num="125" Dir="Across" Ans="REST">Balance</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="PTSD">All-too-common V.A. diagnosis</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="EATENINTO">Corroded</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="SCAPEGOAT">Fall guy</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="THROWS">Loses intentionally</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="TESTOFTIME">What the classics stand</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="AVA">"Selma" director DuVernay</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="PENN">Southernmost Ivy</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="ENDASH">Hyphen's longer cousin</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="POTFARM">Agricultural locale that's weed-friendly?</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="ACR">Down's counterpart: Abbr.</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="RAISIN">Trail mix bit</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="ELPASO">Title city in a 1960 #1 song</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="EASY">"Don't panic"</Clue>
+      <Clue Row="1" Col="17" Num="14" Dir="Down" Ans="BAPTISM">Event for Jesus described in Matthew 3:13-17</Clue>
+      <Clue Row="1" Col="18" Num="15" Dir="Down" Ans="PBA">Kegler's org.</Clue>
+      <Clue Row="1" Col="19" Num="16" Dir="Down" Ans="LACUCARACHA">Popular Mexican folk song</Clue>
+      <Clue Row="1" Col="20" Num="17" Dir="Down" Ans="USESUP">Depletes</Clue>
+      <Clue Row="1" Col="21" Num="18" Dir="Down" Ans="SERAPE">It's a wrap</Clue>
+      <Clue Row="3" Col="5" Num="24" Dir="Down" Ans="ERM">"Uhh ..."</Clue>
+      <Clue Row="3" Col="10" Num="25" Dir="Down" Ans="SITED">Positioned</Clue>
+      <Clue Row="4" Col="16" Num="30" Dir="Down" Ans="SHELLAC">Lambaste</Clue>
+      <Clue Row="5" Col="7" Num="33" Dir="Down" Ans="MAACO">Auto repair chain</Clue>
+      <Clue Row="5" Col="12" Num="35" Dir="Down" Ans="SIX">Boxcars half</Clue>
+      <Clue Row="5" Col="18" Num="37" Dir="Down" Ans="CCED">Looped in, in a way</Clue>
+      <Clue Row="6" Col="1" Num="38" Dir="Down" Ans="CAPN">Skipper, informally</Clue>
+      <Clue Row="6" Col="8" Num="40" Dir="Down" Ans="TRAMS">Places for conductors</Clue>
+      <Clue Row="6" Col="15" Num="41" Dir="Down" Ans="NEAP">Kind of tide</Clue>
+      <Clue Row="7" Col="5" Num="43" Dir="Down" Ans="SMALLOJ">Breakfast order at a diner</Clue>
+      <Clue Row="8" Col="9" Num="48" Dir="Down" Ans="HEE">Giggle syllable</Clue>
+      <Clue Row="8" Col="13" Num="49" Dir="Down" Ans="ROZ">The New Yorker cartoonist Chast</Clue>
+      <Clue Row="8" Col="14" Num="50" Dir="Down" Ans="ESE">Tip of the tongue?</Clue>
+      <Clue Row="8" Col="20" Num="52" Dir="Down" Ans="DIEZ">Number between nueve and once</Clue>
+      <Clue Row="8" Col="21" Num="53" Dir="Down" Ans="SORE">Put out</Clue>
+      <Clue Row="9" Col="4" Num="55" Dir="Down" Ans="EARN">Make</Clue>
+      <Clue Row="9" Col="10" Num="56" Dir="Down" Ans="NADER">Politician inducted into the Automotive Hall of Fame</Clue>
+      <Clue Row="9" Col="11" Num="57" Dir="Down" Ans="TORSO">Trunk</Clue>
+      <Clue Row="9" Col="12" Num="58" Dir="Down" Ans="TOTUP">Tally, in Britain</Clue>
+      <Clue Row="9" Col="17" Num="59" Dir="Down" Ans="RAGEDAT">Vituperated</Clue>
+      <Clue Row="10" Col="18" Num="64" Dir="Down" Ans="TRIP">Orbitz booking</Clue>
+      <Clue Row="11" Col="1" Num="65" Dir="Down" Ans="CHOW">Grub</Clue>
+      <Clue Row="11" Col="2" Num="66" Dir="Down" Ans="HYPE">Build up</Clue>
+      <Clue Row="11" Col="3" Num="67" Dir="Down" Ans="UPSANDDOWNS">Fickleness of life</Clue>
+      <Clue Row="12" Col="6" Num="71" Dir="Down" Ans="SEXISTS">Demeaners of the #MeToo movement, say</Clue>
+      <Clue Row="12" Col="8" Num="72" Dir="Down" Ans="PEN">Part of a stockyard</Clue>
+      <Clue Row="12" Col="9" Num="73" Dir="Down" Ans="RPG">Dungeons &amp; Dragons, e.g., for short</Clue>
+      <Clue Row="12" Col="13" Num="74" Dir="Down" Ans="MED">T-shirt size: Abbr.</Clue>
+      <Clue Row="12" Col="14" Num="75" Dir="Down" Ans="ELENA">First name on the Supreme Court</Clue>
+      <Clue Row="12" Col="16" Num="76" Dir="Down" Ans="WETSEASONS">Monsoons</Clue>
+      <Clue Row="13" Col="7" Num="79" Dir="Down" Ans="TIES">Draws</Clue>
+      <Clue Row="13" Col="15" Num="80" Dir="Down" Ans="LLANO">Treeless plain</Clue>
+      <Clue Row="13" Col="19" Num="81" Dir="Down" Ans="LEGISLATE">Put on an act?</Clue>
+      <Clue Row="13" Col="20" Num="82" Dir="Down" Ans="AMETHYSTS">February birthstones</Clue>
+      <Clue Row="13" Col="21" Num="83" Dir="Down" Ans="NOME">1899 gold rush destination</Clue>
+      <Clue Row="14" Col="4" Num="85" Dir="Down" Ans="RULE">Be absolutely awesome</Clue>
+      <Clue Row="15" Col="5" Num="90" Dir="Down" Ans="DESALTS">Makes potable, in a way</Clue>
+      <Clue Row="15" Col="10" Num="91" Dir="Down" Ans="ARB">Wall St. worker</Clue>
+      <Clue Row="15" Col="11" Num="92" Dir="Down" Ans="ISAPTTO">Probably will</Clue>
+      <Clue Row="15" Col="12" Num="93" Dir="Down" Ans="DENEB">Supergiant in Cygnus</Clue>
+      <Clue Row="16" Col="1" Num="96" Dir="Down" Ans="HEAVEN">A state of rapture</Clue>
+      <Clue Row="16" Col="2" Num="97" Dir="Down" Ans="ALGORE">Notable whose name is an anagram of GALORE</Clue>
+      <Clue Row="16" Col="8" Num="98" Dir="Down" Ans="HUMERI">Some arm bones</Clue>
+      <Clue Row="16" Col="9" Num="99" Dir="Down" Ans="ORIANA">Journalist Fallaci</Clue>
+      <Clue Row="16" Col="13" Num="100" Dir="Down" Ans="MATURE">Emotionally developed</Clue>
+      <Clue Row="16" Col="18" Num="101" Dir="Down" Ans="KILLER">___ whale</Clue>
+      <Clue Row="17" Col="17" Num="105" Dir="Down" Ans="FAT">Bacon runoff</Clue>
+      <Clue Row="18" Col="7" Num="108" Dir="Down" Ans="ALOP">Cockeyed</Clue>
+      <Clue Row="18" Col="14" Num="110" Dir="Down" Ans="STYX">Boundary between the earth and the underworld, in myth</Clue>
+      <Clue Row="18" Col="21" Num="112" Dir="Down" Ans="STAT">R.B.I.s or H.R.s</Clue>
+      <Clue Row="19" Col="4" Num="114" Dir="Down" Ans="EST">The "e" of i.e.</Clue>
+      <Clue Row="19" Col="10" Num="116" Dir="Down" Ans="SON">III or IV, maybe</Clue>
+      <Clue Row="19" Col="15" Num="117" Dir="Down" Ans="NAE">When doubled, a 2010s dance craze</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>PLUS E&#39;S and MINUS E&#39;S! Perfect way to describe the theme, where an E is removed from one word and added into another. STARES AND STRIPS didn&#39;t give me a great first impression of the concept, as it felt a bit odd &ndash; what kind of stripper stares at you while he/she strips? (Not that I know a lot about strippers!) But most of the others gave me a laugh.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Headless_Horseman" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/The_Headless_Horseman.jpg/440px-The_Headless_Horseman.jpg" style="border:1px solid lightgray; float:left; height:250px; margin:6px 12px 6px 0px; width:183px" title="Grab more mane, horseman!" /></a></p>
+
+<p>HEADLESS HORSEMAN into HAD LESS HORSE MANE was the big winner for me. Fun parsing change (movement of spaces), and there&#39;s something so funny about the way it sounds.</p>
+
+<p>JETE PROPELLED PLAN (from JET PROPELLED PLANE) also! My daughter is getting into ballet, so this one amused me. Speaking of toddlers, this father has been in many a dress-up costume recently, so FEATHER IN ONES CAP to FATHER IN ONE&#39;S CAPE gave me a smile.</p>
+
+<p>Ross is a relatively new constructor, but I&#39;ve been tremendously impressed by his skills. To execute on a Sunday puzzle this smoothly, and with such great bonuses, is amazing. It&#39;s something a great majority of highly experienced constructors falter on.</p>
+
+<p>I usually keep a running list of gluey entries and long bonuses (liabilities and assets). Today, the former was short and the latter very long. Such spot-on use of his long slots, with SCAPEGOAT, TEST OF TIME, POT FARM, SHELLAC, LA CUCARACHA ... just in the top half of the grid alone? Wow!</p>
+
+<p>How did he do it? Part of it is that Ross takes a huge amount of care, iterating over and over until he gets things right. Great work ethic.</p>
+
+<p>Another part is theme density. Sunday puzzles usually have seven themers, which are a bear to build around. Ross only had six today, but he made sure they were all long, making it feel like theme density wasn&#39;t a problem. This gave him tremendous space in which to work his magic, especially with all those long slots.</p>
+
+<p>For example, note how the four corners only have one themer apiece running through them, allowing Ross enormous flexibility to fill away with great stuff. Smart layout!</p>
+
+<p>Add-a-letter and take-away-a-letter puzzles are common enough, but I appreciated the twist here. Fun results and top-notch execution.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>Successful addition/subtraction puzzles rely on legitimately fun themers, so it bears noting that HAD LESS HORSE MANE was David Steinberg&#39;s lol-worthy contribution to this puzz.</p>
+
+<p>My original clue for STARES AND STRIPS was something like, &quot;Studies the bed before doing a chore.&quot; I&#39;m interested to see if solvers in the #MeToo era find the print clue fun or problematic.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

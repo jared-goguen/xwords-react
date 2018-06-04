@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Sunday, May 27, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/26/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sun, May 27, 2018 21</Title>
+    <Author>Andrew Chaikin</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/27/2018</Date>
+    <Size>
+      <Rows>21</Rows>
+      <Cols>21</Cols>
+    </Size>
+    <Grid>
+      <Row>.COAST.ATATIME.CHITA.</Row>
+      <Row>MANTLE.TRISTAN.HOTELS</Row>
+      <Row>AGEFORDRINKINGLEGALLY</Row>
+      <Row>YET.BREAST.SCRIES.ETD</Row>
+      <Row>ASIA.OMIT...HAMS.EXON</Row>
+      <Row>NUMBERONEALBUMBYADELE</Row>
+      <Row>SPELL....POE....DIDDY</Row>
+      <Row>...ARABS.PCT.TENLB...</Row>
+      <Row>GUNSINAMILITARYSALUTE</Row>
+      <Row>ONETOOMANY.ELIEWIESEL</Row>
+      <Row>OCC...BLT...OPT...TRI</Row>
+      <Row>FACSIMILES.MALEFICENT</Row>
+      <Row>SPOTSONALLSIDESOFADIE</Row>
+      <Row>...RITAS.INN.STENS...</Row>
+      <Row>SHOUT....WCS....OESTE</Row>
+      <Row>WINNINGBLACKJACKTOTAL</Row>
+      <Row>ISAK.EURO...ELLE.FAVA</Row>
+      <Row>LPS.HAVANA.STIERS.REP</Row>
+      <Row>LETTERSINTHESEANSWERS</Row>
+      <Row>SEAGAL.NONAGON.ETHANE</Row>
+      <Row>.DRILY.SLOGANS.LSATS.</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="2" Num="1" Dir="Across" Ans="COAST">New Hampshire's is 21 kilometers long</Clue>
+      <Clue Row="1" Col="8" Num="6" Dir="Across" Ans="ATATIME">Simultaneously</Clue>
+      <Clue Row="1" Col="16" Num="13" Dir="Across" Ans="CHITA">Actress Rivera</Clue>
+      <Clue Row="2" Col="1" Num="18" Dir="Across" Ans="MANTLE">Layer of the earth</Clue>
+      <Clue Row="2" Col="8" Num="19" Dir="Across" Ans="TRISTAN">Knight in a medieval romance</Clue>
+      <Clue Row="2" Col="16" Num="20" Dir="Across" Ans="HOTELS">Monopoly pieces</Clue>
+      <Clue Row="3" Col="1" Num="22" Dir="Across" Ans="AGEFORDRINKINGLEGALLY">21</Clue>
+      <Clue Row="4" Col="1" Num="25" Dir="Across" Ans="YET">But nevertheless</Clue>
+      <Clue Row="4" Col="5" Num="26" Dir="Across" Ans="BREAST">Chicken choice</Clue>
+      <Clue Row="4" Col="12" Num="27" Dir="Across" Ans="SCRIES">Practices crystal gazing</Clue>
+      <Clue Row="4" Col="19" Num="28" Dir="Across" Ans="ETD">LAX listing, for short</Clue>
+      <Clue Row="5" Col="1" Num="29" Dir="Across" Ans="ASIA">Where the Bactrian camel is native</Clue>
+      <Clue Row="5" Col="6" Num="31" Dir="Across" Ans="OMIT">Leave unsaid</Clue>
+      <Clue Row="5" Col="13" Num="32" Dir="Across" Ans="HAMS">Scenery chewers</Clue>
+      <Clue Row="5" Col="18" Num="33" Dir="Across" Ans="EXON">Former Nebraska senator James</Clue>
+      <Clue Row="6" Col="1" Num="34" Dir="Across" Ans="NUMBERONEALBUMBYADELE">21</Clue>
+      <Clue Row="7" Col="1" Num="40" Dir="Across" Ans="SPELL">One might be cast in a Harry Potter film</Clue>
+      <Clue Row="7" Col="10" Num="41" Dir="Across" Ans="POE">Famous writer who entered West Point at 21</Clue>
+      <Clue Row="7" Col="17" Num="42" Dir="Across" Ans="DIDDY">Alias of rapper Sean Combs</Clue>
+      <Clue Row="8" Col="4" Num="43" Dir="Across" Ans="ARABS">Sadat and Arafat, e.g.</Clue>
+      <Clue Row="8" Col="10" Num="47" Dir="Across" Ans="PCT">Polling abbr.</Clue>
+      <Clue Row="8" Col="14" Num="48" Dir="Across" Ans="TENLB">Certain dumbbell weight: Abbr.</Clue>
+      <Clue Row="9" Col="1" Num="51" Dir="Across" Ans="GUNSINAMILITARYSALUTE">21</Clue>
+      <Clue Row="10" Col="1" Num="59" Dir="Across" Ans="ONETOOMANY">What a hungover person might have had</Clue>
+      <Clue Row="10" Col="12" Num="60" Dir="Across" Ans="ELIEWIESEL">Who said "The opposite of love is not hate, it's indifference"</Clue>
+      <Clue Row="11" Col="1" Num="61" Dir="Across" Ans="OCC">Line of work: Abbr.</Clue>
+      <Clue Row="11" Col="7" Num="62" Dir="Across" Ans="BLT">Crunchy sandwich, for short</Clue>
+      <Clue Row="11" Col="13" Num="63" Dir="Across" Ans="OPT">Pick, with "for"</Clue>
+      <Clue Row="11" Col="19" Num="64" Dir="Across" Ans="TRI">Prefix with cycle</Clue>
+      <Clue Row="12" Col="1" Num="65" Dir="Across" Ans="FACSIMILES">Replicas</Clue>
+      <Clue Row="12" Col="12" Num="70" Dir="Across" Ans="MALEFICENT">Doing evil</Clue>
+      <Clue Row="13" Col="1" Num="74" Dir="Across" Ans="SPOTSONALLSIDESOFADIE">21</Clue>
+      <Clue Row="14" Col="4" Num="76" Dir="Across" Ans="RITAS">Moreno and Hayworth</Clue>
+      <Clue Row="14" Col="10" Num="77" Dir="Across" Ans="INN">B&amp;B</Clue>
+      <Clue Row="14" Col="14" Num="78" Dir="Across" Ans="STENS">Old British firearms</Clue>
+      <Clue Row="15" Col="1" Num="79" Dir="Across" Ans="SHOUT">What "you know you make me wanna" do, in a classic R&amp;B song</Clue>
+      <Clue Row="15" Col="10" Num="82" Dir="Across" Ans="WCS">Loos</Clue>
+      <Clue Row="15" Col="17" Num="83" Dir="Across" Ans="OESTE">Dirección toward sunset</Clue>
+      <Clue Row="16" Col="1" Num="87" Dir="Across" Ans="WINNINGBLACKJACKTOTAL">21</Clue>
+      <Clue Row="17" Col="1" Num="96" Dir="Across" Ans="ISAK">"Out of Africa" author Dinesen</Clue>
+      <Clue Row="17" Col="6" Num="97" Dir="Across" Ans="EURO">21st-century currency</Clue>
+      <Clue Row="17" Col="13" Num="98" Dir="Across" Ans="ELLE">Competitor of Allure</Clue>
+      <Clue Row="17" Col="18" Num="99" Dir="Across" Ans="FAVA">___ bean</Clue>
+      <Clue Row="18" Col="1" Num="100" Dir="Across" Ans="LPS">The Stones' "Aftermath" and "Flowers"</Clue>
+      <Clue Row="18" Col="5" Num="101" Dir="Across" Ans="HAVANA">The U.S.S. Maine sank in its harbor</Clue>
+      <Clue Row="18" Col="12" Num="103" Dir="Across" Ans="STIERS">"M*A*S*H" actor David Ogden ___</Clue>
+      <Clue Row="18" Col="19" Num="105" Dir="Across" Ans="REP">Agent, informally</Clue>
+      <Clue Row="19" Col="1" Num="106" Dir="Across" Ans="LETTERSINTHESEANSWERS">21</Clue>
+      <Clue Row="20" Col="1" Num="110" Dir="Across" Ans="SEAGAL">Action hero Steven</Clue>
+      <Clue Row="20" Col="8" Num="111" Dir="Across" Ans="NONAGON">Shape of every Baha'i temple</Clue>
+      <Clue Row="20" Col="16" Num="112" Dir="Across" Ans="ETHANE">Component of natural gas</Clue>
+      <Clue Row="21" Col="2" Num="113" Dir="Across" Ans="DRILY">Without smiling, say</Clue>
+      <Clue Row="21" Col="8" Num="114" Dir="Across" Ans="SLOGANS">"Workers of the world, unite!" and others</Clue>
+      <Clue Row="21" Col="16" Num="115" Dir="Across" Ans="LSATS">Hurdles for aspiring D.A.s</Clue>
+      <Clue Row="1" Col="2" Num="1" Dir="Down" Ans="CAGESUP">Pens</Clue>
+      <Clue Row="1" Col="3" Num="2" Dir="Down" Ans="ONETIME">Erstwhile</Clue>
+      <Clue Row="1" Col="4" Num="3" Dir="Down" Ans="ATF">Raiders' org.</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Down" Ans="SLOB">One covered with food stains, say</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="TERROR">Hellion</Clue>
+      <Clue Row="1" Col="8" Num="6" Dir="Down" Ans="ATRAIN">Transport "to Sugar Hill way up in Harlem"</Clue>
+      <Clue Row="1" Col="9" Num="7" Dir="Down" Ans="TRISTE">Sad, in French or Spanish</Clue>
+      <Clue Row="1" Col="10" Num="8" Dir="Down" Ans="AINT">"___ that somethin'?"</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="TSK">Bit of a scolding</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="ITIS">End of an illness?</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="MANCHU">Fu ___</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="ENGRAM">Memory trace</Clue>
+      <Clue Row="1" Col="16" Num="13" Dir="Down" Ans="CHEESY">Inferior in quality</Clue>
+      <Clue Row="1" Col="17" Num="14" Dir="Down" Ans="HOGS">Harleys, e.g.</Clue>
+      <Clue Row="1" Col="18" Num="15" Dir="Down" Ans="ITA">Suffix with señor</Clue>
+      <Clue Row="1" Col="19" Num="16" Dir="Down" Ans="TELEXED">Sent an important message, once</Clue>
+      <Clue Row="1" Col="20" Num="17" Dir="Down" Ans="ALLTOLD">In sum</Clue>
+      <Clue Row="2" Col="1" Num="18" Dir="Down" Ans="MAYANS">Settlers of the Yucatán Peninsula</Clue>
+      <Clue Row="2" Col="21" Num="21" Dir="Down" Ans="SYDNEY">Summer Olympics host after Atlanta</Clue>
+      <Clue Row="3" Col="7" Num="23" Dir="Down" Ans="DEMO">Showcase</Clue>
+      <Clue Row="3" Col="15" Num="24" Dir="Down" Ans="LIMB">Something a sea star can regenerate</Clue>
+      <Clue Row="5" Col="4" Num="30" Dir="Down" Ans="ABLAST">So much fun</Clue>
+      <Clue Row="5" Col="18" Num="33" Dir="Down" Ans="EDIBLE">Nonpoisonous, as mushrooms</Clue>
+      <Clue Row="6" Col="5" Num="35" Dir="Down" Ans="ELRIO">California town whose name is Spanish for "the river"</Clue>
+      <Clue Row="6" Col="10" Num="36" Dir="Down" Ans="APPLY">Put in (for)</Clue>
+      <Clue Row="6" Col="11" Num="37" Dir="Down" Ans="LOCI">Sets of points on graphs</Clue>
+      <Clue Row="6" Col="12" Num="38" Dir="Down" Ans="BETTE">Davis of old Hollywood</Clue>
+      <Clue Row="6" Col="17" Num="39" Dir="Down" Ans="ADLAI">He lost to Dwight twice</Clue>
+      <Clue Row="8" Col="6" Num="44" Dir="Down" Ans="ANO">Time span with a tilde</Clue>
+      <Clue Row="8" Col="7" Num="45" Dir="Down" Ans="BAMBINA">Little girl, in Italy</Clue>
+      <Clue Row="8" Col="8" Num="46" Dir="Down" Ans="SMALLAS">Parts of "at" symbols</Clue>
+      <Clue Row="8" Col="14" Num="48" Dir="Down" Ans="TRIPLES">Big hits</Clue>
+      <Clue Row="8" Col="15" Num="49" Dir="Down" Ans="EYETEST">It starts with E, in two different ways</Clue>
+      <Clue Row="8" Col="16" Num="50" Dir="Down" Ans="NSW">State whose capital is 21-Down: Abbr.</Clue>
+      <Clue Row="9" Col="1" Num="51" Dir="Down" Ans="GOOFS">Clowns</Clue>
+      <Clue Row="9" Col="2" Num="52" Dir="Down" Ans="UNCAP">Twist open</Clue>
+      <Clue Row="9" Col="3" Num="53" Dir="Down" Ans="NECCO">Brand of wafers</Clue>
+      <Clue Row="9" Col="9" Num="54" Dir="Down" Ans="INTEL">Dossier contents</Clue>
+      <Clue Row="9" Col="13" Num="55" Dir="Down" Ans="ALOAD">Lots</Clue>
+      <Clue Row="9" Col="19" Num="56" Dir="Down" Ans="USTED">You, in Yucatán</Clue>
+      <Clue Row="9" Col="20" Num="57" Dir="Down" Ans="TERNI">Italian city where St. Valentine was born</Clue>
+      <Clue Row="9" Col="21" Num="58" Dir="Down" Ans="ELITE">Movers and shakers</Clue>
+      <Clue Row="12" Col="4" Num="66" Dir="Down" Ans="STRUNK">White's co-author of "The Elements of Style"</Clue>
+      <Clue Row="12" Col="5" Num="67" Dir="Down" Ans="ISITI">Query from Judas</Clue>
+      <Clue Row="12" Col="6" Num="68" Dir="Down" Ans="MOT">Witty zinger</Clue>
+      <Clue Row="12" Col="10" Num="69" Dir="Down" Ans="SLIWA">Guardian Angel Curtis ___</Clue>
+      <Clue Row="12" Col="12" Num="70" Dir="Down" Ans="MINSK">Capital of Belarus</Clue>
+      <Clue Row="12" Col="16" Num="71" Dir="Down" Ans="FOE">Unfriend?</Clue>
+      <Clue Row="12" Col="17" Num="72" Dir="Down" Ans="IFNOT">Otherwise</Clue>
+      <Clue Row="12" Col="18" Num="73" Dir="Down" Ans="CASEOF">Start for every Perry Mason title, with "The"</Clue>
+      <Clue Row="13" Col="11" Num="75" Dir="Down" Ans="SNCC">Old civil rights org.</Clue>
+      <Clue Row="15" Col="1" Num="79" Dir="Down" Ans="SWILLS">Guzzles</Clue>
+      <Clue Row="15" Col="2" Num="80" Dir="Down" Ans="HISPEED">Unlike dial-up internet service, informally</Clue>
+      <Clue Row="15" Col="3" Num="81" Dir="Down" Ans="ONASTAR">How one might wish</Clue>
+      <Clue Row="15" Col="19" Num="84" Dir="Down" Ans="STAREAT">Ogle</Clue>
+      <Clue Row="15" Col="20" Num="85" Dir="Down" Ans="TAVERNS">Bars</Clue>
+      <Clue Row="15" Col="21" Num="86" Dir="Down" Ans="ELAPSE">Tick away</Clue>
+      <Clue Row="16" Col="6" Num="88" Dir="Down" Ans="NEARLY">Almost</Clue>
+      <Clue Row="16" Col="7" Num="89" Dir="Down" Ans="GUVS">Sirs, to Brits</Clue>
+      <Clue Row="16" Col="8" Num="90" Dir="Down" Ans="BRAINS">Smarts</Clue>
+      <Clue Row="16" Col="9" Num="91" Dir="Down" Ans="LONNOL">Bygone Cambodian leader with a palindromic name</Clue>
+      <Clue Row="16" Col="13" Num="92" Dir="Down" Ans="JETSON">George, Jane or Judy, on old TV</Clue>
+      <Clue Row="16" Col="14" Num="93" Dir="Down" Ans="ALIENS">Contents of a saucer, maybe</Clue>
+      <Clue Row="16" Col="15" Num="94" Dir="Down" Ans="CLEA">"21 Grams" actress DuVall</Clue>
+      <Clue Row="16" Col="16" Num="95" Dir="Down" Ans="KERNEL">Niblet</Clue>
+      <Clue Row="18" Col="5" Num="101" Dir="Down" Ans="HEAL">Get better</Clue>
+      <Clue Row="18" Col="10" Num="102" Dir="Down" Ans="ATNO">Scandium's is 21: Abbr.</Clue>
+      <Clue Row="18" Col="12" Num="103" Dir="Down" Ans="SEGA">Sonic the Hedgehog creator</Clue>
+      <Clue Row="18" Col="17" Num="104" Dir="Down" Ans="SSTS">Retired fliers, for short</Clue>
+      <Clue Row="19" Col="4" Num="107" Dir="Down" Ans="TGI">___ Fridays</Clue>
+      <Clue Row="19" Col="11" Num="108" Dir="Down" Ans="HAG">Witch</Clue>
+      <Clue Row="19" Col="18" Num="109" Dir="Down" Ans="WHA">"Huh?"</Clue>
+    </Clues>
+    <JimNotes><![CDATA[This sets a record for fewest words in a Sunday grid with 126. <a href="https://www.xwordinfo.com/Thumbs?select=wsfewest">Here are the other low word count Sundays</a>. There's <a href="https://www.xwordinfo.com/Crossword?date=7/15/2012">one at 128</a> and a few at 130.]]></JimNotes>
+    <JeffNotes><![CDATA[<p>Definitional puzzle riffing on the number 21. I usually find these themes dry, as uncovering dictionary-like entries can be more work than pleasure. AGE FOR DRINKING LEGALLY isn&#39;t going to win any crossword awards, for example.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/21_(Adele_album)" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png" style="border:1px solid lightgray; float:right; height:218px; margin:6px 0px 6px 12px; width:219px" title="Adele's hit album 21" /></a></p>
+
+<p>But Andrew found a nice range of answers, from drinking age to the Adele album, to the 21 gun salute, to blackjack. And I enjoyed the final twist, the last themer telling us that each of the themers had 21 LETTERS IN THESE ANSWERS &ndash; each of them a grid-spanning length. Fun punchline, very meta.</p>
+
+<p>I was SURE that SPOTS ON ALL SIDES OF A DIE was incorrect. A standard die has opposite sides that equal to seven, i.e. one + six = seven. So the total has to be even!</p>
+
+<p>Oh, wait.</p>
+
+<p>Carry the eight, round down, dot the i&#39;s &hellip; oops.</p>
+
+<p>Yes, the sum of one through seven = 21, indeed. I knew that.</p>
+
+<p>With just six themers, you&#39;d think that a Sunday 140-word puzzle wouldn&#39;t be difficult. And it&#39;s not too bad.</p>
+
+<p>But going down to the nearly unheard of 126 words? That&#39;s crazy! I can understand the allure to work in such great bonuses as ELIE WIESEL, MALEFICENT, ONE TOO MANY &ndash; it&#39;s important to get a ton of bonuses in, since the themers are a bit dry. But it&#39;s virtually impossible to execute on a 126-word grid, without glopping a ton of crossword glue all over.</p>
+
+<p>Hoo boy, was there a lot. I would have sent this one back to smooth away ABLAST, ALOAD, SSTS, OESTE, etc. I stopped keeping track after I hit ten, and it kept right on going. It would have been better to deploy a lot more black squares to separate the themers, facilitating a higher quality of fill.</p>
+
+<p>But I did appreciate the innovative thinking, the wide range of subjects covered by the number 21, and the punchline. Rare for a definitional puzzle to make me smile at the end.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>I&#39;m a musician (<a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://kidbeyond.com&amp;source=gmail&amp;ust=1527351475578000&amp;usg=AFQjCNEGP0sTFRuSfdhB0-BBs629qNTkqg" href="http://kidbeyond.com/" target="_blank">Kid Beyond</a>) and meditation teacher; I moonlight in game and puzzle design. This idea came after a long day in the recording studio.</p>
+
+<p>I liked the notion of cluing &quot;21&quot; with 21-letter phrases, allowing a meta-reference at the bottom. And I loved creating a grid with horizontal and vertical symmetry &mdash; it feels like Mexican tile art.</p>
+
+<p>The first draft had a bunch of grand ideas &mdash; like running the puzzle on January 21, with &quot;1/21&quot; cluing DATE YOU ARE SOLVING THIS. Will gently told me all the problems this would cause... so out it went.</p>
+
+<p>Another ambitious idea was to cram 21&#39;s throughout <strong>all</strong> the clues. I whipped up about 50 of them: references to Century 21, &quot;21 Jump Street,&quot; the 21 Club, pop stars Twenty One Pilots and 21 Savage, etc. Most of these were too stretchy for Will, but he graciously kept a few.</p>
+
+<p>This is my second puzzle for the Times. I remain humbled by how many hours go into making a good idea great &mdash; pushing for ever-better fill, redoing the whole grid over and over, trimming blocks down to the bare minimum...</p>
+
+<p>Many thanks to puzzle sensei <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://twitter.com/thatpuzzleguy&amp;source=gmail&amp;ust=1527351475578000&amp;usg=AFQjCNGn65Md5ytxFkfrJU_asmyU7BJ7Aw" href="https://twitter.com/thatpuzzleguy" target="_blank">Tyler Hinman</a> for all his tireless feedback, Jeff Chen for <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://xwordinfo.com&amp;source=gmail&amp;ust=1527351475578000&amp;usg=AFQjCNHKgYuPiZVMc4gG2H7DrT3S5gNs6A" href="http://xwordinfo.com/" target="_blank">xwordinfo.com</a> and his wonderful Word List, Antony Lewis for the indispensable <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.crossword-compiler.com&amp;source=gmail&amp;ust=1527351475578000&amp;usg=AFQjCNF1kJMMyyR3kfrEJtp0Q3jHawI_0Q" href="https://www.crossword-compiler.com/" target="_blank">Crossword Compiler</a>, and of course Will for nurturing my work!</p>
+
+<p>Hardcore puzzlers may note that this puzzle has only 126 entries, the lowest Sunday word count ever. Now that I&#39;ve broken a world record, I won&#39;t have to take up competitive hot-dog eating! What a relief.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

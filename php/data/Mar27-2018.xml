@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Tuesday, March 27, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/26/2018 at 10:05 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Tue, Mar 27, 2018</Title>
+    <Author>Peter Koetters</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/27/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>CHAPS.SWAMI.VET</Row>
+      <Row>RAJAH.TAMER.ISH</Row>
+      <Row>ALAMO.PRADA.JAY</Row>
+      <Row>MORETHANJUNEAU.</Row>
+      <Row>...LOOT..LILY..</Row>
+      <Row>CARAFE.MALAYSIA</Row>
+      <Row>ALA.FREELANSING</Row>
+      <Row>SENT..LOT..ENTO</Row>
+      <Row>AUGUSTAWIND.GEN</Row>
+      <Row>STERNUMS.ARCHLY</Row>
+      <Row>..RIOT..ORAL...</Row>
+      <Row>.CONCORDMYFEARS</Row>
+      <Row>LAV.ORION.TACIT</Row>
+      <Row>AGE.NEGRI.ENEMY</Row>
+      <Row>PER.EDAMS.ESSEX</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="CHAPS">Fellows</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="SWAMI">Mystic in a turban</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Across" Ans="VET">Fixer at a horse race?</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="RAJAH">Leader in a turban</Clue>
+      <Clue Row="2" Col="7" Num="15" Dir="Across" Ans="TAMER">Less risqué</Clue>
+      <Clue Row="2" Col="13" Num="16" Dir="Across" Ans="ISH">"Black-___" (ABC sitcom)</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="ALAMO">Alternative to National or Enterprise</Clue>
+      <Clue Row="3" Col="7" Num="18" Dir="Across" Ans="PRADA">Luxury handbag maker</Clue>
+      <Clue Row="3" Col="13" Num="19" Dir="Across" Ans="JAY">Magpie relative</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="MORETHANJUNEAU">"Explore Alaska! It's ___!"</Clue>
+      <Clue Row="5" Col="4" Num="23" Dir="Across" Ans="LOOT">Sack</Clue>
+      <Clue Row="5" Col="10" Num="24" Dir="Across" Ans="LILY">A fleur-de-lis is a stylized one</Clue>
+      <Clue Row="6" Col="1" Num="25" Dir="Across" Ans="CARAFE">Wine server</Clue>
+      <Clue Row="6" Col="8" Num="28" Dir="Across" Ans="MALAYSIA">Kuala Lumpur's home</Clue>
+      <Clue Row="7" Col="1" Num="32" Dir="Across" Ans="ALA">Like</Clue>
+      <Clue Row="7" Col="5" Num="33" Dir="Across" Ans="FREELANSING">"Writers and photographers will find Michigan a great place for ___!"</Clue>
+      <Clue Row="8" Col="1" Num="35" Dir="Across" Ans="SENT">Shipped</Clue>
+      <Clue Row="8" Col="7" Num="37" Dir="Across" Ans="LOT">Drawn straw, say</Clue>
+      <Clue Row="8" Col="12" Num="38" Dir="Across" Ans="ENTO">Within: Prefix</Clue>
+      <Clue Row="9" Col="1" Num="39" Dir="Across" Ans="AUGUSTAWIND">"Blow into Maine on ___!"</Clue>
+      <Clue Row="9" Col="13" Num="44" Dir="Across" Ans="GEN">___-X</Clue>
+      <Clue Row="10" Col="1" Num="45" Dir="Across" Ans="STERNUMS">Breastbones</Clue>
+      <Clue Row="10" Col="10" Num="46" Dir="Across" Ans="ARCHLY">In a mischievous manner</Clue>
+      <Clue Row="11" Col="3" Num="48" Dir="Across" Ans="RIOT">Hoot</Clue>
+      <Clue Row="11" Col="9" Num="49" Dir="Across" Ans="ORAL">Kind of fixation</Clue>
+      <Clue Row="12" Col="2" Num="50" Dir="Across" Ans="CONCORDMYFEARS">"I was afraid to ski, but in New Hampshire I ___!"</Clue>
+      <Clue Row="13" Col="1" Num="56" Dir="Across" Ans="LAV">John</Clue>
+      <Clue Row="13" Col="5" Num="57" Dir="Across" Ans="ORION">Belted one out of this world?</Clue>
+      <Clue Row="13" Col="11" Num="58" Dir="Across" Ans="TACIT">Implied</Clue>
+      <Clue Row="14" Col="1" Num="59" Dir="Across" Ans="AGE">It goes before beauty, in a saying</Clue>
+      <Clue Row="14" Col="5" Num="60" Dir="Across" Ans="NEGRI">Pola ___ of the silents</Clue>
+      <Clue Row="14" Col="11" Num="61" Dir="Across" Ans="ENEMY">Other side</Clue>
+      <Clue Row="15" Col="1" Num="62" Dir="Across" Ans="PER">Each</Clue>
+      <Clue Row="15" Col="5" Num="63" Dir="Across" Ans="EDAMS">Red-jacketed cheeses</Clue>
+      <Clue Row="15" Col="11" Num="64" Dir="Across" Ans="ESSEX">Southend-on-Sea's county</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="CRAM">Finally hit the books</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="HALO">Xbox space-war franchise</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="AJAR">Nearly closed</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="PAMELA">Actress Anderson</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="SHOTOFF">Launched, as a missile</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="STPAT">Green party honoree, briefly?</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="WARN">Put on guard</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="AMAJ">Key with three sharps: Abbr.</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="MEDULLA">Section of the brain</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="IRANIAN">Citizen of a theocratic republic</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="VIJAYSINGH">Fijian-born golf Hall-of-Famer</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="ESAU">Isaac's firstborn</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="THY">Possessive in the Ten Commandments</Clue>
+      <Clue Row="4" Col="6" Num="21" Dir="Down" Ans="HOER">Gardener, often</Clue>
+      <Clue Row="4" Col="12" Num="22" Dir="Down" Ans="ELYSE">"Family Ties" mom</Clue>
+      <Clue Row="6" Col="1" Num="25" Dir="Down" Ans="CASAS">Parts of barrios</Clue>
+      <Clue Row="6" Col="2" Num="26" Dir="Down" Ans="ALEUT">Northern archipelago dweller</Clue>
+      <Clue Row="6" Col="3" Num="27" Dir="Down" Ans="RANGEROVER">Luxury S.U.V. import</Clue>
+      <Clue Row="6" Col="8" Num="28" Dir="Down" Ans="MEOWS">Alley sounds</Clue>
+      <Clue Row="6" Col="9" Num="29" Dir="Down" Ans="ALTI">Harmonizers with soprani and bassi</Clue>
+      <Clue Row="6" Col="14" Num="30" Dir="Down" Ans="INTEL">What drones collect</Clue>
+      <Clue Row="6" Col="15" Num="31" Dir="Down" Ans="AGONY">What waiting for overdue results can be</Clue>
+      <Clue Row="7" Col="7" Num="34" Dir="Down" Ans="ELAM">Ancient civilization around Susa</Clue>
+      <Clue Row="8" Col="4" Num="36" Dir="Down" Ans="TURIN">Shroud of ___</Clue>
+      <Clue Row="9" Col="5" Num="40" Dir="Down" Ans="SNOCONE">Treat with one's choice of syrup</Clue>
+      <Clue Row="9" Col="6" Num="41" Dir="Down" Ans="TUTORED">Taught privately</Clue>
+      <Clue Row="9" Col="10" Num="42" Dir="Down" Ans="NARY">___ a one</Clue>
+      <Clue Row="9" Col="11" Num="43" Dir="Down" Ans="DRAFTEE">Conscript</Clue>
+      <Clue Row="10" Col="12" Num="47" Dir="Down" Ans="CLEANS">What a janitor does</Clue>
+      <Clue Row="11" Col="9" Num="49" Dir="Down" Ans="OMNIS">Some upscale chain hotels</Clue>
+      <Clue Row="12" Col="2" Num="50" Dir="Down" Ans="CAGE">Protection for a shark diver</Clue>
+      <Clue Row="12" Col="7" Num="51" Dir="Down" Ans="RIGA">Baltic city where Baryshnikov was born</Clue>
+      <Clue Row="12" Col="8" Num="52" Dir="Down" Ans="DORM">Housing that's often empty in the summer</Clue>
+      <Clue Row="12" Col="13" Num="53" Dir="Down" Ans="ACES">The best, in slang</Clue>
+      <Clue Row="12" Col="14" Num="54" Dir="Down" Ans="RIME">Hoarfrost</Clue>
+      <Clue Row="12" Col="15" Num="55" Dir="Down" Ans="STYX">River to Hades</Clue>
+      <Clue Row="13" Col="1" Num="56" Dir="Down" Ans="LAP">Baby sitter?</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>During my MBA, we finance types constantly made fun of the marketing wannabes. Those who can&#39;t do math make up ridiculous slogans! These days, I appreciate marketing much more, so the idea of state capitals coming up with punny ad slogans made me laugh. I loved Michigan trying to attract writers by offering FREE LANSING (freelancing) opportunities.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Lansing,_Michigan" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/LesCapitolSomethingMI.jpg/440px-LesCapitolSomethingMI.jpg" style="border:1px solid lightgray; float:right; height:146px; margin:6px 0px 6px 12px; width:220px" title="FREE LANSING! From what, I'm not sure." /></a></p>
+
+<p>Not as sure about blowing into Maine on AUGUSTA WIND (a gust of wind). Is Maine windy? Seemed odd.</p>
+
+<p>And the come-on to Alaska, that it&#39;s MORE THAN JUNEAU (more than you know). Wouldn&#39;t a more effective slogan involve bears? Glaciers?</p>
+
+<p>This is probably why I didn&#39;t (couldn&#39;t) go into marketing.</p>
+
+<p>Finally, CONCORD MY FEARS took me forever to figure out. CONCORD = conquered? Really?</p>
+
+<p>This is probably why I&#39;ve had so few pun themes accepted.</p>
+
+<p>The allure of a low-word-count grid beckons to many constructors; a siren song. It usually shouldn&#39;t be heeded, because it almost always requires trade-offs that make the solving experience less pleasurable. This is especially important in an early-week puzzle, aimed at less experienced solvers.</p>
+
+<p>It is kind of cool to have SNO CONE and TUTORED next to each other, both fine mid-length entries. But the cost of NEGRI (&quot;you have to know these kinds of esoteric things to do crosswords?&quot; &ndash; and crossing a tough European capital)? Granted, I think all world capitals are fair game for educated solvers. RIGA isn&#39;t OSLO or LONDON, though.</p>
+
+<p>Check out MALAYSIA, too. Love it as fill usually, but it sure makes that NE region big and tough to fill. ELYSE is another esoteric name (see: ELAM), and ENTO ain&#39;t great. Unfortunately, there&#39;s no quick fix, so the grid would have had to be redone with a completely different block pattern (aiming at 76 or 78 words). That&#39;s probably what should have happened.</p>
+
+<p>I like the notion of a bunch of slick marketers brainstorming ad campaigns. I had some problems with the overall execution, though.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>HEAD DOVER HEELS? BOISE GONNA BE MAD? ANNAPOLIS TASTY? HELENA HANDBASKET? A LINCOLN THE CHAIN? RALEIGH FINGERS? RICHMOND POORMAN?</p>
+
+<p>All rejected ideas for my &quot;capital punishment&quot; puzzle. Yes, that would have been the title. Maybe it&#39;s best there are no titles in a weekday puzzle as there are enough groaners here already. I do like HELENA HANDBASKET, but it has too many letters, sadly.</p>
+
+<p>Only my second time in the New York Times, and I am already resorting to puns. Sad but true. As for state capitals, Mrs. Wickersham, my fifth-grade teacher, would be pleased. I can still remember studying with Emily Williams who, every time the word &quot;Harrisburg&quot; was uttered would cry out &quot;Harrisburg to you too!&quot; It made no sense at all, but somehow I still remember the capital of Pennsylvania that way. Nonsensical word associations of that ilk, when puns were unavailable, got me through all the memorization I had to do to survive medical school. Thank you, Emily, and Harrisburg to you too!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

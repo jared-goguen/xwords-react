@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Thursday, February 1, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 2/1/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Thu, Feb 01, 2018</Title>
+    <Author>Damon Gulczynski</Author>
+    <CanonicalNames>
+      <Constructor>Damon J. Gulczynski</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>2/1/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>PAIN.DOHA.OPTIN</Row>
+      <Row>EMMA.ICES.BRIDE</Row>
+      <Row>RYANONEAL.LETON</Row>
+      <Row>..LAGEAR.VITALE</Row>
+      <Row>SAL.LINDAEVANS.</Row>
+      <Row>CLEMENS.UNIX...</Row>
+      <Row>HOAR...OTTO.SOT</Row>
+      <Row>MARIEANTOINETTE</Row>
+      <Row>ODS.CPAS...RETD</Row>
+      <Row>...AHEM.SWARMED</Row>
+      <Row>.ROGEREBERT.CRY</Row>
+      <Row>SORELY.ORIOLE..</Row>
+      <Row>PLATO.INITIALLY</Row>
+      <Row>OFTEN.AGEE.CLIO</Row>
+      <Row>TEENS.MOSS.ESPN</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="PAIN">Tough person to tolerate</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="DOHA">Qatar's capital</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Across" Ans="OPTIN">Decide to join</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="EMMA">Literary matchmaker</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="ICES">Clinches</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Across" Ans="BRIDE">One joining a union?</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="RYANONEAL">*Roman of Hollywood?</Clue>
+      <Clue Row="3" Col="11" Num="19" Dir="Across" Ans="LETON">Pretend</Clue>
+      <Clue Row="4" Col="3" Num="20" Dir="Across" Ans="LAGEAR">Shoe company based in Southern California</Clue>
+      <Clue Row="4" Col="10" Num="21" Dir="Across" Ans="VITALE">Basketball sportscaster Dick</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="SAL">Paradise in "On the Road"</Clue>
+      <Clue Row="5" Col="5" Num="24" Dir="Across" Ans="LINDAEVANS">*Legal acting in a 1980s prime-time soap opera?</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Across" Ans="CLEMENS">Seven-time Cy Young Award winner of the 1980s-2000s</Clue>
+      <Clue Row="6" Col="9" Num="28" Dir="Across" Ans="UNIX">Operating system developed at Bell Labs</Clue>
+      <Clue Row="7" Col="1" Num="29" Dir="Across" Ans="HOAR">Frost</Clue>
+      <Clue Row="7" Col="8" Num="30" Dir="Across" Ans="OTTO">"The Simpsons" bus driver</Clue>
+      <Clue Row="7" Col="13" Num="31" Dir="Across" Ans="SOT">Barfly</Clue>
+      <Clue Row="8" Col="1" Num="34" Dir="Across" Ans="MARIEANTOINETTE">*Malady of French history?</Clue>
+      <Clue Row="9" Col="1" Num="39" Dir="Across" Ans="ODS">Really binges, in brief</Clue>
+      <Clue Row="9" Col="5" Num="40" Dir="Across" Ans="CPAS">No. crunchers</Clue>
+      <Clue Row="9" Col="12" Num="41" Dir="Across" Ans="RETD">No longer serving: Abbr.</Clue>
+      <Clue Row="10" Col="4" Num="42" Dir="Across" Ans="AHEM">"Uh, excuse me"</Clue>
+      <Clue Row="10" Col="9" Num="43" Dir="Across" Ans="SWARMED">Like rock stars among fans</Clue>
+      <Clue Row="11" Col="2" Num="46" Dir="Across" Ans="ROGEREBERT">*Regent of film criticism?</Clue>
+      <Clue Row="11" Col="13" Num="49" Dir="Across" Ans="CRY">Get blubbery</Clue>
+      <Clue Row="12" Col="1" Num="50" Dir="Across" Ans="SORELY">In the worst way</Clue>
+      <Clue Row="12" Col="8" Num="51" Dir="Across" Ans="ORIOLE">Maryland state symbol</Clue>
+      <Clue Row="13" Col="1" Num="53" Dir="Across" Ans="PLATO">Student of Socrates</Clue>
+      <Clue Row="13" Col="7" Num="54" Dir="Across" Ans="INITIALLY">At the start ... or how the first two letters of each starred clue relate to the answer?</Clue>
+      <Clue Row="14" Col="1" Num="57" Dir="Across" Ans="OFTEN">In many cases</Clue>
+      <Clue Row="14" Col="7" Num="58" Dir="Across" Ans="AGEE">James with a posthumous Pulitzer</Clue>
+      <Clue Row="14" Col="12" Num="59" Dir="Across" Ans="CLIO">Award for Agency of the Year, e.g.</Clue>
+      <Clue Row="15" Col="1" Num="60" Dir="Across" Ans="TEENS">Frigid temps</Clue>
+      <Clue Row="15" Col="7" Num="61" Dir="Across" Ans="MOSS">Velvety growth</Clue>
+      <Clue Row="15" Col="12" Num="62" Dir="Across" Ans="ESPN">FiveThirtyEight.com owner</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="PER">According to</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="AMY">"Arrival" actress Adams</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="IMALLEARS">"Talk away"</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="NANA">Mom's mom</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="DINEIN">Have a date night at home, say</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="OCEANS">Vast amounts</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="HEARD">"Have you ___?"</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="ASL">Digital communication, for short?</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="OBLIVION">The void</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="PRETAX">Like one line on a sales receipt</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="TITAN">Magnate</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="IDOLS">Subjects of the Second Commandment</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="NENE">Endangered state bird</Clue>
+      <Clue Row="3" Col="5" Num="18" Dir="Down" Ans="OGLE">Beach look?</Clue>
+      <Clue Row="4" Col="10" Num="21" Dir="Down" Ans="VENTI">Starbucks specification</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Down" Ans="SCHMO">Average guy</Clue>
+      <Clue Row="5" Col="2" Num="23" Dir="Down" Ans="ALOAD">Tons</Clue>
+      <Clue Row="5" Col="9" Num="25" Dir="Down" Ans="AUTO">A camera may be set on it</Clue>
+      <Clue Row="6" Col="4" Num="27" Dir="Down" Ans="MRI">Something a doc might order</Clue>
+      <Clue Row="7" Col="8" Num="30" Dir="Down" Ans="OTS">They may follow buzzers, for short</Clue>
+      <Clue Row="7" Col="13" Num="31" Dir="Down" Ans="STEMCELLS">Subject of some biomedical research</Clue>
+      <Clue Row="7" Col="14" Num="32" Dir="Down" Ans="OTTER">Den : bear :: holt : ___</Clue>
+      <Clue Row="7" Col="15" Num="33" Dir="Down" Ans="TEDDY">Child's bear</Clue>
+      <Clue Row="8" Col="5" Num="35" Dir="Down" Ans="ECHELONS">Ranks</Clue>
+      <Clue Row="8" Col="6" Num="36" Dir="Down" Ans="APERY">Impressionism?</Clue>
+      <Clue Row="8" Col="7" Num="37" Dir="Down" Ans="NAME">Handle</Clue>
+      <Clue Row="8" Col="12" Num="38" Dir="Down" Ans="ERR">Goof</Clue>
+      <Clue Row="10" Col="4" Num="42" Dir="Down" Ans="AGETEN">When many kids start fifth grade</Clue>
+      <Clue Row="10" Col="9" Num="43" Dir="Down" Ans="SERIES">1, 1, 2, 3, 5, 8, 13 ..., e.g.</Clue>
+      <Clue Row="10" Col="10" Num="44" Dir="Down" Ans="WRITES">Pens</Clue>
+      <Clue Row="10" Col="11" Num="45" Dir="Down" Ans="ATOI">Yours, in Tours</Clue>
+      <Clue Row="11" Col="2" Num="46" Dir="Down" Ans="ROLFE">John of colonial Jamestown</Clue>
+      <Clue Row="11" Col="3" Num="47" Dir="Down" Ans="ORATE">Give an address</Clue>
+      <Clue Row="11" Col="8" Num="48" Dir="Down" Ans="BONGO">Beat it!</Clue>
+      <Clue Row="12" Col="1" Num="50" Dir="Down" Ans="SPOT">Difficult situation</Clue>
+      <Clue Row="12" Col="12" Num="52" Dir="Down" Ans="LACE">Castigate, with "into"</Clue>
+      <Clue Row="13" Col="7" Num="54" Dir="Down" Ans="IAM">Cartesian conclusion</Clue>
+      <Clue Row="13" Col="14" Num="55" Dir="Down" Ans="LIP">Sass</Clue>
+      <Clue Row="13" Col="15" Num="56" Dir="Down" Ans="YON">Over there</Clue>
+    </Clues>
+    <JimNotes><![CDATA[Clever theme. Over at <a href="http://www.crosswordfiend.com/2018/01/31/thursday-february-1-2018">Crossword Fiend</a>, Andy Kravis noticed that this same idea had been used <a href="https://www.xwordinfo.com/Crossword?date=2/11/2016">two years earlier</a> by <a href="https://www.xwordinfo.com/Thumbs?author=Zhouqin+Burnikel" class="hasphoto">Zhouqin Burnikel</a>.]]></JimNotes>
+    <JeffNotes><![CDATA[<p>Love me a good parsing puzzle. Roman of Hollywood isn&#39;t a &quot;Roman,&quot; but an R. O. man = RYAN O&#39;NEAL. Great consistency, Damon finding &quot;person&quot; terms readily hideable within regular words: ROman, LEgal, MAlady, REgent. Tight set, too &mdash; I&#39;d be remiss in saying that the only other possibility I could find (besides SAlad) was REmiss.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Ryan_O"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ryan_Oneal_-_1968.jpg/440px-Ryan_Oneal_-_1968.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:201px" title="Admit it. You thought RYAN O'NEAL was a woman, too." /></a></p>
+
+<p>*rimshot*</p>
+
+<p>INITIALLY initially didn&#39;t click with me. Yes, the first two initials are at the start of the first word, thus doubly &quot;initial.&quot; Thinking about it for a while, it does feel like there&#39;s cleverness that should have produced a stronger a-ha moment for me. Not sure why it&#39;s still feeling like a stretch &mdash; perhaps it&#39;s a bit too punny for my taste?</p>
+
+<p>Good gridwork. The obvious glue is stuff that gets listed on editors&#39; spec sheets, i.e. abbrs. (RETD), tough foreign words (A TOI), entries that might feel esoteric (NENE). The one that interests me most today is A LOAD. It feels bad to me, but how is it different than A LOT or A TON, which both feel fine? Perhaps it&#39;s because I usually hear A LOT or A TON by themselves, but A LOAD always comes with &quot;of&quot;? Hmm.</p>
+
+<p>AGE TEN was another that made me pause. It is a milestone age, turning double digits. But I don&#39;t like the idea of paving the way for AGE FIVE (when most kids start school) or AGE TWO (&quot;terrible&quot; time for tots) or other arbitrariness.</p>
+
+<p>APERY is another odd-sounding word &mdash; if you have to convince yourself that yeah, it&#39;s probably fine because it&#39;s in the dictionary, it&#39;s probably not. But the fantastic clue rescued it for me. Love the clever repurposing of the word &quot;Impressionism.&quot;</p>
+
+<p>All in all, a neat idea. I think I would have given it the POW! if 1) the INITIALLY revealer had hit me more strongly (subjective call), or if 2) the people had all been drawn from the same walk of life, tightening up the theme set even further. Lots of people whose initials are MA, for example.</p>
+
+<p>Would have been POY! (year) status if everyone had been the first to do something in their field &hellip; thus triply INITIAL!</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>My only regret with this puzzle is that there was no room in it for SEAN ASTIN &ndash; &quot;Salad popular in &lsquo;80s movies?&quot;</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

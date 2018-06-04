@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Saturday, January 27, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/27/2018 at 7:26 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sat, Jan 27, 2018</Title>
+    <Author>Mark Diehl</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/27/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>.MIDMARCH..ABUT</Row>
+      <Row>MARIECURIE.HEME</Row>
+      <Row>ORANGESODA.HELM</Row>
+      <Row>ZYNGA.TWERP.RAP</Row>
+      <Row>ALIENS...TONGUE</Row>
+      <Row>ROAR.TRASHMOUTH</Row>
+      <Row>TUN.BEANPLANTS.</Row>
+      <Row>...CLAMJUICE...</Row>
+      <Row>.BLOODBORNE.JOB</Row>
+      <Row>THINKYOUNG.PAWL</Row>
+      <Row>HUGGED...SHANIA</Row>
+      <Row>ETA.SITBY.EMEND</Row>
+      <Row>LATE.ERRATAPAGE</Row>
+      <Row>ANEW.TEAMEVENTS</Row>
+      <Row>WIDE..FMSTEREO.</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="2" Num="1" Dir="Across" Ans="MIDMARCH">When St. Patrick's Day is celebrated</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Across" Ans="ABUT">Side with?</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Across" Ans="MARIECURIE">First two-time Nobelist</Clue>
+      <Clue Row="2" Col="12" Num="15" Dir="Across" Ans="HEME">Deep red pigment</Clue>
+      <Clue Row="3" Col="1" Num="16" Dir="Across" Ans="ORANGESODA">Slice, e.g.</Clue>
+      <Clue Row="3" Col="12" Num="17" Dir="Across" Ans="HELM">Place for a big wheel</Clue>
+      <Clue Row="4" Col="1" Num="18" Dir="Across" Ans="ZYNGA">Company that launched the game FarmVille</Clue>
+      <Clue Row="4" Col="7" Num="19" Dir="Across" Ans="TWERP">Insignificant one</Clue>
+      <Clue Row="4" Col="13" Num="21" Dir="Across" Ans="RAP">A lot of Top 40 music</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="ALIENS">Space race?</Clue>
+      <Clue Row="5" Col="10" Num="24" Dir="Across" Ans="TONGUE">Word with mother or sharp</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Across" Ans="ROAR">Call of the wild?</Clue>
+      <Clue Row="6" Col="6" Num="27" Dir="Across" Ans="TRASHMOUTH">One spewing obscenities</Clue>
+      <Clue Row="7" Col="1" Num="31" Dir="Across" Ans="TUN">Wine container</Clue>
+      <Clue Row="7" Col="5" Num="32" Dir="Across" Ans="BEANPLANTS">Things with pods</Clue>
+      <Clue Row="8" Col="4" Num="33" Dir="Across" Ans="CLAMJUICE">Ingredient in a Caesar cocktail</Clue>
+      <Clue Row="9" Col="2" Num="34" Dir="Across" Ans="BLOODBORNE">Like the hepatitis B and C pathogens</Clue>
+      <Clue Row="9" Col="13" Num="36" Dir="Across" Ans="JOB">LinkedIn listing</Clue>
+      <Clue Row="10" Col="1" Num="39" Dir="Across" Ans="THINKYOUNG">Be open-minded, maybe</Clue>
+      <Clue Row="10" Col="12" Num="40" Dir="Across" Ans="PAWL">Trigger-to-cylinder connection</Clue>
+      <Clue Row="11" Col="1" Num="41" Dir="Across" Ans="HUGGED">Kept close to one's chest?</Clue>
+      <Clue Row="11" Col="10" Num="42" Dir="Across" Ans="SHANIA">Twain of note</Clue>
+      <Clue Row="12" Col="1" Num="44" Dir="Across" Ans="ETA">Hellenic character</Clue>
+      <Clue Row="12" Col="5" Num="45" Dir="Across" Ans="SITBY">Make no effort to stop something</Clue>
+      <Clue Row="12" Col="11" Num="49" Dir="Across" Ans="EMEND">Make right</Clue>
+      <Clue Row="13" Col="1" Num="50" Dir="Across" Ans="LATE">Bad way to get to work</Clue>
+      <Clue Row="13" Col="6" Num="52" Dir="Across" Ans="ERRATAPAGE">Extra leaf in some books</Clue>
+      <Clue Row="14" Col="1" Num="54" Dir="Across" Ans="ANEW">Freshly</Clue>
+      <Clue Row="14" Col="6" Num="55" Dir="Across" Ans="TEAMEVENTS">Curling and rugby, but not boxing, in the Olympics</Clue>
+      <Clue Row="15" Col="1" Num="56" Dir="Across" Ans="WIDE">Hard to get around, say</Clue>
+      <Clue Row="15" Col="7" Num="57" Dir="Across" Ans="FMSTEREO">Radio option with improved sound quality</Clue>
+      <Clue Row="1" Col="2" Num="1" Dir="Down" Ans="MARYLOU">Title girl in a 1961 Ricky Nelson hit</Clue>
+      <Clue Row="1" Col="3" Num="2" Dir="Down" Ans="IRANIAN">Resident of Isfahan</Clue>
+      <Clue Row="1" Col="4" Num="3" Dir="Down" Ans="DINGER">Home run, in slang</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Down" Ans="MEGAN">Actress Boone of NBC's "The Blacklist"</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="ACE">Nickname for a pal</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="RUST">Feature of many a jalopy</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="CROW">The bird in Hitchcock's "The Birds"</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="HIDE">Palm, in a way</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Down" Ans="AHH">"That's the spot!"</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="BEERGUT">Woe of a bar habitué</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="UMLAUTS">Some high points of Mötley Crüe?</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="TEMPEH">Relative of tofu</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Down" Ans="MOZART">___ Effect (supposed I.Q. boost from music)</Clue>
+      <Clue Row="2" Col="10" Num="14" Dir="Down" Ans="EARTHLINGS">Opposite of 22-Across</Clue>
+      <Clue Row="4" Col="11" Num="20" Dir="Down" Ans="POMACE">Pulpy refuse</Clue>
+      <Clue Row="5" Col="6" Num="23" Dir="Down" Ans="STEADYDIET">Coconuts, to a maroon on an island, maybe</Clue>
+      <Clue Row="5" Col="12" Num="25" Dir="Down" Ans="NONE">Fourth little piggy's share</Clue>
+      <Clue Row="6" Col="7" Num="28" Dir="Down" Ans="RAMBO">Macho type</Clue>
+      <Clue Row="6" Col="8" Num="29" Dir="Down" Ans="ANJOU">Green-skinned fruit</Clue>
+      <Clue Row="6" Col="9" Num="30" Dir="Down" Ans="SPURN">Reject</Clue>
+      <Clue Row="7" Col="5" Num="32" Dir="Down" Ans="BLOKES">Chaps</Clue>
+      <Clue Row="8" Col="4" Num="33" Dir="Down" Ans="CONG">D.C. body</Clue>
+      <Clue Row="9" Col="2" Num="34" Dir="Down" Ans="BHUTANI">Native of Thimphu</Clue>
+      <Clue Row="9" Col="3" Num="35" Dir="Down" Ans="LIGATED">Tied up, in the operating room</Clue>
+      <Clue Row="9" Col="13" Num="36" Dir="Down" Ans="JANEANE">Witty Garofalo</Clue>
+      <Clue Row="9" Col="14" Num="37" Dir="Down" Ans="OWINGTO">Because of</Clue>
+      <Clue Row="9" Col="15" Num="38" Dir="Down" Ans="BLADES">Barbershop assortment</Clue>
+      <Clue Row="10" Col="1" Num="39" Dir="Down" Ans="THELAW">Something you may lay down or break</Clue>
+      <Clue Row="10" Col="12" Num="40" Dir="Down" Ans="PAMPER">Baby</Clue>
+      <Clue Row="11" Col="11" Num="43" Dir="Down" Ans="HEAVE">Not just fling</Clue>
+      <Clue Row="12" Col="7" Num="46" Dir="Down" Ans="TREF">Forbidden, in a way</Clue>
+      <Clue Row="12" Col="8" Num="47" Dir="Down" Ans="BRAM">First name in horror</Clue>
+      <Clue Row="12" Col="9" Num="48" Dir="Down" Ans="YAMS">Vegetables high in vitamin C</Clue>
+      <Clue Row="13" Col="4" Num="51" Dir="Down" Ans="EWE">Pecorino cheese source</Clue>
+      <Clue Row="13" Col="10" Num="53" Dir="Down" Ans="TET">Holiday abroad</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>A Diehl low-word-count themeless! (insert mixture of excitement and apprehension here)</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Bean" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bean-lubia.jpg/440px-Bean-lubia.jpg" style="border:1px solid lightgray; float:left; height:250px; margin:6px 12px 6px 0px; width:197px" title="BEAN PLANTS. Nothing flashy, but they do the job." /></a></p>
+
+<p>Love those big, juicy, wide-open white spaces in the NW / middle / SE. Yowza, those are tough to fill with color and cleanliness. All three had some great entries and some compromises:</p>
+
+<p><strong>NW:</strong> MARIE CURIE! ORANGE SODA! That&#39;s the way to anchor a themeless swath.</p>
+
+<p>TUN, eh. MID-MARCH&hellip; doesn&#39;t that feel arbitrary? Does it open the door for LATE AUGUST, LAST FALL, etc.?</p>
+
+<p><strong>Middle:</strong> CLAM JUICE! BLOOD BORNE! With STEADY DIET and EARTHLINGS running through them? Awesome.</p>
+
+<p>BEAN PLANTS &hellip; okay. Not exciting, but workable. TRASH MOUTH? Huh? POTTY MOUTH, TRASH TALK, both yes. TRASH MOUTH &hellip; not so much.</p>
+
+<p><strong>SE:</strong> TEAM EVENTS are fun at the Olympics. FM STEREO isn&#39;t exciting anymore, but it does the trick.</p>
+
+<p>ERRATA PAGE &hellip; yeah, I guess it works. Maybe it would have been more exciting with a clever clue?</p>
+
+<p>Overall, a real mixture of great and head-scratching stuff. All in all, fair, but tough. Very tough! It&#39;s rare for me these days to not finish a Saturday puzzle, and this one defeated me. On the one hand, it made me feel stupid for not being able to overcome the challenge. But it also makes me want to improve for the future.</p>
+
+<p>Keep &lsquo;em coming, Mark! (But maybe, just a tad easier? Please?)</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>Confession: Sometimes when I&#39;m writing the clues for a completed puzzle I will overreach the boundaries of what is a sound and workable clue. This is more common for me while trying to be &quot;cute and clever&quot; in fashioning end-of-the-week clues. Fortunately for the solving audience, Will Shortz and his crew are experts at discerning solid clues and reining in this &quot;creative&quot; tendency of mine when it runs amok.</p>
+
+<p>I always do a post-mortem comparison of the final clues against what I originally sent in as a means of honing my clue-writing skills. The results of this usually fall into various categories:</p>
+
+<ol>
+	<li>the clues are the same or essentially the same (yay, nailed it!)</li>
+	<li>the clues are different, but both are technically sound (editor&#39;s choice)</li>
+	<li>my clue was too vague (meh!), too restrictive (meh!), or inaccurate (ugh!!). For THINK YOUNG: Keep a positive state of mind (close [maybe], but not exactly accurate)</li>
+	<li>my clue included a word in the puzzle (yikes!). For CLAM JUICE: Bloody Caesar ingredient (directly below BLOODBORNE [double yikes!])</li>
+	<li>my clue tried to be cute or clever and fell flat (thud). For BLADES: Parts from the prop department? (as in propeller, but the joke fails since BLADES could be props in a murder mystery play [hindsight doh!])</li>
+</ol>
+
+<p>Here&#39;s hoping you found the polished puzzle entertaining.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

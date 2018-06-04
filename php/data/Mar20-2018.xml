@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Tuesday, March 20, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/20/2018 at 7:58 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Tue, Mar 20, 2018</Title>
+    <Author>Andrew Zhou</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/20/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>CLOSE.ITLL.OGLE</Row>
+      <Row>RAZED.SHEA.NOOK</Row>
+      <Row>UMAMI.ORES.BLUE</Row>
+      <Row>SPRINKLERHEAD..</Row>
+      <Row>TSK.BIDE..DISCO</Row>
+      <Row>...SOMERSAULTED</Row>
+      <Row>.TSAR..ITT..ARE</Row>
+      <Row>.OTTOMANEMPIRE.</Row>
+      <Row>ORU..SIG..ROSS.</Row>
+      <Row>WINDTURBINES...</Row>
+      <Row>LITES..IBIS.RTE</Row>
+      <Row>..SEASONOPENERS</Row>
+      <Row>RAHM.UNDO.NOHIT</Row>
+      <Row>ALOE.MEEK.CRATE</Row>
+      <Row>GAWD.OARS.EMBER</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="CLOSE">Put a cork in</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="ITLL">"___ pass"</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="OGLE">Girl-watch or boy-watch</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="RAZED">Leveled</Clue>
+      <Clue Row="2" Col="7" Num="15" Dir="Across" Ans="SHEA">Queens stadium that was 14-Across in 2008-09</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="NOOK">Recess in a room</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="UMAMI">Prized taste in ramen</Clue>
+      <Clue Row="3" Col="7" Num="18" Dir="Across" Ans="ORES">Rocks whose names often end in "-ite"</Clue>
+      <Clue Row="3" Col="12" Num="19" Dir="Across" Ans="BLUE">Feeling sad</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="SPRINKLERHEAD">Part of a fire safety system</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Across" Ans="TSK">Critical cluck</Clue>
+      <Clue Row="5" Col="5" Num="24" Dir="Across" Ans="BIDE">Wait awhile</Clue>
+      <Clue Row="5" Col="11" Num="25" Dir="Across" Ans="DISCO">Dance place that might have a revolving ball overhead</Clue>
+      <Clue Row="6" Col="4" Num="28" Dir="Across" Ans="SOMERSAULTED">Flipped</Clue>
+      <Clue Row="7" Col="2" Num="31" Dir="Across" Ans="TSAR">Peter the Great, for one</Clue>
+      <Clue Row="7" Col="8" Num="33" Dir="Across" Ans="ITT">Addams Family cousin</Clue>
+      <Clue Row="7" Col="13" Num="34" Dir="Across" Ans="ARE">"All bets ___ off"</Clue>
+      <Clue Row="8" Col="2" Num="35" Dir="Across" Ans="OTTOMANEMPIRE">Constantinople was its capital</Clue>
+      <Clue Row="9" Col="1" Num="40" Dir="Across" Ans="ORU">Tulsa sch.</Clue>
+      <Clue Row="9" Col="6" Num="41" Dir="Across" Ans="SIG">___ Ep (college frat)</Clue>
+      <Clue Row="9" Col="11" Num="42" Dir="Across" Ans="ROSS">Op-ed writer Douthat</Clue>
+      <Clue Row="10" Col="1" Num="43" Dir="Across" Ans="WINDTURBINES">Instruments of renewable energy</Clue>
+      <Clue Row="11" Col="1" Num="48" Dir="Across" Ans="LITES">Some Miller beers</Clue>
+      <Clue Row="11" Col="8" Num="49" Dir="Across" Ans="IBIS">Egyptian sacred bird</Clue>
+      <Clue Row="11" Col="13" Num="50" Dir="Across" Ans="RTE">1, along the East Coast: Abbr.</Clue>
+      <Clue Row="12" Col="3" Num="53" Dir="Across" Ans="SEASONOPENERS">Much-anticipated sporting events ... or, when spoken, what 20-, 28-, 35- and 43-Across have?</Clue>
+      <Clue Row="13" Col="1" Num="57" Dir="Across" Ans="RAHM">Chicago mayor Emanuel</Clue>
+      <Clue Row="13" Col="6" Num="59" Dir="Across" Ans="UNDO">Reverse</Clue>
+      <Clue Row="13" Col="11" Num="60" Dir="Across" Ans="NOHIT">Pitch-perfect?</Clue>
+      <Clue Row="14" Col="1" Num="61" Dir="Across" Ans="ALOE">Edible succulent</Clue>
+      <Clue Row="14" Col="6" Num="62" Dir="Across" Ans="MEEK">Easily pushed around</Clue>
+      <Clue Row="14" Col="11" Num="63" Dir="Across" Ans="CRATE">Orange container</Clue>
+      <Clue Row="15" Col="1" Num="64" Dir="Across" Ans="GAWD">"Good ___ almighty!"</Clue>
+      <Clue Row="15" Col="6" Num="65" Dir="Across" Ans="OARS">Rowers may have a row of them</Clue>
+      <Clue Row="15" Col="11" Num="66" Dir="Across" Ans="EMBER">Old flame?</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="CRUST">Leftover pizza part</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="LAMPS">Places for genies</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="OZARK">Southern Missouri's ___ Mountains</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="SEMI">Game before the final</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="EDINBORO">Pennsylvania university that's home to the Fighting Scots</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="ISOLDE">Tristan's love, in legend</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="THREERINGBINDER">Loose-leaf sheet holder</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="LEER">Creepy look</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="LASH">Unit of corporal punishment</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="ONBAIL">How a suspect might be released</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="GOLDSTARS">Elementary school honors</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="LOU">Reed with a guitar</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="EKE">Barely get (by)</Clue>
+      <Clue Row="4" Col="6" Num="21" Dir="Down" Ans="KIM">Most common Korean surname (22%)</Clue>
+      <Clue Row="4" Col="11" Num="22" Dir="Down" Ans="EDU">Alternative to .com</Clue>
+      <Clue Row="5" Col="14" Num="26" Dir="Down" Ans="CERES">Largest object in the asteroid belt</Clue>
+      <Clue Row="5" Col="15" Num="27" Dir="Down" Ans="ODE">Work of Horace</Clue>
+      <Clue Row="6" Col="4" Num="28" Dir="Down" Ans="SAT">Perched (on)</Clue>
+      <Clue Row="6" Col="9" Num="29" Dir="Down" Ans="STE">___-Foy, Que.</Clue>
+      <Clue Row="6" Col="10" Num="30" Dir="Down" Ans="ATM">Deposit site, for short</Clue>
+      <Clue Row="7" Col="2" Num="31" Dir="Down" Ans="TORII">Traditional Japanese gate</Clue>
+      <Clue Row="7" Col="3" Num="32" Dir="Down" Ans="STUNTSHOW">"Don't try this at home" spectacle</Clue>
+      <Clue Row="8" Col="6" Num="36" Dir="Down" Ans="MSU">Spartans of the Big Ten Conf.</Clue>
+      <Clue Row="8" Col="7" Num="37" Dir="Down" Ans="AIR">Precious supply on a spaceship</Clue>
+      <Clue Row="8" Col="11" Num="38" Dir="Down" Ans="PRESENCE">___ of mind</Clue>
+      <Clue Row="8" Col="12" Num="39" Dir="Down" Ans="IOS">What 46-Down runs on</Clue>
+      <Clue Row="9" Col="1" Num="40" Dir="Down" Ans="OWL">Symbol of wisdom</Clue>
+      <Clue Row="10" Col="4" Num="44" Dir="Down" Ans="DEEMED">Judged</Clue>
+      <Clue Row="10" Col="5" Num="45" Dir="Down" Ans="TSA">3-1-1 liquids rule enforcer, for short</Clue>
+      <Clue Row="10" Col="9" Num="46" Dir="Down" Ans="IBOOKS">Apple reading app</Clue>
+      <Clue Row="10" Col="10" Num="47" Dir="Down" Ans="NIP">Light bite</Clue>
+      <Clue Row="11" Col="13" Num="50" Dir="Down" Ans="REHAB">Help for an addict</Clue>
+      <Clue Row="11" Col="14" Num="51" Dir="Down" Ans="TRITE">Like the expressions "a dime a dozen" and "a penny for your thoughts"</Clue>
+      <Clue Row="11" Col="15" Num="52" Dir="Down" Ans="ESTER">Ending with poly-</Clue>
+      <Clue Row="12" Col="6" Num="54" Dir="Down" Ans="SUMO">Sport conducted in a dohyo</Clue>
+      <Clue Row="12" Col="7" Num="55" Dir="Down" Ans="ONEA">Prime draft category</Clue>
+      <Clue Row="12" Col="12" Num="56" Dir="Down" Ans="NORM">Standard</Clue>
+      <Clue Row="13" Col="1" Num="57" Dir="Down" Ans="RAG">Car wash aid</Clue>
+      <Clue Row="13" Col="2" Num="58" Dir="Down" Ans="ALA">Pie ___ mode</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>So many crosswords have been built around the four seasons. A pleasant surprise to see an execution I&#39;ve never encountered! I had fun trying to guess the theme during my solve, giving up before I allowed myself to read the revealer.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Wind_turbine" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lamma_wind_turbine.jpg/440px-Lamma_wind_turbine.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:190px" title="WIND TURBINES — do they work better in WINDTUR time?" /></a></p>
+
+<p>Then I had more fun, trying to guess what the revealer meant.</p>
+
+<p>SPRINKER sort of sounds like &quot;spring&quot;? I can buy that. SOMER- = &quot;summer,&quot; sure.</p>
+
+<p>(OTTOM-) = &quot;autumn&quot;? Maybe if you cock your head and wince a bit.</p>
+
+<p>(WIND TUR-) = &quot;winter.&quot; (squinting, squinting, wincing)</p>
+
+<p>So, a mixed bag. Still, an interesting concept that made me think.</p>
+
+<p>I mostly liked Andrew&#39;s execution &ndash; super tough to work with five themers, the middle being an uncooperative 13 letters, the others also making trouble at the awkward lengths of 12 or 13. Check out how the themers ALL force black square placements on the edges of the grid. So unpleasant for constructors, taking away so much flexibility.</p>
+
+<p>Interesting choice to run a 15-letter piece of fill down the center. I like THREE RING BINDER. I did wonder why it was thematic, though. (It isn&#39;t.) I&#39;d have preferred placing a black square at the E of BIDE and first I of IBIS, which I think would have allow some cleanup on aisle ONEA STE SIG. But I can respect the decision.</p>
+
+<p>The real sticking point for me was the ORU / TORII crossing. I learned ORU (Oral Roberts University) from crosswords. My wife, who is much, much, MUCH MUUUUUUUCH smarter than me (and better at crosswords, among many things), once asked me what the hell a TORII was. (I was surprised, since I&#39;ve been to Japan a lot for work and seen many a TORII, but I think her reaction is probably more common than mine.)</p>
+
+<p>An early-week crossword needs to be conquerable, to set up the solver to ultimately beat the puzzle. I think this type of crossing is ripe for feelings of defeat. That&#39;s a bad thing.</p>
+
+<p>Overall though, I enjoyed the novelty of the concept as well as the execution &ndash; especially given the level of difficulty &mdash; albeit with a couple of reservations.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>Did Will Shortz and co. decide to put this deliberately on the vernal equinox? Clever bunch! I think the favorite part of this puzzle for me is the progressively weirder look of the &quot;season openers&quot; as you go down the grid. Beyond that, I wonder if the unrelated span that is 7-down bothers anyone. I can attest that that made for the best fill, and it&#39;s kind of cool that it goes through all the themers. Plus, it&#39;s visually kind of like a binder, perhaps. But I won&#39;t push that reading too much...</p>
+
+<p>Happy equinox, all!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

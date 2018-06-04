@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Monday, January 8, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/7/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Mon, Jan 08, 2018</Title>
+    <Author>Sam Ezersky</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/8/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>DOTE..GOAD.ELKS</Row>
+      <Row>ETES.HORSE.MALA</Row>
+      <Row>AHAS.ISTHATOKAY</Row>
+      <Row>REC.UHOH.NYJETS</Row>
+      <Row>GLASSOFOJ.CIRCA</Row>
+      <Row>OLDWEST.IDO.SHH</Row>
+      <Row>DODO...FLUBS...</Row>
+      <Row>..YOUWILLOBEY..</Row>
+      <Row>...PRICY...LETO</Row>
+      <Row>RAS.BIB.STCLAIR</Row>
+      <Row>AVEDA.MILOOSHEA</Row>
+      <Row>SILENT.PERM.FIN</Row>
+      <Row>CAFEAULAIT.ZING</Row>
+      <Row>ARID.LODGE.ANTE</Row>
+      <Row>LYES.LUSH..CEOS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="DOTE">Pour love (on)</Clue>
+      <Clue Row="1" Col="7" Num="5" Dir="Across" Ans="GOAD">Prod</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Across" Ans="ELKS">Antlered Yellowstone denizens</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Across" Ans="ETES">"Vous ___ ici" (French for "You are here")</Clue>
+      <Clue Row="2" Col="6" Num="14" Dir="Across" Ans="HORSE">Derby entry</Clue>
+      <Clue Row="2" Col="12" Num="15" Dir="Across" Ans="MALA">___ fide (in bad faith)</Clue>
+      <Clue Row="3" Col="1" Num="16" Dir="Across" Ans="AHAS">Cries of discovery</Clue>
+      <Clue Row="3" Col="6" Num="17" Dir="Across" Ans="ISTHATOKAY">"Would you mind?"</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="REC">Letter accompanying a college application, informally</Clue>
+      <Clue Row="4" Col="5" Num="20" Dir="Across" Ans="UHOH">"This can't be good"</Clue>
+      <Clue Row="4" Col="10" Num="21" Dir="Across" Ans="NYJETS">N.F.L. team for which Joe Namath was a QB</Clue>
+      <Clue Row="5" Col="1" Num="22" Dir="Across" Ans="GLASSOFOJ">Informal breakfast beverage order</Clue>
+      <Clue Row="5" Col="11" Num="25" Dir="Across" Ans="CIRCA">Approximately, datewise</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Across" Ans="OLDWEST">Cowboy movie setting</Clue>
+      <Clue Row="6" Col="9" Num="27" Dir="Across" Ans="IDO">"Yes," at the altar</Clue>
+      <Clue Row="6" Col="13" Num="29" Dir="Across" Ans="SHH">"Quiet!"</Clue>
+      <Clue Row="7" Col="1" Num="30" Dir="Across" Ans="DODO">"Dumb" bird</Clue>
+      <Clue Row="7" Col="8" Num="31" Dir="Across" Ans="FLUBS">Botches</Clue>
+      <Clue Row="8" Col="3" Num="33" Dir="Across" Ans="YOUWILLOBEY">Hypnotist's command</Clue>
+      <Clue Row="9" Col="4" Num="38" Dir="Across" Ans="PRICY">Expensive</Clue>
+      <Clue Row="9" Col="12" Num="39" Dir="Across" Ans="LETO">Actor Jared of "Suicide Squad"</Clue>
+      <Clue Row="10" Col="1" Num="42" Dir="Across" Ans="RAS">College dorm overseers, for short</Clue>
+      <Clue Row="10" Col="5" Num="45" Dir="Across" Ans="BIB">Neckwear for a lobster eater</Clue>
+      <Clue Row="10" Col="9" Num="46" Dir="Across" Ans="STCLAIR">Michigan/Ontario border river</Clue>
+      <Clue Row="11" Col="1" Num="49" Dir="Across" Ans="AVEDA">Skin care brand</Clue>
+      <Clue Row="11" Col="7" Num="51" Dir="Across" Ans="MILOOSHEA">"Ulysses" star, 1967</Clue>
+      <Clue Row="12" Col="1" Num="53" Dir="Across" Ans="SILENT">Like the first "d" in "Wednesday"</Clue>
+      <Clue Row="12" Col="8" Num="55" Dir="Across" Ans="PERM">Salon job</Clue>
+      <Clue Row="12" Col="13" Num="56" Dir="Across" Ans="FIN">Potentially alarming sight for an ocean bather</Clue>
+      <Clue Row="13" Col="1" Num="57" Dir="Across" Ans="CAFEAULAIT">Cappuccino relative</Clue>
+      <Clue Row="13" Col="12" Num="59" Dir="Across" Ans="ZING">Pizazz</Clue>
+      <Clue Row="14" Col="1" Num="60" Dir="Across" Ans="ARID">Desertlike</Clue>
+      <Clue Row="14" Col="6" Num="61" Dir="Across" Ans="LODGE">Skiers' shelter</Clue>
+      <Clue Row="14" Col="12" Num="62" Dir="Across" Ans="ANTE">Poker table payment</Clue>
+      <Clue Row="15" Col="1" Num="63" Dir="Across" Ans="LYES">Strong cleansers</Clue>
+      <Clue Row="15" Col="6" Num="64" Dir="Across" Ans="LUSH">Like the Amazon rain forest</Clue>
+      <Clue Row="15" Col="12" Num="65" Dir="Across" Ans="CEOS">Company heads, in brief</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="DEARGOD">"Holy Toledo!"</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="OTHELLO">Board game named after a Shakespeare play</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="TEACADDY">Container for oolong or chai</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="ESS">Figure on Superman's chest</Clue>
+      <Clue Row="1" Col="7" Num="5" Dir="Down" Ans="GOSOFT">Stop being strict</Clue>
+      <Clue Row="1" Col="8" Num="6" Dir="Down" Ans="ORTHO">Branch of dentistry, informally</Clue>
+      <Clue Row="1" Col="9" Num="7" Dir="Down" Ans="ASH">Fireplace residue</Clue>
+      <Clue Row="1" Col="10" Num="8" Dir="Down" Ans="DEAN">College person with a "list"</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Down" Ans="EMOJI">Smiley face or frowny face</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="LAKERS">Los Angeles hoopsters</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="KLATCH">Coffee get-together</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="SAYSAH">Prepares for a doctor's throat examination</Clue>
+      <Clue Row="2" Col="6" Num="14" Dir="Down" Ans="HIHOS">Chipper greetings</Clue>
+      <Clue Row="3" Col="11" Num="18" Dir="Down" Ans="TYCOBB">Holder of baseball's highest career batting average (.366)</Clue>
+      <Clue Row="4" Col="5" Num="20" Dir="Down" Ans="USE">Manipulate</Clue>
+      <Clue Row="5" Col="4" Num="23" Dir="Down" Ans="SWOOP">In one fell ___</Clue>
+      <Clue Row="5" Col="9" Num="24" Dir="Down" Ans="JILL">___ Stein, Green Party candidate for president in 2012 and 2016</Clue>
+      <Clue Row="6" Col="10" Num="28" Dir="Down" Ans="DUO">Twosome</Clue>
+      <Clue Row="7" Col="8" Num="31" Dir="Down" Ans="FLY">Take to the skies</Clue>
+      <Clue Row="7" Col="12" Num="32" Dir="Down" Ans="SELLS">Opposite of buys</Clue>
+      <Clue Row="8" Col="5" Num="34" Dir="Down" Ans="URBANA">University of Illinois city</Clue>
+      <Clue Row="8" Col="6" Num="35" Dir="Down" Ans="WII">Nintendo Switch predecessor</Clue>
+      <Clue Row="8" Col="7" Num="36" Dir="Down" Ans="ICBM">Cold War weapon inits.</Clue>
+      <Clue Row="8" Col="13" Num="37" Dir="Down" Ans="YEAHFINE">"Sure, whatever"</Clue>
+      <Clue Row="9" Col="14" Num="40" Dir="Down" Ans="TIEINTO">Connect with</Clue>
+      <Clue Row="9" Col="15" Num="41" Dir="Down" Ans="ORANGES">Sunset shades</Clue>
+      <Clue Row="10" Col="1" Num="42" Dir="Down" Ans="RASCAL">Scamp</Clue>
+      <Clue Row="10" Col="2" Num="43" Dir="Down" Ans="AVIARY">Where birds of a feather flock together</Clue>
+      <Clue Row="10" Col="3" Num="44" Dir="Down" Ans="SELFIE">Many a Snapchat pic</Clue>
+      <Clue Row="10" Col="9" Num="46" Dir="Down" Ans="SLEIGH">Santa's vehicle</Clue>
+      <Clue Row="10" Col="10" Num="47" Dir="Down" Ans="TORTE">Rich cake</Clue>
+      <Clue Row="10" Col="11" Num="48" Dir="Down" Ans="COM">Alternative to "net" or "org"</Clue>
+      <Clue Row="11" Col="4" Num="50" Dir="Down" Ans="DEEDS">Monopoly cards</Clue>
+      <Clue Row="11" Col="8" Num="52" Dir="Down" Ans="IPADS">Tablets that run Safari</Clue>
+      <Clue Row="12" Col="6" Num="54" Dir="Down" Ans="TULL">Rock's Jethro ___</Clue>
+      <Clue Row="13" Col="7" Num="58" Dir="Down" Ans="LOU">"Skip to My ___"</Clue>
+      <Clue Row="13" Col="12" Num="59" Dir="Down" Ans="ZAC">Onetime teen heartthrob Efron</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Rhymers, OKAY / OJ / OBEY / OSHEA / AU LAIT at the ends of themers. Bonus points for ending an entry with a J. That ...FOJ string looks so neatly bizarre! AU LAIT was an interesting one too, tougher to uncover than the others. I was expecting an O&#39; somewhere (Cafe O&#39;Lait = Irish coffee?).</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Caf%C3%A9_au_lait" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Caf%C3%A9_au_lait.jpg/500px-Caf%C3%A9_au_lait.jpg" style="border:1px solid lightgray; float:left; height:165px; margin:6px 12px 6px 0px; width:220px" title="CAFE OLAY ... er, AU LAIT" /></a></p>
+
+<p>Rhyming words have been mined for many crosswords, so it&#39;s important to go above and beyond with some extra layer. Here, I like Sam&#39;s tightness, nearly covering the solution space of O-?AY rhymers. The only other ones I could think of were OIL OF OLAY (oil of au lait?) and ANITA O&#39;DAY. Something elegant about using a complete(ish) set.</p>
+
+<p>CAF&Eacute; AU LAIT is a great entry in its own right. MILO O&#39;SHEA is definitely crossworthy, although he might be on the cusp of what an educated solver (especially a newer one) ought to know.</p>
+
+<p>GLASS OF OJ &hellip; I hesitated at first, as the phrase didn&#39;t feel solid enough for my taste. But it&#39;s something I&#39;ve said at diners, so I&#39;m not sure why it didn&#39;t strike me as strongly as CAF&Eacute; AU LAIT.</p>
+
+<p>I had the same reaction to IS THAT OKAY. It doesn&#39;t feel like something I&#39;d strive to work into a crossword. YOU WILL OBEY left me with the same feeling. Maybe I haven&#39;t been to enough hypnosis acts?</p>
+
+<p>Audacious layout. I said DEAR GOD to myself when I turned up ETES and ESS within seconds of starting the grid &mdash; neither is friendly to beginning solvers. Thankfully, OTHELLO and TEA CADDY felt worthy of those prices.</p>
+
+<p>KLATCH might be a toughie for newer solvers, as might be MALA fide. And the crossing of URBANA / AVEDA could be a trap that takes away a solver&#39;s feeling of accomplishment &hellip; if they guessed URBINA or URBENA I would be sympathetic. All in all, I would have preferred a grid layout that didn&#39;t push the Monday boundaries so much. Breaking up the four corners more would have been my preference.</p>
+
+<p>Overall though, I appreciated that Sam gave us something a little more than a standard rhyming theme.</p>
+
+<p><strong>ADDED NOTE:</strong> Glad I read Sam&#39;s commentary! I didn&#39;t realize the short-short-short-long patterm of syllables! That&#39;s a neat extra layer. Wish there had been some revealer in the grid to point it out.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>Yep, that&#39;s my byline above a Monday puzzle. *Rubs eyes* Is this real life?</p>
+
+<p>The theme I came up with was friendly enough for beginner solvers?</p>
+
+<p>There&#39;s nothing too crazy in the fill?</p>
+
+<p>The clues are ... easy?!</p>
+
+<p>I started where most constructors don&#39;t, and shouldn&#39;t: telling myself that I really needed to make a Monday puzzle with no ideas for it whatsoever. I decided to poke around XWord Info for past themes I enjoyed, and came across <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.xwordinfo.com/Crossword?date%3D3/16/2009&amp;source=gmail&amp;ust=1515278213240000&amp;usg=AFQjCNH9zg7qsDY0bJsushD1fIMgvVyBqg" href="https://www.xwordinfo.com/Crossword?date=3/16/2009">this Lynn Lempel gem</a>, which contained eight phrases that all rhymed despite having different spellings. I thought the idea was so clever and wondered if I could vary it somehow but still introduce a novel concept.</p>
+
+<p>I figured the long &quot;A&quot; sound was worth pursuing and noticed that MILO O&#39;SHEA and ANCHORS AWEIGH stacked nicely together in a grid. From there, I refined the long &quot;A&quot; answers to have the &quot;short-short-short long&quot; cadence of the two above: CHINESE BUFFET, SO NOT OKAY, etc. But I still wasn&#39;t satisfied yet.</p>
+
+<p>That&#39;s when CAFE AU LAIT emerged from the cobwebs to make a grand entrance: AU LAIT double-rhymed with both OKAY and O&#39;SHEA, their associated phrases followed the same rhythm, and they were all spelled differently. What an &quot;aha&quot; moment that was! With OBEY and OJ proving viable as well, I realized that this was the grid I had to make.</p>
+
+<p>As far as fill goes, I obsessively focused on keeping proper nouns to a minimum, unless they were truly zippy and worth knowing (TY COBB, ST. CLAIR). After watching my friends develop from novices into regular solvers, I now know that normally fine answers such as LETO and TULL may be tough early in the week.</p>
+
+<p>Hope you enjoyed! <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://www.crosswordtournament.com/&amp;source=gmail&amp;ust=1515278213241000&amp;usg=AFQjCNEdYLVsWycjNXmOLZ4KvNNegqUBgw" href="http://www.crosswordtournament.com/">Have you signed up for the ACPT yet?</a></p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

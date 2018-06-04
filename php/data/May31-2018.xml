@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Thursday, May 31, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/30/2018 at 7:22 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Thu, May 31, 2018</Title>
+    <Author>Dominick Talvacchio</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/31/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>TAP.MATEY.GHANA</Row>
+      <Row>ALA.AMUSE.AARON</Row>
+      <Row>BETAPIETA.LINEN</Row>
+      <Row>APTS...ESCAROLE</Row>
+      <Row>CHIPSIZETAXI...</Row>
+      <Row>...SECY..BYENOW</Row>
+      <Row>LAM.LANDS..SOHO</Row>
+      <Row>ITSALLGREEKTOME</Row>
+      <Row>NORM..ASIDE.NYS</Row>
+      <Row>EZPASS..KARO...</Row>
+      <Row>...THETAOMICRON</Row>
+      <Row>FIREEXIT...TAZO</Row>
+      <Row>ONCUE.LAMBDATAU</Row>
+      <Row>ECARD.TREAD.OWN</Row>
+      <Row>SASSY.SINGS.NAS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="TAP">Kitchen drawer?</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Across" Ans="MATEY">Rum-drinking buddy</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Across" Ans="GHANA">First sub-Saharan country to obtain independence from colonial rule</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="ALA">Like</Clue>
+      <Clue Row="2" Col="5" Num="15" Dir="Across" Ans="AMUSE">Produce some chuckles, say</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Across" Ans="AARON">M.L.B. career leader in total bases</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="BETAPIETA">Wager one's sculpture of the Virgin Mary cradling the body of Jesus?</Clue>
+      <Clue Row="3" Col="11" Num="19" Dir="Across" Ans="LINEN">Napkins and such</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="APTS">Stacked quarters?: Abbr.</Clue>
+      <Clue Row="4" Col="8" Num="21" Dir="Across" Ans="ESCAROLE">Broad-leaved endive</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Across" Ans="CHIPSIZETAXI">Hired vehicle that's only as big as a potato crisp?</Clue>
+      <Clue Row="6" Col="4" Num="27" Dir="Across" Ans="SECY">Cabinet head: Abbr.</Clue>
+      <Clue Row="6" Col="10" Num="28" Dir="Across" Ans="BYENOW">"So long"</Clue>
+      <Clue Row="7" Col="1" Num="32" Dir="Across" Ans="LAM">Flight</Clue>
+      <Clue Row="7" Col="5" Num="35" Dir="Across" Ans="LANDS">Secures, as a job</Clue>
+      <Clue Row="7" Col="12" Num="38" Dir="Across" Ans="SOHO">"From ___ down to Brighton, I must have played them all" ("Pinball Wizard" lyric)</Clue>
+      <Clue Row="8" Col="1" Num="39" Dir="Across" Ans="ITSALLGREEKTOME">What you might say upon seeing 17-, 23-, 51- and 62-Across?</Clue>
+      <Clue Row="9" Col="1" Num="43" Dir="Across" Ans="NORM">What to expect</Clue>
+      <Clue Row="9" Col="7" Num="44" Dir="Across" Ans="ASIDE">Out of the way</Clue>
+      <Clue Row="9" Col="13" Num="45" Dir="Across" Ans="NYS">Locale of Rome and Syracuse: Abbr.</Clue>
+      <Clue Row="10" Col="1" Num="46" Dir="Across" Ans="EZPASS">It takes a toll</Clue>
+      <Clue Row="10" Col="9" Num="49" Dir="Across" Ans="KARO">Corn syrup brand</Clue>
+      <Clue Row="11" Col="4" Num="51" Dir="Across" Ans="THETAOMICRON">One-millionth of a meter along a spiritual path?</Clue>
+      <Clue Row="12" Col="1" Num="57" Dir="Across" Ans="FIREEXIT">What might help you beat the heat?</Clue>
+      <Clue Row="12" Col="12" Num="60" Dir="Across" Ans="TAZO">Brand once promoted as "The reincarnation of tea"</Clue>
+      <Clue Row="13" Col="1" Num="61" Dir="Across" Ans="ONCUE">As expected</Clue>
+      <Clue Row="13" Col="7" Num="62" Dir="Across" Ans="LAMBDATAU">Inst. of higher learning dedicated to the statistical analysis of young sheep?</Clue>
+      <Clue Row="14" Col="1" Num="66" Dir="Across" Ans="ECARD">Often-animated greeting</Clue>
+      <Clue Row="14" Col="7" Num="67" Dir="Across" Ans="TREAD">Walk</Clue>
+      <Clue Row="14" Col="13" Num="68" Dir="Across" Ans="OWN">Embrace fully</Clue>
+      <Clue Row="15" Col="1" Num="69" Dir="Across" Ans="SASSY">Mouthful?</Clue>
+      <Clue Row="15" Col="7" Num="70" Dir="Across" Ans="SINGS">Is a canary</Clue>
+      <Clue Row="15" Col="13" Num="71" Dir="Across" Ans="NAS">___ in Nancy</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="TABAC">Filler for une pipe</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ALEPH">___-null (the number of natural numbers)</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="PATTI">Actress Lupone</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Down" Ans="MAP">It has dots for spots</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="AMI">Cher, e.g.</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="TUE">Election day: Abbr.</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="ESTEE">Lauder making some blush</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="YEAST">Brewer's agent</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="GALAXY">It contains dwarfs and giants</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="HAIRIEST">Most frighteningly dangerous</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="ARNO">It flows through Florence</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="NOEL">Time of good cheer</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="ANNE">Frank with a diary</Clue>
+      <Clue Row="3" Col="4" Num="18" Dir="Down" Ans="ASPS">Not what Indiana joneses for</Clue>
+      <Clue Row="4" Col="10" Num="22" Dir="Down" Ans="CAB">Certain wine order, informally</Clue>
+      <Clue Row="5" Col="5" Num="24" Dir="Down" Ans="SELL">Convince</Clue>
+      <Clue Row="5" Col="6" Num="25" Dir="Down" Ans="ICAL">Suffix with egotist</Clue>
+      <Clue Row="5" Col="7" Num="26" Dir="Down" Ans="ZYNGA">Words With Friends developer</Clue>
+      <Clue Row="6" Col="13" Num="29" Dir="Down" Ans="NOON">Twelve</Clue>
+      <Clue Row="6" Col="14" Num="30" Dir="Down" Ans="OHMY">"Goodness sakes!"</Clue>
+      <Clue Row="6" Col="15" Num="31" Dir="Down" Ans="WOES">Heavy burdens</Clue>
+      <Clue Row="7" Col="1" Num="32" Dir="Down" Ans="LINE">Conversation piece</Clue>
+      <Clue Row="7" Col="2" Num="33" Dir="Down" Ans="ATOZ">The whole shebang</Clue>
+      <Clue Row="7" Col="3" Num="34" Dir="Down" Ans="MSRP">Fig. on a window (and, with luck, not through the roof)</Clue>
+      <Clue Row="7" Col="8" Num="36" Dir="Down" Ans="DRS">Quinn and Quincy: Abbr.</Clue>
+      <Clue Row="7" Col="9" Num="37" Dir="Down" Ans="SEIKO">Japanese watchmaker</Clue>
+      <Clue Row="8" Col="4" Num="40" Dir="Down" Ans="AMATEURS">Do-it-yourselfers</Clue>
+      <Clue Row="8" Col="10" Num="41" Dir="Down" Ans="EDAM">Answer to the riddle "What cheese is made backward?"</Clue>
+      <Clue Row="8" Col="11" Num="42" Dir="Down" Ans="KERI">Russell of "The Americans"</Clue>
+      <Clue Row="10" Col="5" Num="47" Dir="Down" Ans="SHEEDY">Ally of the Brat Pack</Clue>
+      <Clue Row="10" Col="6" Num="48" Dir="Down" Ans="SEX">Box on a questionnaire</Clue>
+      <Clue Row="10" Col="12" Num="50" Dir="Down" Ans="OCTA">Twice tetra-</Clue>
+      <Clue Row="11" Col="7" Num="52" Dir="Down" Ans="TILTS">Angles</Clue>
+      <Clue Row="11" Col="8" Num="53" Dir="Down" Ans="ATARI">Game company with an online-only museum</Clue>
+      <Clue Row="11" Col="13" Num="54" Dir="Down" Ans="RATON">Double-cross, maybe</Clue>
+      <Clue Row="11" Col="14" Num="55" Dir="Down" Ans="OZAWA">Longtime director of the Boston Symphony Orchestra</Clue>
+      <Clue Row="11" Col="15" Num="56" Dir="Down" Ans="NOUNS">Adjective and adverb, for two</Clue>
+      <Clue Row="12" Col="1" Num="57" Dir="Down" Ans="FOES">Opposite sides</Clue>
+      <Clue Row="12" Col="2" Num="58" Dir="Down" Ans="INCA">Inti worshiper</Clue>
+      <Clue Row="12" Col="3" Num="59" Dir="Down" Ans="RCAS">Some old TVs</Clue>
+      <Clue Row="13" Col="9" Num="63" Dir="Down" Ans="MEN">Game pieces</Clue>
+      <Clue Row="13" Col="10" Num="64" Dir="Down" Ans="BAG">Catch</Clue>
+      <Clue Row="13" Col="11" Num="65" Dir="Down" Ans="DDS">One whose office has an opening to fill?: Abbr.</Clue>
+    </Clues>
+    <JimNotes><![CDATA[Crosswords are such a personal experience. I would expect the vast majority of NYT readers would know Seiji Ozawa "off the top." Neither Jeff nor I know for sure.]]></JimNotes>
+    <JeffNotes><![CDATA[<p>I love it when I see a theme I can&#39;t even imagine dreaming up. Take Greek letters, stick a bunch together, then parse them in odd ways to come up with creatively kooky answers? Fantastic! I had the hardest time figuring out LAMBDA TAU = LAMB DATA U, but what a hilarious image. Made me think of &quot;Hamburger U,&quot; McDonald&#39;s training grounds.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Sheep" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flock_of_sheep.jpg/480px-Flock_of_sheep.jpg" style="border:1px solid lightgray; float:left; height:250px; margin:6px 12px 6px 0px; width:164px" title="Roll call for LAMB DATA U" /></a></p>
+
+<p>And CHI PSI ZETA XI = CHIP SIZE TAXI? That&#39;s an incredibly cool find. A funny one, too!</p>
+
+<p>THETA OMICRON = THE TAU MICRON sounds like a Stephen Hawking book.</p>
+
+<p>I wasn&#39;t as hot on BETA PI ETA = BET A PIETA, as the spacing changes weren&#39;t as unpredictable. Still, the concept of betting a pieta (depiction of Mary and Jesus) is evocative.</p>
+
+<p>The theme was so interesting that I wanted so badly to give it the POW! The fill didn&#39;t quite match in excellence, though. TABAC at 1-Down = sigh. ALEPH at 2-Down confuses the theme a bit. I&#39;d much rather keep all other letters out of the fill for this theme, no matter what language.</p>
+
+<p>ICAL crossing SECY &ndash; neither is a puzzle-killer, but they sure ain&#39;t good. Crossing them draws extra attention to these dabs of crossword glue.</p>
+
+<p>OZAWA / TAZO is worse to me. I don&#39;t think educated solvers should be expected to know OZAWA off the top &mdash; I played in orchestras for 20 years, and I learned him only from crosswords &mdash; and while TAZO was once owned by Starbucks, I wonder if it&#39;s a big enough brand to demand solvers&#39; attention. Crossing them doesn&#39;t feel fair.</p>
+
+<p>Toss in some ARNO, OCTA, TUE, and I just couldn&#39;t do it. So close to a POW! on your debut, Dominick! I think if you&#39;d left out ITS ALL GREEK TO ME, I still would have understood the theme, and you could have smoothed and snazzified your grid. Not a whole lot of room for bonuses, as it is &mdash; HAIRIEST and AMATEURS are fine, but not outstanding.</p>
+
+<p>I&#39;ve seen plenty of crosswords around ITS ALL GREEK TO ME, but this one was different. I like different.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>I am delighted to have this crossword appear in the New York Times. I would like to thank Will and the other editors for helping to bring the puzzle into shape, and especially for having the good sense to nix a theme entry to which I had become so foolishly endeared that I willfully overlooked the absurd difficulty in parsing it: OMEGAALPHA [&quot;Behold, the enormous French mountain? Yeah, right!&quot;?]</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

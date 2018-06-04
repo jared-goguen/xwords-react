@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Sunday, April 8, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/7/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sun, Apr 08, 2018 TRIPLE SPOONERISMS</Title>
+    <Author>Patrick Berry</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/8/2018</Date>
+    <Size>
+      <Rows>21</Rows>
+      <Cols>21</Cols>
+    </Size>
+    <Grid>
+      <Row>ETHER.RIPOUT..BANGUP.</Row>
+      <Row>GRAPE.OCEANIC.ALIASES</Row>
+      <Row>GAPES.BEAKOFLADSTRUCK</Row>
+      <Row>.SPEEDO....FUNGO.BRAY</Row>
+      <Row>THESTUCKHOPSBEER.SYNE</Row>
+      <Row>UPN..DOTIME..WRAP....</Row>
+      <Row>RISES.PETERS...NODOFF</Row>
+      <Row>FLORID.LUG.PSST.LARUE</Row>
+      <Row>SENATES.PALEHAIRYMASS</Row>
+      <Row>....APED..ENABLE.ONES</Row>
+      <Row>.TERROROFBADGLIDINGS.</Row>
+      <Row>COLA.RIBALD..ENDS....</Row>
+      <Row>ROCKSTARCASES.GELCAPS</Row>
+      <Row>ALIEN.LOTS.BIB.REUBEN</Row>
+      <Row>BEDSIT...THEMES.YESNO</Row>
+      <Row>....PITS..ORBACH..TAR</Row>
+      <Row>CONS.THEFANTATRAYSALE</Row>
+      <Row>AREA.MITER....EDENIC.</Row>
+      <Row>HEALFIGHTATROME.CANON</Row>
+      <Row>NOTMUCH.ABANDON.CREDO</Row>
+      <Row>.SHARES..SPADES.HEDER</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="ETHER">Anesthetic of old</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="RIPOUT">Forcefully remove</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Across" Ans="BANGUP">Very good, as a job</Clue>
+      <Clue Row="2" Col="1" Num="18" Dir="Across" Ans="GRAPE">Purple candy's flavor, often</Clue>
+      <Clue Row="2" Col="7" Num="19" Dir="Across" Ans="OCEANIC">Sea-dwelling</Clue>
+      <Clue Row="2" Col="15" Num="21" Dir="Across" Ans="ALIASES">Things a spy may have many of</Clue>
+      <Clue Row="3" Col="1" Num="23" Dir="Across" Ans="GAPES">Stares slack-jawed</Clue>
+      <Clue Row="3" Col="7" Num="24" Dir="Across" Ans="BEAKOFLADSTRUCK">What caused the nosebleed on the playground?</Clue>
+      <Clue Row="4" Col="2" Num="26" Dir="Across" Ans="SPEEDO">Sponsor of U.S. Olympic swimmers</Clue>
+      <Clue Row="4" Col="12" Num="28" Dir="Across" Ans="FUNGO">Ball hit for fielding practice</Clue>
+      <Clue Row="4" Col="18" Num="29" Dir="Across" Ans="BRAY">Burro's call</Clue>
+      <Clue Row="5" Col="1" Num="30" Dir="Across" Ans="THESTUCKHOPSBEER">Tagline in an ad for Elmer's Glue-Ale?</Clue>
+      <Clue Row="5" Col="18" Num="35" Dir="Across" Ans="SYNE">Holiday song closer</Clue>
+      <Clue Row="6" Col="1" Num="36" Dir="Across" Ans="UPN">Bygone channel that aired "Veronica Mars"</Clue>
+      <Clue Row="6" Col="6" Num="37" Dir="Across" Ans="DOTIME">Chill in the cooler</Clue>
+      <Clue Row="6" Col="14" Num="38" Dir="Across" Ans="WRAP">Finish filming</Clue>
+      <Clue Row="7" Col="1" Num="40" Dir="Across" Ans="RISES">Gets up</Clue>
+      <Clue Row="7" Col="7" Num="43" Dir="Across" Ans="PETERS">Bernadette of Broadway</Clue>
+      <Clue Row="7" Col="16" Num="45" Dir="Across" Ans="NODOFF">Succumb to sleepiness</Clue>
+      <Clue Row="8" Col="1" Num="50" Dir="Across" Ans="FLORID">High-flown, as writing</Clue>
+      <Clue Row="8" Col="8" Num="52" Dir="Across" Ans="LUG">Big ox</Clue>
+      <Clue Row="8" Col="12" Num="53" Dir="Across" Ans="PSST">Discreet attention-getter</Clue>
+      <Clue Row="8" Col="17" Num="57" Dir="Across" Ans="LARUE">Lash with a bullwhip</Clue>
+      <Clue Row="9" Col="1" Num="58" Dir="Across" Ans="SENATES">Deliberative bodies</Clue>
+      <Clue Row="9" Col="9" Num="60" Dir="Across" Ans="PALEHAIRYMASS">Description of a yeti?</Clue>
+      <Clue Row="10" Col="5" Num="63" Dir="Across" Ans="APED">Parodied</Clue>
+      <Clue Row="10" Col="11" Num="65" Dir="Across" Ans="ENABLE">Capacitate</Clue>
+      <Clue Row="10" Col="18" Num="66" Dir="Across" Ans="ONES">Tip jar fillers</Clue>
+      <Clue Row="11" Col="2" Num="67" Dir="Across" Ans="TERROROFBADGLIDINGS">Novice parasailer's fear?</Clue>
+      <Clue Row="12" Col="1" Num="73" Dir="Across" Ans="COLA">Ingredient in a Roy Rogers</Clue>
+      <Clue Row="12" Col="6" Num="74" Dir="Across" Ans="RIBALD">Coarse</Clue>
+      <Clue Row="12" Col="14" Num="75" Dir="Across" Ans="ENDS">What a Möbius strip lacks</Clue>
+      <Clue Row="13" Col="1" Num="76" Dir="Across" Ans="ROCKSTARCASES">Containers for electric guitars?</Clue>
+      <Clue Row="13" Col="15" Num="80" Dir="Across" Ans="GELCAPS">They're easy to take</Clue>
+      <Clue Row="14" Col="1" Num="85" Dir="Across" Ans="ALIEN">Unfamiliar</Clue>
+      <Clue Row="14" Col="7" Num="86" Dir="Across" Ans="LOTS">Quite a few</Clue>
+      <Clue Row="14" Col="12" Num="87" Dir="Across" Ans="BIB">It hangs around the neck</Clue>
+      <Clue Row="14" Col="16" Num="89" Dir="Across" Ans="REUBEN">Sandwich with Russian dressing</Clue>
+      <Clue Row="15" Col="1" Num="90" Dir="Across" Ans="BEDSIT">One-room apartment, to Brits</Clue>
+      <Clue Row="15" Col="10" Num="92" Dir="Across" Ans="THEMES">Motifs</Clue>
+      <Clue Row="15" Col="17" Num="95" Dir="Across" Ans="YESNO">Like the questions in 20 Questions</Clue>
+      <Clue Row="16" Col="5" Num="96" Dir="Across" Ans="PITS">Very worst</Clue>
+      <Clue Row="16" Col="11" Num="99" Dir="Across" Ans="ORBACH">"Law &amp; Order" actor Jerry</Clue>
+      <Clue Row="16" Col="19" Num="101" Dir="Across" Ans="TAR">Sealer for sailors?</Clue>
+      <Clue Row="17" Col="1" Num="102" Dir="Across" Ans="CONS">Drawbacks</Clue>
+      <Clue Row="17" Col="6" Num="106" Dir="Across" Ans="THEFANTATRAYSALE">Best place to buy a platter of fruit-flavored sodas?</Clue>
+      <Clue Row="18" Col="1" Num="111" Dir="Across" Ans="AREA">Square footage</Clue>
+      <Clue Row="18" Col="6" Num="112" Dir="Across" Ans="MITER">Bishop's headgear</Clue>
+      <Clue Row="18" Col="15" Num="113" Dir="Across" Ans="EDENIC">Paradisiacal</Clue>
+      <Clue Row="19" Col="1" Num="114" Dir="Across" Ans="HEALFIGHTATROME">Mend fences after Caesar's civil war?</Clue>
+      <Clue Row="19" Col="17" Num="120" Dir="Across" Ans="CANON">Maker of PowerShot cameras</Clue>
+      <Clue Row="20" Col="1" Num="122" Dir="Across" Ans="NOTMUCH">Apathetic response to "What's new?"</Clue>
+      <Clue Row="20" Col="9" Num="123" Dir="Across" Ans="ABANDON">Leave behind</Clue>
+      <Clue Row="20" Col="17" Num="124" Dir="Across" Ans="CREDO">Something to live by</Clue>
+      <Clue Row="21" Col="2" Num="125" Dir="Across" Ans="SHARES">Market offerings</Clue>
+      <Clue Row="21" Col="10" Num="126" Dir="Across" Ans="SPADES">Trick-taking game</Clue>
+      <Clue Row="21" Col="17" Num="127" Dir="Across" Ans="HEDER">"Napoleon Dynamite" star Jon</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="EGG">Easter ___</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="TRASHPILE">It's a bunch of garbage</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="HAPPENSON">Discovers by chance</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="EPEES">Pentathlon items</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="RESET">Complete policy overhaul, in D.C.-speak</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="ROBOCOP">1987 action film originally given an X rating for violence</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="ICE">Winter driving hazard</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="PEA">Shell game object</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="OAK">Cooper's wood</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="UNO">Game with 108 cards</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="TIFFS">Small scraps</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="BADGER">Hedgehog predator</Clue>
+      <Clue Row="1" Col="16" Num="13" Dir="Down" Ans="ALSORAN">Second, or worse</Clue>
+      <Clue Row="1" Col="17" Num="14" Dir="Down" Ans="NIT">Quibble</Clue>
+      <Clue Row="1" Col="18" Num="15" Dir="Down" Ans="GARBS">Dresses</Clue>
+      <Clue Row="1" Col="19" Num="16" Dir="Down" Ans="USURY">There's enormous interest in it</Clue>
+      <Clue Row="1" Col="20" Num="17" Dir="Down" Ans="PECAN">Nut in pralines</Clue>
+      <Clue Row="2" Col="13" Num="20" Dir="Down" Ans="CLUB">Caddie's selection</Clue>
+      <Clue Row="2" Col="21" Num="22" Dir="Down" Ans="SKYE">___ terrier</Clue>
+      <Clue Row="3" Col="14" Num="25" Dir="Down" Ans="ANEW">From scratch</Clue>
+      <Clue Row="4" Col="6" Num="27" Dir="Down" Ans="DUD">Fizzler</Clue>
+      <Clue Row="5" Col="1" Num="30" Dir="Down" Ans="TURFS">Lays down the lawn?</Clue>
+      <Clue Row="5" Col="8" Num="31" Dir="Down" Ans="KTEL">Classic seller of compilation albums</Clue>
+      <Clue Row="5" Col="9" Num="32" Dir="Down" Ans="HITUP">Seek moolah from</Clue>
+      <Clue Row="5" Col="10" Num="33" Dir="Down" Ans="OMEGA">Alphabet ender</Clue>
+      <Clue Row="5" Col="11" Num="34" Dir="Down" Ans="PER">According to</Clue>
+      <Clue Row="6" Col="17" Num="39" Dir="Down" Ans="POLY">Cal ___</Clue>
+      <Clue Row="7" Col="4" Num="41" Dir="Down" Ans="ERA">Setting for a period piece</Clue>
+      <Clue Row="7" Col="5" Num="42" Dir="Down" Ans="SITAR">Instrument whose name means "three strings"</Clue>
+      <Clue Row="7" Col="12" Num="44" Dir="Down" Ans="SPEND">What shopaholics do</Clue>
+      <Clue Row="7" Col="18" Num="46" Dir="Down" Ans="DAMON">"The Martian" star</Clue>
+      <Clue Row="7" Col="19" Num="47" Dir="Down" Ans="ORANG">Long-armed climber, for short</Clue>
+      <Clue Row="7" Col="20" Num="48" Dir="Down" Ans="FUSES">Joins</Clue>
+      <Clue Row="7" Col="21" Num="49" Dir="Down" Ans="FESS">Own (up)</Clue>
+      <Clue Row="8" Col="6" Num="51" Dir="Down" Ans="DEPORT">Kick out</Clue>
+      <Clue Row="8" Col="13" Num="54" Dir="Down" Ans="SHAG">Dance akin to the jitterbug</Clue>
+      <Clue Row="8" Col="14" Num="55" Dir="Down" Ans="SABLE">Prized Siberian animal</Clue>
+      <Clue Row="8" Col="15" Num="56" Dir="Down" Ans="TILING">Bathroom floor, often</Clue>
+      <Clue Row="9" Col="7" Num="59" Dir="Down" Ans="SERIAL">Podcast that won a 2014 Peabody Award</Clue>
+      <Clue Row="9" Col="11" Num="61" Dir="Down" Ans="LEADS">Detectives run them down</Clue>
+      <Clue Row="9" Col="16" Num="62" Dir="Down" Ans="REDDER">More rare, perhaps</Clue>
+      <Clue Row="10" Col="8" Num="64" Dir="Down" Ans="DOBRO">Resonator guitar</Clue>
+      <Clue Row="11" Col="2" Num="67" Dir="Down" Ans="TOOLE">John Kennedy ___, author of "A Confederacy of Dunces"</Clue>
+      <Clue Row="11" Col="3" Num="68" Dir="Down" Ans="ELCID">Charlton Heston title role</Clue>
+      <Clue Row="11" Col="4" Num="69" Dir="Down" Ans="RAKES">Aids in golf course maintenance</Clue>
+      <Clue Row="11" Col="9" Num="70" Dir="Down" Ans="FACT">Irrefutable point</Clue>
+      <Clue Row="11" Col="10" Num="71" Dir="Down" Ans="BLAST">Play at maximum volume</Clue>
+      <Clue Row="11" Col="17" Num="72" Dir="Down" Ans="ISLEY">R&amp;B's ___ Brothers</Clue>
+      <Clue Row="12" Col="1" Num="73" Dir="Down" Ans="CRAB">Sideways scuttler</Clue>
+      <Clue Row="13" Col="5" Num="77" Dir="Down" Ans="SNIP">Cutlet?</Clue>
+      <Clue Row="13" Col="12" Num="78" Dir="Down" Ans="EBERT">"Life Itself" memoirist Roger</Clue>
+      <Clue Row="13" Col="13" Num="79" Dir="Down" Ans="SIMBA">Swahili for "lion"</Clue>
+      <Clue Row="13" Col="18" Num="81" Dir="Down" Ans="CUE">Actor's last line, maybe</Clue>
+      <Clue Row="13" Col="19" Num="82" Dir="Down" Ans="ABSTAINED">Stayed sober</Clue>
+      <Clue Row="13" Col="20" Num="83" Dir="Down" Ans="PENALCODE">Rules for forming sentences</Clue>
+      <Clue Row="13" Col="21" Num="84" Dir="Down" Ans="SNORE">Mock sound of disinterest</Clue>
+      <Clue Row="14" Col="14" Num="88" Dir="Down" Ans="BEAT">Exhausted</Clue>
+      <Clue Row="15" Col="6" Num="91" Dir="Down" Ans="TITMICE">Tufted songbirds</Clue>
+      <Clue Row="15" Col="11" Num="93" Dir="Down" Ans="HON">Sweetie</Clue>
+      <Clue Row="15" Col="15" Num="94" Dir="Down" Ans="SCREENS">Multiplex count</Clue>
+      <Clue Row="16" Col="7" Num="97" Dir="Down" Ans="THIGHS">Dark meat options</Clue>
+      <Clue Row="16" Col="8" Num="98" Dir="Down" Ans="SETH">Jimmy's "Late Night" successor</Clue>
+      <Clue Row="16" Col="16" Num="100" Dir="Down" Ans="HAD">Deceived</Clue>
+      <Clue Row="17" Col="1" Num="102" Dir="Down" Ans="CAHN">"High Hopes" lyricist Sammy</Clue>
+      <Clue Row="17" Col="2" Num="103" Dir="Down" Ans="OREOS">Snacks in stacks</Clue>
+      <Clue Row="17" Col="3" Num="104" Dir="Down" Ans="NEATH">Opposite of o'er</Clue>
+      <Clue Row="17" Col="4" Num="105" Dir="Down" Ans="SALMA">"Frida" star Hayek</Clue>
+      <Clue Row="17" Col="9" Num="107" Dir="Down" Ans="FETA">Spanakopita ingredient</Clue>
+      <Clue Row="17" Col="10" Num="108" Dir="Down" Ans="ARABS">Ones who grasp elbows in greeting, by tradition</Clue>
+      <Clue Row="17" Col="17" Num="109" Dir="Down" Ans="YECCH">"How revolting!"</Clue>
+      <Clue Row="17" Col="18" Num="110" Dir="Down" Ans="SNARE">Drum kit component</Clue>
+      <Clue Row="19" Col="5" Num="115" Dir="Down" Ans="FUR">Lab coat?</Clue>
+      <Clue Row="19" Col="11" Num="116" Dir="Down" Ans="TAP">FISA warrant objective</Clue>
+      <Clue Row="19" Col="12" Num="117" Dir="Down" Ans="RNA">Genetic macromolecule</Clue>
+      <Clue Row="19" Col="13" Num="118" Dir="Down" Ans="ODD">Unmatched</Clue>
+      <Clue Row="19" Col="14" Num="119" Dir="Down" Ans="MOE">One of the Three Stooges</Clue>
+      <Clue Row="19" Col="21" Num="121" Dir="Down" Ans="NOR">Winner of the most medals at the 2018 Winter Olympics: Abbr.</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>I&#39;ve never seen spoonerisms done with three-word phrases. They were tricky for me to untangle, so here&#39;s the list of base phrases:</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Fanta" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/FantaKlassik.JPG/340px-FantaKlassik.JPG" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:187px" title="An actual FANTA TRAY SALE!" /></a></p>
+
+<p>BEAK OF LAD STRUCK: streak of bad luck.</p>
+
+<p>THE STUCK HOPS HERE: the buck stops here.</p>
+
+<p>PALE HAIRY MASS: male perry hass. Er &hellip; hail mary pass.</p>
+
+<p>TERROR OF BAD GLIDINGS: bearer of &hellip; glad tidings?</p>
+
+<p>ROCK STAR CASES: my stupid brain keeps starting this one with &quot;cock.&quot; Thankfully, it&#39;s actually stock car races.</p>
+
+<p>THE FANTA TRAY SALE: the Santa Fe Trail.</p>
+
+<p>HEAL FIGHT AT ROME: this took me forever, embarrassing since there are only five possible permutations remaining. Feel right at home.</p>
+
+<p>The best spoonerisms are the ones where 1.) it&#39;s a snap to figure out what the person actually intended, and 2.) the spoonerized phrase is titillating, embarrassing the speaker.</p>
+
+<p>Luckily, a few of these did snap right into place for me. Not so luckily, very few of the resulting phrases amused me. No surprise &ndash; it&#39;s so tough to find phrases that work this way, that it&#39;s a small miracle that Patrick was able to find these seven.</p>
+
+<p>Even with a theme that wasn&#39;t on my wavelength, I always appreciate a Berry grid, silky smooth as usual. I can count on one hand the number of constructors who can create a Sunday 140-word grid with just some minor KTEL NEATH kind of stuff &ndash; way, way, way under the norm.</p>
+
+<p>Highlight for me: the Shortz-era debut of PENAL CODE, with a brilliant clue, misdirecting to English class: [Rules for forming sentences]. Puzzle was worth doing for that alone.</p>]]></JeffNotes>
+  </Puzzle>
+</Puzzles>

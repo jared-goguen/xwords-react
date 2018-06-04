@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Tuesday, March 13, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/13/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Tue, Mar 13, 2018</Title>
+    <Author>Carl Worth</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/13/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>AJAR.ALOFT.ORSO</Row>
+      <Row>POKE.VENUE.REEL</Row>
+      <Row>SHIFTGEARS.CAPS</Row>
+      <Row>ENNUI..ILLS.LIE</Row>
+      <Row>...ENTERSANDMAN</Row>
+      <Row>AZALEAS..SON...</Row>
+      <Row>DONS.SPAM.RASTA</Row>
+      <Row>ALT.KEYWEST.TAB</Row>
+      <Row>MAINE.SETI.JURE</Row>
+      <Row>...AIM..ETHANOL</Row>
+      <Row>CONTROLFREAK...</Row>
+      <Row>ORE.ARIA..ZAPPA</Row>
+      <Row>LOCK.ESCAPEROOM</Row>
+      <Row>INCA.STEVE.TREE</Row>
+      <Row>COOT.OSTER.ATTN</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="AJAR">Slightly open</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="ALOFT">Overhead</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="ORSO">Approximately</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="POKE">What you might do to a turtle that's withdrawn into its shell</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="VENUE">Theater, for a Broadway show</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="REEL">Rod's mate</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="SHIFTGEARS">Change one's approach</Clue>
+      <Clue Row="3" Col="12" Num="19" Dir="Across" Ans="CAPS">Things that bottles and snow-covered mountains have</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="ENNUI">Boredom</Clue>
+      <Clue Row="4" Col="8" Num="21" Dir="Across" Ans="ILLS">Societal problems</Clue>
+      <Clue Row="4" Col="13" Num="23" Dir="Across" Ans="LIE">Some do it through their teeth</Clue>
+      <Clue Row="5" Col="4" Num="24" Dir="Across" Ans="ENTERSANDMAN">Metallica hit with the lyric "Sleep with one eye open"</Clue>
+      <Clue Row="6" Col="1" Num="28" Dir="Across" Ans="AZALEAS">Relatives of rhododendrons</Clue>
+      <Clue Row="6" Col="10" Num="31" Dir="Across" Ans="SON">Young friend, to a good ol' boy</Clue>
+      <Clue Row="7" Col="1" Num="32" Dir="Across" Ans="DONS">Spanish gentlemen</Clue>
+      <Clue Row="7" Col="6" Num="33" Dir="Across" Ans="SPAM">Unwanted inbox filler</Clue>
+      <Clue Row="7" Col="11" Num="36" Dir="Across" Ans="RASTA">Devotee of Haile Selassie, informally</Clue>
+      <Clue Row="8" Col="1" Num="40" Dir="Across" Ans="ALT">Lead-in to rock or right</Clue>
+      <Clue Row="8" Col="5" Num="41" Dir="Across" Ans="KEYWEST">Florida island ... or a hint to 17-, 24-, 52- and 65-Across</Clue>
+      <Clue Row="8" Col="13" Num="43" Dir="Across" Ans="TAB">Soda brand, or its opener</Clue>
+      <Clue Row="9" Col="1" Num="44" Dir="Across" Ans="MAINE">See 53-Down</Clue>
+      <Clue Row="9" Col="7" Num="46" Dir="Across" Ans="SETI">Org. seeking life in space</Clue>
+      <Clue Row="9" Col="12" Num="47" Dir="Across" Ans="JURE">De ___ (legally)</Clue>
+      <Clue Row="10" Col="4" Num="48" Dir="Across" Ans="AIM">Look through the cross hairs</Clue>
+      <Clue Row="10" Col="9" Num="50" Dir="Across" Ans="ETHANOL">Gasoline additive</Clue>
+      <Clue Row="11" Col="1" Num="52" Dir="Across" Ans="CONTROLFREAK">Micromanager</Clue>
+      <Clue Row="12" Col="1" Num="57" Dir="Across" Ans="ORE">Mine cartload</Clue>
+      <Clue Row="12" Col="5" Num="58" Dir="Across" Ans="ARIA">Soprano's solo</Clue>
+      <Clue Row="12" Col="11" Num="59" Dir="Across" Ans="ZAPPA">Frank who performed "Watermelon in Easter Hay"</Clue>
+      <Clue Row="13" Col="1" Num="63" Dir="Across" Ans="LOCK">Product of Yale or Medeco</Clue>
+      <Clue Row="13" Col="6" Num="65" Dir="Across" Ans="ESCAPEROOM">Series of puzzles for group solving</Clue>
+      <Clue Row="14" Col="1" Num="68" Dir="Across" Ans="INCA">Ancient Andean</Clue>
+      <Clue Row="14" Col="6" Num="69" Dir="Across" Ans="STEVE">First name of two of the three Apple co-founders</Clue>
+      <Clue Row="14" Col="12" Num="70" Dir="Across" Ans="TREE">Olive or peach</Clue>
+      <Clue Row="15" Col="1" Num="71" Dir="Across" Ans="COOT">Codger</Clue>
+      <Clue Row="15" Col="6" Num="72" Dir="Across" Ans="OSTER">Big name in kitchen appliances</Clue>
+      <Clue Row="15" Col="12" Num="73" Dir="Across" Ans="ATTN">Abbr. before a memo recipient's name</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="APSE">Church recess</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="JOHN">Loo</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="AKIN">Similar (to)</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="REFUELS">Makes a pit stop, say</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="AVG">Part of G.P.A.: Abbr.</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="LEE">Harper who wrote "Go Set a Watchman"</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="ONAIR">TV studio sign</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="FURLS">Rolls up, as a flag</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="TESLAS">Model S, Model X and Model 3</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="ORC">Tolkien monster</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="REALM">Ruler's domain</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="SEPIA">Digital photo filter</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="OLSEN">Jimmy of the Daily Planet</Clue>
+      <Clue Row="3" Col="5" Num="18" Dir="Down" Ans="TINE">One of four on a fork, often</Clue>
+      <Clue Row="4" Col="11" Num="22" Dir="Down" Ans="SNORT">Derisive sound</Clue>
+      <Clue Row="5" Col="6" Num="25" Dir="Down" Ans="TASE">Zap, in a way</Clue>
+      <Clue Row="5" Col="7" Num="26" Dir="Down" Ans="ESPYS">Awards show for top athletes</Clue>
+      <Clue Row="5" Col="12" Num="27" Dir="Down" Ans="DNA">Double-helix molecule</Clue>
+      <Clue Row="6" Col="1" Num="28" Dir="Down" Ans="ADAM">First among men</Clue>
+      <Clue Row="6" Col="2" Num="29" Dir="Down" Ans="ZOLA">Émile who wrote "J'accuse"</Clue>
+      <Clue Row="6" Col="3" Num="30" Dir="Down" Ans="ANTI">Opposed to</Clue>
+      <Clue Row="7" Col="8" Num="34" Dir="Down" Ans="AWE">Feeling upon meeting an idol</Clue>
+      <Clue Row="7" Col="9" Num="35" Dir="Down" Ans="METER">Poetic rhythm</Clue>
+      <Clue Row="7" Col="13" Num="37" Dir="Down" Ans="STUN">Zap, in a way</Clue>
+      <Clue Row="7" Col="14" Num="38" Dir="Down" Ans="TARO">___ chips (trendy snack food)</Clue>
+      <Clue Row="7" Col="15" Num="39" Dir="Down" Ans="ABEL">Victim of the first fratricide</Clue>
+      <Clue Row="8" Col="5" Num="41" Dir="Down" Ans="KEIRA">Actress Knightley</Clue>
+      <Clue Row="8" Col="10" Num="42" Dir="Down" Ans="SITE">Something pinned on a map</Clue>
+      <Clue Row="9" Col="4" Num="45" Dir="Down" Ans="NAT">Singer ___ King Cole</Clue>
+      <Clue Row="9" Col="12" Num="47" Dir="Down" Ans="JAKARTA">Capital of the world's largest island country</Clue>
+      <Clue Row="10" Col="6" Num="49" Dir="Down" Ans="MORESO">Beyond that</Clue>
+      <Clue Row="10" Col="11" Num="51" Dir="Down" Ans="HAZE">Mental blur</Clue>
+      <Clue Row="11" Col="1" Num="52" Dir="Down" Ans="COLIC">Source of a baby's (and parent's) discomfort</Clue>
+      <Clue Row="11" Col="2" Num="53" Dir="Down" Ans="ORONO">With 44-Across, home of a major Northeast university</Clue>
+      <Clue Row="11" Col="3" Num="54" Dir="Down" Ans="NECCO">Wafer brand</Clue>
+      <Clue Row="11" Col="7" Num="55" Dir="Down" Ans="LISTS">Grocery shopping aids</Clue>
+      <Clue Row="11" Col="8" Num="56" Dir="Down" Ans="FACET">Side of a gem</Clue>
+      <Clue Row="12" Col="13" Num="60" Dir="Down" Ans="PORT">Cruise ship stop</Clue>
+      <Clue Row="12" Col="14" Num="61" Dir="Down" Ans="POET">Keats or Yeats</Clue>
+      <Clue Row="12" Col="15" Num="62" Dir="Down" Ans="AMEN">"You said it!"</Clue>
+      <Clue Row="13" Col="4" Num="64" Dir="Down" Ans="KAT">Kit ___ bar</Clue>
+      <Clue Row="13" Col="9" Num="66" Dir="Down" Ans="AVE">"___ Maria"</Clue>
+      <Clue Row="13" Col="10" Num="67" Dir="Down" Ans="PER">Each</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Debut! And what a neat concept in KEY WEST = KEYboard keys to the west (left side) of theme answers &hellip; and they&#39;re all KEYs that reside on the WEST side of the KEYboard! SHIFT, CONTROL, ESCAPE &ndash;</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Enter_Sandman" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/c/c8/Metallica_-_Enter_Sandman_cover.jpg" style="border:1px solid lightgray; float:right; height:219px; margin:6px 0px 6px 12px; width:220px" title="ENTER SANDMAN looks oddly like a Spinal Tap cover" /></a></p>
+
+<p>(sound of record scratching)</p>
+
+<p>ENTER?</p>
+
+<p>Darn it! It was going to be such an elegant theme. Why not use ALT COUNTRY or (shudder) ALT RIGHT?</p>
+
+<p>Oh. ALT and TAB are already in the grid?</p>
+
+<p>Huh.</p>
+
+<p>I can see the allure of &quot;bonus answers,&quot; drawing in constructors with their siren song. I didn&#39;t personally notice them as a solver though. And I wonder if they detracted from the theme.</p>
+
+<p>Or detracted from the fill. Hard to say for sure without testing, but fixing ALT and TAB into place seems like it&#39;d create problems &mdash; problems like the TARO / JURE crossing. Both words could be rough on newer solvers, and crossing them accentuates the issue.</p>
+
+<p>I was impressed with the smooth gridwork, especially from a debut constructor. Granted, it is an 80-word puzzle, two over the usual limit. That&#39;s a reason why there wasn&#39;t much strong bonus fill besides JAKARTA and AZALEAS. But if Carl had just used his REFUELS and ETHANOL slots a little better, I wouldn&#39;t have even noticed the dearth of bonuses, and thus wouldn&#39;t have gone searching for a reason why.</p>
+
+<p>If I were Will, I&#39;d allow all newer constructors the freedom to go above 78 words &ndash; just as long as they work in enough snazzy bonuses.</p>
+
+<p>I wanted so badly to give this the POW!, as the theme seemed so clever on multiple levels. Bah, ENTER, a pox on you!</p>
+
+<p>Okay, ENTER SANDMAN is a pretty awesome song &hellip;</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>I&#39;ve been constructing logic puzzles for a while (see <a href="https://gmpuzzles.com/">gmpuzzles.com</a> and recent <a href="http://wpc.puzzles.com/">US Puzzle Championships</a> for examples), but crosswords are entirely new to me. Thanks for your patience while I&#39;m learning, and I hope you enjoyed this puzzle as much as I did.</p>
+
+<p>I started with ESCAPE ROOM---a fun entry that was still unpublished at the time, (but has appeared twice since my puzzle was accepted in August). As a computer programmer, it was natural for me to take the theme the direction I did. Once I struck on the KEY WEST revealer, I was sure this could work.</p>
+
+<p>Little did I know how much effort there is between settling on theme entries and completing a puzzle. I could never have succeeded without the help of an expert mentor. Huge thanks to Craig Kasper for his patience with countless revisions. Craig also deserves credit for suggesting ENTER SANDMAN and teaching me a lot about grid design and evaluating fill.</p>
+
+<p>My first revision of the puzzle was rejected for poor fill, but Will and Joel kindly encouraged me to try again. My second submission still had some unacceptable entries, but primarily concentrated in a single corner. Will had a colleague take a crack at fixing that corner and sent me the result. It was an improvement in every way, so thanks, unnamed colleague!</p>
+
+<p>It&#39;s interesting to see the changes the editors made to my clues, (39 of 80 clues were changed). Many of the changes were minor, but every change improved one or more of clarity, specificity, smoothness, appropriate difficulty, or liveliness. Any clunkiness that remains is entirely mine.</p>
+
+<p>One thing I will say about the clues is that if you find a turtle snapping at your finger, don&#39;t blame me!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

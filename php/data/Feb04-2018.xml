@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Sunday, February 4, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 2/3/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sun, Feb 04, 2018 CRACKING WISE</Title>
+    <Author>David Levinson Wilk</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>2/4/2018</Date>
+    <Size>
+      <Rows>21</Rows>
+      <Cols>21</Cols>
+    </Size>
+    <Grid>
+      <Row>THEPRU.BASSTUBA.DRACO</Row>
+      <Row>AARONS.AUTUMNAL.RICAN</Row>
+      <Row>THATSHYSTERICAL.AVANT</Row>
+      <Row>SASS.ENTIRE...EAGERTO</Row>
+      <Row>....TREES..FUNNYORDIE</Row>
+      <Row>UTERUS..MADAME.ANS...</Row>
+      <Row>POLONIUS.ROBARDS..ALP</Row>
+      <Row>DRYSENSEOFHUMOR.APRIL</Row>
+      <Row>OISE..BEG...ISE.BEENE</Row>
+      <Row>...PIA.TOOTS..ADORNED</Row>
+      <Row>.EVERYBODYSACOMEDIAN.</Row>
+      <Row>LACTOSE..DACHA.MEN...</Row>
+      <Row>ETHAN.SAD...UTA..ACTE</Row>
+      <Row>TAILS.THELAUGHFACTORY</Row>
+      <Row>STP..USERIDS.SCREAMAT</Row>
+      <Row>...VAR.REROOF..GOLAME</Row>
+      <Row>YOMAMAJOKE..ADIOS....</Row>
+      <Row>CHOCULA...FILERS.OBOE</Row>
+      <Row>TARAS.IWASONLYKIDDING</Row>
+      <Row>ORATE.LABNOTES.ENIGMA</Row>
+      <Row>RENES.STALLONE.SANDED</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="THEPRU">52-story Boston skyscraper, familiarly</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Across" Ans="BASSTUBA">Brass instrument with a mellow sound</Clue>
+      <Clue Row="1" Col="17" Num="15" Dir="Across" Ans="DRACO">___ Malfoy, student at Hogwarts</Clue>
+      <Clue Row="2" Col="1" Num="20" Dir="Across" Ans="AARONS">Sorkin and Spelling</Clue>
+      <Clue Row="2" Col="8" Num="21" Dir="Across" Ans="AUTUMNAL">Kind of equinox</Clue>
+      <Clue Row="2" Col="17" Num="22" Dir="Across" Ans="RICAN">Puerto ___</Clue>
+      <Clue Row="3" Col="1" Num="23" Dir="Across" Ans="THATSHYSTERICAL">"Stop! You're killing me!"</Clue>
+      <Clue Row="3" Col="17" Num="25" Dir="Across" Ans="AVANT">___-garde</Clue>
+      <Clue Row="4" Col="1" Num="26" Dir="Across" Ans="SASS">Give some lip</Clue>
+      <Clue Row="4" Col="6" Num="27" Dir="Across" Ans="ENTIRE">Uncut</Clue>
+      <Clue Row="4" Col="15" Num="28" Dir="Across" Ans="EAGERTO">More than willing</Clue>
+      <Clue Row="5" Col="5" Num="30" Dir="Across" Ans="TREES">For whom the Lorax speaks</Clue>
+      <Clue Row="5" Col="12" Num="31" Dir="Across" Ans="FUNNYORDIE">Internet home to "Between Two Ferns"</Clue>
+      <Clue Row="6" Col="1" Num="34" Dir="Across" Ans="UTERUS">Latin for "womb"</Clue>
+      <Clue Row="6" Col="9" Num="38" Dir="Across" Ans="MADAME">Monsieur's mate</Clue>
+      <Clue Row="6" Col="16" Num="41" Dir="Across" Ans="ANS">Y or N, maybe</Clue>
+      <Clue Row="7" Col="1" Num="42" Dir="Across" Ans="POLONIUS">Shakespeare character who says "This above all: to thine own self be true"</Clue>
+      <Clue Row="7" Col="10" Num="45" Dir="Across" Ans="ROBARDS">Actor Jason</Clue>
+      <Clue Row="7" Col="19" Num="47" Dir="Across" Ans="ALP">Zugspitze, e.g.</Clue>
+      <Clue Row="8" Col="1" Num="50" Dir="Across" Ans="DRYSENSEOFHUMOR">A person skilled at deadpan has one</Clue>
+      <Clue Row="8" Col="17" Num="52" Dir="Across" Ans="APRIL">What "4" may stand for</Clue>
+      <Clue Row="9" Col="1" Num="54" Dir="Across" Ans="OISE">French river or department</Clue>
+      <Clue Row="9" Col="7" Num="55" Dir="Across" Ans="BEG">Beseech</Clue>
+      <Clue Row="9" Col="13" Num="56" Dir="Across" Ans="ISE">Advert's ending?</Clue>
+      <Clue Row="9" Col="17" Num="57" Dir="Across" Ans="BEENE">Designer Geoffrey</Clue>
+      <Clue Row="10" Col="4" Num="58" Dir="Across" Ans="PIA">Carrier to Karachi</Clue>
+      <Clue Row="10" Col="8" Num="61" Dir="Across" Ans="TOOTS">Tugboat sounds</Clue>
+      <Clue Row="10" Col="15" Num="65" Dir="Across" Ans="ADORNED">Decked out</Clue>
+      <Clue Row="11" Col="2" Num="67" Dir="Across" Ans="EVERYBODYSACOMEDIAN">Unimpressed response to someone's one-liner</Clue>
+      <Clue Row="12" Col="1" Num="72" Dir="Across" Ans="LACTOSE">___ intolerance</Clue>
+      <Clue Row="12" Col="10" Num="73" Dir="Across" Ans="DACHA">Novo-Ogaryovo is the official one of the Russian president</Clue>
+      <Clue Row="12" Col="16" Num="74" Dir="Across" Ans="MEN">Lavatory sign</Clue>
+      <Clue Row="13" Col="1" Num="75" Dir="Across" Ans="ETHAN">Hawke of "Training Day"</Clue>
+      <Clue Row="13" Col="7" Num="76" Dir="Across" Ans="SAD">Regrettable</Clue>
+      <Clue Row="13" Col="13" Num="79" Dir="Across" Ans="UTA">Broadway's Hagen</Clue>
+      <Clue Row="13" Col="18" Num="81" Dir="Across" Ans="ACTE">"Roméo et Juliette" segment</Clue>
+      <Clue Row="14" Col="1" Num="85" Dir="Across" Ans="TAILS">Coin toss call</Clue>
+      <Clue Row="14" Col="7" Num="86" Dir="Across" Ans="THELAUGHFACTORY">Stand-up chain started in Los Angeles</Clue>
+      <Clue Row="15" Col="1" Num="92" Dir="Across" Ans="STP">Big engine additive</Clue>
+      <Clue Row="15" Col="6" Num="93" Dir="Across" Ans="USERIDS">Log-in needs</Clue>
+      <Clue Row="15" Col="14" Num="94" Dir="Across" Ans="SCREAMAT">Verbally assail</Clue>
+      <Clue Row="16" Col="4" Num="95" Dir="Across" Ans="VAR">"Iglu," for "igloo": Abbr.</Clue>
+      <Clue Row="16" Col="8" Num="97" Dir="Across" Ans="REROOF">Cover over, in a way</Clue>
+      <Clue Row="16" Col="16" Num="99" Dir="Across" Ans="GOLAME">Start limping</Clue>
+      <Clue Row="17" Col="1" Num="100" Dir="Across" Ans="YOMAMAJOKE">It might involve someone being "so poor" or "so old"</Clue>
+      <Clue Row="17" Col="13" Num="104" Dir="Across" Ans="ADIOS">"___, amigo"</Clue>
+      <Clue Row="18" Col="1" Num="107" Dir="Across" Ans="CHOCULA">Count ___</Clue>
+      <Clue Row="18" Col="11" Num="108" Dir="Across" Ans="FILERS">Nail salon employees, at times</Clue>
+      <Clue Row="18" Col="18" Num="110" Dir="Across" Ans="OBOE">Its "reeds are a pain / And the fingering's insane," per Ogden Nash</Clue>
+      <Clue Row="19" Col="1" Num="114" Dir="Across" Ans="TARAS">Lipinski and Reid</Clue>
+      <Clue Row="19" Col="7" Num="115" Dir="Across" Ans="IWASONLYKIDDING">"Jeez ... lighten up!"</Clue>
+      <Clue Row="20" Col="1" Num="120" Dir="Across" Ans="ORATE">Be grandiloquent</Clue>
+      <Clue Row="20" Col="7" Num="121" Dir="Across" Ans="LABNOTES">To this day, Marie Curie's are still radioactive</Clue>
+      <Clue Row="20" Col="16" Num="122" Dir="Across" Ans="ENIGMA">Mystery</Clue>
+      <Clue Row="21" Col="1" Num="123" Dir="Across" Ans="RENES">Lacoste and Descartes</Clue>
+      <Clue Row="21" Col="7" Num="124" Dir="Across" Ans="STALLONE">Star of 1976's Oscar winner for Best Picture</Clue>
+      <Clue Row="21" Col="16" Num="125" Dir="Across" Ans="SANDED">Smoothed in a shop</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="TATS">Some body art, for short</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="HAHA">"Hilarious!"</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="ERAS">Noteworthy times</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="POTS">Lobster traps</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="RNS">Med. professionals who take a pledge named for Florence Nightingale</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="USHERSIN">Welcomes</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="BASTE">Plaster</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="AUTISM">Condition for filmdom's Rain Man</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="STER">Suffix with speed</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="SURE">"Oh, what the hell ... I'll do it"</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="TMI">"Uh, you've told me quite enough"</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="UNC">Where Michael Jordan played coll. ball</Clue>
+      <Clue Row="1" Col="14" Num="13" Dir="Down" Ans="BAA">Meadow call</Clue>
+      <Clue Row="1" Col="15" Num="14" Dir="Down" Ans="ALLEN">Poet Ginsberg</Clue>
+      <Clue Row="1" Col="17" Num="15" Dir="Down" Ans="DRAGON">"Game of Thrones" creature</Clue>
+      <Clue Row="1" Col="18" Num="16" Dir="Down" Ans="RIVERS">Joan who quipped "A Peeping Tom looked in my window and pulled down the shade"</Clue>
+      <Clue Row="1" Col="19" Num="17" Dir="Down" Ans="ACARD">"Pick ___ ..."</Clue>
+      <Clue Row="1" Col="20" Num="18" Dir="Down" Ans="CANTI">"Pretty please?"</Clue>
+      <Clue Row="1" Col="21" Num="19" Dir="Down" Ans="ONTOE">Doing a pirouette, say</Clue>
+      <Clue Row="3" Col="7" Num="24" Dir="Down" Ans="VINE">Poison ivy, e.g.</Clue>
+      <Clue Row="4" Col="16" Num="29" Dir="Down" Ans="AVIAS">Some sneakers</Clue>
+      <Clue Row="5" Col="5" Num="30" Dir="Down" Ans="TUNE">Something carried onstage?</Clue>
+      <Clue Row="5" Col="12" Num="31" Dir="Down" Ans="FABU">"Terrif!"</Clue>
+      <Clue Row="5" Col="13" Num="32" Dir="Down" Ans="UMAMI">Fifth category of taste with a Japanese name</Clue>
+      <Clue Row="5" Col="14" Num="33" Dir="Down" Ans="NEROS">"Peter ___ Greatest Hits" (1974 album)</Clue>
+      <Clue Row="6" Col="1" Num="34" Dir="Down" Ans="UPDO">High hairstyle</Clue>
+      <Clue Row="6" Col="2" Num="35" Dir="Down" Ans="TORI">Doughnut figures</Clue>
+      <Clue Row="6" Col="3" Num="36" Dir="Down" Ans="ELVIS">Late '50s singing sensation</Clue>
+      <Clue Row="6" Col="4" Num="37" Dir="Down" Ans="ROSEPETAL">One of many scattered in a honeymoon suite, maybe</Clue>
+      <Clue Row="6" Col="10" Num="39" Dir="Down" Ans="ARF">Light bark</Clue>
+      <Clue Row="6" Col="11" Num="40" Dir="Down" Ans="DOH">Cry from Homer</Clue>
+      <Clue Row="7" Col="7" Num="43" Dir="Down" Ans="USB">Kind of port for a flash drive</Clue>
+      <Clue Row="7" Col="8" Num="44" Dir="Down" Ans="SEETO">Manage</Clue>
+      <Clue Row="7" Col="15" Num="46" Dir="Down" Ans="DREAM">Night vision?</Clue>
+      <Clue Row="7" Col="19" Num="47" Dir="Down" Ans="ARENA">Bowl</Clue>
+      <Clue Row="7" Col="20" Num="48" Dir="Down" Ans="LINEN">Maid's armful</Clue>
+      <Clue Row="7" Col="21" Num="49" Dir="Down" Ans="PLED">Made an appeal</Clue>
+      <Clue Row="8" Col="9" Num="51" Dir="Down" Ans="OGOD">Hymn starter</Clue>
+      <Clue Row="8" Col="17" Num="52" Dir="Down" Ans="ABODE">Habitation</Clue>
+      <Clue Row="8" Col="18" Num="53" Dir="Down" Ans="PERINATAL">Around the time of birth</Clue>
+      <Clue Row="10" Col="5" Num="59" Dir="Down" Ans="IRONS">Chains</Clue>
+      <Clue Row="10" Col="6" Num="60" Dir="Down" Ans="AVIS">Car rental giant</Clue>
+      <Clue Row="10" Col="10" Num="62" Dir="Down" Ans="OVID">Poet who wrote "Fortune and love favor the brave"</Clue>
+      <Clue Row="10" Col="11" Num="63" Dir="Down" Ans="TSA">Org. that offers Precheck enrollment</Clue>
+      <Clue Row="10" Col="12" Num="64" Dir="Down" Ans="SAC">___ fly</Clue>
+      <Clue Row="10" Col="16" Num="66" Dir="Down" Ans="DEM">One on the left?: Abbr.</Clue>
+      <Clue Row="11" Col="2" Num="67" Dir="Down" Ans="EATAT">Greatly bother</Clue>
+      <Clue Row="11" Col="3" Num="68" Dir="Down" Ans="VCHIP">TV blocking device</Clue>
+      <Clue Row="11" Col="7" Num="69" Dir="Down" Ans="BESTS">Tops</Clue>
+      <Clue Row="11" Col="13" Num="70" Dir="Down" Ans="CHUG">Finish all at once, in a way</Clue>
+      <Clue Row="11" Col="14" Num="71" Dir="Down" Ans="OATHS">Things taken by government officials</Clue>
+      <Clue Row="12" Col="1" Num="72" Dir="Down" Ans="LETS">"Sounds like a plan!"</Clue>
+      <Clue Row="13" Col="8" Num="77" Dir="Down" Ans="AHERO">"Don't be ___!"</Clue>
+      <Clue Row="13" Col="9" Num="78" Dir="Down" Ans="DEREK">___ Walcott, Nobel Prize-winning poet</Clue>
+      <Clue Row="13" Col="15" Num="80" Dir="Down" Ans="AFC">Patriots' org.</Clue>
+      <Clue Row="13" Col="19" Num="82" Dir="Down" Ans="COMA">Bad state to be in</Clue>
+      <Clue Row="13" Col="20" Num="83" Dir="Down" Ans="TRAM">Mine transport</Clue>
+      <Clue Row="13" Col="21" Num="84" Dir="Down" Ans="EVITE">Modern party summons</Clue>
+      <Clue Row="14" Col="10" Num="87" Dir="Down" Ans="LIRE">Euros replaced them</Clue>
+      <Clue Row="14" Col="11" Num="88" Dir="Down" Ans="ADO">Bustle</Clue>
+      <Clue Row="14" Col="12" Num="89" Dir="Down" Ans="USO">Grp. that puts on a show</Clue>
+      <Clue Row="14" Col="16" Num="90" Dir="Down" Ans="ARGOSIES">Fleets</Clue>
+      <Clue Row="14" Col="17" Num="91" Dir="Down" Ans="CEOS">Wall St. bigwigs</Clue>
+      <Clue Row="15" Col="6" Num="93" Dir="Down" Ans="URAL">Like Mount Narodnaya</Clue>
+      <Clue Row="16" Col="4" Num="95" Dir="Down" Ans="VACATE">Empty</Clue>
+      <Clue Row="16" Col="5" Num="96" Dir="Down" Ans="AMUSES">Brings a smile to</Clue>
+      <Clue Row="16" Col="13" Num="98" Dir="Down" Ans="FALLEN">Like some angels and dominoes</Clue>
+      <Clue Row="17" Col="1" Num="100" Dir="Down" Ans="VICTOR">Champion</Clue>
+      <Clue Row="17" Col="2" Num="101" Dir="Down" Ans="OHARE">Airport that J.F.K. dedicated in 1963</Clue>
+      <Clue Row="17" Col="3" Num="102" Dir="Down" Ans="MORAN">Erin of "Joanie Loves Chachi"</Clue>
+      <Clue Row="17" Col="7" Num="103" Dir="Down" Ans="JAILS">Locks up</Clue>
+      <Clue Row="17" Col="14" Num="105" Dir="Down" Ans="DEVISE">Concoct</Clue>
+      <Clue Row="17" Col="15" Num="106" Dir="Down" Ans="IRK">Bug</Clue>
+      <Clue Row="18" Col="11" Num="108" Dir="Down" Ans="FOOL">Jester</Clue>
+      <Clue Row="18" Col="12" Num="109" Dir="Down" Ans="INTO">Feeling</Clue>
+      <Clue Row="18" Col="18" Num="110" Dir="Down" Ans="ODIN">Anthony Hopkins's "Thor" role</Clue>
+      <Clue Row="18" Col="19" Num="111" Dir="Down" Ans="BIGD">City NNE of San Antone</Clue>
+      <Clue Row="18" Col="20" Num="112" Dir="Down" Ans="ONME">"My treat!"</Clue>
+      <Clue Row="18" Col="21" Num="113" Dir="Down" Ans="EGAD">"My stars!"</Clue>
+      <Clue Row="19" Col="8" Num="116" Dir="Down" Ans="WAT">Cambodia's Angkor ___</Clue>
+      <Clue Row="19" Col="9" Num="117" Dir="Down" Ans="ABA">Court org.</Clue>
+      <Clue Row="19" Col="10" Num="118" Dir="Down" Ans="SNL">Skit show, for short</Clue>
+      <Clue Row="19" Col="17" Num="119" Dir="Down" Ans="DNA">What makes you you?</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>I enjoy puzzles that play with shapes. I&#39;d seen &quot;V sitting over I = Y&quot; puzzles before, but I like David&#39;s additional layer, CRACKING WISE hinting that not only do the Ys get broken into V over I (see the grid below for details), but it only happens within themers &hellip; that are humor-related! Love it when a puzzle goes above and beyond.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Joe_Pesci" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/JoePesci-2009.jpg/440px-JoePesci-2009.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:200px" title="Think I'm funny? How? Like a clown?" /></a></p>
+
+<p>Delightful themers. I love me some YO MAMA JOKEs, so that one stood out. But all of them were strong phrases, all related to comedy. Good selections, if a bit repetitive-feeling toward the end.</p>
+
+<p>In my book, the best Sunday puzzles are the ones that scream I&#39;M TOO BIG TO BE CONTAINED BY A 15x15 GRID! This one did not. It&#39;s true that EVERYBODYS A COMEDIAN is too long for a 15x15. But while the theme tickled me through the first half of the puzzle, the joke started to get old.</p>
+
+<p>(That central themer apparently is true!)</p>
+
+<p>What might have helped: longer crossing answers (containing the VIs) &mdash; shorties like AVIAS and EVITE don&#39;t do much for me. Would have been awesome to have even more humor-related phrases crossing the themers at those squares! Now that would have been awesome, and given it a good reason to need a big grid.</p>
+
+<p>A Sunday 140-word grid is almost always harder to fill with clean and colorful material, compared to a 15x15 weekday. It&#39;s even harder when you add the constraint of &quot;no other Ys in the puzzle except those in the themers.&quot; Stuff like PERINATAL and ARGOSIES didn&#39;t do a lot for me &mdash; I bet there could have been more of the great ROSE PETAL and POLONIUS long fill in a 15x15 &hellip; as well as less AARONS / TARAS, STER / ISE, ACARD / AHERO, etc.</p>
+
+<p>Clever idea overall though, and the title&#39;s extra lavier &mdash; er, layer &mdash; helped me enjoy the puzzle</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>There&#39;s always a next time, POTTYHUMOR and BELLYLAUGH. That said, hope this one helped all of you PUTONAHAPPYFACE.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

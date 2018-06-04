@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Thursday, April 12, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/11/2018 at 7:15 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Thu, Apr 12, 2018</Title>
+    <Author>Jules Markey</Author>
+    <CanonicalNames>
+      <Constructor>Jules P. Markey</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/12/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>OFFTO.BIBB.OGRE</Row>
+      <Row>DOLES.ISLE.BLED</Row>
+      <Row>DREAATCHER.GONG</Row>
+      <Row>STARMAP.UGLYBTY</Row>
+      <Row>...EAVED..UNH..</Row>
+      <Row>BOGS.INAPIGSEYE</Row>
+      <Row>RHETT..SILO.AOL</Row>
+      <Row>IAN.WISHNES.TUV</Row>
+      <Row>MRI.EMMA..IRENE</Row>
+      <Row>SAUGEPARTY.ERGS</Row>
+      <Row>..TUT..DAUBS...</Row>
+      <Row>ASWESAY.BLATANT</Row>
+      <Row>NEOS.CABLEBOXES</Row>
+      <Row>TART.ELIE.ARENA</Row>
+      <Row>ELKS.DENT.SEDER</Row>
+    </Grid>
+    <RebusEntries>
+      <Rebus Row="3" Col="4" Short="A">AMC</Rebus>
+      <Rebus Row="4" Col="13" Short="B">BET</Rebus>
+      <Rebus Row="8" Col="8" Short="H">HBO</Rebus>
+      <Rebus Row="10" Col="3" Short="U">USA</Rebus>
+    </RebusEntries>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="OFFTO">Leaving for</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="BIBB">Variety of lettuce</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="OGRE">Grim Grimm beast</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="DOLES">Metes (out)</Clue>
+      <Clue Row="2" Col="7" Num="15" Dir="Across" Ans="ISLE">Catalina, e.g.</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="BLED">Didn't stay within the lines, say</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="DREAMCATCHER">Native American charm made with a willow hoop</Clue>
+      <Clue Row="3" Col="12" Num="19" Dir="Across" Ans="GONG">Signal a performer doesn't want to hear</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="STARMAP">Cancer locator?</Clue>
+      <Clue Row="4" Col="9" Num="21" Dir="Across" Ans="UGLYBETTY">Popular TV dramedy based on a Colombian telenovela</Clue>
+      <Clue Row="5" Col="4" Num="23" Dir="Across" Ans="EAVED">Like many roofs</Clue>
+      <Clue Row="5" Col="11" Num="25" Dir="Across" Ans="UNH">Granite State sch.</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Across" Ans="BOGS">Fens</Clue>
+      <Clue Row="6" Col="6" Num="29" Dir="Across" Ans="INAPIGSEYE">"Fat chance!"</Clue>
+      <Clue Row="7" Col="1" Num="34" Dir="Across" Ans="RHETT">"Gone With the Wind" role</Clue>
+      <Clue Row="7" Col="8" Num="36" Dir="Across" Ans="SILO">Shelter for a Minuteman</Clue>
+      <Clue Row="7" Col="13" Num="37" Dir="Across" Ans="AOL">Co. acquired by Verizon in 2015</Clue>
+      <Clue Row="8" Col="1" Num="38" Dir="Across" Ans="IAN">Actor McShane of "Deadwood"</Clue>
+      <Clue Row="8" Col="5" Num="39" Dir="Across" Ans="WISHBONES">Some gridiron formations</Clue>
+      <Clue Row="8" Col="13" Num="42" Dir="Across" Ans="TUV">iPhone 8?</Clue>
+      <Clue Row="9" Col="1" Num="43" Dir="Across" Ans="MRI">Open ___</Clue>
+      <Clue Row="9" Col="5" Num="44" Dir="Across" Ans="EMMA">Actress Stone</Clue>
+      <Clue Row="9" Col="11" Num="45" Dir="Across" Ans="IRENE">Goddess of peace</Clue>
+      <Clue Row="10" Col="1" Num="47" Dir="Across" Ans="SAUSAGEPARTY">2016 comedy that takes place mainly in a supermarket</Clue>
+      <Clue Row="10" Col="12" Num="51" Dir="Across" Ans="ERGS">Dyne-centimeters</Clue>
+      <Clue Row="11" Col="3" Num="52" Dir="Across" Ans="TUT">King in 1922 headlines</Clue>
+      <Clue Row="11" Col="8" Num="53" Dir="Across" Ans="DAUBS">Slaps on</Clue>
+      <Clue Row="12" Col="1" Num="55" Dir="Across" Ans="ASWESAY">So to speak</Clue>
+      <Clue Row="12" Col="9" Num="59" Dir="Across" Ans="BLATANT">Lacking subtlety</Clue>
+      <Clue Row="13" Col="1" Num="63" Dir="Across" Ans="NEOS">Modernists, informally</Clue>
+      <Clue Row="13" Col="6" Num="64" Dir="Across" Ans="CABLEBOXES">TV adjuncts ... or a hint to four squares in this puzzle</Clue>
+      <Clue Row="14" Col="1" Num="66" Dir="Across" Ans="TART">Citrusy</Clue>
+      <Clue Row="14" Col="6" Num="67" Dir="Across" Ans="ELIE">Nobelist Wiesel</Clue>
+      <Clue Row="14" Col="11" Num="68" Dir="Across" Ans="ARENA">Ring ... or sphere</Clue>
+      <Clue Row="15" Col="1" Num="69" Dir="Across" Ans="ELKS">Part of B.P.O.E.</Clue>
+      <Clue Row="15" Col="6" Num="70" Dir="Across" Ans="DENT">A little progress, so to speak</Clue>
+      <Clue Row="15" Col="11" Num="71" Dir="Across" Ans="SEDER">Ritual meal</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="ODDS">Sports figures</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="FORT">Stronghold</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="FLEA">Lab problem</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="TEAMCREST">Image on a soccer jersey</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="OSAMA">2003 Afghani film that won a Golden Globe</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="BICPEN">Product advertised with the slogan "Writes first time, every time"</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="ISH">Suffix with freak</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="BLEU">Kind of cheese</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="BERG">Danger for a submarine</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="OBGYNS">Delivery specialists, for short</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="GLOBETHEATER">Setting for Shakespeare's "Julius Caesar"</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="RENT">Let</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="EDGY">Avant-garde</Clue>
+      <Clue Row="3" Col="6" Num="18" Dir="Down" Ans="TAVI">Kipling's "Rikki-Tikki-___"</Clue>
+      <Clue Row="4" Col="11" Num="22" Dir="Down" Ans="LUGOSI">Actor played by Landau in "Ed Wood"</Clue>
+      <Clue Row="5" Col="8" Num="24" Dir="Down" Ans="DASHBOARD">Place for a clock or a radio</Clue>
+      <Clue Row="6" Col="1" Num="26" Dir="Down" Ans="BRIMS">Overflow points</Clue>
+      <Clue Row="6" Col="2" Num="27" Dir="Down" Ans="OHARA">"Gone With the Wind" role</Clue>
+      <Clue Row="6" Col="3" Num="28" Dir="Down" Ans="GENIUSATWORK">Facetious sign in a lab or office</Clue>
+      <Clue Row="6" Col="9" Num="30" Dir="Down" Ans="PIN">Hold down</Clue>
+      <Clue Row="6" Col="10" Num="31" Dir="Down" Ans="ILE">Suffix with duct</Clue>
+      <Clue Row="6" Col="14" Num="32" Dir="Down" Ans="YOUNG">Puppies or kittens</Clue>
+      <Clue Row="6" Col="15" Num="33" Dir="Down" Ans="ELVES">Dungeons &amp; Dragons characters</Clue>
+      <Clue Row="7" Col="5" Num="35" Dir="Down" Ans="TWEETS">Modern communiqués</Clue>
+      <Clue Row="8" Col="6" Num="40" Dir="Down" Ans="IMP">Handful for a pediatrician</Clue>
+      <Clue Row="8" Col="7" Num="41" Dir="Down" Ans="SMA">Wee, to a Scot</Clue>
+      <Clue Row="9" Col="12" Num="46" Dir="Down" Ans="RESTORE">Put back</Clue>
+      <Clue Row="10" Col="4" Num="48" Dir="Down" Ans="GUESTS">The inn crowd?</Clue>
+      <Clue Row="10" Col="9" Num="49" Dir="Down" Ans="TABLET">Back-to-school purchase</Clue>
+      <Clue Row="10" Col="10" Num="50" Dir="Down" Ans="YULE">___ log</Clue>
+      <Clue Row="11" Col="11" Num="54" Dir="Down" Ans="BABAS">Rum cakes</Clue>
+      <Clue Row="12" Col="1" Num="55" Dir="Down" Ans="ANTE">Post's opposite</Clue>
+      <Clue Row="12" Col="2" Num="56" Dir="Down" Ans="SEAL">The United States has a great one</Clue>
+      <Clue Row="12" Col="6" Num="57" Dir="Down" Ans="ACED">Nailed</Clue>
+      <Clue Row="12" Col="7" Num="58" Dir="Down" Ans="YALE">Where Flash Gordon played polo</Clue>
+      <Clue Row="12" Col="13" Num="60" Dir="Down" Ans="AXED">Canned</Clue>
+      <Clue Row="12" Col="14" Num="61" Dir="Down" Ans="NENE">Relative of the Canada goose</Clue>
+      <Clue Row="12" Col="15" Num="62" Dir="Down" Ans="TSAR">Issuer of ukases</Clue>
+      <Clue Row="13" Col="8" Num="65" Dir="Down" Ans="BIN">Log keeper, maybe</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Jules does something exceedingly well today. Usually, rebus squares get placed into the longest grid entries, and then the crossing entries are made short to facilitate grid construction. BET might turn into ABETS or BETAS in the crossing direction &ndash; pretty dull.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Sausage_Party" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/e/e4/Sausage_Party.png" style="border:1px solid lightgray; float:left; height:250px; margin:6px 12px 6px 0px; width:168px" title="A picture says a thousand words (all of them raunchy!)" /></a></p>
+
+<p>Not today! Jules manages to get four full pairs of great theme answers, DREAM CATCHER / TEAM CREST, UGLY BETTY / GLOBE THEATER, WISHBONES / DASHBOARD, SAUSAGE PARTY / GENIUS AT WORK. Eight fantastic answers!</p>
+
+<p>(SAUSAGE PARTY was hilarious, but man oh man was it raunchy! Highly recommended, but prepare to wash out your eyes afterward.)</p>
+
+<p>These four pairs of long crossing answers, plus the CABLE BOXES revealer, take up a huge amount of real estate. It&#39;s tough to build around so much theme material, but Jules did pretty darn well.</p>
+
+<p>The only thing I ask from short fill is to not stand out as inelegant. I didn&#39;t care for the ILE / ISLE dupe (yes, they&#39;re clued in different ways, but I can&#39;t help seeing the French ILE = ISLE). And the random letter string TUV is bad. But that clue! [iPhone 8?] = the letters TUV on the 8 button on an iPhone. Doesn&#39;t make TUV a desirable entry, but it excuses it a teeny tiny bit.</p>
+
+<p>I did find it a bit strange that IN A PIGS EYE didn&#39;t have a rebus &ndash; usually, you want all your longest entries to contain rebuses, especially in the across direction &ndash; but I gave it a pass since Jules already had so many long themers.</p>
+
+<p>This ___ BOX concept has been done many a time, i.e., <a href="https://www.xwordinfo.com/Crossword?date=2/21/2018">PO BOX</a>, <a href="https://www.xwordinfo.com/Crossword?date=6/2/2016">JACK IN THE BOX</a>, <a href="https://www.xwordinfo.com/Crossword?date=8/26/2012">HAT BOX</a>. Tried and true notion, repetitive, but I appreciated the careful execution.</p>
+
+<p>I also appreciated Will running a solid Thursday puzzle &ndash; one with a toughish theme, worth working hard to uncover &ndash; for the first time in weeks. Rebuses are a bit overdone these days, but they still provide a fun solving challenge.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>I like rebus puzzles, both solving and constructing them. This one went from theme idea to submission without too much of a struggle. All the theme entries are the same as in my first version except FISHBOWLS was originally at 39-Across. </p>
+
+<p>I&#39;m really happy with the theme entries, a couple of which came from the <a href="https://www.xwordinfo.com/WordList/">XWord Info list and Jeff&#39;s list</a>. My wife and I had recently streamed SAUSAGEPARTY so that fell right into place. TEAMCREST was a Hail Mary pass of trying different combinations of words that end in AM with those that start with C. if I remember correctly there weren&#39;t many more if any cable channel trigrams that were workable acronyms and not abbreviations such as SHO. I guess I could have expanded to 4 letters with ESPN, but I would&#39;ve had to find a crossing for the unappealing CATCHESPNEUMONIA, (is there one?).</p>
+
+<p>Thanks as always to Will, Joel and crew, and thanks to Sam Ezersky for incorporating my clue change for 42-Across, which I mentioned to him at this year&#39;s ACPT, where he was the constructor of the final puzzle. Hope you liked this one.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

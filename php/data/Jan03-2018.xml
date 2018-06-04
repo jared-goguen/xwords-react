@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Wednesday, January 3, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/3/2018 at 5:33 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Wed, Jan 03, 2018</Title>
+    <Author>Bruce Haight</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/3/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>JAZZ..SLAV.FLAG</Row>
+      <Row>ALEE.OCALA.AURA</Row>
+      <Row>ITSNACHOPROBLEM</Row>
+      <Row>LOT.RTES.INFUSE</Row>
+      <Row>...ITEM.CATO...</Row>
+      <Row>.LETSTACOBOUTIT</Row>
+      <Row>SALTY..HAL.RONA</Row>
+      <Row>TUB..GAILY..TON</Row>
+      <Row>AROD.ELM..OPENS</Row>
+      <Row>YAWANNAPIZZAME.</Row>
+      <Row>...TOES.TOAT...</Row>
+      <Row>RIDEUP.GROW.SIP</Row>
+      <Row>ICANNOLIIMAGINE</Row>
+      <Row>PERU.OOZES.URGE</Row>
+      <Row>SENT.LOAD..VEEP</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="JAZZ">All that ___</Clue>
+      <Clue Row="1" Col="7" Num="5" Dir="Across" Ans="SLAV">Balkan native</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Across" Ans="FLAG">Fourth of July centerpiece</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Across" Ans="ALEE">Away from the wind</Clue>
+      <Clue Row="2" Col="6" Num="14" Dir="Across" Ans="OCALA">Northern Florida county seat</Clue>
+      <Clue Row="2" Col="12" Num="15" Dir="Across" Ans="AURA">Mystical glow</Clue>
+      <Clue Row="3" Col="1" Num="16" Dir="Across" Ans="ITSNACHOPROBLEM">"Don't worry about my cheesy chip"?</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="LOT">Parking place</Clue>
+      <Clue Row="4" Col="5" Num="20" Dir="Across" Ans="RTES">Hwys.</Clue>
+      <Clue Row="4" Col="10" Num="21" Dir="Across" Ans="INFUSE">Permeate</Clue>
+      <Clue Row="5" Col="4" Num="22" Dir="Across" Ans="ITEM">Follower of a bullet</Clue>
+      <Clue Row="5" Col="9" Num="23" Dir="Across" Ans="CATO">"Elder" Roman statesman</Clue>
+      <Clue Row="6" Col="2" Num="24" Dir="Across" Ans="LETSTACOBOUTIT">"We should discuss your Qdoba order"?</Clue>
+      <Clue Row="7" Col="1" Num="30" Dir="Across" Ans="SALTY">Like tears or sailors' language</Clue>
+      <Clue Row="7" Col="8" Num="31" Dir="Across" Ans="HAL">"2001" computer</Clue>
+      <Clue Row="7" Col="12" Num="32" Dir="Across" Ans="RONA">Writer Jaffe</Clue>
+      <Clue Row="8" Col="1" Num="33" Dir="Across" Ans="TUB">Nursery rhyme sailing vessel</Clue>
+      <Clue Row="8" Col="6" Num="34" Dir="Across" Ans="GAILY">In a joyful manner</Clue>
+      <Clue Row="8" Col="13" Num="36" Dir="Across" Ans="TON">Forklift unit</Clue>
+      <Clue Row="9" Col="1" Num="37" Dir="Across" Ans="AROD">Bygone Yankee nickname</Clue>
+      <Clue Row="9" Col="6" Num="39" Dir="Across" Ans="ELM">Tree with serrated leaves that taper to a point</Clue>
+      <Clue Row="9" Col="11" Num="40" Dir="Across" Ans="OPENS">Hits theaters</Clue>
+      <Clue Row="10" Col="1" Num="42" Dir="Across" Ans="YAWANNAPIZZAME">"Should we settle this dispute over toppings outside?"?</Clue>
+      <Clue Row="11" Col="4" Num="46" Dir="Across" Ans="TOES">Things some stretchers try to touch</Clue>
+      <Clue Row="11" Col="9" Num="47" Dir="Across" Ans="TOAT">Perfectly</Clue>
+      <Clue Row="12" Col="1" Num="48" Dir="Across" Ans="RIDEUP">What underwear may do, annoyingly</Clue>
+      <Clue Row="12" Col="8" Num="51" Dir="Across" Ans="GROW">Swell</Clue>
+      <Clue Row="12" Col="13" Num="52" Dir="Across" Ans="SIP">Oxymoronic drink from a Big Gulp?</Clue>
+      <Clue Row="13" Col="1" Num="55" Dir="Across" Ans="ICANNOLIIMAGINE">"That Italian dessert truly boggles the mind"?</Clue>
+      <Clue Row="14" Col="1" Num="58" Dir="Across" Ans="PERU">Machu Picchu locale</Clue>
+      <Clue Row="14" Col="6" Num="59" Dir="Across" Ans="OOZES">Moves like sap</Clue>
+      <Clue Row="14" Col="12" Num="60" Dir="Across" Ans="URGE">Yen</Clue>
+      <Clue Row="15" Col="1" Num="61" Dir="Across" Ans="SENT">On its way</Clue>
+      <Clue Row="15" Col="6" Num="62" Dir="Across" Ans="LOAD">18 credits for a semester is a heavy one</Clue>
+      <Clue Row="15" Col="12" Num="63" Dir="Across" Ans="VEEP">HBO series about the politician Selina Meyer</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="JAIL">Pokey</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ALTO">Lead-in to cumulus</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="ZEST">Gusto</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="ZEN">___ state</Clue>
+      <Clue Row="1" Col="7" Num="5" Dir="Down" Ans="SCHEMA">Conceptual framework</Clue>
+      <Clue Row="1" Col="8" Num="6" Dir="Down" Ans="LAOS">Where to be among the Hmong</Clue>
+      <Clue Row="1" Col="9" Num="7" Dir="Down" Ans="ALP">European summit</Clue>
+      <Clue Row="1" Col="10" Num="8" Dir="Down" Ans="VARIABLY">Hit or miss, say</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Down" Ans="FABFOUR">Beatles moniker</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="LULU">Humdinger</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="ARES">God depicted in a helmet</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="GAME">League of Legends or World of Warcraft</Clue>
+      <Clue Row="2" Col="6" Num="14" Dir="Down" Ans="OCTET">Large chamber music group</Clue>
+      <Clue Row="3" Col="5" Num="17" Dir="Down" Ans="ARTSY">Culturally pretentious</Clue>
+      <Clue Row="3" Col="11" Num="18" Dir="Down" Ans="ONTO">Be ___ something</Clue>
+      <Clue Row="5" Col="4" Num="22" Dir="Down" Ans="ITT">Cousin ___ of 1960s TV</Clue>
+      <Clue Row="5" Col="9" Num="23" Dir="Down" Ans="COAL">Eyes for Frosty the Snowman</Clue>
+      <Clue Row="6" Col="2" Num="24" Dir="Down" Ans="LAURA">First lady before Michelle</Clue>
+      <Clue Row="6" Col="3" Num="25" Dir="Down" Ans="ELBOW">Jostle</Clue>
+      <Clue Row="6" Col="8" Num="26" Dir="Down" Ans="CHIMP">Pioneer in space</Clue>
+      <Clue Row="6" Col="13" Num="27" Dir="Down" Ans="TOTEM">___ pole</Clue>
+      <Clue Row="6" Col="14" Num="28" Dir="Down" Ans="INONE">Ending with two or hole</Clue>
+      <Clue Row="6" Col="15" Num="29" Dir="Down" Ans="TANS">Lies in the sun</Clue>
+      <Clue Row="7" Col="1" Num="30" Dir="Down" Ans="STAY">Not fly the coop</Clue>
+      <Clue Row="8" Col="6" Num="34" Dir="Down" Ans="GENEPOOL">Heredity source</Clue>
+      <Clue Row="8" Col="7" Num="35" Dir="Down" Ans="ALAS">"Sad to say ..."</Clue>
+      <Clue Row="9" Col="4" Num="38" Dir="Down" Ans="DATENUT">Kind of bread</Clue>
+      <Clue Row="9" Col="11" Num="40" Dir="Down" Ans="OZAWA">Longtime Boston Symphony maestro</Clue>
+      <Clue Row="9" Col="12" Num="41" Dir="Down" Ans="PAT">Well-practiced, as an answer</Clue>
+      <Clue Row="10" Col="5" Num="43" Dir="Down" Ans="NOUN">What an adjective modifies</Clue>
+      <Clue Row="10" Col="9" Num="44" Dir="Down" Ans="ITRIED">"Gave it my best"</Clue>
+      <Clue Row="10" Col="10" Num="45" Dir="Down" Ans="ZOOMS">Skyrockets</Clue>
+      <Clue Row="12" Col="1" Num="48" Dir="Down" Ans="RIPS">Common sights at pants knees</Clue>
+      <Clue Row="12" Col="2" Num="49" Dir="Down" Ans="ICEE">Frozen drink</Clue>
+      <Clue Row="12" Col="3" Num="50" Dir="Down" Ans="DARN">"Shucks!"</Clue>
+      <Clue Row="12" Col="8" Num="51" Dir="Down" Ans="GIZA">Great Pyramid locale</Clue>
+      <Clue Row="12" Col="13" Num="52" Dir="Down" Ans="SIRE">Regal term of address</Clue>
+      <Clue Row="12" Col="14" Num="53" Dir="Down" Ans="INGE">"Picnic" playwright</Clue>
+      <Clue Row="12" Col="15" Num="54" Dir="Down" Ans="PEEP">Tiny protest</Clue>
+      <Clue Row="13" Col="7" Num="56" Dir="Down" Ans="LOO">John, in Britain</Clue>
+      <Clue Row="13" Col="12" Num="57" Dir="Down" Ans="GUV">British term of address</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Food puns! Not sure why these four were chosen since there are thousands of foods out there? Maybe ... NACHOs as a starter, with some TACOs, then PIZZA, wrapping it all up with CANNOLI?</p>
+
+<p>Sounds like a recipe for heartburn!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Cannoli" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cannolo_siciliano_with_chocolate_squares.jpg/440px-Cannolo_siciliano_with_chocolate_squares.jpg" style="border:1px solid lightgray; float:left; height:148px; margin:6px 12px 6px 0px; width:220px" title="I can only imagine CANNOLI, yum!" /></a></p>
+
+<p>Man, I&#39;m old.</p>
+
+<p>I&#39;m terrible at judging puns. &quot;It&#39;s not your problem&quot; becoming ITS NACHO PROBLEM felt somewhat amusing, although grammatically it felt tortured. Same with LETS TACO BOUT IT.</p>
+
+<p>Shouldn&#39;t the resulting phrase be at least remotely grammatically correct? I mean, &quot;it&#39;s <strong>A</strong> nacho problem&quot; sounds okay. &quot;You wanna pizza?&quot; kind of works. But of course, those would be riffing on nonsensical base phrases.</p>
+
+<p>This is probably why I&#39;ve had so few pun themes accepted over the years. Stupid brain, stop being so irritatingly logical!</p>
+
+<p>Loved getting FAB FOUR, GENE POOL, even DATE NUT, and kicking off the puzzle with some JAZZ.</p>
+
+<p>Only a bit of fill sticking out as construction glue: RTES, IN ONE, ALP, OCALA. The lone exception was INGE, easily avoidable in the unconstrained SE corner. But even that I can understand &mdash; he&#39;s a famous enough playwright that he&#39;s crossworthy in some minds, and I can see that GUV / VEEP might be worth the trade-off to some. Strong execution overall.</p>
+
+<p>That clue for RIDE UP made me laugh. Dunno why it&#39;s so funny to see my three-year-old yank at her underwear.</p>
+
+<p>I would have liked more laughs out of the puzzle, or at least a natural meal progression like SOUP, SALAD, PIZZA, CANNOLI. Still, some bonuses and the mostly smooth grid kept me engaged.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>I was visiting a local college campus a year ago, and I saw a sign in a dorm for a student mixer at a Mexican restaurant &mdash; the teaser was &quot;Let&#39;s taco &#39;bout it.&quot; I just needed to come up with three more like that with matching lengths. I had to modify &quot;You wanna pizza me?&quot; a little to make it work.</p>
+
+<p>I find that as time goes on, I gravitate more toward puzzles that I find humorous &mdash; even if they don&#39;t get published they are just more fun to make!</p>
+
+<p>If you like punny puzzles about food, consider buying Erik Agard&#39;s &quot;<a href="https://www.amazon.com/Food-Thought-Crosswords-Erik-Agard/dp/1454916311/ref=sr_1_1?ie=UTF8&amp;qid=1514675386&amp;sr=8-1&amp;keywords=agard+food">Food for Thought Crosswords</a>&quot; available at Amazon.com. I did, and I found it very entertaining.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

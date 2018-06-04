@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Tuesday, February 6, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 2/6/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Tue, Feb 06, 2018</Title>
+    <Author>Bruce Haight</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>2/6/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>DIN.RABBI.EPICS</Row>
+      <Row>ANO.AXIOM.CALLA</Row>
+      <Row>DEC.DEATHVALLEY</Row>
+      <Row>BRAG..SHEER.BMW</Row>
+      <Row>ORNATE..REDDISH</Row>
+      <Row>DODGEVIPER.OTOE</Row>
+      <Row>SRO.LIMA...PENN</Row>
+      <Row>...DEEPVOICE...</Row>
+      <Row>SILO...ETNA.ADO</Row>
+      <Row>AHAS.DARTHVADER</Row>
+      <Row>VOTERID..DENOVO</Row>
+      <Row>EPI.SNOOP..SPIN</Row>
+      <Row>DEMOVERSION.TOY</Row>
+      <Row>USEUP.BLEAR.MUM</Row>
+      <Row>POSTS.SORTA.ESS</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="DIN">Loud commotion</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Across" Ans="RABBI">Yeshiva leader</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Across" Ans="EPICS">Films on a grand scale</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="ANO">Year, in Spain</Clue>
+      <Clue Row="2" Col="5" Num="15" Dir="Across" Ans="AXIOM">If a &gt; b and b &gt; c, then a &gt; c, e.g.</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Across" Ans="CALLA">Kind of lily</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="DEC">Winter solstice mo.</Clue>
+      <Clue Row="3" Col="5" Num="18" Dir="Across" Ans="DEATHVALLEY">Lowest point for Americans?</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="BRAG">Crow</Clue>
+      <Clue Row="4" Col="7" Num="22" Dir="Across" Ans="SHEER">Like nylon stockings</Clue>
+      <Clue Row="4" Col="13" Num="23" Dir="Across" Ans="BMW">Audi rival</Clue>
+      <Clue Row="5" Col="1" Num="24" Dir="Across" Ans="ORNATE">Like the architecture of many cathedrals</Clue>
+      <Clue Row="5" Col="9" Num="27" Dir="Across" Ans="REDDISH">Visibly blushing</Clue>
+      <Clue Row="6" Col="1" Num="29" Dir="Across" Ans="DODGEVIPER">American-made sports car with a V-10 engine</Clue>
+      <Clue Row="6" Col="12" Num="32" Dir="Across" Ans="OTOE">Plains Indian</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Across" Ans="SRO">Posted announcement at a theater entrance</Clue>
+      <Clue Row="7" Col="5" Num="34" Dir="Across" Ans="LIMA">Andean capital</Clue>
+      <Clue Row="7" Col="12" Num="35" Dir="Across" Ans="PENN">Southernmost of the Ivies</Clue>
+      <Clue Row="8" Col="4" Num="36" Dir="Across" Ans="DEEPVOICE">Bass, e.g.</Clue>
+      <Clue Row="9" Col="1" Num="40" Dir="Across" Ans="SILO">Storage tower</Clue>
+      <Clue Row="9" Col="8" Num="43" Dir="Across" Ans="ETNA">Mount that has an insurance company named after it</Clue>
+      <Clue Row="9" Col="13" Num="44" Dir="Across" Ans="ADO">Commotion</Clue>
+      <Clue Row="10" Col="1" Num="47" Dir="Across" Ans="AHAS">Solvers' cries</Clue>
+      <Clue Row="10" Col="6" Num="48" Dir="Across" Ans="DARTHVADER">Film character who says "Give yourself to the dark side"</Clue>
+      <Clue Row="11" Col="1" Num="51" Dir="Across" Ans="VOTERID">Poll worker's request</Clue>
+      <Clue Row="11" Col="10" Num="53" Dir="Across" Ans="DENOVO">From the beginning: Lat.</Clue>
+      <Clue Row="12" Col="1" Num="54" Dir="Across" Ans="EPI">Prefix with center</Clue>
+      <Clue Row="12" Col="5" Num="55" Dir="Across" Ans="SNOOP">Nosy sort</Clue>
+      <Clue Row="12" Col="12" Num="58" Dir="Across" Ans="SPIN">___ room (postdebate area)</Clue>
+      <Clue Row="13" Col="1" Num="59" Dir="Across" Ans="DEMOVERSION">Prototype, maybe</Clue>
+      <Clue Row="13" Col="13" Num="63" Dir="Across" Ans="TOY">Item in Santa's bag</Clue>
+      <Clue Row="14" Col="1" Num="64" Dir="Across" Ans="USEUP">Exhaust</Clue>
+      <Clue Row="14" Col="7" Num="65" Dir="Across" Ans="BLEAR">Dim with tears</Clue>
+      <Clue Row="14" Col="13" Num="66" Dir="Across" Ans="MUM">Closemouthed</Clue>
+      <Clue Row="15" Col="1" Num="67" Dir="Across" Ans="POSTS">Blog entries</Clue>
+      <Clue Row="15" Col="7" Num="68" Dir="Across" Ans="SORTA">More or less, informally</Clue>
+      <Clue Row="15" Col="13" Num="69" Dir="Across" Ans="ESS">Letter before tee</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="DADBODS">Some schlumpy male physiques</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="INERROR">Mistakenly</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="NOCANDO">"Sorry, Charlie!"</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Down" Ans="RAD">Wicked cool</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="AXE">Dismiss abruptly</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="BIAS">Favoritism</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="BOTH">Not just one or the other</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="IMHERE">Arriver's cry</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="ECARD">Online greeting</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="PAL">Bud</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="ILLBITE">"O.K., tell me more"</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="CLEMSON">The Tigers of the A.C.C.</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="SAYWHEN">Pourer's instruction</Clue>
+      <Clue Row="3" Col="10" Num="19" Dir="Down" Ans="VEER">Zig or zag</Clue>
+      <Clue Row="4" Col="4" Num="21" Dir="Down" Ans="GAG">[This tastes awful!]</Clue>
+      <Clue Row="5" Col="5" Num="25" Dir="Down" Ans="TELE">Prefix with commute</Clue>
+      <Clue Row="5" Col="6" Num="26" Dir="Down" Ans="EVIE">___ Wilcox, daughter in E. M. Forster's "Howards End"</Clue>
+      <Clue Row="5" Col="12" Num="28" Dir="Down" Ans="DOPE">Amazing, in slang</Clue>
+      <Clue Row="6" Col="7" Num="30" Dir="Down" Ans="IMP">Rapscallion</Clue>
+      <Clue Row="6" Col="8" Num="31" Dir="Down" Ans="PAVER">Road worker</Clue>
+      <Clue Row="8" Col="4" Num="36" Dir="Down" Ans="DOSE">Rx detail</Clue>
+      <Clue Row="8" Col="9" Num="37" Dir="Down" Ans="OTT">Mel who was the first N.L.'er to hit 500 home runs</Clue>
+      <Clue Row="8" Col="10" Num="38" Dir="Down" Ans="INHD">How many TV shows are shown nowadays</Clue>
+      <Clue Row="8" Col="11" Num="39" Dir="Down" Ans="CAVE">Give in</Clue>
+      <Clue Row="9" Col="1" Num="40" Dir="Down" Ans="SAVEDUP">Put some money away</Clue>
+      <Clue Row="9" Col="2" Num="41" Dir="Down" Ans="IHOPESO">"Fingers crossed!"</Clue>
+      <Clue Row="9" Col="3" Num="42" Dir="Down" Ans="LATIMES">SoCal daily</Clue>
+      <Clue Row="9" Col="13" Num="44" Dir="Down" Ans="ADOPTME">Sign on a real or virtual pet</Clue>
+      <Clue Row="9" Col="14" Num="45" Dir="Down" Ans="DEVIOUS">Tricky ... or a tricky description of 18-, 29-, 36-, 48- and 59-Across</Clue>
+      <Clue Row="9" Col="15" Num="46" Dir="Down" Ans="ORONYMS">Words and phrases that sound approximately alike, like "ice scream" and "I scream"</Clue>
+      <Clue Row="10" Col="6" Num="48" Dir="Down" Ans="DINE">Eat stylishly</Clue>
+      <Clue Row="10" Col="7" Num="49" Dir="Down" Ans="ADORBS">Cute, in modern slang</Clue>
+      <Clue Row="10" Col="12" Num="50" Dir="Down" Ans="ANS">Reply to a ques.</Clue>
+      <Clue Row="11" Col="5" Num="52" Dir="Down" Ans="RSVPS">Replies to an invitation</Clue>
+      <Clue Row="12" Col="8" Num="56" Dir="Down" Ans="OSLO">___ Accords (1990s peace agreements)</Clue>
+      <Clue Row="12" Col="9" Num="57" Dir="Down" Ans="PIER">Common fishing spot</Clue>
+      <Clue Row="13" Col="4" Num="60" Dir="Down" Ans="OUT">Openly gay</Clue>
+      <Clue Row="13" Col="10" Num="61" Dir="Down" Ans="OAT">___ bran</Clue>
+      <Clue Row="13" Col="11" Num="62" Dir="Down" Ans="NRA">Org. that sticks to its guns?</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p><a href="https://en.wikipedia.org/wiki/Darth_Vader" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/7/76/Darth_Vader.jpg" style="border:none; float:right; height:232px; margin:6px 0px 6px 12px; width:220px" title="D V twofer!" /></a></p>
+
+<p>D* V* phrases, tied together with a revealer of DEVIOUS &hellip; as in &quot;D V us&quot;? Or &quot;DV&#39;s&quot;?</p>
+
+<p>I tried to make sense of it for ten minutes before giving up and asking Bruce. He thought of it as &quot;D V - ous,&quot; as in &quot;-ous&quot; = a descriptor, like &quot;-ish&quot; or something.</p>
+
+<p>Huh. It doesn&#39;t work for me, but I can understand his thinking.</p>
+
+<p>Bruce did such a great job with his mid-length fill. Having a 9-letter entry in the middle of your puzzle will usually mean a bunch of 7-letter entries in the corners, and those can be so tough to make stand out. But check out DAD BODS / IN ERROR / NO CAN DO, I&#39;ll BITE / SAY WHEN, I HOPE SO / LA TIMES, ADOPT ME! Good stuff in every corner.</p>
+
+<p>Earlier in his constructing career, Bruce tended to use too much crossword glue, and there&#39;s a hint of that today in TELE, OTOE, OTT, ESS. (I think OTOE is a tribe educated folks ought to know, but I admit that I&#39;ve only ever seen the word in crosswords.) Today, I didn&#39;t mind as much, because these all helped him make the mid-length fill so snazzy. I think it was a worthwhile trade-off.</p>
+
+<p>Oh, NYT constructors! Please please please, can we stay away from ADORBS tween talk? I know it&#39;s in the language (no matter how badly this old guy resists), but sigh. Totes srsly!</p>
+
+<p>(Sadly, these are real things people say.)</p>
+
+<p>While I liked many of the themers, DARTH VADER in particular (talk about a DEEP VOICE!), this initialism theme type feels like it&#39;s losing steam. These days, an initialism puzzle needs something to elevate it &mdash; rare letters like Z or Q, or perhaps a stellar, witty revealer that produces an incredible a-ha moment.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>The initial spark for most of my puzzles is rather obscure, but I can say definitively that this one was born on 11/7/16. I had an <a href="https://www.xwordinfo.com/Crossword?date=11/7/2016">NYT puzzle that day with some IC phrases</a> (INNER CHILD, IVORY COAST, etc.) and an &quot;I SEE&quot; revealer. One of the online reviewers commented:</p>
+
+<p>&quot;We remain in the well-worn, hoary, ultra-basic theme-type universe, with loads of dull short fill to boot.&quot;</p>
+
+<p>That was actually one of my better reviews at that site, but Loren Muse Smith took offense and fired off the first post of that day, which was very supportive of my puzzle. She then went on to list other potential phonetic theme revealers like excellency and escapee (theme recently done by CC Burnikel elsewhere) and DEVIOUS. I was grateful to Loren for her support, and even more grateful for new theme ideas! I tried to get her to co-construct this one but she begged off &mdash; however, she and I have a Valentine&#39;s Day puzzle coming up next week in the 42-Down.</p>
+
+<p>Will and Joel said &quot;nicely done, and the fill really sparkled&quot; &mdash; I remember wishing I could do something about the crossing of DENOVO and ORONYMS, which Will said pushed this puzzle from a Monday to a Tuesday.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

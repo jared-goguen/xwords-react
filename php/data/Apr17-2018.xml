@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Tuesday, April 17, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/16/2018 at 7:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Tue, Apr 17, 2018</Title>
+    <Author>Wren Schultz</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/17/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>.BONO.ODER.SODA</Row>
+      <Row>CARIB.BOLA.ARES</Row>
+      <Row>UNEXAMINED.LEVI</Row>
+      <Row>PALOMA.AVOCADOS</Row>
+      <Row>...NAGAT.NAME..</Row>
+      <Row>JADES.ZEN.PIPER</Row>
+      <Row>UBER.LOSETO.OXO</Row>
+      <Row>LOCATOR.GENESIS</Row>
+      <Row>EVE.ONEMAN.VILE</Row>
+      <Row>SELIG.SAT.RATES</Row>
+      <Row>..EVAN.DEREG...</Row>
+      <Row>KEROSENE.AWAKES</Row>
+      <Row>ATAT.POPEMOBILE</Row>
+      <Row>TOTE.AGAR.VOWEL</Row>
+      <Row>ONED.LORE.ERIC.</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="2" Num="1" Dir="Across" Ans="BONO">Rock singer who was a Time co-Person of the Year</Clue>
+      <Clue Row="1" Col="7" Num="5" Dir="Across" Ans="ODER">Poland/Germany border river</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Across" Ans="SODA">Pizza party drink</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Across" Ans="CARIB">West Indies native</Clue>
+      <Clue Row="2" Col="7" Num="14" Dir="Across" Ans="BOLA">Hurled weapon</Clue>
+      <Clue Row="2" Col="12" Num="15" Dir="Across" Ans="ARES">God depicted with a spear</Clue>
+      <Clue Row="3" Col="1" Num="16" Dir="Across" Ans="UNEXAMINED">Like a life that's not worth living, per Socrates</Clue>
+      <Clue Row="3" Col="12" Num="18" Dir="Across" Ans="LEVI">___ Strauss &amp; Co.</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="PALOMA">Picasso daughter known for her fashion designs and perfumes</Clue>
+      <Clue Row="4" Col="8" Num="20" Dir="Across" Ans="AVOCADOS">Alligator pears</Clue>
+      <Clue Row="5" Col="4" Num="22" Dir="Across" Ans="NAGAT">Really bother</Clue>
+      <Clue Row="5" Col="10" Num="24" Dir="Across" Ans="NAME">First field in an online form, often</Clue>
+      <Clue Row="6" Col="1" Num="25" Dir="Across" Ans="JADES">Makes weary through overexposure</Clue>
+      <Clue Row="6" Col="7" Num="28" Dir="Across" Ans="ZEN">Meditative kind of state</Clue>
+      <Clue Row="6" Col="11" Num="30" Dir="Across" Ans="PIPER">Pan, in myth</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Across" Ans="UBER">Pioneer in self-driving cars</Clue>
+      <Clue Row="7" Col="6" Num="34" Dir="Across" Ans="LOSETO">Be beaten by</Clue>
+      <Clue Row="7" Col="13" Num="36" Dir="Across" Ans="OXO">Kitchen brand made with love?</Clue>
+      <Clue Row="8" Col="1" Num="37" Dir="Across" Ans="LOCATOR">Map with a "You are here" arrow</Clue>
+      <Clue Row="8" Col="9" Num="39" Dir="Across" Ans="GENESIS">Book with Adam and 41-Across</Clue>
+      <Clue Row="9" Col="1" Num="41" Dir="Across" Ans="EVE">See 39-Across</Clue>
+      <Clue Row="9" Col="5" Num="42" Dir="Across" Ans="ONEMAN">Lead-in to army or band</Clue>
+      <Clue Row="9" Col="12" Num="44" Dir="Across" Ans="VILE">Despicable</Clue>
+      <Clue Row="10" Col="1" Num="45" Dir="Across" Ans="SELIG">Bud ___, former M.L.B. commissioner</Clue>
+      <Clue Row="10" Col="7" Num="47" Dir="Across" Ans="SAT">Was on the bench</Clue>
+      <Clue Row="10" Col="11" Num="48" Dir="Across" Ans="RATES">Figures posted on taxi doors</Clue>
+      <Clue Row="11" Col="3" Num="49" Dir="Across" Ans="EVAN">"___ Almighty" (2007 film)</Clue>
+      <Clue Row="11" Col="8" Num="51" Dir="Across" Ans="DEREG">Loosening of government controls, for short</Clue>
+      <Clue Row="12" Col="1" Num="53" Dir="Across" Ans="KEROSENE">Lantern fuel</Clue>
+      <Clue Row="12" Col="10" Num="56" Dir="Across" Ans="AWAKES">Comes to</Clue>
+      <Clue Row="13" Col="1" Num="60" Dir="Across" Ans="ATAT">Giant four-legged combat walker in "Star Wars" films</Clue>
+      <Clue Row="13" Col="6" Num="61" Dir="Across" Ans="POPEMOBILE">Car with a bubble</Clue>
+      <Clue Row="14" Col="1" Num="63" Dir="Across" Ans="TOTE">Lug</Clue>
+      <Clue Row="14" Col="6" Num="64" Dir="Across" Ans="AGAR">Food-thickening agent</Clue>
+      <Clue Row="14" Col="11" Num="65" Dir="Across" Ans="VOWEL">Every other letter in this puzzle's grid(!)</Clue>
+      <Clue Row="15" Col="1" Num="66" Dir="Across" Ans="ONED">Lacking width and depth</Clue>
+      <Clue Row="15" Col="6" Num="67" Dir="Across" Ans="LORE">Stories passed from generation to generation</Clue>
+      <Clue Row="15" Col="11" Num="68" Dir="Across" Ans="ERIC">With 1-Down, star of Spielberg's "Munich"</Clue>
+      <Clue Row="1" Col="2" Num="1" Dir="Down" Ans="BANA">See 68-Across</Clue>
+      <Clue Row="1" Col="3" Num="2" Dir="Down" Ans="OREL">Cy Young winner Hershiser</Clue>
+      <Clue Row="1" Col="4" Num="3" Dir="Down" Ans="NIXONERA">1969-74, politically</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Down" Ans="OBAMAS">White House family after the Bushes</Clue>
+      <Clue Row="1" Col="7" Num="5" Dir="Down" Ans="OBI">Sash worn around the waist</Clue>
+      <Clue Row="1" Col="8" Num="6" Dir="Down" Ans="DONATES">Contributes to a Kickstarter campaign, say</Clue>
+      <Clue Row="1" Col="9" Num="7" Dir="Down" Ans="ELEV">Mountain fig.</Clue>
+      <Clue Row="1" Col="10" Num="8" Dir="Down" Ans="RADON">Gas that home inspectors check for</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Down" Ans="SALAMI">Pizza topping</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="OREDEPOSIT">Lode</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="DEVO">Rock band known for its "energy domes"</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="ASIS">Sign suggesting "caveat emptor"</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Down" Ans="CUP">Recipe unit</Clue>
+      <Clue Row="3" Col="6" Num="17" Dir="Down" Ans="MAG">People or Us, for short</Clue>
+      <Clue Row="4" Col="11" Num="21" Dir="Down" Ans="CAPON">Chicken for cooking</Clue>
+      <Clue Row="5" Col="7" Num="23" Dir="Down" Ans="AZORES">Archipelago west of Portugal</Clue>
+      <Clue Row="6" Col="1" Num="25" Dir="Down" Ans="JULES">Author Verne</Clue>
+      <Clue Row="6" Col="2" Num="26" Dir="Down" Ans="ABOVE">Like the sky (unless you're an astronaut)</Clue>
+      <Clue Row="6" Col="3" Num="27" Dir="Down" Ans="DECELERATE">Slow down</Clue>
+      <Clue Row="6" Col="9" Num="29" Dir="Down" Ans="NEGATE">Nullify</Clue>
+      <Clue Row="6" Col="14" Num="31" Dir="Down" Ans="EXILE">Napoleon, when on St. Helena</Clue>
+      <Clue Row="6" Col="15" Num="32" Dir="Down" Ans="ROSES">Kentucky Derby prize</Clue>
+      <Clue Row="7" Col="6" Num="34" Dir="Down" Ans="LON">Scary Chaney</Clue>
+      <Clue Row="7" Col="10" Num="35" Dir="Down" Ans="TEN">Base ___</Clue>
+      <Clue Row="8" Col="5" Num="38" Dir="Down" Ans="TOGAS">Attire on ancient statues</Clue>
+      <Clue Row="8" Col="12" Num="40" Dir="Down" Ans="EVAGABOR">"Green Acres" co-star in 1960s TV</Clue>
+      <Clue Row="9" Col="8" Num="43" Dir="Down" Ans="MADEPAR">Did better than bogeyed</Clue>
+      <Clue Row="10" Col="4" Num="46" Dir="Down" Ans="IVOTED">Sticker worn proudly in November</Clue>
+      <Clue Row="10" Col="11" Num="48" Dir="Down" Ans="REWOVE">Fixed, as a tapestry</Clue>
+      <Clue Row="11" Col="6" Num="50" Dir="Down" Ans="NEPAL">Home to Tenzing-Hillary Airport</Clue>
+      <Clue Row="11" Col="10" Num="52" Dir="Down" Ans="RAM">One making a ewe turn?</Clue>
+      <Clue Row="12" Col="1" Num="53" Dir="Down" Ans="KATO">Bruce Lee role based on an old radio character</Clue>
+      <Clue Row="12" Col="2" Num="54" Dir="Down" Ans="ETON">Rival school of Harrow and Radley</Clue>
+      <Clue Row="12" Col="7" Num="55" Dir="Down" Ans="NOGO">Canceled, as a launch</Clue>
+      <Clue Row="12" Col="13" Num="57" Dir="Down" Ans="KIWI">New Zealand bird</Clue>
+      <Clue Row="12" Col="14" Num="58" Dir="Down" Ans="ELEC">"Juice": Abbr.</Clue>
+      <Clue Row="12" Col="15" Num="59" Dir="Down" Ans="SEL">Salt, in France</Clue>
+      <Clue Row="13" Col="9" Num="62" Dir="Down" Ans="ERE">"But I heard him exclaim, ___ he ..."</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Neat that VOWEL exhibits the exact property exhibited by the entire grid &ndash; alternation between vowel and consonant. Entries that exhibit this property are very useful for constructors, as they tend to make construction much easier. Fun inside nod to the gridmaking biz.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Popemobile" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Popemobil_Mai_2007.jpg/460px-Popemobil_Mai_2007.jpg" style="border:1px solid lightgray; float:right; height:145px; margin:6px 0px 6px 12px; width:220px" title="That's one sweet ride!" /></a></p>
+
+<p>Not so fun: OREL / PALOMA, ODER / ELEV, CAPON, DEREG, ONED, all in a single puzzle. All in an early-week puzzle, to boot. I think everything is ultimately fair, but I worry that a puzzle this gluey is going to turn off less experienced solvers.</p>
+
+<p>It&#39;s an interesting feat of construction that made me think about how it could be done. Pretty easy, as it turns out, writing some code that outputs only the vowel-consonant-alternating entries from one&#39;s list and then filling from there.</p>
+
+<p>Too much of a one-trick pony for this solver&#39;s taste, the conceit not worth the price of the hiccups in execution. But a couple of fun entries that fit the pattern, POPEMOBILE the standout, and also Socrates&#39; UNEXAMINED life. And that VOWEL revealer, exhibiting the same property, is definitely memorable.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>When I originally submitted this puzzle, I sent in two versions: one with the reveal in the SE and one with the reveal at 1-Across. I could see the fun in both having the vowel hint to help fill out the grid (as would be the case if it was the first clue) and as having it as a more traditional reveal. Will liked the traditional way which suited me just fine. Another interesting twist was how to treat &quot;Y&quot;: when is it a vowel and when is it not? I ended up removing all Ys in the rewrite to avoid the confusion (though was really sorry to lose the crossing of &quot;ODE TO JOY&quot; and &quot;YO MAMA JOKE&quot;)</p>
+
+<p>This is my second Times puzzle, and while the excitement of the accomplishment is less the second go &#39;round, it is only ever so slightly less. I&#39;ve got a frame picked out and a place on my wall already chosen. Here&#39;s to running out of wall space before either my brain gives out, or our robot overlords make crossword constructors expendable.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

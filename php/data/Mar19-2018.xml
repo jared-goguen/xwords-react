@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Monday, March 19, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/18/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Mon, Mar 19, 2018</Title>
+    <Author>Michael Wiesenberg and Andrea Carla Michaels</Author>
+    <CanonicalNames>
+      <Constructor>Michael Wiesenberg</Constructor>
+      <Constructor>Andrea Carla Michaels</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/19/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>ABBIE.ZING.BLOW</Row>
+      <Row>ROLFE.ASEA.LIVE</Row>
+      <Row>ORANGEPEEL.USES</Row>
+      <Row>ANNO.SPED.HEART</Row>
+      <Row>REDTAPE..PUB...</Row>
+      <Row>....INDIGOGIRLS</Row>
+      <Row>ONDVD..MONORAIL</Row>
+      <Row>LIII.PAPPY.DUMA</Row>
+      <Row>ALLOCATE..ISLET</Row>
+      <Row>YELLOWLIGHT....</Row>
+      <Row>...EON..RAINBOW</Row>
+      <Row>MALTS.FWIW.OUZO</Row>
+      <Row>ACER.GREENARROW</Row>
+      <Row>TINA.REEF.CARNE</Row>
+      <Row>EDDY.REPS.SHOED</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="ABBIE">Radical Hoffman who wrote "Steal This Book"</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="ZING">Stimulating quality</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="BLOW">Huff and puff</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="ROLFE">John who married Pocahontas</Clue>
+      <Clue Row="2" Col="7" Num="15" Dir="Across" Ans="ASEA">On the briny</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="LIVE">Opposite of "on tape"</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="ORANGEPEEL">*Garnish for a cocktail</Clue>
+      <Clue Row="3" Col="12" Num="19" Dir="Across" Ans="USES">Takes advantage of</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="ANNO">The "A" of A.D.</Clue>
+      <Clue Row="4" Col="6" Num="21" Dir="Across" Ans="SPED">Zipped along</Clue>
+      <Clue Row="4" Col="11" Num="22" Dir="Across" Ans="HEART">Tin Man's desire</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Across" Ans="REDTAPE">*Bureaucratic rigmarole</Clue>
+      <Clue Row="5" Col="10" Num="25" Dir="Across" Ans="PUB">Place for drinks</Clue>
+      <Clue Row="6" Col="5" Num="26" Dir="Across" Ans="INDIGOGIRLS">*"Closer to Fine" folk-rock duo</Clue>
+      <Clue Row="7" Col="1" Num="32" Dir="Across" Ans="ONDVD">How some home videos are stored</Clue>
+      <Clue Row="7" Col="8" Num="36" Dir="Across" Ans="MONORAIL">Disney World transport</Clue>
+      <Clue Row="8" Col="1" Num="37" Dir="Across" Ans="LIII">53, in old Rome</Clue>
+      <Clue Row="8" Col="6" Num="38" Dir="Across" Ans="PAPPY">Father, to Li'l Abner</Clue>
+      <Clue Row="8" Col="12" Num="40" Dir="Across" Ans="DUMA">Russian legislature</Clue>
+      <Clue Row="9" Col="1" Num="41" Dir="Across" Ans="ALLOCATE">Dole out</Clue>
+      <Clue Row="9" Col="11" Num="43" Dir="Across" Ans="ISLET">Bit of land in the ocean</Clue>
+      <Clue Row="10" Col="1" Num="44" Dir="Across" Ans="YELLOWLIGHT">*Caution to slow down</Clue>
+      <Clue Row="11" Col="4" Num="47" Dir="Across" Ans="EON">Very long time</Clue>
+      <Clue Row="11" Col="9" Num="48" Dir="Across" Ans="RAINBOW">What the starts of the answers to the seven starred clues constitute</Clue>
+      <Clue Row="12" Col="1" Num="53" Dir="Across" Ans="MALTS">Fountain drinks</Clue>
+      <Clue Row="12" Col="7" Num="56" Dir="Across" Ans="FWIW">Letters suggesting "I'll just go ahead and throw this out"</Clue>
+      <Clue Row="12" Col="12" Num="58" Dir="Across" Ans="OUZO">Anise-flavored liqueur</Clue>
+      <Clue Row="13" Col="1" Num="59" Dir="Across" Ans="ACER">Taiwanese computer brand</Clue>
+      <Clue Row="13" Col="6" Num="60" Dir="Across" Ans="GREENARROW">*DC Comics superhero with the sidekick Speedy</Clue>
+      <Clue Row="14" Col="1" Num="62" Dir="Across" Ans="TINA">"30 Rock" star Fey</Clue>
+      <Clue Row="14" Col="6" Num="63" Dir="Across" Ans="REEF">Shipwreck site, perhaps</Clue>
+      <Clue Row="14" Col="11" Num="64" Dir="Across" Ans="CARNE">Chili con ___</Clue>
+      <Clue Row="15" Col="1" Num="65" Dir="Across" Ans="EDDY">Circular water current</Clue>
+      <Clue Row="15" Col="6" Num="66" Dir="Across" Ans="REPS">Exerciser's sets</Clue>
+      <Clue Row="15" Col="11" Num="67" Dir="Across" Ans="SHOED">Did a blacksmith's job on</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="AROAR">Loud, as a crowd</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="BORNE">Carried</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="BLAND">Flavorless</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="IFNOT">"Otherwise ..."</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="EEG">Hosp. readout</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="ZAPPED">Heated in a microwave</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="ISEE">"Uh-huh"</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="NEED">Requirement</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="GAL">Cowpoke's sweetie</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="BLUEBIRDS">*Symbols of happiness</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="LISA">Simpson with a high I.Q.</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="OVER">So last year, as a fad</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="WEST">Sunset's direction</Clue>
+      <Clue Row="3" Col="6" Num="18" Dir="Down" Ans="ESPN">"Monday Night Football" channel</Clue>
+      <Clue Row="4" Col="11" Num="22" Dir="Down" Ans="HUGO">Victor who wrote "The Hunchback of Notre Dame"</Clue>
+      <Clue Row="5" Col="5" Num="24" Dir="Down" Ans="AID">Earthquake relief, e.g.</Clue>
+      <Clue Row="5" Col="10" Num="25" Dir="Down" Ans="PONY">Small equine</Clue>
+      <Clue Row="6" Col="8" Num="27" Dir="Down" Ans="IMPEI">Louvre Pyramid architect</Clue>
+      <Clue Row="6" Col="9" Num="28" Dir="Down" Ans="GOP">Lincoln was its first successful standard-bearer, for short</Clue>
+      <Clue Row="6" Col="13" Num="29" Dir="Down" Ans="RAUL">___ Julia, actor who played Gomez Addams</Clue>
+      <Clue Row="6" Col="14" Num="30" Dir="Down" Ans="LIME">Tart, green fruit</Clue>
+      <Clue Row="6" Col="15" Num="31" Dir="Down" Ans="SLAT">Shutter strip</Clue>
+      <Clue Row="7" Col="1" Num="32" Dir="Down" Ans="OLAY">Neutrogena rival</Clue>
+      <Clue Row="7" Col="2" Num="33" Dir="Down" Ans="NILE">Cairo's river</Clue>
+      <Clue Row="7" Col="3" Num="34" Dir="Down" Ans="DILL">It's in a pickle</Clue>
+      <Clue Row="7" Col="4" Num="35" Dir="Down" Ans="VIOLETRAY">*Antique medical device used for electrotherapy</Clue>
+      <Clue Row="8" Col="6" Num="38" Dir="Down" Ans="PAWN">Lowly chess piece</Clue>
+      <Clue Row="8" Col="7" Num="39" Dir="Down" Ans="ATL">Home of the Braves: Abbr.</Clue>
+      <Clue Row="9" Col="5" Num="42" Dir="Down" Ans="COOS">Dove sounds</Clue>
+      <Clue Row="9" Col="11" Num="43" Dir="Down" Ans="ITI">"Lord, is ___?": Matthew 26:22</Clue>
+      <Clue Row="10" Col="9" Num="45" Dir="Down" Ans="GRIEFS">Intense sorrows</Clue>
+      <Clue Row="10" Col="10" Num="46" Dir="Down" Ans="HAWN">Actress Goldie</Clue>
+      <Clue Row="11" Col="12" Num="49" Dir="Down" Ans="NORAH">"Don't Know Why" singer Jones</Clue>
+      <Clue Row="11" Col="13" Num="50" Dir="Down" Ans="BURRO">Beast of burden</Clue>
+      <Clue Row="11" Col="14" Num="51" Dir="Down" Ans="OZONE">Layer of the upper atmosphere</Clue>
+      <Clue Row="11" Col="15" Num="52" Dir="Down" Ans="WOWED">Superimpressed</Clue>
+      <Clue Row="12" Col="1" Num="53" Dir="Down" Ans="MATE">One sock, to another</Clue>
+      <Clue Row="12" Col="2" Num="54" Dir="Down" Ans="ACID">Gastric ___</Clue>
+      <Clue Row="12" Col="3" Num="55" Dir="Down" Ans="LEND">Supply temporarily</Clue>
+      <Clue Row="12" Col="7" Num="56" Dir="Down" Ans="FREE">They say there's no such thing as this kind of lunch</Clue>
+      <Clue Row="12" Col="8" Num="57" Dir="Down" Ans="WEEP">Shed tears</Clue>
+      <Clue Row="13" Col="6" Num="60" Dir="Down" Ans="GRR">Watchdog's warning</Clue>
+      <Clue Row="13" Col="11" Num="61" Dir="Down" Ans="ACS">Cooling units, for short</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Neat bit of trivia: the Shortz era began with a <a href="https://www.xwordinfo.com/Crossword?date=11/21/1993">great tribute to ROY G. BIV</a>, the colors of the rainbow, in order. This theme concept has been revisited many a time &ndash; such great crossword fodder.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Rainbow" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Double-alaskan-rainbow.jpg/800px-Double-alaskan-rainbow.jpg" style="border:1px solid lightgray; float:right; height:115px; margin:6px 0px 6px 12px; width:220px" title="That must be ROY" /></a></p>
+
+<p>It is, however, difficult to fit in all seven colors into a 15x15 grid. (The average number of themers is about five these days.) Michael and Acme accomplish it today, and also stick in RAINBOW as a revealer. Impressive to work in eight themers, fairly smoothly.</p>
+
+<p>Excellent use of interlock, INDIGO GIRLS crossing BLUEBIRDS, and YELLOW LIGHT crossing VIOLET RAY. In some cases, constructors use this sort of interlock to show off, more for themselves than for the solver. But here, it&#39;s almost necessary, to squeeze everything in. I highlighted the themers below, to demonstrate how tight a fit it is.</p>
+
+<p>Oh, if it hadn&#39;t been for VIOLET RAY &mdash; all the other themers are so colorful (ha ha). What a curious grid entry. (I usually see SHRINKING VIOLET for this theme type.) It was interesting to learn about this antique piece of medical equipment, but electrotherapy seems so barbaric.</p>
+
+<p>It&#39;s tough for a science nerd like me to see all the colors spread out willy-nilly, instead of in proper ROY G. BIV order. I&#39;m not entirely sure it could have been done without more compromises (LIII, ITI, ACS &mdash; I ASEA you), but here&#39;s one case where I would have been okay with a higher price to pay in order to get proper color order.</p>
+
+<p>THINGS NEED TO BE PROPER, SHOUTED THE OCD DORK!</p>
+
+<p>My poor kids.</p>
+
+<p>Hear me out. Put RED TAPE in row 3, all the way to the left. ORANGE PEEL all the way to the right, in row 4 or 5. Keep alternating until you reach RAINBOW, down in row 13. Or take out RAINBOW if you need to.</p>
+
+<p>Heck, even if you needed to go asymmetrical, I&#39;d accept that. ANYTHING TO ACHIEVE ORDER! THE WILLY-NILLINESS IS SO DISTRACTING!</p>
+
+<p>I should probably find them a therapist sooner rather than later.</p>
+
+<p>But overall, still an impressive feat to fit eight themers in. If in a disorderly fashion.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p><strong>MICHAEL:</strong> The idea for the puzzle first came to me in 2007. I tried unsuccessfully to fit seven entries that had all the colors of the rainbow, plus RAINBOW as the reveal. I looked at the puzzle from time to time, but couldn&#39;t manage to get eight entries into one puzzle. I concluded it couldn&#39;t be done, but then I was trying to fit all entries horizontally. I revisited the idea and came up with something I could make work by making two of the entries vertical.</p>
+
+<p>I had had four unthemed puzzles published in the NYT by this time, but, although I&#39;ve had many themed puzzles published, none in the NYT. My efforts were an inconsistent mix of easy and difficult entries and clues.</p>
+
+<p>I contacted Andrea Carla Michaels because I felt I needed help with devising an early-week puzzle from someone who has a lot of experience with them. In a lengthy exchange (70) of emails, we honed the puzzle till we got something we felt worth submitting. We considered ROYGBIV as the reveal (&quot;Mnemonic for remembering a list of seven of which the starred entries all contain elements&quot;) but went back to RAINBOW. For ?APPY, we went back and forth with HAPPY, NAPPY, SAPPY, YAPPY, and settled on HAPPY as the best word for early week.</p>
+
+<p>FWIW, we think the final version contains a minimum of difficult entries.</p>
+
+<p><strong>ACME:</strong> Was in awe that Michael could get eight theme entries into a Monday! (I warned him that regardless of the difficulty WE thought this was, it would be slotted for a Monday!) That necessitated many iterations, to get the fill &quot;simple.&quot; How nice at the end of all this to see a rainbow!</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

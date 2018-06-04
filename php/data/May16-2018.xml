@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Wednesday, May 16, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/15/2018 at 7:03 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Wed, May 16, 2018</Title>
+    <Author>Jonathan Schmalzbach and Bill Albright</Author>
+    <CanonicalNames>
+      <Constructor>Jonathan Schmalzbach</Constructor>
+      <Constructor>Bill Albright</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/16/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>TOPIC.STATS.LAY</Row>
+      <Row>ANODE.URIAH.ABU</Row>
+      <Row>JEWELSVERNE.NYC</Row>
+      <Row>..EDIE.NED.DESK</Row>
+      <Row>GRR.CLODDEBUSSY</Row>
+      <Row>RUT.ALT..MEL...</Row>
+      <Row>AMOS.TIP..AUDRA</Row>
+      <Row>TOOLOOSELAUTREC</Row>
+      <Row>ARLEN..GAT.HIGH</Row>
+      <Row>...ACS..ITS.VIE</Row>
+      <Row>BLAZEPASCAL.ESS</Row>
+      <Row>RILE.ALA.CAST..</Row>
+      <Row>ATL.FRENCHTWIST</Row>
+      <Row>NEO.ASPER.EAMES</Row>
+      <Row>DRY.NEHRU.SPEAK</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="TOPIC">Issue</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Across" Ans="STATS">Fodder for sports analytics</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Across" Ans="LAY">Place, as a bet</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="ANODE">What a current flows through</Clue>
+      <Clue Row="2" Col="7" Num="15" Dir="Across" Ans="URIAH">Dickens's ___ Heep</Clue>
+      <Clue Row="2" Col="13" Num="16" Dir="Across" Ans="ABU">"Aladdin" monkey</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="JEWELSVERNE">Nickname for a glitzy author?</Clue>
+      <Clue Row="3" Col="13" Num="19" Dir="Across" Ans="NYC">It contains M.S.G.</Clue>
+      <Clue Row="4" Col="3" Num="20" Dir="Across" Ans="EDIE">Emmy-winning Falco</Clue>
+      <Clue Row="4" Col="8" Num="21" Dir="Across" Ans="NED">Stark of "Game of Thrones"</Clue>
+      <Clue Row="4" Col="12" Num="22" Dir="Across" Ans="DESK">A cluttered one is a sign of a cluttered mind, it's said</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Across" Ans="GRR">[Don't touch my bone!]</Clue>
+      <Clue Row="5" Col="5" Num="25" Dir="Across" Ans="CLODDEBUSSY">Nickname for a clumsy composer?</Clue>
+      <Clue Row="6" Col="1" Num="28" Dir="Across" Ans="RUT">Sunken track</Clue>
+      <Clue Row="6" Col="5" Num="29" Dir="Across" Ans="ALT">Key below Z, on a Mac</Clue>
+      <Clue Row="6" Col="10" Num="30" Dir="Across" Ans="MEL">Country singer Tillis</Clue>
+      <Clue Row="7" Col="1" Num="31" Dir="Across" Ans="AMOS">John who played an older Kunta Kinte on "Roots"</Clue>
+      <Clue Row="7" Col="6" Num="33" Dir="Across" Ans="TIP">"The bay in the fifth," for one</Clue>
+      <Clue Row="7" Col="11" Num="35" Dir="Across" Ans="AUDRA">Actress McDonald</Clue>
+      <Clue Row="8" Col="1" Num="39" Dir="Across" Ans="TOOLOOSELAUTREC">Nickname for a sloppy painter?</Clue>
+      <Clue Row="9" Col="1" Num="43" Dir="Across" Ans="ARLEN">"Get Happy" composer</Clue>
+      <Clue Row="9" Col="8" Num="44" Dir="Across" Ans="GAT">Gangster's gun</Clue>
+      <Clue Row="9" Col="12" Num="45" Dir="Across" Ans="HIGH">Setting for 46-Across on a very hot day</Clue>
+      <Clue Row="10" Col="4" Num="46" Dir="Across" Ans="ACS">See 45-Across</Clue>
+      <Clue Row="10" Col="9" Num="48" Dir="Across" Ans="ITS">"___ official ..."</Clue>
+      <Clue Row="10" Col="13" Num="50" Dir="Across" Ans="VIE">Compete</Clue>
+      <Clue Row="11" Col="1" Num="51" Dir="Across" Ans="BLAZEPASCAL">Nickname for a fiery philosopher?</Clue>
+      <Clue Row="11" Col="13" Num="56" Dir="Across" Ans="ESS">Shape of a swan's neck</Clue>
+      <Clue Row="12" Col="1" Num="57" Dir="Across" Ans="RILE">Get under the skin of</Clue>
+      <Clue Row="12" Col="6" Num="58" Dir="Across" Ans="ALA">___ grecque (served with olive oil, lemon juice and seasonings)</Clue>
+      <Clue Row="12" Col="10" Num="59" Dir="Across" Ans="CAST">Names in film credits</Clue>
+      <Clue Row="13" Col="1" Num="61" Dir="Across" Ans="ATL">City where trap music originated: Abbr.</Clue>
+      <Clue Row="13" Col="5" Num="62" Dir="Across" Ans="FRENCHTWIST">Classic hairstyle ... or a hint to the puns in 17-, 25-, 39- and 51-Across</Clue>
+      <Clue Row="14" Col="1" Num="66" Dir="Across" Ans="NEO">Prefix with colonialism</Clue>
+      <Clue Row="14" Col="5" Num="67" Dir="Across" Ans="ASPER">According to</Clue>
+      <Clue Row="14" Col="11" Num="68" Dir="Across" Ans="EAMES">Chair designer Charles</Clue>
+      <Clue Row="15" Col="1" Num="69" Dir="Across" Ans="DRY">Parched</Clue>
+      <Clue Row="15" Col="5" Num="70" Dir="Across" Ans="NEHRU">Prime minister called "Pandit"</Clue>
+      <Clue Row="15" Col="11" Num="71" Dir="Across" Ans="SPEAK">Address, with "to"</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="TAJ">___ Mahal</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ONE">Start of every ZIP code in Pennsylvania</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="POWERTOOL">Jigsaw, e.g.</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="IDED">Named, for short</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="CELICA">Toyota coupe sold from 1970 to 2006</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="SUV">Hyundai Santa Fe or Tucson, briefly</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="TREND">Focus of a Facebook sidebar</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="AIRED">Put on TV</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="TANDEM">Kind of bike or kayak</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="SHE">Miss identification?</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="LANES">Freeway divisions</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="ABYSS">Deep, deep pit</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="YUCKY">Eliciting an "ugh," maybe</Clue>
+      <Clue Row="3" Col="6" Num="18" Dir="Down" Ans="SELLTO">Have as a customer</Clue>
+      <Clue Row="4" Col="12" Num="22" Dir="Down" Ans="DULUTH">Port at the west end of Lake Superior</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Down" Ans="GRATA">Persona non ___</Clue>
+      <Clue Row="5" Col="2" Num="24" Dir="Down" Ans="RUMOR">It might begin "Did you hear ...?"</Clue>
+      <Clue Row="5" Col="7" Num="26" Dir="Down" Ans="OTIS">Old blues singer Johnny</Clue>
+      <Clue Row="5" Col="11" Num="27" Dir="Down" Ans="BEAU">Fellow bringing roses, perhaps</Clue>
+      <Clue Row="7" Col="4" Num="32" Dir="Down" Ans="SLEAZE">Sordid sort</Clue>
+      <Clue Row="7" Col="8" Num="34" Dir="Down" Ans="PEG">Hard throw, in baseball</Clue>
+      <Clue Row="7" Col="13" Num="36" Dir="Down" Ans="DRIVETIME">Rush-hour</Clue>
+      <Clue Row="7" Col="14" Num="37" Dir="Down" Ans="REGIS">TV host Philbin</Clue>
+      <Clue Row="7" Col="15" Num="38" Dir="Down" Ans="ACHES">Bodily complaints</Clue>
+      <Clue Row="8" Col="5" Num="40" Dir="Down" Ans="ONCE">First word of "The Raven"</Clue>
+      <Clue Row="8" Col="9" Num="41" Dir="Down" Ans="LAIC">Secular</Clue>
+      <Clue Row="8" Col="10" Num="42" Dir="Down" Ans="ATTACH">Hook up (to)</Clue>
+      <Clue Row="10" Col="6" Num="47" Dir="Down" Ans="SPARSE">Few and far between</Clue>
+      <Clue Row="10" Col="11" Num="49" Dir="Down" Ans="SLATES">Schedules</Clue>
+      <Clue Row="11" Col="1" Num="51" Dir="Down" Ans="BRAND">___ X</Clue>
+      <Clue Row="11" Col="2" Num="52" Dir="Down" Ans="LITER">Soda bottle unit</Clue>
+      <Clue Row="11" Col="3" Num="53" Dir="Down" Ans="ALLOY">Bronze, but not silver or gold</Clue>
+      <Clue Row="11" Col="7" Num="54" Dir="Down" Ans="ALEPH">Beth's preceder</Clue>
+      <Clue Row="11" Col="8" Num="55" Dir="Down" Ans="SANER">More rational</Clue>
+      <Clue Row="12" Col="12" Num="60" Dir="Down" Ans="SWAP">Give and take</Clue>
+      <Clue Row="13" Col="5" Num="62" Dir="Down" Ans="FAN">Item above a kitchen stove</Clue>
+      <Clue Row="13" Col="9" Num="63" Dir="Down" Ans="CRU">Grand finale?</Clue>
+      <Clue Row="13" Col="14" Num="64" Dir="Down" Ans="SEA">"The vasty deep," in Shakespeare</Clue>
+      <Clue Row="13" Col="15" Num="65" Dir="Down" Ans="TSK">"What a shame!"</Clue>
+    </Clues>
+    <JimNotes><![CDATA[This is <a href="https://www.xwordinfo.com/Thumbs?author=Jonathan+Schmalzbach">Mr. Schmalzbach</a>&#39;s 31st NYT crossword, but his first in 20 years. <a href="https://www.xwordinfo.com/Crossword?date=5/26/1998">Here&#39;s his previous one</a> from 1998.]]></JimNotes>
+    <JeffNotes><![CDATA[<p>Pretty good homophones for Frenchmen, Jules = JEWELS, Claude = CLOD, Toulouse = TOO LOOSE, Blaise = BLAZE. I&#39;ve seen TOO LOOSE before &ndash; he&#39;s an artist in the comics strip &quot;Mutts&quot; &ndash; but the others were fun and novel.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Blaise_Pascal" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blaise_Pascal_Versailles.JPG/440px-Blaise_Pascal_Versailles.JPG" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:209px" title="Hardly looks like he's in a rush" /></a></p>
+
+<p>TOO LOOSE was the lone homophone resulting in a word split, making him feel like the odd man out. Also, he was the only one whose full name didn&#39;t make it in. (Henri de Toulouse-Lautrec, why must you be so long and crossword unfriendly?!)</p>
+
+<p>Maybe to replace him for better consistency &hellip; CHARLES DE GALL? Or COCOA CHANEL? Feels like there could be others.</p>
+
+<p>For name-driven themes, I prefer to keep the fill largely free of names, especially ones that aren&#39;t seen very often. Otherwise, you run the risk of ending up with a trivia exam. For those that might not have known PASCAL&#39;s first name, I wonder if EAMES, AUDRA, ARLEN might have exacerbated the problem.</p>
+
+<p>The more common names (or ones you really should know) like MEL, REGIS, AMOS, EDIE, OTIS, NEHRU, are fine. But given the excess of tougher ones already ... that&#39;s a ton of names.</p>
+
+<p>A constructor&#39;s life is never easy. Some strong gridwork, building around five long themers, ending up with just ACS and ESS as minor crossword glue. For as much as I despise inelegant crossword glue, though, I would have accepted a little more of it, to reduce the pile-up of esoteric names.</p>
+
+<p>Always the trade-offs.</p>
+
+<p>Great clue for NYC. MSG isn&#39;t monosodium glutamate, but Madison Square Garden. Beautiful misdirect!</p>
+
+<p>FRENCH TWIST didn&#39;t feel like a perfectly apt hint for homophonization &mdash; to me, it more implies anagramming &mdash; but it works. And I did like most of the themers. Entertaining overall.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p><strong>BILL: </strong>This theme came from the observation that much of French culture is widely known in the United States and thus the personages that were riffed off of were familiar names. When you think of French history &mdash; the Bastille, Marie Antoinette, Joan of Arc, De Gaulle &mdash; or French sites &mdash; Cannes, Versailles, Napoleon&#39;s tomb &mdash; or French artists or food, the infiltration into American consciousness goes way beyond the size of the French population in the U.S., relative to other countries.</p>
+
+<p>This puzzle could not be done on four German cultural figures, or four Spanish cultural figures, or even four British ones (That&#39;s a challenge, constructors!). Especially with the coverage in our group &mdash; a painter, an author, a philosopher/mathematician, and a musician, all born more than 150 years ago.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

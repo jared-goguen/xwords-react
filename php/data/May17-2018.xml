@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Thursday, May 17, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/16/2018 at 7:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Thu, May 17, 2018</Title>
+    <Author>David J. Kahn</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/17/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>CLAP.AGAVE.SAME</Row>
+      <Row>HERO.WEWON.ILYA</Row>
+      <Row>AMES.NEWORLEANS</Row>
+      <Row>DONTASK.DOORMAT</Row>
+      <Row>SNAIL..NONPRO..</Row>
+      <Row>...TATTOO..ADAM</Row>
+      <Row>RAJ.RIOT...SORE</Row>
+      <Row>ETA.MAYOSOE.MEL</Row>
+      <Row>DAZS...BULB.EAT</Row>
+      <Row>ADZE..RIPSAW...</Row>
+      <Row>..BASSET..LASTS</Row>
+      <Row>INAWORD.BILLNYE</Row>
+      <Row>SANANTONIO.LILI</Row>
+      <Row>INDY.ANION.ODES</Row>
+      <Row>SASS.SENSE.PERM</Row>
+    </Grid>
+    <RebusEntries>
+      <Rebus Row="8" Col="8" Short="O">1</Rebus>
+      <Rebus Row="8" Col="9" Short="S">7</Rebus>
+      <Rebus Row="8" Col="10" Short="O">1</Rebus>
+      <Rebus Row="8" Col="11" Short="E">8</Rebus>
+    </RebusEntries>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="CLAP">Give one a hand</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="AGAVE">Mescal component</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Across" Ans="SAME">"The ___ to you!"</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="HERO">"Sully" Sullenberger, notably</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="WEWON">Champs' exclamation</Clue>
+      <Clue Row="2" Col="12" Num="16" Dir="Across" Ans="ILYA">1958 Physics co-Nobelist ___ Frank</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="AMES">Aldrich who was a spy for the K.G.B.</Clue>
+      <Clue Row="3" Col="6" Num="18" Dir="Across" Ans="NEWORLEANS">U.S. city founded in 37-Across</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="DONTASK">"Have a tough day?" answer</Clue>
+      <Clue Row="4" Col="9" Num="22" Dir="Across" Ans="DOORMAT">Stepped-all-over type</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Across" Ans="SNAIL">Slowpoke</Clue>
+      <Clue Row="5" Col="8" Num="24" Dir="Across" Ans="NONPRO">Dilettante, say</Clue>
+      <Clue Row="6" Col="4" Num="25" Dir="Across" Ans="TATTOO">Ink spot?</Clue>
+      <Clue Row="6" Col="12" Num="28" Dir="Across" Ans="ADAM">Congressman Schiff</Clue>
+      <Clue Row="7" Col="1" Num="31" Dir="Across" Ans="RAJ">Friend of Sheldon on "The Big Bang Theory"</Clue>
+      <Clue Row="7" Col="5" Num="34" Dir="Across" Ans="RIOT">Comedy club hit</Clue>
+      <Clue Row="7" Col="12" Num="35" Dir="Across" Ans="SORE">Word with spot or sport</Clue>
+      <Clue Row="8" Col="1" Num="36" Dir="Across" Ans="ETA">ORD listing</Clue>
+      <Clue Row="8" Col="5" Num="37" Dir="Across" Ans="MAY1718">See 18- and 60-Across</Clue>
+      <Clue Row="8" Col="13" Num="41" Dir="Across" Ans="MEL">Blount in the Pro Football Hall of Fame</Clue>
+      <Clue Row="9" Col="1" Num="42" Dir="Across" Ans="DAZS">Häagen-___</Clue>
+      <Clue Row="9" Col="8" Num="44" Dir="Across" Ans="BULB">Light source</Clue>
+      <Clue Row="9" Col="13" Num="45" Dir="Across" Ans="EAT">Make a submarine disappear?</Clue>
+      <Clue Row="10" Col="1" Num="46" Dir="Across" Ans="ADZE">Woodcutting tool</Clue>
+      <Clue Row="10" Col="7" Num="47" Dir="Across" Ans="RIPSAW">Woodcutting tool</Clue>
+      <Clue Row="11" Col="3" Num="49" Dir="Across" Ans="BASSET">Long-eared pet</Clue>
+      <Clue Row="11" Col="11" Num="52" Dir="Across" Ans="LASTS">Goes on</Clue>
+      <Clue Row="12" Col="1" Num="56" Dir="Across" Ans="INAWORD">Concisely</Clue>
+      <Clue Row="12" Col="9" Num="58" Dir="Across" Ans="BILLNYE">TV personality in a bow tie</Clue>
+      <Clue Row="13" Col="1" Num="60" Dir="Across" Ans="SANANTONIO">U.S. city founded in 37-Across</Clue>
+      <Clue Row="13" Col="12" Num="62" Dir="Across" Ans="LILI">Taylor of "Public Enemies"</Clue>
+      <Clue Row="14" Col="1" Num="63" Dir="Across" Ans="INDY">Annual race, for short</Clue>
+      <Clue Row="14" Col="6" Num="64" Dir="Across" Ans="ANION">Negative particle</Clue>
+      <Clue Row="14" Col="12" Num="65" Dir="Across" Ans="ODES">"To Autumn" and others</Clue>
+      <Clue Row="15" Col="1" Num="66" Dir="Across" Ans="SASS">Cheekiness</Clue>
+      <Clue Row="15" Col="6" Num="67" Dir="Across" Ans="SENSE">Detect</Clue>
+      <Clue Row="15" Col="12" Num="68" Dir="Across" Ans="PERM">Curl maker</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="CHADS">Polling place hangers-on?</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="LEMON">Cocktail slice</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="ARENA">AT&amp;T Center, e.g.</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="POSTIT">Something to be stuck on</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="AWNS">Plant bristles</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="GEEK">"The Big Bang Theory" sort</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="AWW">"How precious!"</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="VOODOO">Expert spelling?</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="ENRON">Big company in 2001 news</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="SIERRAS">Jagged mountain range</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="ALAMODOME">60-Across sight</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="MYNA">One often saying "hello," maybe</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="EAST">Three o'clock, so to speak</Clue>
+      <Clue Row="3" Col="11" Num="19" Dir="Down" Ans="LOP">Prune</Clue>
+      <Clue Row="4" Col="5" Num="21" Dir="Down" Ans="ALARM">Cellphone feature</Clue>
+      <Clue Row="5" Col="8" Num="24" Dir="Down" Ans="NOT1BIT">Zero</Clue>
+      <Clue Row="6" Col="6" Num="26" Dir="Down" Ans="TIA">___ Maria (rum-based liqueur)</Clue>
+      <Clue Row="6" Col="7" Num="27" Dir="Down" Ans="TOY">Fiddle (with)</Clue>
+      <Clue Row="6" Col="14" Num="29" Dir="Down" Ans="AREA">Locale</Clue>
+      <Clue Row="6" Col="15" Num="30" Dir="Down" Ans="MELT">Wrap alternative</Clue>
+      <Clue Row="7" Col="1" Num="31" Dir="Down" Ans="REDA">Hester Prynne's mark</Clue>
+      <Clue Row="7" Col="2" Num="32" Dir="Down" Ans="ATAD">Somewhat</Clue>
+      <Clue Row="7" Col="3" Num="33" Dir="Down" Ans="JAZZBANDS">18-Across sights</Clue>
+      <Clue Row="8" Col="9" Num="38" Dir="Down" Ans="7UP">Soft drink whose logo features a red circle</Clue>
+      <Clue Row="8" Col="10" Num="39" Dir="Down" Ans="1LS">Law school beginners</Clue>
+      <Clue Row="8" Col="11" Num="40" Dir="Down" Ans="8BALL">It's bad to be behind it</Clue>
+      <Clue Row="9" Col="4" Num="43" Dir="Down" Ans="SEAWAYS">St. Lawrence and others</Clue>
+      <Clue Row="10" Col="7" Num="47" Dir="Down" Ans="REDONE">Changed over</Clue>
+      <Clue Row="10" Col="12" Num="48" Dir="Down" Ans="WALLOP">Belt</Clue>
+      <Clue Row="11" Col="5" Num="50" Dir="Down" Ans="SON">Icarus, to Daedalus</Clue>
+      <Clue Row="11" Col="6" Num="51" Dir="Down" Ans="SRTAS">Some Latinas: Abbr.</Clue>
+      <Clue Row="11" Col="13" Num="53" Dir="Down" Ans="SNIDE">Insinuating</Clue>
+      <Clue Row="11" Col="14" Num="54" Dir="Down" Ans="TYLER">President who had 15 children</Clue>
+      <Clue Row="11" Col="15" Num="55" Dir="Down" Ans="SEISM">Big shake</Clue>
+      <Clue Row="12" Col="1" Num="56" Dir="Down" Ans="ISIS">"Aida" goddess</Clue>
+      <Clue Row="12" Col="2" Num="57" Dir="Down" Ans="NANA">One given to doting</Clue>
+      <Clue Row="12" Col="9" Num="58" Dir="Down" Ans="BIOS">Many Wikipedia articles</Clue>
+      <Clue Row="12" Col="10" Num="59" Dir="Down" Ans="IONE">One of the Nereids in Greek myth</Clue>
+      <Clue Row="13" Col="8" Num="61" Dir="Down" Ans="NIN">"Winter of Artifice" writer</Clue>
+    </Clues>
+    <JimNotes><![CDATA[<p>For the second day in a row, my note is about a puzzle from 20 years ago. <a href="https://www.xwordinfo.com/Crossword?date=5/17/1998">Green Eggs and Hamlet</a> is near the top of my most memorable puzzles list.</p>
+
+<p>This is the <a href="https://www.xwordinfo.com/Finder?word=8BALL">third appearance of 8BALL</a> in NYT puzzles. The first was <a href="https://www.xwordinfo.com/PS?date=9/2/1956&amp;g=89&amp;d=D">back in 1956</a>.</p>]]></JimNotes>
+    <JeffNotes><![CDATA[<p>Solid Thursday, using numbers as rebus squares. Who knew that NEW ORLEANS and SAN ANTONIO were founded in the same year &hellip; and in the same month! Curious discovery, and the fact that both cities are the same length makes for a constructor&#39;s dream.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Alamodome" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Alamo_Dome_CIMG7791.JPG/440px-Alamo_Dome_CIMG7791.JPG" style="border:1px solid lightgray; float:right; height:144px; margin:6px 0px 6px 12px; width:220px" title="The ALAMODOME" /></a></p>
+
+<p>Fine rebus entries, 8 BALL the best since it&#39;s often written using the numeral. I love me my MAGIC 8 BALL &mdash; it is decidedly so! 7 UP is solid, too.</p>
+
+<p>NOT 1 BIT felt wonky, as no 1 writes it that way.</p>
+
+<p>For me, 1LS finished in a solid last place. It does seem to be written most commonly with the numeral, 1L = first-year law student. But it feels like a niche piece of information. Scott Turow&#39;s book, One L, might have helped popularize the term, but darn you, Chicago Manual of Style and your insistence on writing out numbers ten or less!</p>
+
+<p>I liked that David bulked up the theme a bit, the ALAMO DOME one of SAN ANTONIO&#39;s landmarks, and many JAZZ CLUBS found in NEW ORLEANS. It was odd that these bonuses intersected the OTHER city, but what are you gonna do?</p>
+
+<p>I&#39;ll tell you what you&#39;re gonna do! Give up the entry interlock. Yes, as a constructor, it&#39;s neat for that to happen. But this solver thought it would have been a lot nicer for JAZZ CLUBS to be next to NEW ORLEANS. Shifting JAZZ BANDS up, so it started at row 1, would have achieved that.</p>
+
+<p>Well-constructed grid, just some SRTAS, DAZS (how else are you going to clue this but [Haagen-___], AWNS. The part that impressed me was the BULB region, as working with four rebus entries all squished together is no joke. So clean and smooth right there, not easy at all.</p>
+
+<p>Interesting finding, the simultaneous founding of the two cities. For me, it was more a &quot;huh&quot; moment than an &quot;a-ha!&quot; one. Still, a theme worth working to uncover.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>My wife and I were vacationing in New Orleans last November and they were making plans to celebrate the 300th anniversary in May. Since the Big Easy often evokes colorful images, it seemed like a good theme for a puzzle. Then as dumb luck would have it, I found out that San Antonio was also celebrating its 300th anniversary in May and also has 10 letters &hellip; and I could also cross two other themed answers with the cities. The tricky part was fitting the May 1718 date in the middle of the grid.</p>
+
+<p>An extra twist (and one I hadn&#39;t thought of when I wrote the puzzle) is how cool it is for this puzzle to be running today. Because if you look at May 1718 a little differently, you get today&#39;s date (which is also coincidentally the 20th anniversary of a Sunday NYT crossword I wrote with my daughter Hillary, <a href="https://www.xwordinfo.com/Crossword?date=5/17/1998">&quot;Green Eggs and Hamlet.&quot;</a>)</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

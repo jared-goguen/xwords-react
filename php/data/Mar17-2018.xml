@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Saturday, March 17, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 3/17/2018 at 6:36 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sat, Mar 17, 2018</Title>
+    <Author>Roland Huget</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>3/17/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>MALLCOP.CAPSTAN</Row>
+      <Row>ETAILER.ABALONE</Row>
+      <Row>DOTTEDI.REWORDS</Row>
+      <Row>ENERO.ODE.NOTIT</Row>
+      <Row>VERE.CRIED.PORE</Row>
+      <Row>AGO.SHEERED.NOG</Row>
+      <Row>CONSTANTCRAVING</Row>
+      <Row>...TANGERINE...</Row>
+      <Row>ALTERNATIVEROCK</Row>
+      <Row>IOU.REGIMES.VON</Row>
+      <Row>RUMS.LECID.RENE</Row>
+      <Row>BEBOP.MSN.PERVS</Row>
+      <Row>ALLRISE.ADHERES</Row>
+      <Row>SLEEPIN.LEISURE</Row>
+      <Row>EARNEST.SILENTT</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="MALLCOP">Official on a Segway, maybe</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Across" Ans="CAPSTAN">Rotating part of a tape recorder</Clue>
+      <Clue Row="2" Col="1" Num="15" Dir="Across" Ans="ETAILER">Merchant with tiny shopping carts</Clue>
+      <Clue Row="2" Col="9" Num="16" Dir="Across" Ans="ABALONE">Another name for an ear shell</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="DOTTEDI">Epitome of completeness</Clue>
+      <Clue Row="3" Col="9" Num="18" Dir="Across" Ans="REWORDS">Edits, as text</Clue>
+      <Clue Row="4" Col="1" Num="19" Dir="Across" Ans="ENERO">When el Día de los Reyes is celebrated</Clue>
+      <Clue Row="4" Col="7" Num="20" Dir="Across" Ans="ODE">It's an honor</Clue>
+      <Clue Row="4" Col="11" Num="22" Dir="Across" Ans="NOTIT">Playground declaration</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Across" Ans="VERE">Edward Fairfax ___, "Billy Budd" captain</Clue>
+      <Clue Row="5" Col="6" Num="24" Dir="Across" Ans="CRIED">Exclaimed</Clue>
+      <Clue Row="5" Col="12" Num="26" Dir="Across" Ans="PORE">Little sweater?</Clue>
+      <Clue Row="6" Col="1" Num="27" Dir="Across" Ans="AGO">Back</Clue>
+      <Clue Row="6" Col="5" Num="28" Dir="Across" Ans="SHEERED">Changed course quickly, at sea</Clue>
+      <Clue Row="6" Col="13" Num="30" Dir="Across" Ans="NOG">Christmas bowlful</Clue>
+      <Clue Row="7" Col="1" Num="31" Dir="Across" Ans="CONSTANTCRAVING">1992 hit for k. d. lang</Clue>
+      <Clue Row="8" Col="4" Num="34" Dir="Across" Ans="TANGERINE">Reddish orange</Clue>
+      <Clue Row="9" Col="1" Num="35" Dir="Across" Ans="ALTERNATIVEROCK">Radio format for Radiohead</Clue>
+      <Clue Row="10" Col="1" Num="41" Dir="Across" Ans="IOU">Chit in a pot</Clue>
+      <Clue Row="10" Col="5" Num="42" Dir="Across" Ans="REGIMES">Heavy-handed administrations</Clue>
+      <Clue Row="10" Col="13" Num="43" Dir="Across" Ans="VON">De : French :: ___ : German</Clue>
+      <Clue Row="11" Col="1" Num="44" Dir="Across" Ans="RUMS">Big Caribbean exports</Clue>
+      <Clue Row="11" Col="6" Num="46" Dir="Across" Ans="LECID">Massenet opera</Clue>
+      <Clue Row="11" Col="12" Num="47" Dir="Across" Ans="RENE">___ Belbenoît, noted escapee from Devil's Island</Clue>
+      <Clue Row="12" Col="1" Num="48" Dir="Across" Ans="BEBOP">Jazz genre</Clue>
+      <Clue Row="12" Col="7" Num="50" Dir="Across" Ans="MSN">Web portal with a Bing search bar</Clue>
+      <Clue Row="12" Col="11" Num="51" Dir="Across" Ans="PERVS">Sickos</Clue>
+      <Clue Row="13" Col="1" Num="52" Dir="Across" Ans="ALLRISE">Court order</Clue>
+      <Clue Row="13" Col="9" Num="54" Dir="Across" Ans="ADHERES">Conforms (to)</Clue>
+      <Clue Row="14" Col="1" Num="56" Dir="Across" Ans="SLEEPIN">Ignore the alarm, say</Clue>
+      <Clue Row="14" Col="9" Num="57" Dir="Across" Ans="LEISURE">Downtime</Clue>
+      <Clue Row="15" Col="1" Num="58" Dir="Across" Ans="EARNEST">Heartfelt</Clue>
+      <Clue Row="15" Col="9" Num="59" Dir="Across" Ans="SILENTT">Depot's terminus?</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="MEDEVAC">One role for a helicopter</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ATONEGO">Simultaneously</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="LATERON">In a bit</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="LITRE">Petrol measure</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="CLEO">Role for Liz in '63</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="OED">Subj. of the 2003 book "The Meaning of Everything"</Clue>
+      <Clue Row="1" Col="7" Num="7" Dir="Down" Ans="PRIORENGAGEMENT">Reason to refuse an invitation</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="CAREERCRIMINALS">Those prone to recidivism</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="ABE">White House nickname</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="PAWN">Puppet</Clue>
+      <Clue Row="1" Col="12" Num="11" Dir="Down" Ans="SLOOP">Single-masted boat</Clue>
+      <Clue Row="1" Col="13" Num="12" Dir="Down" Ans="TORTONI">Trattoria dessert</Clue>
+      <Clue Row="1" Col="14" Num="13" Dir="Down" Ans="ANDIRON">Keeper of logs?</Clue>
+      <Clue Row="1" Col="15" Num="14" Dir="Down" Ans="NESTEGG">Savings</Clue>
+      <Clue Row="4" Col="8" Num="21" Dir="Down" Ans="DIETETICS">Nutrition science</Clue>
+      <Clue Row="5" Col="6" Num="24" Dir="Down" Ans="CHANNEL">Band selection</Clue>
+      <Clue Row="5" Col="10" Num="25" Dir="Down" Ans="DERIVED">Obtained (from)</Clue>
+      <Clue Row="6" Col="5" Num="28" Dir="Down" Ans="STARR">Edwin with the 1970 #1 hit "War"</Clue>
+      <Clue Row="6" Col="11" Num="29" Dir="Down" Ans="DANES">Dwellers on the North Sea</Clue>
+      <Clue Row="7" Col="4" Num="32" Dir="Down" Ans="STE">Abbr. in an office address</Clue>
+      <Clue Row="7" Col="12" Num="33" Dir="Down" Ans="VER">See, in Tijuana</Clue>
+      <Clue Row="9" Col="1" Num="35" Dir="Down" Ans="AIRBASE">Where drones return</Clue>
+      <Clue Row="9" Col="2" Num="36" Dir="Down" Ans="LOUELLA">Parsons of old Hollywood gossip</Clue>
+      <Clue Row="9" Col="3" Num="37" Dir="Down" Ans="TUMBLER">Lock component</Clue>
+      <Clue Row="9" Col="13" Num="38" Dir="Down" Ans="OVERRUN">Inundate</Clue>
+      <Clue Row="9" Col="14" Num="39" Dir="Down" Ans="CONVERT">Persuaded one</Clue>
+      <Clue Row="9" Col="15" Num="40" Dir="Down" Ans="KNESSET">Mideast diet</Clue>
+      <Clue Row="11" Col="4" Num="45" Dir="Down" Ans="SOREN">Philosopher Kierkegaard</Clue>
+      <Clue Row="11" Col="12" Num="47" Dir="Down" Ans="REESE">Dodgers Hall-of-Famer whose #1 has been retired</Clue>
+      <Clue Row="12" Col="5" Num="49" Dir="Down" Ans="PIPE">Word with organ or cleaner</Clue>
+      <Clue Row="12" Col="11" Num="51" Dir="Down" Ans="PHIL">Man's nickname in a metropolitan orchestra?</Clue>
+      <Clue Row="13" Col="6" Num="53" Dir="Down" Ans="SIS">Member of the family, for short</Clue>
+      <Clue Row="13" Col="10" Num="55" Dir="Down" Ans="DEI">"Ad majorem ___ gloriam" (motto of the Jesuits)</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>I get skeptical when I see a constructor using the exact same pattern over and over. Bo-ring, especially when it comes to themelesses! This one looked so familiar to <a href="https://www.xwordinfo.com/Thumbs?author=Roland+Huget">Roland&#39;s other work</a> &hellip; but to my surprise, it was a variant &ndash; and a super-tough variant, too!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Billy_Budd" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Herman_Melville_1885.jpg/440px-Herman_Melville_1885.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:160px" title="Constructors everywhere swear at Melville for not making VERE more famous" /></a></p>
+
+<p>Compare this grid to his other two similar ones. Note the two black squares missing from the center? That&#39;s just plain nuts! Working with a central region this big and wide-open &ndash; with FOUR grid-spanning entries running through it! &mdash; is something few constructors would even think about tackling. I like the audacity, but I was worried to see what necessary compromises there would be.</p>
+
+<p>Color me impressed. A usual compromise is to rely on dull grid-spanners heavy on common letters like E R S T. ALTERNATIVE ROCK? Awesome! Along with CONSTANT CRAVING, PRIOR ENGAGEMENT, CAREER CRIMINALS, that&#39;s great stuff.</p>
+
+<p>There had to be some gluey bits or some esoteric words holding everything together, then. There was SHEERED &hellip; that&#39;s a pretty odd word. It is dictionary supported, but dunno if I&#39;d ever see it &hellip; ever. Outside of this crossword, that is.</p>
+
+<p>But other than that, just a bit of VER and STE? Man, that&#39;s great work! There wasn&#39;t anything snazzy in that center, but to pull this feat off as smoothly as Roland did was impressive.</p>
+
+<p>If only the corners had been of similar quality. ENERO VERE? CAPSTAN is of the SHEERED head-scratchiness level.</p>
+
+<p>Okay, there wasn&#39;t as much as I remembered. So overall, it&#39;s pretty good. It&#39;s too bad though &ndash; without a ton of juicy long answers, as I&#39;ve come to expect out of my themelesses, these outliers can feel harsher. As a solver, I needed more ALTERNATIVE ROCK type answers to help balance everything out.</p>
+
+<p>But as a constructor, I appreciated the execution given the extreme degree of difficulty. Gets a lot of points for technical aspects, if not its snappiness.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>The original version of this grid was constructed in September 2016. A revision to the SE quadrant was requested, a revision was submitted, and the puzzle was accepted for publication in January 2017.</p>
+
+<p>The requested revision was the removal from the SE of the exclamation AM I BEAT, which was deemed too contrived. I have said this myself while plopping down on a chair &mdash; maybe it&#39;s a Canadian thing.</p>
+
+<p>The block layout for this puzzle is one of my favorites. I&#39;ve had success with versions in which there are two blocks in the middle breaking up the 15s, and in which there is a single block dead center. This version has no central blocks. These puzzles are among my first attempts at wide open grids.</p>
+
+<p>With open grids it&#39;s often difficult to achieve a Scrabble average above 1.50, which is typical for a NYT crossword. That certainly was the case here, with this puzzle coming in at 1.40, as did the original version. The open areas are conducive to low Scrabble score letters, namely, the vowels, L, N, R, S, and T. In a higher word count grid it&#39;s possible to find spots for higher value letters in the peripheral short fill &mdash; not so here. I decided to leave well enough alone.</p>
+
+<p>As I look over the clues, 26-A PORE and 13-D ANDIRON make me chuckle, and I have Will and Joel/Sam to thank for that. I note that a fair number of changes were made to the clues I submitted, which have made the puzzle tougher, I think.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

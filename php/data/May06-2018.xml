@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Sunday, May 6, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 5/5/2018 at 4:00 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Sun, May 06, 2018 LET'S PLAY TWO!</Title>
+    <Author>Brendan Emmett Quigley</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>5/6/2018</Date>
+    <Size>
+      <Rows>21</Rows>
+      <Cols>21</Cols>
+    </Size>
+    <Grid>
+      <Row>ABEAM..ITSTIME.PHOBOS</Row>
+      <Row>BOXTOP.NATALIE.LONELY</Row>
+      <Row>BATTLESHIPRISK.AWARDS</Row>
+      <Row>ATRA.RAE.ASA..SITIN..</Row>
+      <Row>..ACQUIRETICKETTORIDE</Row>
+      <Row>MACHU.LIB...ILO...ERE</Row>
+      <Row>OSHEA.STRO.ADHOC.OMAN</Row>
+      <Row>THESIS.SORRYDIPLOMACY</Row>
+      <Row>ROE.LID..DIE..SUNOCO.</Row>
+      <Row>IRS..BAMA.OATS.ECO...</Row>
+      <Row>NEE.MEMORYTROUBLE.RBS</Row>
+      <Row>...NIL.ITOO.WERE..YAM</Row>
+      <Row>.BLINIS..GUS..ASS.AGO</Row>
+      <Row>CRANIUMTWISTER.SINNER</Row>
+      <Row>HAVE.SIGHS.YVES.EAGLE</Row>
+      <Row>IVE...TIO...ACU.GROSS</Row>
+      <Row>CONNECTFOURCHECKERS..</Row>
+      <Row>..DOLLY..ROO.IRA.ALMA</Row>
+      <Row>FIEFIE.TABOOOPERATION</Row>
+      <Row>ERRATA.ATASKET.OPENTO</Row>
+      <Row>ZESTER.BANTERS..EDGES</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="ABEAM">Perpendicular to the ship's middle</Clue>
+      <Clue Row="1" Col="8" Num="6" Dir="Across" Ans="ITSTIME">"Let's do this!"</Clue>
+      <Clue Row="1" Col="16" Num="13" Dir="Across" Ans="PHOBOS">Larger of Mars's two moons</Clue>
+      <Clue Row="2" Col="1" Num="19" Dir="Across" Ans="BOXTOP">Proof of purchase for some contests</Clue>
+      <Clue Row="2" Col="8" Num="21" Dir="Across" Ans="NATALIE">Maines of the Dixie Chicks</Clue>
+      <Clue Row="2" Col="16" Num="22" Dir="Across" Ans="LONELY">Out of date?</Clue>
+      <Clue Row="3" Col="1" Num="23" Dir="Across" Ans="BATTLESHIPRISK">Underwater mine?</Clue>
+      <Clue Row="3" Col="16" Num="25" Dir="Across" Ans="AWARDS">Some end-of-season announcements</Clue>
+      <Clue Row="4" Col="1" Num="26" Dir="Across" Ans="ATRA">___ Plus (grooming brand)</Clue>
+      <Clue Row="4" Col="6" Num="27" Dir="Across" Ans="RAE">"Insecure" star Issa</Clue>
+      <Clue Row="4" Col="10" Num="28" Dir="Across" Ans="ASA">Comparison middle</Clue>
+      <Clue Row="4" Col="15" Num="29" Dir="Across" Ans="SITIN">Peaceful protest</Clue>
+      <Clue Row="5" Col="3" Num="30" Dir="Across" Ans="ACQUIRETICKETTORIDE">Get a copy of a 1965 #1 Beatles hit?</Clue>
+      <Clue Row="6" Col="1" Num="37" Dir="Across" Ans="MACHU">South America's ___ Picchu</Clue>
+      <Clue Row="6" Col="7" Num="39" Dir="Across" Ans="LIB">Left-winger</Clue>
+      <Clue Row="6" Col="13" Num="40" Dir="Across" Ans="ILO">U.N. worker protection agcy.</Clue>
+      <Clue Row="6" Col="19" Num="41" Dir="Across" Ans="ERE">"___ Music's golden tongue / Flatter'd to tears this aged man ...": Keats</Clue>
+      <Clue Row="7" Col="1" Num="42" Dir="Across" Ans="OSHEA">Actor Milo</Clue>
+      <Clue Row="7" Col="7" Num="43" Dir="Across" Ans="STRO">Minute Maid Park player, informally</Clue>
+      <Clue Row="7" Col="12" Num="45" Dir="Across" Ans="ADHOC">Formed for a particular purpose</Clue>
+      <Clue Row="7" Col="18" Num="47" Dir="Across" Ans="OMAN">Sultan Qaboos's land</Clue>
+      <Clue Row="8" Col="1" Num="48" Dir="Across" Ans="THESIS">Something to be defended</Clue>
+      <Clue Row="8" Col="8" Num="50" Dir="Across" Ans="SORRYDIPLOMACY">Rather poor ambassador's skill?</Clue>
+      <Clue Row="9" Col="1" Num="53" Dir="Across" Ans="ROE">School in development?</Clue>
+      <Clue Row="9" Col="5" Num="54" Dir="Across" Ans="LID">Hat, informally</Clue>
+      <Clue Row="9" Col="10" Num="56" Dir="Across" Ans="DIE">Bomb with the audience</Clue>
+      <Clue Row="9" Col="15" Num="57" Dir="Across" Ans="SUNOCO">Brand with an arrow through its logo</Clue>
+      <Clue Row="10" Col="1" Num="58" Dir="Across" Ans="IRS">Grp. getting a pay cut?</Clue>
+      <Clue Row="10" Col="6" Num="59" Dir="Across" Ans="BAMA">"Roll Tide!" school, for short</Clue>
+      <Clue Row="10" Col="11" Num="62" Dir="Across" Ans="OATS">Rolled ___</Clue>
+      <Clue Row="10" Col="16" Num="65" Dir="Across" Ans="ECO">Prefix with warrior</Clue>
+      <Clue Row="11" Col="1" Num="66" Dir="Across" Ans="NEE">Formerly known as</Clue>
+      <Clue Row="11" Col="5" Num="67" Dir="Across" Ans="MEMORYTROUBLE">Reason a computer program wouldn't open?</Clue>
+      <Clue Row="11" Col="19" Num="70" Dir="Across" Ans="RBS">Some touchdown scorers, for short</Clue>
+      <Clue Row="12" Col="4" Num="73" Dir="Across" Ans="NIL">Zippo</Clue>
+      <Clue Row="12" Col="8" Num="74" Dir="Across" Ans="ITOO">"Am ___ sensitive?"</Clue>
+      <Clue Row="12" Col="13" Num="75" Dir="Across" Ans="WERE">Existed</Clue>
+      <Clue Row="12" Col="19" Num="76" Dir="Across" Ans="YAM">Thanksgiving serving</Clue>
+      <Clue Row="13" Col="2" Num="77" Dir="Across" Ans="BLINIS">Things folded in the kitchen</Clue>
+      <Clue Row="13" Col="10" Num="80" Dir="Across" Ans="GUS">"Cinderella" mouse</Clue>
+      <Clue Row="13" Col="15" Num="82" Dir="Across" Ans="ASS">Big-eared animal</Clue>
+      <Clue Row="13" Col="19" Num="84" Dir="Across" Ans="AGO">Past</Clue>
+      <Clue Row="14" Col="1" Num="85" Dir="Across" Ans="CRANIUMTWISTER">Incredibly hard puzzle?</Clue>
+      <Clue Row="14" Col="16" Num="90" Dir="Across" Ans="SINNER">One with a confession to make</Clue>
+      <Clue Row="15" Col="1" Num="92" Dir="Across" Ans="HAVE">Consume</Clue>
+      <Clue Row="15" Col="6" Num="93" Dir="Across" Ans="SIGHS">Responds wistfully</Clue>
+      <Clue Row="15" Col="12" Num="94" Dir="Across" Ans="YVES">First name in fashion</Clue>
+      <Clue Row="15" Col="17" Num="96" Dir="Across" Ans="EAGLE">Impressive hole</Clue>
+      <Clue Row="16" Col="1" Num="97" Dir="Across" Ans="IVE">"___ reconsidered"</Clue>
+      <Clue Row="16" Col="7" Num="98" Dir="Across" Ans="TIO">Padre's hermano</Clue>
+      <Clue Row="16" Col="13" Num="99" Dir="Across" Ans="ACU">Prefix with pressure</Clue>
+      <Clue Row="16" Col="17" Num="100" Dir="Across" Ans="GROSS">"Eww!"</Clue>
+      <Clue Row="17" Col="1" Num="101" Dir="Across" Ans="CONNECTFOURCHECKERS">Link a quartet of supermarket employees?</Clue>
+      <Clue Row="18" Col="3" Num="109" Dir="Across" Ans="DOLLY">Aid for a tracking shot</Clue>
+      <Clue Row="18" Col="10" Num="110" Dir="Across" Ans="ROO">Jumpy sort, for short?</Clue>
+      <Clue Row="18" Col="14" Num="111" Dir="Across" Ans="IRA">Vehicle that often rolls over, in brief</Clue>
+      <Clue Row="18" Col="18" Num="112" Dir="Across" Ans="ALMA">___ mater</Clue>
+      <Clue Row="19" Col="1" Num="115" Dir="Across" Ans="FIEFIE">Angry Shakespearean cry</Clue>
+      <Clue Row="19" Col="8" Num="117" Dir="Across" Ans="TABOOOPERATION">Something you're not allowed to do in math?</Clue>
+      <Clue Row="20" Col="1" Num="121" Dir="Across" Ans="ERRATA">Mistakes</Clue>
+      <Clue Row="20" Col="8" Num="122" Dir="Across" Ans="ATASKET">Bit of nonsense in a #1 Ella Fitzgerald hit</Clue>
+      <Clue Row="20" Col="16" Num="123" Dir="Across" Ans="OPENTO">Not ruling out</Clue>
+      <Clue Row="21" Col="1" Num="124" Dir="Across" Ans="ZESTER">Gadget for lemons</Clue>
+      <Clue Row="21" Col="8" Num="125" Dir="Across" Ans="BANTERS">Goes back and forth (with)</Clue>
+      <Clue Row="21" Col="17" Num="126" Dir="Across" Ans="EDGES">A cylinder has two</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="ABBA">Band with a symmetrical logo</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="BOAT">Bath toy</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="EXTRACHEESE">Pizzeria order</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="ATTACHES">Some lawyers' cases</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="MOL">Kind of biol.</Clue>
+      <Clue Row="1" Col="8" Num="6" Dir="Down" Ans="INHERITS">Picks up later in life?</Clue>
+      <Clue Row="1" Col="9" Num="7" Dir="Down" Ans="TAI">Red ___ (sushi fish)</Clue>
+      <Clue Row="1" Col="10" Num="8" Dir="Down" Ans="STPAT">Irish icon, for short</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="TARSI">Ankle bones</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="ILIAC">Relating to the pelvis</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="MIS">Prefix with communication</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="EEK">Hair-raising cry</Clue>
+      <Clue Row="1" Col="16" Num="13" Dir="Down" Ans="PLAIT">Pigtail, e.g.</Clue>
+      <Clue Row="1" Col="17" Num="14" Dir="Down" Ans="HOWTO">Many a "... For Dummies" book</Clue>
+      <Clue Row="1" Col="18" Num="15" Dir="Down" Ans="ONAIR">Transmitting</Clue>
+      <Clue Row="1" Col="19" Num="16" Dir="Down" Ans="BERNIEMAC">Comic who acted in "Ocean's Eleven"</Clue>
+      <Clue Row="1" Col="20" Num="17" Dir="Down" Ans="OLD">Smelling of mothballs</Clue>
+      <Clue Row="1" Col="21" Num="18" Dir="Down" Ans="SYS">Part of O.S.: Abbr.</Clue>
+      <Clue Row="2" Col="6" Num="20" Dir="Down" Ans="PERU">Original home of Paddington Bear</Clue>
+      <Clue Row="3" Col="7" Num="24" Dir="Down" Ans="SAILS">Moves effortlessly (through)</Clue>
+      <Clue Row="4" Col="15" Num="29" Dir="Down" Ans="STOOPS">Streetside hangouts</Clue>
+      <Clue Row="5" Col="5" Num="31" Dir="Down" Ans="QUAIL">Draw back in fear</Clue>
+      <Clue Row="5" Col="9" Num="32" Dir="Down" Ans="EBRO">River that rises in the Cantabrian Mountains</Clue>
+      <Clue Row="5" Col="13" Num="33" Dir="Down" Ans="KIDD">Player/coach Jason of the N.B.A.</Clue>
+      <Clue Row="5" Col="14" Num="34" Dir="Down" Ans="ELHI">K-12</Clue>
+      <Clue Row="5" Col="20" Num="35" Dir="Down" Ans="DRACO">Constellation between Ursa Major and Ursa Minor</Clue>
+      <Clue Row="5" Col="21" Num="36" Dir="Down" Ans="EENY">Kids' rhyme starter</Clue>
+      <Clue Row="6" Col="1" Num="37" Dir="Down" Ans="MOTRIN">Big name in pain relief</Clue>
+      <Clue Row="6" Col="2" Num="38" Dir="Down" Ans="ASHORE">Onto land</Clue>
+      <Clue Row="7" Col="10" Num="44" Dir="Down" Ans="ORD">Code on a bag to Chicago</Clue>
+      <Clue Row="7" Col="12" Num="45" Dir="Down" Ans="AYEAR">Annually</Clue>
+      <Clue Row="7" Col="16" Num="46" Dir="Down" Ans="CLUELESS">Like a space cadet</Clue>
+      <Clue Row="7" Col="18" Num="47" Dir="Down" Ans="OMOO">1847 novel of the sea</Clue>
+      <Clue Row="8" Col="6" Num="49" Dir="Down" Ans="SIBELIUS">"Finlandia" composer</Clue>
+      <Clue Row="8" Col="11" Num="51" Dir="Down" Ans="RIOTOUS">Rollickingly funny</Clue>
+      <Clue Row="8" Col="17" Num="52" Dir="Down" Ans="ONCE">"Time was ... "</Clue>
+      <Clue Row="9" Col="7" Num="55" Dir="Down" Ans="DAM">Feature of a millpond</Clue>
+      <Clue Row="10" Col="8" Num="60" Dir="Down" Ans="MOI">"You couldn't possibly mean me!?"</Clue>
+      <Clue Row="10" Col="9" Num="61" Dir="Down" Ans="ART">Oil field?</Clue>
+      <Clue Row="10" Col="13" Num="63" Dir="Down" Ans="TOW">Kind of job</Clue>
+      <Clue Row="10" Col="14" Num="64" Dir="Down" Ans="SUE">___ Bird, 10-time W.N.B.A. All-Star</Clue>
+      <Clue Row="11" Col="5" Num="67" Dir="Down" Ans="MINI">Bite-size, say</Clue>
+      <Clue Row="11" Col="10" Num="68" Dir="Down" Ans="YOGIS">Teaching positions can be part of their work</Clue>
+      <Clue Row="11" Col="15" Num="69" Dir="Down" Ans="BRA">Chest protector</Clue>
+      <Clue Row="11" Col="19" Num="70" Dir="Down" Ans="RYANGOSLING">"La La Land" actor</Clue>
+      <Clue Row="11" Col="20" Num="71" Dir="Down" Ans="BAGELS">Rolls out of bed in the morning?</Clue>
+      <Clue Row="11" Col="21" Num="72" Dir="Down" Ans="SMORES">Messy treats</Clue>
+      <Clue Row="12" Col="4" Num="73" Dir="Down" Ans="NINE">Fluorine's atomic number</Clue>
+      <Clue Row="13" Col="2" Num="77" Dir="Down" Ans="BRAVO">"Way to go!"</Clue>
+      <Clue Row="13" Col="3" Num="78" Dir="Down" Ans="LAVENDERS">Purple flowers</Clue>
+      <Clue Row="13" Col="7" Num="79" Dir="Down" Ans="SMITTY">Longtime Walter Berndt comic strip</Clue>
+      <Clue Row="13" Col="12" Num="81" Dir="Down" Ans="STY">Spot for wallowing</Clue>
+      <Clue Row="13" Col="17" Num="83" Dir="Down" Ans="SIEGE">All-out attack</Clue>
+      <Clue Row="14" Col="1" Num="85" Dir="Down" Ans="CHIC">Stylish</Clue>
+      <Clue Row="14" Col="8" Num="86" Dir="Down" Ans="TGIF">Cry at a happy hour, maybe</Clue>
+      <Clue Row="14" Col="9" Num="87" Dir="Down" Ans="WHOO">Cry of excitement</Clue>
+      <Clue Row="14" Col="13" Num="88" Dir="Down" Ans="EVAH">"Well, Did You ___?"</Clue>
+      <Clue Row="14" Col="14" Num="89" Dir="Down" Ans="RECEIPTS">Gate</Clue>
+      <Clue Row="14" Col="18" Num="91" Dir="Down" Ans="NARRATED">Did some documentary work</Clue>
+      <Clue Row="15" Col="15" Num="95" Dir="Down" Ans="SUCRE">Bolivian capital</Clue>
+      <Clue Row="17" Col="4" Num="102" Dir="Down" Ans="NOFAT">0%, in the dairy aisle</Clue>
+      <Clue Row="17" Col="5" Num="103" Dir="Down" Ans="ELITE">Highest-level</Clue>
+      <Clue Row="17" Col="6" Num="104" Dir="Down" Ans="CLEAR">Nice forecast</Clue>
+      <Clue Row="17" Col="10" Num="105" Dir="Down" Ans="URBAN">Population classification</Clue>
+      <Clue Row="17" Col="11" Num="106" Dir="Down" Ans="ROOST">Settle down for the night</Clue>
+      <Clue Row="17" Col="12" Num="107" Dir="Down" Ans="COOKE">Sam who sang "Twistin' the Night Away"</Clue>
+      <Clue Row="17" Col="16" Num="108" Dir="Down" Ans="KARO">Corn syrup brand</Clue>
+      <Clue Row="18" Col="20" Num="113" Dir="Down" Ans="MOTE">Tiny bit</Clue>
+      <Clue Row="18" Col="21" Num="114" Dir="Down" Ans="ANOS">They always come with mayo</Clue>
+      <Clue Row="19" Col="1" Num="115" Dir="Down" Ans="FEZ">Flat-topped hat</Clue>
+      <Clue Row="19" Col="2" Num="116" Dir="Down" Ans="IRE">Heat</Clue>
+      <Clue Row="19" Col="8" Num="117" Dir="Down" Ans="TAB">Keyboard key</Clue>
+      <Clue Row="19" Col="9" Num="118" Dir="Down" Ans="ATA">___ minimum</Clue>
+      <Clue Row="19" Col="13" Num="119" Dir="Down" Ans="OER">Anthem contraction</Clue>
+      <Clue Row="19" Col="17" Num="120" Dir="Down" Ans="APE">One rampaging in 2018's "Rampage"</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>There are a lot of smash-two-titles-together puzzles like this, usually containing kooky results or amazingly natural-sounding ones.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Connect_Four" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/7/79/Connect_4_Board_and_Box.jpg" style="border:1px solid lightgray; float:right; height:164px; margin:6px 0px 6px 12px; width:220px" title="CHECKERS to aisle FOUR!" /></a></p>
+
+<p><strong>KOOKY:</strong> CONNECT FOUR CHECKERS gave me a little smile, sort of a less horrifying &quot;human centipede.&quot; (Do yourself a favor and don&#39;t look that up on the interwebs. It&#39;s horrifying.)</p>
+
+<p><strong>NATURAL:</strong> MEMORY TROUBLE is a real thing, a very cool finding. What a coincidence that two well-known games can combine to form this phrase! It&#39;s not a perfect phrase, as &quot;memory loss&quot; seems much more common. But it&#39;s still a neat discovery.</p>
+
+<p>I found it odd to have a mix of the two theme types. Felt like a lack of consistency. I think BEQ was going for the latter theme type, but CONNECT FOUR CHECKERS threw everything out the window &mdash; no way to interpret that one as anywhere near real.</p>
+
+<p>ACQUIRE apparently was <a href="https://en.wikipedia.org/wiki/Acquire">&quot;one of the most popular games in the 1960s&quot;</a>? I&#39;m clearly not the target demographic.</p>
+
+<p>There&#39;s some nice fill &ndash; I loved BERNIE MAC in &quot;Ocean&#39;s 11&quot;, SIBELIUS, RYAN GOSLING &ndash; but also a lot of gloopy short fill. ABEAM, A YEAR, ANOS, ATA &hellip; well, did you EVAH? Not BEQ&#39;s best gridwork. The Sunday 140-word grid, with seven long themers, can cause so much trouble, even for the best.</p>
+
+<p>I like the &quot;mash-ups forming real-sounding things&quot; genre. SORRY DIPLOMACY is exactly what we&#39;re doing with North Korea! (Not sure whether to laugh or cry.) I wish BEQ had eliminated CONNECT FOUR CHECKERS and rejiggered things to have perhaps just six real-esque themers, which would also allow for a smoother grid.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>As much as I like, nay love pizza, no 3-Down for me. Plus, I&#39;m lactose intolerant.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

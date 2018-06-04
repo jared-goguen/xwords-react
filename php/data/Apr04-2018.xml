@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Wednesday, April 4, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/3/2018 at 7:01 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Wed, Apr 04, 2018</Title>
+    <Author>Weird Al Yankovic and Eric Berlin</Author>
+    <CanonicalNames>
+      <Constructor>Weird Al Yankovic</Constructor>
+      <Constructor>Eric Berlin</Constructor>
+    </CanonicalNames>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/4/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>DEFECT.OLES.ASS</Row>
+      <Row>EVERLY.NECK.TAT</Row>
+      <Row>LEHRER.AGRI.ETA</Row>
+      <Row>...AFEWGOUDAMEN</Row>
+      <Row>ABET..EEL..SPED</Row>
+      <Row>FETAATTRACTION.</Row>
+      <Row>TNT.SRS.SARA...</Row>
+      <Row>STUCCO...LANCES</Row>
+      <Row>...LAVA.ALI.ORE</Row>
+      <Row>.THEPELICANBRIE</Row>
+      <Row>SOYA..DST..INNS</Row>
+      <Row>MUENSTERSINC...</Row>
+      <Row>UPN.LUNA.NOPROB</Row>
+      <Row>SEA.ANTE.CLEESE</Row>
+      <Row>HES.PEEL.HANGON</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="DEFECT">Imperfection</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Across" Ans="OLES">Shouts made with the waving of white hankies</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Across" Ans="ASS">Yo-yo</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="EVERLY">___ Brothers, duo who sang "Wake Up Little Susie"</Clue>
+      <Clue Row="2" Col="8" Num="15" Dir="Across" Ans="NECK">Part of a bottle</Clue>
+      <Clue Row="2" Col="13" Num="16" Dir="Across" Ans="TAT">Skin art, informally</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="LEHRER">Satirist Tom</Clue>
+      <Clue Row="3" Col="8" Num="18" Dir="Across" Ans="AGRI">Prefix with cultural</Clue>
+      <Clue Row="3" Col="13" Num="19" Dir="Across" Ans="ETA">Airport info, for short</Clue>
+      <Clue Row="4" Col="4" Num="20" Dir="Across" Ans="AFEWGOUDAMEN">Cheesy 1992 military drama?</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Across" Ans="ABET">Aid and ___</Clue>
+      <Clue Row="5" Col="7" Num="26" Dir="Across" Ans="EEL">Fish with tiny scales</Clue>
+      <Clue Row="5" Col="12" Num="27" Dir="Across" Ans="SPED">Earned a ticket, maybe</Clue>
+      <Clue Row="6" Col="1" Num="28" Dir="Across" Ans="FETAATTRACTION">Cheesy 1987 thriller?</Clue>
+      <Clue Row="7" Col="1" Num="33" Dir="Across" Ans="TNT">Supply for Wile E. Coyote</Clue>
+      <Clue Row="7" Col="5" Num="34" Dir="Across" Ans="SRS">Many promgoers: Abbr.</Clue>
+      <Clue Row="7" Col="9" Num="35" Dir="Across" Ans="SARA">Singer/songwriter Bareilles</Clue>
+      <Clue Row="8" Col="1" Num="36" Dir="Across" Ans="STUCCO">Mediterranean building material</Clue>
+      <Clue Row="8" Col="10" Num="38" Dir="Across" Ans="LANCES">Jousters' equipment</Clue>
+      <Clue Row="9" Col="4" Num="42" Dir="Across" Ans="LAVA">Rock that rolls?</Clue>
+      <Clue Row="9" Col="9" Num="44" Dir="Across" Ans="ALI">___ G, Sacha Baron Cohen character</Clue>
+      <Clue Row="9" Col="13" Num="45" Dir="Across" Ans="ORE">Contents of a vein</Clue>
+      <Clue Row="10" Col="2" Num="46" Dir="Across" Ans="THEPELICANBRIE">Cheesy 1993 legal drama?</Clue>
+      <Clue Row="11" Col="1" Num="50" Dir="Across" Ans="SOYA">___ beans</Clue>
+      <Clue Row="11" Col="7" Num="51" Dir="Across" Ans="DST">Summertime setting: Abbr.</Clue>
+      <Clue Row="11" Col="12" Num="52" Dir="Across" Ans="INNS">Cluster at many a highway interchange</Clue>
+      <Clue Row="12" Col="1" Num="53" Dir="Across" Ans="MUENSTERSINC">Cheesy 2001 animated film?</Clue>
+      <Clue Row="13" Col="1" Num="58" Dir="Across" Ans="UPN">The CW superseded it</Clue>
+      <Clue Row="13" Col="5" Num="59" Dir="Across" Ans="LUNA">Roman moon goddess</Clue>
+      <Clue Row="13" Col="10" Num="60" Dir="Across" Ans="NOPROB">"Easy-peasy!"</Clue>
+      <Clue Row="14" Col="1" Num="64" Dir="Across" Ans="SEA">Locale for a bathysphere</Clue>
+      <Clue Row="14" Col="5" Num="65" Dir="Across" Ans="ANTE">Poker stake</Clue>
+      <Clue Row="14" Col="10" Num="66" Dir="Across" Ans="CLEESE">John famous for "silly walks"</Clue>
+      <Clue Row="15" Col="1" Num="67" Dir="Across" Ans="HES">"___ dead, Jim"</Clue>
+      <Clue Row="15" Col="5" Num="68" Dir="Across" Ans="PEEL">Something you might slip on</Clue>
+      <Clue Row="15" Col="10" Num="69" Dir="Across" Ans="HANGON">"Wait a minute ..."</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="DEL">It's SE of Penn.</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="EVE">Wall-E's love</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="FEH">Dismissive interjection</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="ERRATA">Typos, e.g.</Clue>
+      <Clue Row="1" Col="5" Num="5" Dir="Down" Ans="CLEF">Curly musical symbol</Clue>
+      <Clue Row="1" Col="6" Num="6" Dir="Down" Ans="TYRE">"Pericles, Prince of ___"</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="ONAGER">Wild equine</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="LEGOLAS">Tolkien elf played in film by Orlando Bloom</Clue>
+      <Clue Row="1" Col="10" Num="9" Dir="Down" Ans="ECRU">Beige-ish</Clue>
+      <Clue Row="1" Col="11" Num="10" Dir="Down" Ans="SKID">Result of driving on ice, perhaps</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="ATEMPO">Resuming the previous speed, in music</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="SATEEN">Glossy fabric</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="STAND">Custer's "last" thing</Clue>
+      <Clue Row="4" Col="7" Num="21" Dir="Down" Ans="WETS">Hoses down</Clue>
+      <Clue Row="4" Col="12" Num="22" Dir="Down" Ans="ASIAN">Kind of cuisine with stir-frying</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Down" Ans="AFTS">Times of day in classifieds</Clue>
+      <Clue Row="5" Col="2" Num="24" Dir="Down" Ans="BENT">Like the wire in clothes hangers</Clue>
+      <Clue Row="5" Col="3" Num="25" Dir="Down" Ans="ETTU">Question for Brutus</Clue>
+      <Clue Row="6" Col="5" Num="29" Dir="Down" Ans="ASCAP">Songwriters' org.</Clue>
+      <Clue Row="6" Col="6" Num="30" Dir="Down" Ans="TROVE">Valuable collection</Clue>
+      <Clue Row="6" Col="10" Num="31" Dir="Down" Ans="CALLA">Certain lily</Clue>
+      <Clue Row="6" Col="11" Num="32" Dir="Down" Ans="TRAIN">Coach ... or what a coach is part of</Clue>
+      <Clue Row="8" Col="4" Num="37" Dir="Down" Ans="CLEAN">Mr. ___</Clue>
+      <Clue Row="8" Col="13" Num="39" Dir="Down" Ans="CORN">Cheesy stuff</Clue>
+      <Clue Row="8" Col="14" Num="40" Dir="Down" Ans="ERIN">Leprechauns' land</Clue>
+      <Clue Row="8" Col="15" Num="41" Dir="Down" Ans="SEES">Goes out with</Clue>
+      <Clue Row="9" Col="7" Num="43" Dir="Down" Ans="ALDENTE">Just firm enough</Clue>
+      <Clue Row="9" Col="9" Num="44" Dir="Down" Ans="ACTS">Follower of John</Clue>
+      <Clue Row="10" Col="2" Num="46" Dir="Down" Ans="TOUPEE">Rug you don't walk on</Clue>
+      <Clue Row="10" Col="3" Num="47" Dir="Down" Ans="HYENAS">Shenzi, Banzai and Ed, in "The Lion King"</Clue>
+      <Clue Row="10" Col="8" Num="48" Dir="Down" Ans="ISRAEL">Acre's land</Clue>
+      <Clue Row="10" Col="12" Num="49" Dir="Down" Ans="BICPEN">Inexpensive writing implement</Clue>
+      <Clue Row="11" Col="1" Num="50" Dir="Down" Ans="SMUSH">Reduce to a pulp</Clue>
+      <Clue Row="12" Col="5" Num="54" Dir="Down" Ans="SLAP">Certain shot in hockey</Clue>
+      <Clue Row="12" Col="6" Num="55" Dir="Down" Ans="TUNE">Adjust, as a piano</Clue>
+      <Clue Row="12" Col="10" Num="56" Dir="Down" Ans="INCH">Nonmetric measure</Clue>
+      <Clue Row="12" Col="11" Num="57" Dir="Down" Ans="NOLA">The Big Easy</Clue>
+      <Clue Row="13" Col="13" Num="61" Dir="Down" Ans="REG">Gas option: Abbr.</Clue>
+      <Clue Row="13" Col="14" Num="62" Dir="Down" Ans="OSO">Spanish bear</Clue>
+      <Clue Row="13" Col="15" Num="63" Dir="Down" Ans="BEN">Editor Bradlee of The Washington Post</Clue>
+    </Clues>
+    <Notepad><![CDATA[CELEBRITY CROSSWORD<br />This puzzle is a collaboration by the singer/songwriter Weird Al Yankovic, working together with Eric Berlin, a writer and puzzle editor from Milford, Conn. This is Eric's 40th puzzle for The Times.<br />     More information about the making of today's puzzle appears in the Times's daily crossword column (nytimes.com/column/wordplay).]]></Notepad>
+    <JeffNotes><![CDATA[<p>Man, did I ever think Weird Al&#39;s songs (and name) were funny when I was a kid.</p>
+
+<p>Heck, I still think they&#39;re hilarious and awesome! I&#39;m jealous of Eric for getting the chance to work with the legend.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/The_Ministry_of_Silly_Walks" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/en/7/7f/Ministry_of_Silly_Walks.jpg" style="border:1px solid lightgray; float:left; height:173px; margin:6px 12px 6px 0px; width:219px" title="From the files of the Ministry of Silly Walks" /></a></p>
+
+<p>And what a fun concept they came up with, playing on &quot;cheesy&quot; movies, in an aptly Weird Al-esque way. Cheesy-related movie puns was a winner for me &mdash; big praise for someone tone-deaf when it comes to puns!</p>
+
+<p>A FEW GOUDA MEN made me smile. Even more so when I thought of little yellow army men made of Gouda. FETA ATTRACTION &hellip; ever hear of the term &quot;food porn&quot;?</p>
+
+<p>*rimshot*</p>
+
+<p>And imagining a movie where anthropomorphic blocks of Muenster tried to scare kids made me laugh too. Good stuff all around.</p>
+
+<p>Extra fun in the cluing, too, a bunch of stuff that seemed as wacky as Weird Al himself. John CLEESE doing his &quot;silly walks.&quot; (Much to my wife&#39;s chagrin, I still do them.) A TOUPEE = a rug you don&#39;t walk on. PEEL something you might slip on. It&#39;s a bit Weird Al, a bit Fozzie Bear, and a whole lot amusing.</p>
+
+<p>A bit too much crossword glue for my taste, notably OSO feeling oh so globby, but some AFTS SRS AGRI REG isn&#39;t bad for a mid-week puzzle.</p>
+
+<p>Overall, a satiric delight. I kind of wish Weird Al would write a crossword parody song and debut it IN A CROSSWORD the day before he released it. I call dibs on working with him if he takes on that idea!</p>]]></JeffNotes>
+  </Puzzle>
+</Puzzles>

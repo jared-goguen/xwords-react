@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Wednesday, April 11, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/11/2018 at 5:34 AM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Wed, Apr 11, 2018</Title>
+    <Author>Keiran King</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/11/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>..ABS.ELI..ABED</Row>
+      <Row>.POOH.CIRC.RELY</Row>
+      <Row>BARBEROFSEVILLE</Row>
+      <Row>ACTALONE.MISLED</Row>
+      <Row>SKA.TWO.GENE...</Row>
+      <Row>...PEE.CANONIND</Row>
+      <Row>VICAR.SHUTS.CIA</Row>
+      <Row>EARN.SCANS.HOLY</Row>
+      <Row>NGO.QUEST.ZONES</Row>
+      <Row>NOCTURNE.SIE...</Row>
+      <Row>...HIVE.APP.TBS</Row>
+      <Row>INHALE.SNACKBAR</Row>
+      <Row>MOONLIGHTSONATA</Row>
+      <Row>HUNK.LAOS.DELE.</Row>
+      <Row>ONES..HWY.EEL..</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="3" Num="1" Dir="Across" Ans="ABS">Tummy muscles</Clue>
+      <Clue Row="1" Col="7" Num="4" Dir="Across" Ans="ELI">Actor Wallach of stage and screen</Clue>
+      <Clue Row="1" Col="12" Num="7" Dir="Across" Ans="ABED">Not up</Clue>
+      <Clue Row="2" Col="2" Num="11" Dir="Across" Ans="POOH">Friend of Tigger</Clue>
+      <Clue Row="2" Col="7" Num="12" Dir="Across" Ans="CIRC">Newspaper sales fig.</Clue>
+      <Clue Row="2" Col="12" Num="14" Dir="Across" Ans="RELY">Depend (on)</Clue>
+      <Clue Row="3" Col="1" Num="15" Dir="Across" Ans="BARBEROFSEVILLE">Classic work by 16-, 31- and 51-Down, so to speak?</Clue>
+      <Clue Row="4" Col="1" Num="18" Dir="Across" Ans="ACTALONE">Not have an accomplice</Clue>
+      <Clue Row="4" Col="10" Num="19" Dir="Across" Ans="MISLED">Gave the wrong impression</Clue>
+      <Clue Row="5" Col="1" Num="20" Dir="Across" Ans="SKA">Jamaican music genre</Clue>
+      <Clue Row="5" Col="5" Num="21" Dir="Across" Ans="TWO">Lowest broadcast TV channel</Clue>
+      <Clue Row="5" Col="9" Num="22" Dir="Across" Ans="GENE">Wilder who played Willy Wonka</Clue>
+      <Clue Row="6" Col="4" Num="23" Dir="Across" Ans="PEE">What makes ale pale?</Clue>
+      <Clue Row="6" Col="8" Num="24" Dir="Across" Ans="CANONIND">Classic work by 11-, 9- and 8-Down, so to speak?</Clue>
+      <Clue Row="7" Col="1" Num="28" Dir="Across" Ans="VICAR">Bishop's deputy</Clue>
+      <Clue Row="7" Col="7" Num="31" Dir="Across" Ans="SHUTS">Closes</Clue>
+      <Clue Row="7" Col="13" Num="32" Dir="Across" Ans="CIA">Grp. that once plotted against Fidel Castro</Clue>
+      <Clue Row="8" Col="1" Num="33" Dir="Across" Ans="EARN">Deserve</Clue>
+      <Clue Row="8" Col="6" Num="34" Dir="Across" Ans="SCANS">Radiology procedures</Clue>
+      <Clue Row="8" Col="12" Num="35" Dir="Across" Ans="HOLY">Sacred</Clue>
+      <Clue Row="9" Col="1" Num="36" Dir="Across" Ans="NGO">Greenpeace or the Red Cross, for short</Clue>
+      <Clue Row="9" Col="5" Num="37" Dir="Across" Ans="QUEST">Hero's mission</Clue>
+      <Clue Row="9" Col="11" Num="38" Dir="Across" Ans="ZONES">Designated areas</Clue>
+      <Clue Row="10" Col="1" Num="39" Dir="Across" Ans="NOCTURNE">Classic work by 50- and 23-Down, so to speak?</Clue>
+      <Clue Row="10" Col="10" Num="41" Dir="Across" Ans="SIE">"Sprechen ___ Deutsch?"</Clue>
+      <Clue Row="11" Col="4" Num="42" Dir="Across" Ans="HIVE">Where a comb may be found</Clue>
+      <Clue Row="11" Col="9" Num="43" Dir="Across" Ans="APP">Snapchat or Pokémon Go</Clue>
+      <Clue Row="11" Col="13" Num="44" Dir="Across" Ans="TBS">Conan's TV home</Clue>
+      <Clue Row="12" Col="1" Num="47" Dir="Across" Ans="INHALE">Take a breath</Clue>
+      <Clue Row="12" Col="8" Num="50" Dir="Across" Ans="SNACKBAR">Adjunct to a sports facility</Clue>
+      <Clue Row="13" Col="1" Num="52" Dir="Across" Ans="MOONLIGHTSONATA">Classic work by 45-, 35- and 28-Down, so to speak?</Clue>
+      <Clue Row="14" Col="1" Num="54" Dir="Across" Ans="HUNK">Dreamboat</Clue>
+      <Clue Row="14" Col="6" Num="55" Dir="Across" Ans="LAOS">One of 14 lands neighboring China</Clue>
+      <Clue Row="14" Col="11" Num="56" Dir="Across" Ans="DELE">Cut, editorially</Clue>
+      <Clue Row="15" Col="1" Num="57" Dir="Across" Ans="ONES">George Washingtons</Clue>
+      <Clue Row="15" Col="7" Num="58" Dir="Across" Ans="HWY">Numbered rd.</Clue>
+      <Clue Row="15" Col="11" Num="59" Dir="Across" Ans="EEL">Prey for a barracuda</Clue>
+      <Clue Row="1" Col="3" Num="1" Dir="Down" Ans="AORTA">Lead vessel?</Clue>
+      <Clue Row="1" Col="4" Num="2" Dir="Down" Ans="BOBA">___ Fett, "Star Wars" bounty hunter</Clue>
+      <Clue Row="1" Col="5" Num="3" Dir="Down" Ans="SHELTER">Refuge</Clue>
+      <Clue Row="1" Col="7" Num="4" Dir="Down" Ans="ECONO">Prefix meaning "cheap"</Clue>
+      <Clue Row="1" Col="8" Num="5" Dir="Down" Ans="LIFE">Longest sentence?</Clue>
+      <Clue Row="1" Col="9" Num="6" Dir="Down" Ans="IRS">Tax org.</Clue>
+      <Clue Row="1" Col="12" Num="7" Dir="Down" Ans="ARISEN">Up</Clue>
+      <Clue Row="1" Col="13" Num="8" Dir="Down" Ans="BELL">Old AT&amp;T symbol</Clue>
+      <Clue Row="1" Col="14" Num="9" Dir="Down" Ans="ELLE">Vogue rival</Clue>
+      <Clue Row="1" Col="15" Num="10" Dir="Down" Ans="DYED">Turned brunette, maybe</Clue>
+      <Clue Row="2" Col="2" Num="11" Dir="Down" Ans="PACK">Cigarette purchase</Clue>
+      <Clue Row="2" Col="10" Num="13" Dir="Down" Ans="CEMENTS">Fixes in place</Clue>
+      <Clue Row="3" Col="1" Num="15" Dir="Down" Ans="BAS">___-relief</Clue>
+      <Clue Row="3" Col="6" Num="16" Dir="Down" Ans="ROWE">Mike who hosted "Dirty Jobs"</Clue>
+      <Clue Row="3" Col="11" Num="17" Dir="Down" Ans="VINOS">Italian wines</Clue>
+      <Clue Row="5" Col="9" Num="22" Dir="Down" Ans="GAUNT">Emaciated</Clue>
+      <Clue Row="6" Col="4" Num="23" Dir="Down" Ans="PAN">Give 0 stars</Clue>
+      <Clue Row="6" Col="8" Num="24" Dir="Down" Ans="CHASE">Citi rival</Clue>
+      <Clue Row="6" Col="13" Num="25" Dir="Down" Ans="ICON">Big "G" for Google, e.g.</Clue>
+      <Clue Row="6" Col="14" Num="26" Dir="Down" Ans="NILE">It flows past Giza</Clue>
+      <Clue Row="6" Col="15" Num="27" Dir="Down" Ans="DAYS">___ Inn</Clue>
+      <Clue Row="7" Col="1" Num="28" Dir="Down" Ans="VENN">Kind of diagram</Clue>
+      <Clue Row="7" Col="2" Num="29" Dir="Down" Ans="IAGO">Parrot in "Aladdin"</Clue>
+      <Clue Row="7" Col="3" Num="30" Dir="Down" Ans="CROC">Cousin of a gator</Clue>
+      <Clue Row="7" Col="7" Num="31" Dir="Down" Ans="SCENE">"And ... ___!" (director's cry)</Clue>
+      <Clue Row="8" Col="6" Num="34" Dir="Down" Ans="SURVEIL">Spy on</Clue>
+      <Clue Row="8" Col="12" Num="35" Dir="Down" Ans="HOE">Tool for tilling</Clue>
+      <Clue Row="9" Col="5" Num="37" Dir="Down" Ans="QUILL">Tool for telling?</Clue>
+      <Clue Row="9" Col="11" Num="38" Dir="Down" Ans="ZIPCODE">Closing part of an address</Clue>
+      <Clue Row="10" Col="4" Num="40" Dir="Down" Ans="THANKS">Word of good manners</Clue>
+      <Clue Row="10" Col="10" Num="41" Dir="Down" Ans="SPAS">Places for pampering</Clue>
+      <Clue Row="11" Col="9" Num="43" Dir="Down" Ans="ANTSY">Anxious</Clue>
+      <Clue Row="11" Col="13" Num="44" Dir="Down" Ans="TBALL">Lowest level of Little League</Clue>
+      <Clue Row="11" Col="14" Num="45" Dir="Down" Ans="BATE">Diminish</Clue>
+      <Clue Row="11" Col="15" Num="46" Dir="Down" Ans="SRA">Mrs., in Mexico</Clue>
+      <Clue Row="12" Col="1" Num="47" Dir="Down" Ans="IMHO">"Here's what I think," in textspeak</Clue>
+      <Clue Row="12" Col="2" Num="48" Dir="Down" Ans="NOUN">Pluralizable thing</Clue>
+      <Clue Row="12" Col="3" Num="49" Dir="Down" Ans="HONE">Practice to improve</Clue>
+      <Clue Row="12" Col="8" Num="50" Dir="Down" Ans="SHOW">What must go on, proverbially</Clue>
+      <Clue Row="12" Col="12" Num="51" Dir="Down" Ans="KNEE">Patella's place</Clue>
+      <Clue Row="13" Col="7" Num="53" Dir="Down" Ans="GAH">Sound of exasperation</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>There&#39;s a lot to admire in this audacious debut. As a classical music lover and former cellist, I loved the notion of &quot;classical composers sounded out with single words.&quot; Here they are, in case you didn&#39;t bother to search for the individual elements:</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Mike_Rowe" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ready_for_a_Dirty_Job_%28cropped%29.jpg/440px-Ready_for_a_Dirty_Job_%28cropped%29.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:170px" title="Mike ROWE(ssini)" /></a></p>
+
+<p>ROWE + SCENE + KNEE = Rossini</p>
+
+<p>PACK + ELLE + BELL = Pachelbel</p>
+
+<p>SHOW + PAN = Chopin</p>
+
+<p>BATE + HOE + VENN = Beethoven</p>
+
+<p>Notice how all the pronunciations are pretty darn good. I didn&#39;t like Pachelbel at first, but I think I&#39;ve been pronouncing his name wrong all these years &ndash; apparently, it is &quot;Pack-el-bel,&quot; not &quot;Pahk-el-bel.&quot; (Or maybe I&#39;m too much of a <a href="https://www.xwordinfo.com/Thumbs?author=joon+pahk" class="hasphoto">joon pahk</a> fan.)</p>
+
+<p>Also, it&#39;s very cool that Keiran used almost all normal words. The only oddball was BATE. (I love Mike ROWE and &quot;Dirty Jobs.&quot;) If only he&#39;d found a way to work in BAIT, it would have been a perfect set.</p>
+
+<p>Speaking of working things in, working in 11 extra pieces of theme? That&#39;s insane. I would have told him that it couldn&#39;t be done cleanly. I was wrong, as the fill is amazingly smooth for the level of difficulty. ABED, CIRC, DELE, HWY is about as much crossword glue as any other Wednesday puzzle, but the theme is MUCH harder to execute on than average.</p>
+
+<p>As much as I appreciated the puzzle as a constructor, I didn&#39;t particularly enjoy the solving process. When Keiran showed me the concept way back when, I didn&#39;t bother to look up the individual words; felt like too much work. Same happened during my solve.</p>
+
+<p>It&#39;s a shame that some people will piece together BARBER OF SEVILLE from the crossings, and not bother to find the playful homophones making up &quot;Rossini.&quot;</p>
+
+<p>I wonder if it would have been more enjoyable if the clue for BARBER OF SEVILLE had been [Composition by cigarette purchase + Vogue rival + Old AT&amp;T symbol?]?</p>
+
+<p>But overall, it&#39;s a rare debut that makes me think so much and probe my feelings. Looking forward to more from Keiran.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>As they say, the tenth time&#39;s the charm. After a year of encouraging rejections from Will and Joel, I&#39;m happy to make my NYT debut on a classical note.</p>
+
+<p>I like themes that require two steps to find the solution. (For example, <a href="https://www.xwordinfo.com/Crossword?date=11/30/2017">Trenton Charlson&#39;s &#39;Battleship&#39; NYT puzzle</a>, in which an answer like PTCRUISER becomes PTXXX.) <a href="http://xwordcontest.com/">Matt Gaffney&#39;s contest crosswords</a> often depend on this kind of double deduction.</p>
+
+<p>The theme clues I submitted began with: &quot;The sounds of...&quot; followed by the relevant Down entries. This led solvers first to the composer (&quot;The sounds of BATE + HOE + VENN?&quot;), and only then to the idea of a famous composition (&quot;The sounds of Beethoven?&quot;). Will&#39;s re-cluing flattens these two steps, which I worry makes it less satisfying to solve. But in Shortz I trust.</p>
+
+<p>The big challenge was fitting the 11 phonetic entries. My sense of order demanded they run downwards, intersecting the Across themers. But with such a constrained grid (45% of the fill is theme-related), I paid a high price in cheater squares.</p>
+
+<p>Shoutout to Nancy Salomon for her mentorship and generosity. In the same welcoming spirit, Raph Levien and I built a free online tool so anyone can try their hand at puzzle-making. It&#39;ll even print a Times submission when you&#39;re done. Enjoy at <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://www.keiranking.com/phil&amp;source=gmail&amp;ust=1523196611587000&amp;usg=AFQjCNFGShMHnvaVK0xJjMal4r8rIt-QDA" href="http://www.keiranking.com/phil" target="_blank">keiranking.com/phil</a>. (And feel free to <a href="mailto:me@keiranking.com" target="_blank">get in touch</a>. I like people and job offers.)</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

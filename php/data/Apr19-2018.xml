@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Thursday, April 19, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 4/18/2018 at 7:05 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Thu, Apr 19, 2018</Title>
+    <Author>Todd Gross</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>4/19/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>POKE.UNIV.CACHE</Row>
+      <Row>AREA.NOTE.HERES</Row>
+      <Row>BEETHOVEN.AHORA</Row>
+      <Row>SONIA..MISSOURI</Row>
+      <Row>TOATURN.CUTUP..</Row>
+      <Row>SSN.GOATEE.SIAM</Row>
+      <Row>...SHUSH..SMELT</Row>
+      <Row>COUNTTHESQUARES</Row>
+      <Row>AILEY..STEIN...</Row>
+      <Row>BLUE.ISEEIT.SPF</Row>
+      <Row>..LTCOL.PIONEER</Row>
+      <Row>ARACHNID..RINSO</Row>
+      <Row>LITHO.MARKSPITZ</Row>
+      <Row>ICEES.EVIL.ALEE</Row>
+      <Row>FOSSE.SEAM.TERN</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="POKE">Slow sort, informally</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="UNIV">Duke, e.g.: Abbr.</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Across" Ans="CACHE">Contents of a vault</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="AREA">What a salesperson may be assigned</Clue>
+      <Clue Row="2" Col="6" Num="15" Dir="Across" Ans="NOTE">Observe</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Across" Ans="HERES">Word before "Johnny" or "Lucy"</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="BEETHOVEN">He wrote this many symphonies</Clue>
+      <Clue Row="3" Col="11" Num="19" Dir="Across" Ans="AHORA">Now, in Bilbao</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="SONIA">First name on the Supreme Court</Clue>
+      <Clue Row="4" Col="8" Num="21" Dir="Across" Ans="MISSOURI">It borders this many other states</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Across" Ans="TOATURN">Exactly right</Clue>
+      <Clue Row="5" Col="9" Num="26" Dir="Across" Ans="CUTUP">Riot</Clue>
+      <Clue Row="6" Col="1" Num="27" Dir="Across" Ans="SSN">Tax ID</Clue>
+      <Clue Row="6" Col="5" Num="28" Dir="Across" Ans="GOATEE">The Devil has one</Clue>
+      <Clue Row="6" Col="12" Num="30" Dir="Across" Ans="SIAM">Country that changed its name in 1939</Clue>
+      <Clue Row="7" Col="4" Num="33" Dir="Across" Ans="SHUSH">"Zip your lip!"</Clue>
+      <Clue Row="7" Col="11" Num="34" Dir="Across" Ans="SMELT">Fish whose roe is used in sushi</Clue>
+      <Clue Row="8" Col="1" Num="35" Dir="Across" Ans="COUNTTHESQUARES">How to find out what "this many" is in 17-, 21-, 52- and 57-Across</Clue>
+      <Clue Row="9" Col="1" Num="40" Dir="Across" Ans="AILEY">Choreographer Alvin</Clue>
+      <Clue Row="9" Col="8" Num="41" Dir="Across" Ans="STEIN">Oktoberfest order</Clue>
+      <Clue Row="10" Col="1" Num="42" Dir="Across" Ans="BLUE">Like most of New York State's flag</Clue>
+      <Clue Row="10" Col="6" Num="43" Dir="Across" Ans="ISEEIT">"Aha!"</Clue>
+      <Clue Row="10" Col="13" Num="45" Dir="Across" Ans="SPF">Consideration for avoiding burns, for short</Clue>
+      <Clue Row="11" Col="3" Num="48" Dir="Across" Ans="LTCOL">Rank above maj.</Clue>
+      <Clue Row="11" Col="9" Num="50" Dir="Across" Ans="PIONEER">First in a field</Clue>
+      <Clue Row="12" Col="1" Num="52" Dir="Across" Ans="ARACHNID">It has this many legs</Clue>
+      <Clue Row="12" Col="11" Num="55" Dir="Across" Ans="RINSO">Soap brand mentioned in "Hair"</Clue>
+      <Clue Row="13" Col="1" Num="56" Dir="Across" Ans="LITHO">Many an art print, informally</Clue>
+      <Clue Row="13" Col="7" Num="57" Dir="Across" Ans="MARKSPITZ">He won this many Olympic gold medals</Clue>
+      <Clue Row="14" Col="1" Num="60" Dir="Across" Ans="ICEES">Some slushy drinks</Clue>
+      <Clue Row="14" Col="7" Num="61" Dir="Across" Ans="EVIL">"Man produces ___ as a bee produces honey": William Golding</Clue>
+      <Clue Row="14" Col="12" Num="62" Dir="Across" Ans="ALEE">Sheltered at sea</Clue>
+      <Clue Row="15" Col="1" Num="63" Dir="Across" Ans="FOSSE">"Cabaret" director</Clue>
+      <Clue Row="15" Col="7" Num="64" Dir="Across" Ans="SEAM">Part of a baseball</Clue>
+      <Clue Row="15" Col="12" Num="65" Dir="Across" Ans="TERN">Polar bird</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="PABSTS">Classic Milwaukee brews</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="OREOOS">Chocolaty breakfast cereal</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="KEENAN">Actor Wynn of "Dr. Strangelove"</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="EATIT">Wipe out, in slang</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="UNO">It's only half due</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="NOV">National Adoption Mo.</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="ITEM">Two in the news</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="VENICE">One stop on a grand tour</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="CHAST">The New Yorker cartoonist who wrote "What I Hate: From A to Z"</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="AEHOUSMAN">"A Shropshire Lad" author</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="CROUPIER">Casino employee</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="HERR">Man in Mannheim</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="ESAI">Actor Morales</Clue>
+      <Clue Row="3" Col="5" Num="18" Dir="Down" Ans="HAUGHTY">Stuck-up</Clue>
+      <Clue Row="4" Col="10" Num="22" Dir="Down" Ans="SUE">Not take things lying down, say</Clue>
+      <Clue Row="5" Col="6" Num="24" Dir="Down" Ans="ROUT">32-0, e.g.</Clue>
+      <Clue Row="5" Col="7" Num="25" Dir="Down" Ans="NASH">Poet who wrote "In the Vanities / No one wears panities"</Clue>
+      <Clue Row="6" Col="8" Num="29" Dir="Down" Ans="THESE">___ days (now)</Clue>
+      <Clue Row="6" Col="14" Num="31" Dir="Down" Ans="ALE">Oktoberfest order</Clue>
+      <Clue Row="6" Col="15" Num="32" Dir="Down" Ans="MTS">Washington and Adams: Abbr.</Clue>
+      <Clue Row="7" Col="4" Num="33" Dir="Down" Ans="SNEETCHES">Seuss's star-bellied creatures</Clue>
+      <Clue Row="7" Col="11" Num="34" Dir="Down" Ans="SUITORS">Ones carrying roses, maybe</Clue>
+      <Clue Row="8" Col="1" Num="35" Dir="Down" Ans="CAB">One hailed on Broadway?</Clue>
+      <Clue Row="8" Col="2" Num="36" Dir="Down" Ans="OIL">Alaskan export</Clue>
+      <Clue Row="8" Col="3" Num="37" Dir="Down" Ans="ULULATES">Grieves loudly</Clue>
+      <Clue Row="8" Col="9" Num="38" Dir="Down" Ans="STEP">Part of a how-to manual</Clue>
+      <Clue Row="8" Col="10" Num="39" Dir="Down" Ans="QEII">Monarch who took the throne in '52</Clue>
+      <Clue Row="10" Col="6" Num="43" Dir="Down" Ans="ION">Ca++ or Fe+++</Clue>
+      <Clue Row="10" Col="7" Num="44" Dir="Down" Ans="SLIMES">Covers in goo</Clue>
+      <Clue Row="10" Col="13" Num="45" Dir="Down" Ans="SENILE">No longer all there</Clue>
+      <Clue Row="10" Col="14" Num="46" Dir="Down" Ans="PESTER">Nag</Clue>
+      <Clue Row="10" Col="15" Num="47" Dir="Down" Ans="FROZEN">Disney movie set in Arendelle</Clue>
+      <Clue Row="11" Col="5" Num="49" Dir="Down" Ans="CHOSE">Drew from a hat, say</Clue>
+      <Clue Row="11" Col="12" Num="51" Dir="Down" Ans="NIPAT">Bite playfully</Clue>
+      <Clue Row="12" Col="1" Num="52" Dir="Down" Ans="ALIF">Arabic leader?</Clue>
+      <Clue Row="12" Col="2" Num="53" Dir="Down" Ans="RICO">Having mucho dinero</Clue>
+      <Clue Row="12" Col="8" Num="54" Dir="Down" Ans="DAVE">Singer/songwriter Matthews</Clue>
+      <Clue Row="13" Col="9" Num="58" Dir="Down" Ans="RIA">Narrow waterway</Clue>
+      <Clue Row="13" Col="10" Num="59" Dir="Down" Ans="KLM">Airline with a crown in its logo</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>I appreciate a Thursday theme worth working to uncover. At first, I thought maybe BEETHOVEN had TEN symphonies &ndash; note TEN in BEE<strong>T</strong>HOV<strong>EN</strong>! &ndash; and someone forgot to circle those letters?</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Ludwig_van_Beethoven" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/440px-Beethoven.jpg" style="border:1px solid lightgray; float:right; height:250px; margin:6px 0px 6px 12px; width:208px" title="BEETHOVEN's nine" /></a></p>
+
+<p>But what a great idea, the solver having to COUNT THE SQUARES of the entry to arrive at the number asked for in the clues. BEETHOVEN = nine letters = nine symphonies. I vaguely remember seeing something like this before, but it felt far enough in the recesses of my mind to not lessen my delight.</p>
+
+<p>ARACHNID = eight letters = eight legs. MARK SPITZ = nine letters = nine gold medals. Very cool!</p>
+
+<p>MISSOURI isn&#39;t as specific since you could pick any state and find some piece of numerical trivial to fit. But the number of other states a state borders is a common enough piece of info.</p>
+
+<p>Strong gridwork, too, Todd coming a long way in the past few years. Some of his earlier puzzles were kind of rough and gluey, but not this one. I appreciated all the long bonuses, CROUPIER, ULULATES, SNEETCHES. AE HOUSMAN was only vaguely familiar, but looking him up jogged &quot;A Shropshire Lad&quot; quickly back into mind.</p>
+
+<p>It&#39;s unusual to weave a couple of long downs in the center of the puzzle &ndash; much easier to break those up. So HAUGHTY and SUITORS were even more welcome in my eyes.</p>
+
+<p>A theme with a twist, strong long bonuses, and just a bit of ALEE, LTCOL, UNIV? Easy POW! choice. Very well done, Todd!</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>The most difficult part of getting this puzzle published might have been working up the courage to send it to Will. I&#39;ve had this theme for a long time, maybe before my first NYT puzzle was published. I remember Peter Gordon said no at some point. Finding theme answers isn&#39;t so hard...if you&#39;re OK with them being short. Certainly, numbers like TRE, FOUR, and CINCO will work, as will elements BORON and CARBON (based on their atomic number...or actually, the clue would mention how many protons the atom has). But all of these are 6 letters or less. Long entries are harder.</p>
+
+<p>The only decent long entry I thought of is MARTIN BALSAM, which I can clue as [Actor who portrayed one of this many angry men] (he was Juror #1). Maybe one of y&#39;all can come up with enough good ones to make a good puzzle. Add COUNT THE SQUARES as I did, and it should work. I give you my blessing.</p>
+
+<p>So, having two 9-letter and two 8-letter thematic answers feels less than satisfying. But adding shorties didn&#39;t feel like it added much, and Will seems to agree. And it does make the grid look different, and the theme answers stand out less. So that&#39;s something. I hope solvers enjoyed the change of pace, as well as the unusual theme.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

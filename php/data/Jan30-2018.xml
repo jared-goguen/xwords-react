@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Tuesday, January 30, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 1/30/2018 at 12:48 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Tue, Jan 30, 2018</Title>
+    <Author>Emily Carroll</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>1/30/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>ASU.WELSH.LIMIT</Row>
+      <Row>MER.ALOHA.AGILE</Row>
+      <Row>NAB.RAMENNOODLE</Row>
+      <Row>OLAF.LARGEST...</Row>
+      <Row>TENOR..MOW.CPAS</Row>
+      <Row>..SAHARAN.THETA</Row>
+      <Row>APPLETON.CHANEL</Row>
+      <Row>DER.SOW.PAR.NAS</Row>
+      <Row>READUP.KALAMATA</Row>
+      <Row>ELWES.LEXICON..</Row>
+      <Row>PELT.NYY..ETTAS</Row>
+      <Row>...EPOCHAL.ERIN</Row>
+      <Row>HOUSEBROKEN.ADO</Row>
+      <Row>OUSTS.ALITO.CEO</Row>
+      <Row>WREST.SENOR.ESP</Row>
+    </Grid>
+    <Circles>
+      <Circle Row="3" Col="5" />
+      <Circle Row="3" Col="6" />
+      <Circle Row="3" Col="7" />
+      <Circle Row="3" Col="8" />
+      <Circle Row="4" Col="3" />
+      <Circle Row="4" Col="4" />
+      <Circle Row="6" Col="7" />
+      <Circle Row="6" Col="8" />
+      <Circle Row="6" Col="9" />
+      <Circle Row="7" Col="10" />
+      <Circle Row="7" Col="11" />
+      <Circle Row="9" Col="4" />
+      <Circle Row="9" Col="5" />
+      <Circle Row="9" Col="6" />
+      <Circle Row="10" Col="7" />
+      <Circle Row="10" Col="8" />
+      <Circle Row="10" Col="9" />
+      <Circle Row="11" Col="11" />
+      <Circle Row="11" Col="12" />
+      <Circle Row="12" Col="7" />
+      <Circle Row="12" Col="8" />
+      <Circle Row="12" Col="9" />
+      <Circle Row="12" Col="10" />
+    </Circles>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="ASU">Sun Devils' sch.</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Across" Ans="WELSH">Like the Llwynywermod royal estate</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Across" Ans="LIMIT">One free carry-on bag, for many domestic flights</Clue>
+      <Clue Row="2" Col="1" Num="14" Dir="Across" Ans="MER">Large body of eau</Clue>
+      <Clue Row="2" Col="5" Num="15" Dir="Across" Ans="ALOHA">Welcome on Waikiki</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Across" Ans="AGILE">Light-footed</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="NAB">Collar</Clue>
+      <Clue Row="3" Col="5" Num="18" Dir="Across" Ans="RAMENNOODLE">Japanese soup tidbit</Clue>
+      <Clue Row="4" Col="1" Num="20" Dir="Across" Ans="OLAF">"Frozen" snowman</Clue>
+      <Clue Row="4" Col="6" Num="22" Dir="Across" Ans="LARGEST">Like the lion's share</Clue>
+      <Clue Row="5" Col="1" Num="23" Dir="Across" Ans="TENOR">Pavarotti, for one</Clue>
+      <Clue Row="5" Col="8" Num="25" Dir="Across" Ans="MOW">Part of a barn where hay is stored</Clue>
+      <Clue Row="5" Col="12" Num="26" Dir="Across" Ans="CPAS">Ones approving fin. statements</Clue>
+      <Clue Row="6" Col="3" Num="30" Dir="Across" Ans="SAHARAN">Hot and arid</Clue>
+      <Clue Row="6" Col="11" Num="33" Dir="Across" Ans="THETA">Iota preceder</Clue>
+      <Clue Row="7" Col="1" Num="34" Dir="Across" Ans="APPLETON">Wisconsin city that's home to Lawrence University</Clue>
+      <Clue Row="7" Col="10" Num="36" Dir="Across" Ans="CHANEL">Coco of couture</Clue>
+      <Clue Row="8" Col="1" Num="37" Dir="Across" Ans="DER">___ Spiegel (German newsmagazine)</Clue>
+      <Clue Row="8" Col="5" Num="38" Dir="Across" Ans="SOW">Piglet producer</Clue>
+      <Clue Row="8" Col="9" Num="39" Dir="Across" Ans="PAR">Something to shoot for</Clue>
+      <Clue Row="8" Col="13" Num="40" Dir="Across" Ans="NAS">Hip-hop artist with the #1 album "Hip Hop Is Dead"</Clue>
+      <Clue Row="9" Col="1" Num="41" Dir="Across" Ans="READUP">Study, with "on"</Clue>
+      <Clue Row="9" Col="8" Num="43" Dir="Across" Ans="KALAMATA">Large Greek olive</Clue>
+      <Clue Row="10" Col="1" Num="45" Dir="Across" Ans="ELWES">Actor Cary of "The Princess Bride"</Clue>
+      <Clue Row="10" Col="7" Num="46" Dir="Across" Ans="LEXICON">Dictionary</Clue>
+      <Clue Row="11" Col="1" Num="47" Dir="Across" Ans="PELT">Bombard</Clue>
+      <Clue Row="11" Col="6" Num="48" Dir="Across" Ans="NYY">Red Sox archrival, on scoreboards</Clue>
+      <Clue Row="11" Col="11" Num="49" Dir="Across" Ans="ETTAS">Jazzy James and Jones</Clue>
+      <Clue Row="12" Col="4" Num="52" Dir="Across" Ans="EPOCHAL">Historically significant</Clue>
+      <Clue Row="12" Col="12" Num="56" Dir="Across" Ans="ERIN">Land celebrated on March 17</Clue>
+      <Clue Row="13" Col="1" Num="57" Dir="Across" Ans="HOUSEBROKEN">Like most pet dogs ... or a hint to this puzzle's circled letters</Clue>
+      <Clue Row="13" Col="13" Num="61" Dir="Across" Ans="ADO">Big fuss</Clue>
+      <Clue Row="14" Col="1" Num="62" Dir="Across" Ans="OUSTS">Evicts</Clue>
+      <Clue Row="14" Col="7" Num="63" Dir="Across" Ans="ALITO">O'Connor's successor on the Supreme Court</Clue>
+      <Clue Row="14" Col="13" Num="64" Dir="Across" Ans="CEO">Company V.I.P.</Clue>
+      <Clue Row="15" Col="1" Num="65" Dir="Across" Ans="WREST">Extract forcefully</Clue>
+      <Clue Row="15" Col="7" Num="66" Dir="Across" Ans="SENOR">Title for un hombre</Clue>
+      <Clue Row="15" Col="13" Num="67" Dir="Across" Ans="ESP">Medium power?</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="AMNOT">Juvenile retort</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="SEALE">Bobby who co-founded the Black Panthers</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="URBANSPRAWL">Growing problem in cities?</Clue>
+      <Clue Row="1" Col="5" Num="4" Dir="Down" Ans="WAR">"___ is hell"</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="ELAL">Israeli carrier</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="LOMA">___ Linda, Calif.</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="SHERMAN">General who said the quote at 4-Down</Clue>
+      <Clue Row="1" Col="9" Num="8" Dir="Down" Ans="HANGON">"Not so fast!"</Clue>
+      <Clue Row="1" Col="11" Num="9" Dir="Down" Ans="LAOS">Vientiane's country</Clue>
+      <Clue Row="1" Col="12" Num="10" Dir="Down" Ans="IGOTCHA">"Ha! You fell for my trick!"</Clue>
+      <Clue Row="1" Col="13" Num="11" Dir="Down" Ans="MID">Central</Clue>
+      <Clue Row="1" Col="14" Num="12" Dir="Down" Ans="ILL">Feeling down</Clue>
+      <Clue Row="1" Col="15" Num="13" Dir="Down" Ans="TEE">Simple top</Clue>
+      <Clue Row="3" Col="10" Num="19" Dir="Down" Ans="NEW">Unfamiliar</Clue>
+      <Clue Row="4" Col="4" Num="21" Dir="Down" Ans="FOAL">Stable newborn</Clue>
+      <Clue Row="5" Col="5" Num="24" Dir="Down" Ans="RHESUS">Monkey often used in research</Clue>
+      <Clue Row="5" Col="13" Num="27" Dir="Down" Ans="PENNANTRACE">Subject of some September sports reporting</Clue>
+      <Clue Row="5" Col="14" Num="28" Dir="Down" Ans="ATEAT">Irritated no end</Clue>
+      <Clue Row="5" Col="15" Num="29" Dir="Down" Ans="SALSA">Lively Latin dance</Clue>
+      <Clue Row="6" Col="6" Num="31" Dir="Down" Ans="ATOP">Riding, say</Clue>
+      <Clue Row="6" Col="7" Num="32" Dir="Down" Ans="ROW">Ticket info</Clue>
+      <Clue Row="6" Col="11" Num="33" Dir="Down" Ans="THRACE">Ancient Balkan region</Clue>
+      <Clue Row="7" Col="1" Num="34" Dir="Down" Ans="ADREP">"Mad Men" type, informally</Clue>
+      <Clue Row="7" Col="2" Num="35" Dir="Down" Ans="PEELE">"Get Out" director Jordan</Clue>
+      <Clue Row="7" Col="10" Num="36" Dir="Down" Ans="CALI">City WSW of Bogotá</Clue>
+      <Clue Row="8" Col="9" Num="39" Dir="Down" Ans="PAX">Opposite of bellum</Clue>
+      <Clue Row="9" Col="4" Num="42" Dir="Down" Ans="DETESTS">Hates</Clue>
+      <Clue Row="9" Col="8" Num="43" Dir="Down" Ans="KEYHOLE">Peeper's vantage point</Clue>
+      <Clue Row="9" Col="12" Num="44" Dir="Down" Ans="MOTE">Speck</Clue>
+      <Clue Row="10" Col="7" Num="46" Dir="Down" Ans="LYCRAS">Stretchy materials</Clue>
+      <Clue Row="11" Col="6" Num="48" Dir="Down" Ans="NOB">San Francisco's ___ Hill</Clue>
+      <Clue Row="11" Col="14" Num="50" Dir="Down" Ans="AIDES">West Wing workers</Clue>
+      <Clue Row="11" Col="15" Num="51" Dir="Down" Ans="SNOOP">Poke around</Clue>
+      <Clue Row="12" Col="5" Num="53" Dir="Down" Ans="PEST">Annoyance</Clue>
+      <Clue Row="12" Col="9" Num="54" Dir="Down" Ans="AKIN">Similar (to)</Clue>
+      <Clue Row="12" Col="10" Num="55" Dir="Down" Ans="LETO">Jared who won an Oscar for "Dallas Buyers Club"</Clue>
+      <Clue Row="13" Col="1" Num="57" Dir="Down" Ans="HOW">Word after show or know</Clue>
+      <Clue Row="13" Col="2" Num="58" Dir="Down" Ans="OUR">Sharer's word</Clue>
+      <Clue Row="13" Col="3" Num="59" Dir="Down" Ans="USE">"It's no ___!"</Clue>
+      <Clue Row="13" Col="11" Num="60" Dir="Down" Ans="NOR">Neither's partner</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>For early-week puzzles, I like to play the &quot;guess the theme&quot; game. If I can guess it within one or two themers, I usually feel like it&#39;s too simple. After uncovering just AF/RAME, I rolled my eyes and said SPLIT LEVEL HOUSE. What a great surprise to have the much more fun HOUSEBROKEN!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Ramen" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Fresh_ramen_noodle_001.jpg/440px-Fresh_ramen_noodle_001.jpg" style="border:1px solid lightgray; float:right; height:160px; margin:6px 0px 6px 12px; width:220px" title="Yum, RAMEN NOODLEs!" /></a></p>
+
+<p>Nice to get a humbling Jeff-is-wrong moment once in a while.</p>
+
+<p>(There are a lot of them.)</p>
+
+<p>Something so pretty about those circled letters. Often, circles in puzzles tend to distract me, but I liked these.</p>
+
+<p>Not a lot of sizzling themers, but RAMEN NOODLE and LEXICON were both strong. (READ UP and OLAF aren&#39;t going to win any awards. EPOCHAL &hellip; huh. It&#39;s dictionary supported.)</p>
+
+<p>If Emily had only broken CHALET into CHA/LET, making way for something more interesting, like CAPTCHA &hellip; or I GOTCHA!</p>
+
+<p>Speaking of I GOTCHA, I thought Emily shined in her gridwork. URBAN SPRAWL and PENNANT RACE were both fantastic, as were I GOTCHA and SHERMAN, especially working in his &quot;WAR is hell&quot; quote. I even dug THRACE, a throwback to my favorite world history classes.</p>
+
+<p>And then there was the short fill. Great attention to detail! Emily did have a great deal of flexibility, the ___RAN, CH___ patterns having a ton of possibilities, for example. But with so many of them to fill around, many constructors would have ended up with a lot more crossword glue.</p>
+
+<p>Finally, loved that WELSH clue. What a crazy awesome WELSH name, Llwynywermod.</p>
+
+<p>All in all, an excellent Tuesday puzzle, one I&#39;d be happy to recommend to newer solvers. Nothing flashy, but very solid.</p>]]></JeffNotes>
+    <ConNotes><![CDATA[<p>The idea for this puzzle stemmed from the first one I ever constructed which had &quot;break a leg&quot; as the revealer with different leg bones broken across my theme answers. At the time I thought it was sensational, but it was rejected, and I can see why. As with many of my early attempts, it was, to put it nicely, hot garbage. Looking back at it now is like the crossword equivalent of finding an old middle school yearbook photo.</p>
+
+<p>Later, when the very talented <a href="https://www.xwordinfo.com/Thumbs?author=Samuel+A.+Donaldson" class="hasphoto">Sam Donaldson</a> made a much more successful <a href="https://www.xwordinfo.com/Crossword?date=7/12/2016">broken bone themed puzzle</a> (published on my birthday of all days) I took it as a sign that I should revisit the &quot;broken&quot; theme concept. I was hitting a brick wall until I tried breaking the houses over different answers as opposed to trying to find individual theme answers that would work. This also allowed for less constrained fill and some more interesting long non-themed answers. So overall I&#39;m pretty happy with the result, but my eye always goes to LYCRAS which I hate and realize is a stupid plural, but marginally less not-a-real-thing than LUCRES which was my other alternative in that spot.</p>]]></ConNotes>
+  </Puzzle>
+</Puzzles>

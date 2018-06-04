@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XPF document for the Monday, June 4, 2018 New York Times crossword.-->
+<!--Conforms to Universal Crossword Puzzle Format XPF. See www.xwordinfo.com/XPF for details and licensing information.-->
+<!--Generated on 6/3/2018 at 3:47 PM-->
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>NY Times, Mon, Jun 04, 2018</Title>
+    <Author>Zhouqin Burnikel</Author>
+    <Editor>Will Shortz</Editor>
+    <Publisher>The New York Times</Publisher>
+    <Date>6/4/2018</Date>
+    <Size>
+      <Rows>15</Rows>
+      <Cols>15</Cols>
+    </Size>
+    <Grid>
+      <Row>TODD.LSD..BASRA</Row>
+      <Row>ODOR.ACAI.ANTIC</Row>
+      <Row>TEND.BALDERDASH</Row>
+      <Row>..TOP.MIAMI.BEE</Row>
+      <Row>ARBORS..HUSK...</Row>
+      <Row>DELMONICOSTEAK.</Row>
+      <Row>UFO.PALO..ARMED</Row>
+      <Row>LEWD.GLADS.RENO</Row>
+      <Row>TRIES..CIAO.NNE</Row>
+      <Row>.STEALTHFIGHTER</Row>
+      <Row>...TRIO..DROOLS</Row>
+      <Row>ESC.AVOID.EAT..</Row>
+      <Row>DOUBLETREE.RHEA</Row>
+      <Row>ISSUE.SILL.DARN</Row>
+      <Row>TASTE..SIS.STAY</Row>
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="TODD">"Meet the Press" host Chuck</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Across" Ans="LSD">Trippy drug</Clue>
+      <Clue Row="1" Col="11" Num="8" Dir="Across" Ans="BASRA">Iraqi city whose name, appropriately, is an anagram of ARABS</Clue>
+      <Clue Row="2" Col="1" Num="13" Dir="Across" Ans="ODOR">Dumpster emanation</Clue>
+      <Clue Row="2" Col="6" Num="14" Dir="Across" Ans="ACAI">Berry for a purple smoothie</Clue>
+      <Clue Row="2" Col="11" Num="16" Dir="Across" Ans="ANTIC">Silly prank</Clue>
+      <Clue Row="3" Col="1" Num="17" Dir="Across" Ans="TEND">Watch, as the bar</Clue>
+      <Clue Row="3" Col="6" Num="18" Dir="Across" Ans="BALDERDASH">"Nonsense!"</Clue>
+      <Clue Row="4" Col="3" Num="20" Dir="Across" Ans="TOP">Best</Clue>
+      <Clue Row="4" Col="7" Num="22" Dir="Across" Ans="MIAMI">Home to the N.B.A.'s Heat</Clue>
+      <Clue Row="4" Col="13" Num="23" Dir="Across" Ans="BEE">Flier from flower to flower</Clue>
+      <Clue Row="5" Col="1" Num="24" Dir="Across" Ans="ARBORS">Shady places</Clue>
+      <Clue Row="5" Col="9" Num="27" Dir="Across" Ans="HUSK">Covering of a corn ear</Clue>
+      <Clue Row="6" Col="1" Num="29" Dir="Across" Ans="DELMONICOSTEAK">Boneless cut named for a New York restaurant</Clue>
+      <Clue Row="7" Col="1" Num="34" Dir="Across" Ans="UFO">Saucer in the sky, for short</Clue>
+      <Clue Row="7" Col="5" Num="35" Dir="Across" Ans="PALO">___ Alto, Calif.</Clue>
+      <Clue Row="7" Col="11" Num="36" Dir="Across" Ans="ARMED">Carrying a gun</Clue>
+      <Clue Row="8" Col="1" Num="38" Dir="Across" Ans="LEWD">Very off-color</Clue>
+      <Clue Row="8" Col="6" Num="40" Dir="Across" Ans="GLADS">Some showy blossoms, informally</Clue>
+      <Clue Row="8" Col="12" Num="43" Dir="Across" Ans="RENO">City north of Carson City</Clue>
+      <Clue Row="9" Col="1" Num="44" Dir="Across" Ans="TRIES">Samples</Clue>
+      <Clue Row="9" Col="8" Num="46" Dir="Across" Ans="CIAO">"Later!"</Clue>
+      <Clue Row="9" Col="13" Num="48" Dir="Across" Ans="NNE">180° from SSW</Clue>
+      <Clue Row="10" Col="2" Num="49" Dir="Across" Ans="STEALTHFIGHTER">Jet that evades radar detection</Clue>
+      <Clue Row="11" Col="4" Num="53" Dir="Across" Ans="TRIO">The biblical wise men, by tradition</Clue>
+      <Clue Row="11" Col="10" Num="54" Dir="Across" Ans="DROOLS">Slobbers</Clue>
+      <Clue Row="12" Col="1" Num="55" Dir="Across" Ans="ESC">Corner PC key</Clue>
+      <Clue Row="12" Col="5" Num="58" Dir="Across" Ans="AVOID">Steer clear of</Clue>
+      <Clue Row="12" Col="11" Num="61" Dir="Across" Ans="EAT">Sup</Clue>
+      <Clue Row="13" Col="1" Num="62" Dir="Across" Ans="DOUBLETREE">Hilton hotel chain ... or what 18-, 29- and 49-Across each have</Clue>
+      <Clue Row="13" Col="12" Num="65" Dir="Across" Ans="RHEA">Actress Perlman of "Cheers"</Clue>
+      <Clue Row="14" Col="1" Num="68" Dir="Across" Ans="ISSUE">National Geographic has a new one every month</Clue>
+      <Clue Row="14" Col="7" Num="69" Dir="Across" Ans="SILL">Spot for a flowerpot</Clue>
+      <Clue Row="14" Col="12" Num="70" Dir="Across" Ans="DARN">"Nuts!"</Clue>
+      <Clue Row="15" Col="1" Num="71" Dir="Across" Ans="TASTE">Sweetness, sourness or bitterness</Clue>
+      <Clue Row="15" Col="8" Num="72" Dir="Across" Ans="SIS">Kim, to Khloé Kardashian, for short</Clue>
+      <Clue Row="15" Col="12" Num="73" Dir="Across" Ans="STAY">"Don't go!"</Clue>
+      <Clue Row="1" Col="1" Num="1" Dir="Down" Ans="TOT">Wee one</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="ODE">Verse dedicated to someone</Clue>
+      <Clue Row="1" Col="3" Num="3" Dir="Down" Ans="DONTBLOWIT">Snarky comment after "This is your big chance"</Clue>
+      <Clue Row="1" Col="4" Num="4" Dir="Down" Ans="DRDOOM">Archenemy of the Fantastic Four</Clue>
+      <Clue Row="1" Col="6" Num="5" Dir="Down" Ans="LAB">Place for experimenting</Clue>
+      <Clue Row="1" Col="7" Num="6" Dir="Down" Ans="SCAM">Run a con on</Clue>
+      <Clue Row="1" Col="8" Num="7" Dir="Down" Ans="DALI">Limp watch painter</Clue>
+      <Clue Row="1" Col="11" Num="8" Dir="Down" Ans="BARISTA">Server at a coffeehouse</Clue>
+      <Clue Row="1" Col="12" Num="9" Dir="Down" Ans="AND">"What else?"</Clue>
+      <Clue Row="1" Col="13" Num="10" Dir="Down" Ans="STAB">Random guess</Clue>
+      <Clue Row="1" Col="14" Num="11" Dir="Down" Ans="RISE">Get up</Clue>
+      <Clue Row="1" Col="15" Num="12" Dir="Down" Ans="ACHE">Painful throb</Clue>
+      <Clue Row="2" Col="9" Num="15" Dir="Down" Ans="IDAHO">Boise's state</Clue>
+      <Clue Row="3" Col="10" Num="19" Dir="Down" Ans="EMUS">Birds on some Australian coins</Clue>
+      <Clue Row="4" Col="5" Num="21" Dir="Down" Ans="PROP">Item held by an actor</Clue>
+      <Clue Row="5" Col="1" Num="24" Dir="Down" Ans="ADULT">18+ ticket category</Clue>
+      <Clue Row="5" Col="2" Num="25" Dir="Down" Ans="REFERS">Alludes (to)</Clue>
+      <Clue Row="5" Col="6" Num="26" Dir="Down" Ans="SNAG">Glitch</Clue>
+      <Clue Row="5" Col="12" Num="28" Dir="Down" Ans="KERR">Deborah of "The King and I"</Clue>
+      <Clue Row="6" Col="7" Num="30" Dir="Down" Ans="ILL">Down with a bug</Clue>
+      <Clue Row="6" Col="8" Num="31" Dir="Down" Ans="COACH">Cheap section in a plane</Clue>
+      <Clue Row="6" Col="13" Num="32" Dir="Down" Ans="AMENTOTHAT">"So true!"</Clue>
+      <Clue Row="6" Col="14" Num="33" Dir="Down" Ans="KENNEL">Dog shelter</Clue>
+      <Clue Row="7" Col="15" Num="37" Dir="Down" Ans="DOERS">Active types</Clue>
+      <Clue Row="8" Col="4" Num="39" Dir="Down" Ans="DEET">Bug spray component</Clue>
+      <Clue Row="8" Col="9" Num="41" Dir="Down" Ans="DIF">"What's the ___?" ("Who cares?")</Clue>
+      <Clue Row="8" Col="10" Num="42" Dir="Down" Ans="SAID">Expressed</Clue>
+      <Clue Row="9" Col="5" Num="45" Dir="Down" Ans="SARALEE">Brand that "nobody doesn't like"</Clue>
+      <Clue Row="9" Col="11" Num="47" Dir="Down" Ans="OGRE">Folklore baddie</Clue>
+      <Clue Row="10" Col="6" Num="50" Dir="Down" Ans="LIVE">Performing now</Clue>
+      <Clue Row="10" Col="7" Num="51" Dir="Down" Ans="TOOTS">Honeybunch</Clue>
+      <Clue Row="10" Col="12" Num="52" Dir="Down" Ans="HOARDS">Squirrels away</Clue>
+      <Clue Row="12" Col="1" Num="55" Dir="Down" Ans="EDIT">Polish, as prose</Clue>
+      <Clue Row="12" Col="2" Num="56" Dir="Down" Ans="SOSA">Baseball's "Slammin' Sammy"</Clue>
+      <Clue Row="12" Col="3" Num="57" Dir="Down" Ans="CUSS">Use four-letter words</Clue>
+      <Clue Row="12" Col="8" Num="59" Dir="Down" Ans="IRIS">State flower of Tennessee</Clue>
+      <Clue Row="12" Col="9" Num="60" Dir="Down" Ans="DELI">Place to order a ham on rye</Clue>
+      <Clue Row="13" Col="4" Num="63" Dir="Down" Ans="BUT">"However ..."</Clue>
+      <Clue Row="13" Col="10" Num="64" Dir="Down" Ans="ELS">Golfer Ernie</Clue>
+      <Clue Row="13" Col="14" Num="66" Dir="Down" Ans="ERA">Time in history</Clue>
+      <Clue Row="13" Col="15" Num="67" Dir="Down" Ans="ANY">"___ takers?"</Clue>
+    </Clues>
+    <JeffNotes><![CDATA[<p>Beautiful Monday puzzle. Interesting theme full of fresh finds, a couple of bonuses in the fill, and a smooth grid. Nothing more I could ask for!</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Delmonico_steak" style="border:none"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Delmonico_steak.jpg/600px-Delmonico_steak.jpg" style="border:1px solid lightgray; float:left; height:146px; margin:6px 12px 6px 0px; width:219px" title="The DELMONICO STEAK. Wonder if they serve it at DOUBLETREEs." /></a></p>
+
+<p>C.C. riffs on DOUBLETREE = phrases with two trees embedded within them. I highlighted them below in case you couldn&#39;t locate them. Particularly nice one in B<strong>ALDER</strong>D<strong>ASH</strong>! It&#39;s so densely packed with trees, plus it&#39;s a fun word to say.</p>
+
+<p>C.C. is so, so, so good with her fill bonuses. DON&#39;T BLOW IT? No way she would --- AMEN TO THAT. And a BARISTA, DR DOOM, and SARA LEE? Nobody doesn&#39;t like that!</p>
+
+<p>And when NNE is the only grid entry that feels gluey, you&#39;ve done incredibly well. Superb craftsmanship.</p>
+
+<p>The only nit I had was that it took me forever to think of TEA in S<strong>TEA</strong>LTH <strong>FIG</strong>HTER. I was a bit slow to find FIG to begin with, and then I thought there might something called a TEAL tree? After much Googling, I headdesked when I figured things out.</p>
+
+<p>I often wish that puzzles don&#39;t get dumbed down; that solvers be allowed to discover and earn their a-ha moment. Here though, TEA tree feels not as easily recognizable as the ASH or ALDER (I might say the same for TEAK), so I would have preferred that they be shaded in the grid.</p>
+
+<p>Ooh, trees providing shade! That would have been so meta.</p>
+
+<p>Minor quibble aside, a near-perfect start to the week; a puzzle I&#39;d happily give to any newer solver.</p>]]></JeffNotes>
+  </Puzzle>
+</Puzzles>

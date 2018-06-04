@@ -1,13 +1,13 @@
 import hypernova from 'hypernova/server';
 
-import TestComponent from './components/TestComponent';
+import Puzzle from './components/Puzzle';
 
 hypernova({
   devMode: true,
 
   getComponent(name) {
-    if (name === 'TestComponent') {
-      return TestComponent;
+    if (name === 'Puzzle') {
+      return Puzzle;
     }
     return null;
   },

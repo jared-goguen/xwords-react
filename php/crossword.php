@@ -58,7 +58,7 @@ class Puzzle {
     $sizeNode = $puzzleNode->Size;
     $this->size = [
       'rows' => $sizeNode->Rows->__toString(), 
-      'cols' => $sizeNode->Cols->__toString(), 
+      'columns' => $sizeNode->Cols->__toString(), 
     ];
 
     $getText = function($node) {

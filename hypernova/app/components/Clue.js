@@ -1,4 +1,6 @@
 import React from 'react';
+import { store } from '../store';
+import * as actions from '../actions';
 
 class Clue extends React.Component {
   /*
@@ -13,14 +15,17 @@ class Clue extends React.Component {
   state
   */
   constructor(props) {
-    super(props);
-    
+    super(props); 
+  }
+
+  setFocus = (event) => {
+    store.dispatch(actions.SET_FOCUS(this.props.row, this.props.column. this.props.direction));
   }
 
   render() {
     return (
-      <li>
-        <label htmlFor={'cell-' + this.props.row + '-' + this.props.column}>
+      <li onClick={this.setFocus}>
+        <label>
           <b>{this.props.number}.</b>
           {this.props.text}
         </label>

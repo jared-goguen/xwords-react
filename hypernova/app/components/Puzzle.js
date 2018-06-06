@@ -1,7 +1,12 @@
 import React from 'react';
 import { renderReact } from 'hypernova-react';
+import { Provider } from 'react-redux';
+import store from '../store';
+
 import Grid from './Grid';
 import Clues from './Clues';
+
+
 
 class Puzzle extends React.Component {
   /*
@@ -24,17 +29,18 @@ class Puzzle extends React.Component {
     }
   }
 
-
   render() {
     return (
-      <div className='puzzle-holder'>
-        <div className='grid-holder'>
-          <Grid entries={this.props.grid} clueMarkers={this.clueMarkers} />
+      <Provider store={store}>
+        <div className='puzzle-holder'>
+          <div className='grid-holder'>
+            <Grid entries={this.props.grid} clueMarkers={this.clueMarkers} />
+          </div>
+          <div className='clues-holder'>
+            <Clues clues={this.props.clues} />
+          </div>
         </div>
-        <div className='clues-holder'>
-          <Clues clues={this.props.clues} />
-        </div>
-      </div>
+      </Provider>
     );
   }
 }

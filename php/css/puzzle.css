@@ -92,3 +92,7 @@
   max-height: 22.5em;
   overflow-y: auto;
 }
+
+.highlight > div > input {
+  background: #FF00FF;
+}

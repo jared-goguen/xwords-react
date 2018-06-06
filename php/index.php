@@ -24,7 +24,7 @@ $output = $response->results['mainPuzzle'];
 if (isset($output->error)) {
 	echo print_r($output);
 } else {
-  echo "<h4>" . $puzzle->title . "</h1>";
+  echo "<h4>" . $puzzle->title . "</h4>";
 	echo $output->html;
 }
 

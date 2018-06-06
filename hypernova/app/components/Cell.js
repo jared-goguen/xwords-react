@@ -2,7 +2,7 @@ import React from 'react';
 import { connect } from 'react-redux';
 
 const mapStateToProps = (state) => {
-    return {focus: state.focus}
+  return {focus: state.focus}
 }
 
 class Cell extends React.Component {

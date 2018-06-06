@@ -1,8 +1,7 @@
 import React from 'react';
 import { renderReact } from 'hypernova-react';
-
 import Grid from './Grid';
-
+import Clues from './Clues';
 
 class Puzzle extends React.Component {
   /*
@@ -10,53 +9,31 @@ class Puzzle extends React.Component {
     title: String title
     date: String date
     size: { Number rows, Number columns }
-    grid: [ String row... ]
-    rebuses: [ Rebus rebus... ]
-    clues: [ Clue clue... ]
+    grid: [ String row, ... ]
+    rebuses: [ Rebus rebus, ... ]
+    clues: [ Clue clue, ... ]
 
   state
-    width: Number width (pixels)
-    height: Number height (pixels)
-    cellSide: Number size length (pixels)
   */
   constructor(props) {
     super(props);
-    this.state = {
-      width: 0,
-      height: 0,
-      cellSide: 0
-    };
+    this.clueMarkers = [...Array(this.props.size.rows)].map(u => []);
+    for (let clue of this.props.clues) {
+      let {row, column, number} = clue;
+      this.clueMarkers[row][column] = number;
+    }
   }
 
-  componentDidMount() {
-    this.setState(this.getDimensions());
-  }
-
-  getDimensions() {
-    let { rows, columns } = this.props.size;
-    let baseWidth = window.innerWidth * 0.80;
-    let baseHeight = window.innerHeight * 0.80;
-
-    let rowWidth = baseWidth / columns;
-    let rowHeight = baseHeight / rows;
-
-    let cellSide = Math.min(rowHeight, rowWidth);
-    let width = cellSide * columns;
-    let height = cellSide * rows;
-
-    return { width, height, cellSide };
-  }
 
   render() {
     return (
-      <div>
-        <p>{this.props.title}</p>
-        <Grid 
-          width={this.state.width} 
-          height={this.state.height} 
-          cellSide={this.state.cellSide} 
-          entries={this.props.grid} 
-        />
+      <div className='puzzle-holder'>
+        <div className='grid-holder'>
+          <Grid entries={this.props.grid} clueMarkers={this.clueMarkers} />
+        </div>
+        <div className='clues-holder'>
+          <Clues clues={this.props.clues} />
+        </div>
       </div>
     );
   }

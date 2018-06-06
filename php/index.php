@@ -1,6 +1,8 @@
 <html>
 <body>
-
+<head>
+  <link rel="stylesheet" type="text/css" href="/css/puzzle.css">
+</head>
 <?php
 
 require_once("vendor/autoload.php");
@@ -21,6 +23,7 @@ $output = $response->results['mainPuzzle'];
 if (isset($output->error)) {
 	echo print_r($output);
 } else {
+  echo "<h4>" . $puzzle->title . "</h1>";
 	echo $output->html;
 }
 

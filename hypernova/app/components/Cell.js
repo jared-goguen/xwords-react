@@ -1,39 +1,34 @@
 import React from 'react';
 
-const cellStyle = {
-  stroke: 'black',
-  strokeWidth: 1
-}
-
-
 class Cell extends React.Component {
   /*
   props
     row: Number row number
     column: Number column number
-    cellSide: Number side length (pixels)
+    number: Number clue number
     value: String value
 
   state
   */
   constructor(props) {
     super(props);
-  }
-
-  getPosition() {
-    return {
-      x: this.props.column * this.props.cellSide,
-      y: this.props.row * this.props.cellSide,
-      width: this.props.cellSide,
-      height: this.props.cellSide
-    }
+    this.type = this.props.value === '.' ? 'blank' : 'cell'
   }
 
   render() {
     return (
-      <rect { ...this.getPosition() } style={ cellStyle }>
-        { this.props.value }
-      </rect>
+      <td className={ this.type }>
+        <div>
+          { this.props.number !== undefined ? 
+            <span className='clue-label'>{this.props.number}</span> 
+          : null }
+
+          { this.type === 'cell' ? 
+            <input type='text' id={'cell-' + this.props.row + '-' + this.props.column} 
+              maxLength='1' value={ this.props.value } /> 
+          : null }
+        </div>
+      </td>
     );
   }
 }

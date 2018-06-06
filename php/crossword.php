@@ -16,8 +16,8 @@ class Rebus {
   public $text = null;
 
   function __construct($rebusNode) {
-    $this->row = $rebusNode['Row']->__toString();
-    $this->column = $rebusNode['Col']->__toString();
+    $this->row = $rebusNode['Row'] - 1;
+    $this->column = $rebusNode['Col'] - 1;
     $this->short = $rebusNode['Short']->__toString();
     $this->text = $rebusNode->__toString();
   }
@@ -33,8 +33,8 @@ class Clue {
   public $text = null;
 
   function __construct($clueNode) {
-    $this->row = $clueNode['Row']->__toString();
-    $this->column = $clueNode['Col']->__toString();
+    $this->row = $clueNode['Row'] - 1;
+    $this->column = $clueNode['Col'] - 1;
     $this->number = $clueNode['Num']->__toString();
     $this->direction = $clueNode['Dir']->__toString();
     $this->answer = $clueNode['Ans']->__toString();
@@ -57,8 +57,8 @@ class Puzzle {
     
     $sizeNode = $puzzleNode->Size;
     $this->size = [
-      'rows' => $sizeNode->Rows->__toString(), 
-      'columns' => $sizeNode->Cols->__toString(), 
+      'rows' => $sizeNode->Rows + 0, 
+      'columns' => $sizeNode->Cols + 0, 
     ];
 
     $getText = function($node) {

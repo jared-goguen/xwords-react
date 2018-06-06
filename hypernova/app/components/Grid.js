@@ -16,12 +16,12 @@ class Grid extends React.Component {
   render() {
     return (
       <table>
-        <tdbody>
+        <tbody className='grid-body'>
           { this.props.entries.map(
             (row, i) => 
             <Row key={i} index={i} clueMarkers={this.props.clueMarkers[i]} entries={row.split('')} />
           ) }
-        </tdbody>
+        </tbody>
       </table>
     );
   }

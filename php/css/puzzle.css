@@ -1,8 +1,3 @@
-html {
-  font-family: "Benton Sans Bold", Helvetica, Arial;
-  font-size: 25px;
-}
-
 .puzzle-holder {
   margin: 10px;
   width: auto; 
@@ -23,28 +18,28 @@ html {
   padding: 0;
 }
 
-tr:first-child > td {
+.grid-body > tr:first-child > td {
   border-top: 1px solid #444444;
 }
 
-tr > td:first-child {
+.grid-body > tr > td:first-child {
   border-left: 1px solid #444444;
 }
 
-td {
+.grid-body > tr > td {
   width: 36px;
 }
 
-td > div {
+.grid-body > tr > td > div {
   position: relative;
 }
 
-table {
+.grid-holder > table {
   -webkit-border-horizontal-spacing: 0;
   -webkit-border-vertical-spacing: 0;
 }
 
-input {
+.cell > div > input {
   height: 36px;
   padding-bottom: 2px;
   padding-top: 8px;

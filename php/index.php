@@ -1,6 +1,7 @@
 <html>
 <body>
 <head>
+  <link rel="stylesheet" type="text/css" href="/css/index.css">
   <link rel="stylesheet" type="text/css" href="/css/puzzle.css">
 </head>
 <?php

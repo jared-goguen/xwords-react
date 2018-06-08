@@ -16,11 +16,11 @@ class Clue extends React.Component {
   */
   constructor(props) {
     super(props); 
-    console.log(store);
   }
 
-  setFocus(event) {
+  setFocus = (event) => {
     store.dispatch(actions.SET_FOCUS(this.props.row, this.props.column, this.props.direction));
+    console.log(store.getState());
   }
 
   render() {

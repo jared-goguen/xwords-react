@@ -1,2 +1,2 @@
 call npm run build
-node build/bundle.js
+node build/hypernova-server.js

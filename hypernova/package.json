@@ -23,6 +23,7 @@
     "webpack-cli": "^2.1.5"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "hypernova": "^2.2.6",
     "hypernova-react": "^2.1.0",
     "react": "^16.4.0",

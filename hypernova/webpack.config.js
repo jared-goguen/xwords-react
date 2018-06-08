@@ -1,11 +1,8 @@
-var path = require('path');
-var webpack = require('webpack');
+let path = require('path');
+let webpack = require('webpack');
 
-module.exports = {
+let config = {
   mode: 'development',
-  entry: {
-    app: './app/bindings.js'
-  },
   resolve: {
     extensions: ['.js', '.jsx']
   },
@@ -19,10 +16,33 @@ module.exports = {
         }
       }
     ]
+  }
+};
+
+let serverConfig = {
+  target: 'node',
+  entry: {
+    app: './app/hypernova.js'
   },
   output: {
     path: path.resolve(__dirname, 'build'),
-    filename: 'bundle.js',
-  },
-  target: 'node'
+    filename: 'hypernova-server.js'
+  }
+  //…
 };
+
+let clientConfig = {
+  target: 'web',
+  entry: {
+    app: './app/client.js'
+  },
+  output: {
+    path: path.resolve(__dirname, '../php/assets'),
+    filename: 'react-client.js'
+  }
+};
+
+module.exports = [ 
+  Object.assign({}, config, serverConfig), 
+  Object.assign({}, config, clientConfig),  
+];

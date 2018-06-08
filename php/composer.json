@@ -1,5 +1,6 @@
 {
     "require": {
-        "wayfair/hypernova-php": "^2.0"
+        "wayfair/hypernova-php": "^2.0",
+        "altorouter/altorouter": "1.1.0"
     }
 }

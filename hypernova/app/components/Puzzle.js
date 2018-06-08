@@ -7,7 +7,6 @@ import Grid from './Grid';
 import Clues from './Clues';
 
 
-
 class Puzzle extends React.Component {
   /*
   props
@@ -45,4 +44,11 @@ class Puzzle extends React.Component {
   }
 }
 
-export default renderReact('Puzzle', Puzzle);
+
+if (typeof document === 'undefined') {
+  var component = renderReact('Puzzle', Puzzle);  
+} else {
+  var component = Puzzle;
+}
+export default component;
+

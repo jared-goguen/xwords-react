@@ -75,20 +75,23 @@ class Puzzle {
     };
 
     $rebusNodes = $puzzleNode->RebusEntries->Rebus;
-    $this->rebuses = element_map($objectCreator("Rebus"), $rebusNodes);
+    $this->rebuses = element_map($objectCreator('Rebus'), $rebusNodes);
 
     $clueNodes = $puzzleNode->Clues->Clue;
-    $this->clues = element_map($objectCreator("Clue"), $clueNodes);
+    $this->clues = element_map($objectCreator('Clue'), $clueNodes);
   }
 }
 
-
 function loadPuzzle($path) {
-  $qualified_path = config("data_path") . $path;
+  $qualified_path = config('data_path') . $path;
   $xml = simplexml_load_file($qualified_path);
   $puzzleNode = $xml->Puzzle;
   return new Puzzle($puzzleNode);
 }
 
+function crosswordJSON($date) {
+  $path = $date . '.xml';
+  $puzzle = loadPuzzle($path);
+  return json_encode($puzzle);
+}
 
-?>

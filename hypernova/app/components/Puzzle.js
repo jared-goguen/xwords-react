@@ -1,5 +1,4 @@
 import React from 'react';
-import { renderReact } from 'hypernova-react';
 import { Provider } from 'react-redux';
 import store from '../store';
 
@@ -7,7 +6,7 @@ import Grid from './Grid';
 import Clues from './Clues';
 
 
-class Puzzle extends React.Component {
+export default class Puzzle extends React.Component {
   /*
   props
     title: String title
@@ -43,12 +42,3 @@ class Puzzle extends React.Component {
     );
   }
 }
-
-
-if (typeof document === 'undefined') {
-  var component = renderReact('Puzzle', Puzzle);  
-} else {
-  var component = Puzzle;
-}
-export default component;
-

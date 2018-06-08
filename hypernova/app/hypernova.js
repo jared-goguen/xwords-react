@@ -1,20 +1,21 @@
 import hypernova from 'hypernova/server';
+import { renderReact } from 'hypernova-react';
 
 import Puzzle from './components/Puzzle';
 import Test from './test/Test';
+
+const components = {
+  Puzzle,
+  Test
+};
+
 
 hypernova({
   devMode: true,
 
   getComponent(name) {
-    if (name === 'Puzzle') {
-      return Puzzle;
-    }
-    if (name === 'Test') {
-      return Test;
-    }
-    return null;
+    return renderReact(components[name], name);
   },
-
+  
   port: 3030,
 });

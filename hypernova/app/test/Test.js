@@ -2,7 +2,7 @@ import React from 'react';
 import { renderReact } from 'hypernova-react';
 import ReactDOM  from 'react-dom';
 
-class Test extends React.Component {
+export default class Test extends React.Component {
   constructor(props) {
     super(props);
     this.onClick = this.onClick.bind(this);
@@ -18,9 +18,3 @@ class Test extends React.Component {
     );
   }
 }
-
-if (typeof document !== 'undefined') {
-  ReactDOM.render(<Test />, document.getElementById('puzzle'));
-}
-
-export default renderReact('Test', Test);

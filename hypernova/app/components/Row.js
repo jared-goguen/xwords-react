@@ -1,4 +1,5 @@
 import React from 'react';
+
 import Cell from './Cell';
 
 class Row extends React.Component {
@@ -19,7 +20,14 @@ class Row extends React.Component {
       <tr>
         { this.props.entries.map(
           (entry, i) => 
-          <Cell key={i} row={this.props.index} number={this.props.clueMarkers[i]} column={i} value={entry} />
+          <Cell 
+            key={ i } 
+            row={ this.props.index } 
+            column={ i } 
+            number={ this.props.clueMarkers[i] } 
+            value={ entry } 
+            active={ this.props.activeCells[i] }
+          />
         ) }
       </tr>
     );

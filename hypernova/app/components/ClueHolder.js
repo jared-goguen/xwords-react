@@ -6,6 +6,9 @@ class ClueHolder extends React.Component {
   props
     title: String title
     clues: [ Clues clues, ... ]
+    clueRow: Number row of active clue
+    clueColumn: Number column of active clue
+    clueDirection: String direction of active clue
 
   state
   */
@@ -21,7 +24,15 @@ class ClueHolder extends React.Component {
         <ol>
           { this.props.clues.map(
             (clue, i) =>
-            <Clue key={i} {...clue} />
+            <Clue 
+              key={ i } 
+              focus={ 
+                this.props.clueRow == clue.row &&
+                this.props.clueColumn == clue.column &&
+                this.props.clueDirection == clue.direction
+              }
+              { ...clue } 
+            />
           ) }
         </ol>
       </div>

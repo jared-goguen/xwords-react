@@ -14,7 +14,7 @@ hypernova({
   devMode: true,
 
   getComponent(name) {
-    return renderReact(components[name], name);
+    return renderReact(name, components[name]);
   },
   
   port: 3030,

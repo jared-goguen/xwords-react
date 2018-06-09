@@ -1,14 +1,22 @@
-export const SET_FOCUS = (row, column, direction) => {
+export const SET_CLUE = (row, column, direction) => {
     return {
-        type: 'SET_FOCUS',
+        type: 'SET_CLUE',
         row,
         column,
         direction
     }
 }
 
-export const TOGGLE_FOCUS = () => {
+export const SET_CELL = (row, column) => {
     return {
-        type: 'TOGGLE_FOCUS'
+        type: 'SET_CELL',
+        row,
+        column,
+    }
+}
+
+export const TOGGLE_DIRECTION = () => {
+    return {
+        type: 'TOGGLE_DIRECTION'
     }
 }

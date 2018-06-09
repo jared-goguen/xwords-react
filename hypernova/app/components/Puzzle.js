@@ -1,10 +1,15 @@
 import React from 'react';
 import { Provider } from 'react-redux';
-import store from '../store';
+import { createStore, combineReducers } from 'redux';
+import focus from '../reducers/focus';
 
-import Grid from './Grid';
-import Clues from './Clues';
+import PuzzleHolder from './PuzzleHolder';
 
+const reducers = combineReducers({
+   focus,
+})
+
+const store = createStore(reducers);
 
 export default class Puzzle extends React.Component {
   /*
@@ -20,24 +25,19 @@ export default class Puzzle extends React.Component {
   */
   constructor(props) {
     super(props);
-    this.clueMarkers = [...Array(this.props.size.rows)].map(u => []);
-    for (let clue of this.props.clues) {
-      let {row, column, number} = clue;
-      this.clueMarkers[row][column] = number;
-    }
   }
 
   render() {
     return (
-      <Provider store={store}>
-        <div className='puzzle-holder'>
-          <div className='grid-holder'>
-            <Grid entries={this.props.grid} clueMarkers={this.clueMarkers} />
-          </div>
-          <div className='clues-holder'>
-            <Clues clues={this.props.clues} />
-          </div>
-        </div>
+      <Provider store={ store }>
+        <PuzzleHolder 
+          title={ this.props.title }
+          date={ this.props.date }
+          size={ this.props.size }
+          grid={ this.props.grid }
+          rebuses={ this.props.rebuses }
+          clues={ this.props.clues }
+        />
       </Provider>
     );
   }

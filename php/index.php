@@ -29,11 +29,6 @@ if (isset($output->error)) {
   echo '</div>';
 }
 
-
-
-
-
-
 ?>
 <script src='/assets/react-client.js' defer></script>
 </body>

@@ -1,6 +1,15 @@
 import React from 'react';
-import store from '../store';
+import { connect } from 'react-redux';
 import * as actions from '../actions';
+
+const mapDispatchToProps = (dispatch, props) => {
+  return {
+    onClueClick: () => {
+      document.getElementById(`cell-${props.row}-${props.column}`).focus();
+      dispatch(actions.SET_CLUE(props.row, props.column, props.direction));
+    }
+  }
+};
 
 class Clue extends React.Component {
   /*
@@ -11,6 +20,7 @@ class Clue extends React.Component {
     direction: String clue direction
     answer: String clue answer
     text: String clue text
+    focus: Boolean active clue
 
   state
   */
@@ -18,21 +28,17 @@ class Clue extends React.Component {
     super(props); 
   }
 
-  setFocus = (event) => {
-    store.dispatch(actions.SET_FOCUS(this.props.row, this.props.column, this.props.direction));
-    console.log(store.getState());
-  }
-
   render() {
+    let className = this.props.focus ? 'clue-highlight' : '';
     return (
-      <li onClick={this.setFocus}>
+      <li onClick={ this.props.onClueClick } className={ className } >
         <label>
-          <b>{this.props.number}.</b>
-          {this.props.text}
+          <b>{ this.props.number }.</b>
+          { this.props.text }
         </label>
       </li>
     );
   }
 }
 
-export default Clue;
+export default connect(null, mapDispatchToProps)(Clue);

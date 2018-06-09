@@ -1,3 +1,10 @@
+:root {
+  --blank: #333333;
+  --background: #FFFFFF;
+  --active: #C5B6FC;
+  --adjacent: #94FFE4;
+}
+
 .puzzle-holder {
   margin: 10px;
   width: auto; 
@@ -9,21 +16,21 @@
 }
 
 .blank {
-  background: #444444;
+  background: var(--blank);
 }
 
 .cell {
-  border-right: 1px solid #444444;
-  border-bottom: 1px solid #444444;
+  border-right: 1px solid var(--blank);
+  border-bottom: 1px solid var(--blank);
   padding: 0;
 }
 
 .grid-body > tr:first-child > td {
-  border-top: 1px solid #444444;
+  border-top: 1px solid var(--blank);
 }
 
 .grid-body > tr > td:first-child {
-  border-left: 1px solid #444444;
+  border-left: 1px solid var(--blank);
 }
 
 .grid-body > tr > td {
@@ -45,9 +52,11 @@
   padding-top: 8px;
   border: 0;
   width: 100%;
-  background: #EEEEEE;
+  background: var(--background);
   text-align: center;
   font-size: 20px;
+  cursor: default;
+  text-transform: uppercase;
 }
 
 .grid-holder {
@@ -72,7 +81,7 @@
 }
 
 .clue-holder > h3 {
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid var(--blank);
   text-align: center;
   margin-top: 0;
 }
@@ -88,11 +97,26 @@
   width: 1.5em;
 }
 
+.clue-holder > ol > li > label {
+  clear: left;
+  margin-left: 2em;
+  display: block;
+  padding: 0.25em;
+}
+
 .clue-holder > ol {
   max-height: 22.5em;
   overflow-y: auto;
 }
 
-.highlight > div > input {
-  background: #FF00FF;
+.cell-highlight > div > input {
+  background: var(--active) !important;
+}
+
+.cell-active > div > input {
+  background: var(--adjacent);
+}
+
+.clue-highlight {
+  background: var(--active);
 }

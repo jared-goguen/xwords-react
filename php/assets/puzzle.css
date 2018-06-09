@@ -107,6 +107,7 @@
 .clue-holder > ol {
   max-height: 22.5em;
   overflow-y: auto;
+  padding-left: 20px;
 }
 
 .cell-highlight > div > input {
@@ -119,4 +120,16 @@
 
 .clue-highlight {
   background: var(--active);
+}
+
+.clue-holder > ol::-webkit-scrollbar {
+    width: 1em;
+}
+ 
+.clue-holder > ol::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 20px var(--active);
+}
+ 
+.clue-holder > ol::-webkit-scrollbar-thumb {
+  background-color: var(--adjacent);
 }

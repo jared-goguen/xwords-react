@@ -12,9 +12,6 @@ require_once('crossword.php');
 use \WF\Hypernova\Renderer;
 use \WF\Hypernova\plugins\DevModePlugin;
 
-echo config('site_url') . ':3030/batch';
-
-/*
 $renderer = new Renderer(config('site_url') . ':3030/batch');
 
 $puzzle = loadPuzzle('Apr01-2018.xml');
@@ -33,8 +30,6 @@ if (isset($output->error)) {
   echo $output->html;
   echo '</div>';
 }
-
-*/
 
 ?>
 <script src='/assets/react-client.js' defer></script>

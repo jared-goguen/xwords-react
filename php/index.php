@@ -6,6 +6,7 @@
 <body>
 <?php
 
+echo 'got here';
 require_once('crossword.php');
 
 use \WF\Hypernova\Renderer;

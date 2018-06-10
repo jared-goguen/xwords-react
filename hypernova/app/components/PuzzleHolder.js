@@ -1,5 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
+import * as actions from '../actions';
 
 import Grid from './Grid';
 import Clues from './Clues';
@@ -10,14 +11,15 @@ const cellIsTrue = (grid, row, column) => {
     return false;
   }
   return rowArray[column];
-}
+};
 
-const mapStateToProps = (state, props) => {
+const mapStateToProps = (state, prevProps) => {
   let { row, column, direction } = state.focus;
 
 
- let adjacency = props.grid.map(row => row.split('').map(
-                  cell => true ? cell !== '.' : false));
+  let adjacency = prevProps.grid.map(row => row.split('').map(
+    cell => true ? cell !== '.' : false)
+  );
 
   let incrementor = () => (direction === 'Across' ? column++ : row++);
   let decrementor = () => (direction === 'Across' ? column-- : row--);
@@ -37,7 +39,15 @@ const mapStateToProps = (state, props) => {
   }
 
   return { active, clueRow, clueColumn, clueDirection };
-}
+};
+
+const mapDispatchToProps = (dispatch, prevProps) => {
+  return {
+    initStore: (entries) => {
+      dispatch(actions.INIT_STORE(entries));
+    }
+  }
+};
 
 class PuzzleHolder extends React.Component {
   /*
@@ -52,8 +62,6 @@ class PuzzleHolder extends React.Component {
     clueRow: Number row of active clue
     clueColumn: Number column of active clue
     clueDirection: String direction of active clue
-
-  state
   */
   constructor(props) {
     super(props);
@@ -64,7 +72,13 @@ class PuzzleHolder extends React.Component {
       this.clueMarkers[row][column] = number;
     }
 
-    this.entries = this.props.grid.map(row => row.split(''));
+    this.answers = this.props.grid.map(row => row.split(''));
+
+    let entries = this.answers.map(row => row.map(
+      answer => (answer !== '.' ? '' : null)
+    ));
+
+    this.props.initStore(entries);
   }
 
   render() {
@@ -74,8 +88,8 @@ class PuzzleHolder extends React.Component {
         <div className='grid-holder'>
           <Grid 
             clueMarkers={ this.clueMarkers } 
-            entries={ this.entries } 
-            active={ this.props.active } 
+            answers={ this.answers } 
+            active={ this.props.active }
           />
         </div>
 
@@ -93,4 +107,4 @@ class PuzzleHolder extends React.Component {
   }
 }
 
-export default connect(mapStateToProps)(PuzzleHolder);
+export default connect(mapStateToProps, mapDispatchToProps)(PuzzleHolder);

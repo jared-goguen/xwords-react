@@ -6,9 +6,8 @@ class Row extends React.Component {
   /*
   props
     index: Number row number
-    entries: String cellEntries
+    answers: [ Character answer, ... ]
     clueMarkers: [ ClueMarkers clueMarker, ... ]
-
   state
   */
   constructor(props) {
@@ -18,14 +17,14 @@ class Row extends React.Component {
   render() {
     return (
       <tr>
-        { this.props.entries.map(
-          (entry, i) => 
+        { this.props.answers.map(
+          (answers, i) => 
           <Cell 
             key={ i } 
             row={ this.props.index } 
             column={ i } 
             number={ this.props.clueMarkers[i] } 
-            value={ entry } 
+            answer={ answers }
             active={ this.props.activeCells[i] }
           />
         ) }

@@ -9,8 +9,6 @@ class ClueHolder extends React.Component {
     clueRow: Number row of active clue
     clueColumn: Number column of active clue
     clueDirection: String direction of active clue
-
-  state
   */
   constructor(props) {
     super(props);

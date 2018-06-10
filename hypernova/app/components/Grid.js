@@ -7,10 +7,8 @@ class Grid extends React.Component {
   /*
   props
     clueMarkers: [ [ ClueMarkers clueMarker, ... ] , ... ]
-    entries: [ [Entry, ... ] , ... ]
-    active: [ [Boolean, ... ] , ... ]
-
-  state
+    answers: [ [Character answer, ... ] , ... ]
+    active: [ [Boolean active, ... ] , ... ]
   */
   constructor(props) {
     super(props);
@@ -21,13 +19,13 @@ class Grid extends React.Component {
     return (
       <table>
         <tbody className='grid-body'>
-          { this.props.entries.map(
+          { this.props.answers.map(
             (row, i) => 
             <Row 
               key={ i } 
               index={ i } 
               clueMarkers={ this.props.clueMarkers[i] } 
-              entries={ row } 
+              answers={ row } 
               activeCells={ this.props.active[i] }
             />
           ) }

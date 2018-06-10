@@ -12,7 +12,6 @@ class ClueHolder extends React.Component {
   */
   constructor(props) {
     super(props);
-    
   }
 
   render() {

@@ -27,6 +27,10 @@ class Clue extends React.Component {
     this.liRef = React.createRef();
   }
 
+  shouldComponentUpdate(nextProps, nextState) {
+    return this.focus !== nextProps.focus;
+  }
+
   componentDidUpdate(prevProps, prevState, snapshot) {
     if ( this.props.focus ) {
       this.liRef.current.scrollIntoViewIfNeeded(); 

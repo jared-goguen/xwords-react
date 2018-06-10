@@ -1,8 +1,5 @@
 <?php
 
-echo $_GET['path'];
-
-
 require_once(dirname(__DIR__).'/vendor/autoload.php');
 require_once('config.php');
 require_once('crossword.php');
@@ -16,8 +13,6 @@ $router = new AltoRouter();
 $router->map( 'GET', '/', function() {
   require('index.php');
 });
-
-echo $_SERVER['REQUEST_URI'];
 
 $router->map( 'GET', '/puzzle/[*:date].json', function( $date ) {
   header('Content-Type: application/json');

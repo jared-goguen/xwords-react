@@ -14,6 +14,8 @@ $router->map( 'GET', '/', function() {
   require('index.php');
 });
 
+echo 'routing';
+
 $router->map( 'GET', '/puzzle/[*:date].json', function( $date ) {
   header('Content-Type: application/json');
   echo crosswordJSON($date);

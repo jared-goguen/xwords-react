@@ -1,102 +1,56 @@
-const cellOpen = (entries, row, column) => {
+const getCellInfo = (entries, row, column) => {
   let rowArray = entries[row];
   
   if ( typeof rowArray === 'undefined' ) {
-    return {open: false, badIndex: true};
+    return {open: false, valid: false, badIndex: true};
   }
 
   let entry = rowArray[column];
   
   if (typeof entry === 'undefined' ) {
-    return {open: false, badIndex: true};
+    return {open: false, valid: false, badIndex: true};
   }
 
   if ( entry === null ) {
-    return {open: false};
+    return {open: false, valid: false, badIndex: false};
   }
 
-  return {open: entry === ''};
+  return {open: entry === '', valid: true, badIndex: false};
 };
 
 
-const cellValid = (entries, row, column) => {
-  let rowArray = entries[row];
+const nextOpenCellInClue = (entries, row, column, direction) => {
+  let increment = () => (direction === 'Across' ? column++ : row++);
+
+  let info;
+  do {
+    increment();
+    info = getCellInfo(entries, row, column);
+  } while ( !info.open  && info.valid )
   
-  if ( typeof rowArray === 'undefined' ) {
-    return {valid: false, badIndex: true};
-  }
-
-  let entry = rowArray[column];
-  
-  if (typeof entry === 'undefined' ) {
-    return {valid: false, badIndex: true};
-  }
-
-  if ( entry === null ) {
-    return {valid: false};
-  }
-
-  return {valid: true};
-};
-
-
-const nextOpenCell = (entries, row, column, direction) => {
-  let rows = entries.length;
-  let columns = entries[0].length;
-
-  let incrementX = () => (direction === 'Across' ? column++ : row++);
-  let incrementY = () => (direction === 'Across' ? row++ : column++);
-  let resetX = () => (direction === 'Across' ? column = 0 : row = 0);
-
-  incrementX();
-  
-  let info = cellOpen(entries, row, column);
-  while ( !info.open  && ( row < rows - 1 || column < columns - 1 ) ) {
-    if ( info.badIndex ) {
-      resetX();
-      incrementY();
-    } else {
-      incrementX();
-    }
-    info = cellOpen(entries, row, column);
-  }
-
-  if ( row < rows && column < columns) {
+  if ( info.valid ) {
     return { row, column };
   }
+
   return null;
-};
+}
 
 
-const previousCell = (entries, row, column, direction) => {
-  let rows = entries.length;
-  let columns = entries[0].length;
+const previousCellInClue = (entries, row, column, direction) => {
+  let decrement = () => (direction === 'Across' ? column-- : row--);
 
-  let decrementX = () => (direction === 'Across' ? column-- : row--);
-  let decrementY = () => (direction === 'Across' ? row-- : column--);
-  let resetX = () => (direction === 'Across' ? column = columns - 1 : row = rows - 1);
+  decrement();
+  let info = getCellInfo(entries, row, column);
 
-  decrementX();
-    
-  let info = cellValid(entries, row, column);
-  while ( !info.valid  && ( row > 0 || column > 0 ) ) {
-    if ( info.badIndex ) {
-      resetX();
-      decrementY();
-    } else {
-      decrementX();
-    }
-    info = cellValid(entries, row, column);
-  }
-
-  if ( row >= 0 && column >= 0 ) {
+  if ( info.valid ) {
     return { row, column };
   }
+
   return null;
-};
+}
 
 
-const cellInUDLR = (entries, row, column, UDLR) => {
+const cellUDLR = (entries, row, column, UDLR) => {
   let incrementor = {
     Up: () => row--,
     Down: () => row++,
@@ -110,12 +64,13 @@ const cellInUDLR = (entries, row, column, UDLR) => {
   let info;
   do {
     incrementor();
-    info = cellValid(entries, row, column);
-  } while ( !info.valid && 0 <= row && row < rows && 0 <= column && column < columns );
+    info = getCellInfo(entries, row, column);
+  } while ( !info.valid && !info.badIndex );
 
-  if ( 0 <= row && row < rows && 0 <= column && column < columns ) {
+  if ( info.valid ) {
     return { row, column };
   }
+
   return null;
 }
 
@@ -142,42 +97,42 @@ const focus = (state={}, action) => {
       return { ...state, direction: newDirection };
 
     case 'NEXT_CELL':
-      let nextOpen = nextOpenCell(state.entries, state.row, state.column, state.direction);
+      let nextOpen = nextOpenCellInClue(state.entries, state.row, state.column, state.direction);
       if ( nextOpen !== null ) {
         return { ...state, row: nextOpen.row, column: nextOpen.column };
       }
       return { ...state };
 
     case 'PREVIOUS_CELL':
-      let previous = previousCell(state.entries, state.row, state.column, state.direction);
+      let previous = previousCellInClue(state.entries, state.row, state.column, state.direction);
       if ( previous !== null ) {
         return { ...state, row: previous.row, column: previous.column };
       }
       return { ...state };
 
     case 'MOVE_UP':
-      let upCell = cellInUDLR(state.entries, state.row, state.column, 'Up');
+      let upCell = cellUDLR(state.entries, state.row, state.column, 'Up');
       if ( upCell !== null ) {
         return { ...state, row: upCell.row, column: upCell.column };
       }
       return { ...state };
 
     case 'MOVE_DOWN':
-      let downCell = cellInUDLR(state.entries, state.row, state.column, 'Down');
+      let downCell = cellUDLR(state.entries, state.row, state.column, 'Down');
       if ( downCell !== null ) {
         return { ...state, row: downCell.row, column: downCell.column };
       }
       return { ...state };
 
     case 'MOVE_LEFT':
-      let leftCell = cellInUDLR(state.entries, state.row, state.column, 'Left');
+      let leftCell = cellUDLR(state.entries, state.row, state.column, 'Left');
       if ( leftCell !== null ) {
         return { ...state, row: leftCell.row, column: leftCell.column };
       }
       return { ...state };
 
     case 'MOVE_RIGHT':
-      let rightCell = cellInUDLR(state.entries, state.row, state.column, 'Right');
+      let rightCell = cellUDLR(state.entries, state.row, state.column, 'Right');
       if ( rightCell !== null ) {
         return { ...state, row: rightCell.row, column: rightCell.column };
       }

@@ -8,11 +8,7 @@
 .puzzle-holder {
   margin: 10px;
   width: auto; 
-}
-
-.puzzle-holder:after {
-  clear: both;
-  display: block;
+  position: relative;
 }
 
 .blank {
@@ -57,18 +53,6 @@
   font-size: 20px;
   cursor: default;
   text-transform: uppercase;
-}
-
-.grid-holder {
-  float: left;
-  display: inline-block;
-  margin-top: 20px;
-}
-
-.clues-holder {
-  padding-left: 50px;
-  display: inline-block;
-  width: 450px;
 }
 
 .clues-holder > div {
@@ -138,4 +122,49 @@
  
 .clue-holder > ol::-webkit-scrollbar-thumb {
   background-color: var(--adjacent);
+}
+
+
+@media only screen and (min-width : 1024px) {
+  .grid-holder {
+    float: left;
+    display: inline-block;
+    margin-top: 20px;
+    width: 67%;
+  }
+
+  .clues-holder {
+    padding-left: 20px;
+    display: inline-block;
+    float: right;
+    width: 30%;
+  }
+}
+
+@media only screen and (max-width : 1024px) {
+  .grid-holder {
+    width: 100%;
+    display: block;
+    float: right;
+  }
+
+  .clue-holder > ol > li {
+    display: none;
+  }
+
+  .clue-holder > h3 {
+    display: none;
+  }
+
+  .clue-highlight {
+    display: block !important;
+    background: unset;
+    padding-left: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    border: 2px dashed var(--active);
+  }
+
 }

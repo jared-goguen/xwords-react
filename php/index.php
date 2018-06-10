@@ -10,7 +10,7 @@ require_once('crossword.php');
 
 use \WF\Hypernova\Renderer;
 use \WF\Hypernova\plugins\DevModePlugin;
-$renderer = new Renderer('http://localhost:3030/batch');
+$renderer = new Renderer('http://xwords-react.herokuapp.com:3030/batch');
 
 $puzzle = loadPuzzle('Apr01-2018.xml');
 

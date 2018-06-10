@@ -114,7 +114,10 @@ class Cell extends React.Component {
   }
 
   onChange = (event) => {
-    event.preventDefault();
+    if ( event.target.value.match(inputFilter) ) {
+      this.props.updateEntry(event.target.value);
+      this.props.triggerNextCell();
+    }
   }
 
   onClick = (event) => {
@@ -129,11 +132,6 @@ class Cell extends React.Component {
 
     if (typeof keyHandler !== 'undefined') {
       return keyHandler();
-    }
-
-    if ( key.match(inputFilter) ) {
-      this.props.updateEntry(key);
-      this.props.triggerNextCell();
     }
   }
 
@@ -157,7 +155,7 @@ class Cell extends React.Component {
               onFocus={ this.props.triggerFocus } 
               onMouseDown={ this.onClick } 
               onChange={ this.onChange }
-              onKeyPress={ this.onKeyPress }
+              onKeyDown={ this.onKeyPress }
               ref={ this.inputRef }
               value={ this.props.entry }
             /> 

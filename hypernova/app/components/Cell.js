@@ -26,13 +26,11 @@ const mapDispatchToProps = (dispatch, prevProps) => {
       }
     },
 
-    onCellFocus: (event) => {
-      if ( !prevProps.focus ) {
-        dispatch(actions.FOCUS_CELL(prevProps.row, prevProps.column));
-      }
+    triggerFocus: (event) => {
+      dispatch(actions.FOCUS_CELL(prevProps.row, prevProps.column));
     },
 
-    onCellDoubleClick: (event) => {
+    triggerToggle: (event) => {
       dispatch(actions.TOGGLE_DIRECTION());
     },
 
@@ -90,6 +88,7 @@ class Cell extends React.Component {
     };
 
     this.inputRef = React.createRef();
+    this.previousFocus = false;
   }
 
   onBackspacePress = () => {
@@ -112,10 +111,17 @@ class Cell extends React.Component {
     if ( this.props.focus ) {
       this.inputRef.current.focus();
     }
+    this.previousFocus = this.props.focus;
   }
 
   onChange = (event) => {
     event.preventDefault();
+  }
+
+  onClick = (event) => {
+    if ( this.previousFocus ) {
+      this.props.triggerToggle();
+    }
   }
 
   onKeyPress = (event) => {
@@ -149,8 +155,8 @@ class Cell extends React.Component {
               type='text' 
               id={ 'cell-' + this.props.row + '-' + this.props.column } 
               maxLength='1'
-              onFocus={ this.props.onCellFocus } 
-              onDoubleClick={ this.props.onCellDoubleClick } 
+              onFocus={ this.props.triggerFocus } 
+              onMouseDown={ this.onClick } 
               onChange={ this.onChange }
               onKeyDown={ this.onKeyPress }
               ref={ this.inputRef }

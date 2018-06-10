@@ -6,7 +6,7 @@
 </head>
 <body>
 <?php
-
+/*
 require_once('crossword.php');
 
 use \WF\Hypernova\Renderer;
@@ -30,7 +30,9 @@ if (isset($output->error)) {
   echo $output->html;
   echo '</div>';
 }
+*/
 
+echo '<div id="puzzle"></div>';
 ?>
 <script src='/assets/react-client.js' defer></script>
 </body>

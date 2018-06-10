@@ -1,6 +1,9 @@
 {
-    "require": {
-        "wayfair/hypernova-php": "^2.0",
-        "altorouter/altorouter": "1.1.0"
-    }
+  "require": {
+    "wayfair/hypernova-php": "^2.0",
+    "altorouter/altorouter": "1.1.0"
+  },
+  "require-dev": {
+    "heroku/heroku-buildpack-php": "*"
+  }
 }

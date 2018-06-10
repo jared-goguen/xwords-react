@@ -60,13 +60,19 @@
 }
 
 .grid-holder {
-  width: 65%;
   float: left;
+  display: inline-block;
+  margin-top: 20px;
 }
 
 .clues-holder {
-  width: 35%;
-  float: right;
+  padding-left: 50px;
+  display: inline-block;
+  width: 450px;
+}
+
+.clues-holder > div {
+  float: left;
 }
 
 .clue-label {
@@ -93,13 +99,13 @@
 .clue-holder > ol > li > label > b {
   float: left;
   text-align: right;
-  margin-left: -2em;
-  width: 1.5em;
+  margin-left: -2.5em;
+  width: 2em;
 }
 
 .clue-holder > ol > li > label {
   clear: left;
-  margin-left: 2em;
+  margin-left: 2.5em;
   display: block;
   padding: 0.25em;
 }
@@ -107,7 +113,7 @@
 .clue-holder > ol {
   max-height: 22.5em;
   overflow-y: auto;
-  padding-left: 20px;
+  padding-left: 10px;
 }
 
 .cell-highlight > div > input {

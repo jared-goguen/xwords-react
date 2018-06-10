@@ -2,6 +2,11 @@
 
 function element_map($function, $element) {
   $result = [];
+
+  if (is_null($element)) {
+    return $result;
+  }
+
   foreach($element as $child) {
     $result[] = $function($child);
   }

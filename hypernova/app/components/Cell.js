@@ -88,7 +88,6 @@ class Cell extends React.Component {
     };
 
     this.inputRef = React.createRef();
-    this.previousFocus = false;
   }
 
   onBackspacePress = () => {
@@ -111,7 +110,6 @@ class Cell extends React.Component {
     if ( this.props.focus ) {
       this.inputRef.current.focus();
     }
-    this.previousFocus = this.props.focus;
   }
 
   onChange = (event) => {
@@ -119,7 +117,7 @@ class Cell extends React.Component {
   }
 
   onClick = (event) => {
-    if ( this.previousFocus ) {
+    if ( this.props.focus ) {
       this.props.triggerToggle();
     }
   }

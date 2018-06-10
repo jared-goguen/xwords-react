@@ -84,7 +84,8 @@ class Cell extends React.Component {
       ArrowDown: this.props.triggerMoveDown,
       ArrowLeft: this.props.triggerMoveLeft,
       ArrowRight: this.props.triggerMoveRight,
-      Backspace: this.onBackspacePress
+      Backspace: this.onBackspacePress,
+      Space: this.props.triggerToggle,
     };
 
     this.inputRef = React.createRef();

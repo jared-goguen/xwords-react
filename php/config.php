@@ -5,6 +5,7 @@ function config($key) {
 
     'name' => 'Crossword in React',
     'data_path' => __DIR__ . '/data/',
+    'assets_path' => '/assets/',
     'site_url' => 'http://' . $_SERVER['SERVER_NAME']
 
   ];

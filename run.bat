@@ -1,5 +1,3 @@
-cd hypernova
-start run
-cd ../php
-start run
+cd php
+php -S localhost:8000 router.php
 cd ..

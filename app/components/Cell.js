@@ -157,7 +157,7 @@ class Cell extends React.Component {
               onFocus={ this.props.triggerFocus } 
               onMouseDown={ this.onClick } 
               onChange={ this.onChange }
-              onKeyDown={ this.onKeyPress }
+              onKeyPress={ this.onKeyPress }
               ref={ this.inputRef }
               value={ this.props.entry }
             /> 

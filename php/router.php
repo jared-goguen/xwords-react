@@ -14,7 +14,7 @@ $router->map( 'GET', '/', function() {
   require('index.php');
 });
 
-echo 'routing';
+echo $_SERVER['REQUEST_URI'];
 
 $router->map( 'GET', '/puzzle/[*:date].json', function( $date ) {
   header('Content-Type: application/json');

@@ -1,5 +1,8 @@
 <?php
 
+echo $_GET['path'];
+
+
 require_once(dirname(__DIR__).'/vendor/autoload.php');
 require_once('config.php');
 require_once('crossword.php');

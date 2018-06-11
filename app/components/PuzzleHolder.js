@@ -92,30 +92,36 @@ class PuzzleHolder extends React.Component {
     return (
       <div className='puzzle-holder'>
 
+      <div className='grid-flex'>
+
+        <div className='grid-holder'>
+        
+          <Grid 
+            clueMarkers={ this.clueMarkers } 
+            answers={ this.answers } 
+            active={ this.props.active }
+          />
+
+          <div className='options-holder'>
+            <ToggleBox
+              id='show-errors'
+              enabledText='errors on'
+              disabledText='errors off'
+              enabled={ this.props.showErrors }
+              onChange={ this.props.setShowErrors }
+            />
+          </div>
+
+        </div>
+
+      </div>
+
         <div className='clues-holder'>
           <Clues 
             clues={ this.props.clues } 
             clueRow={ this.props.clueRow }
             clueColumn={ this.props.clueColumn }
             clueDirection={ this.props.clueDirection }
-          />
-        </div>
-
-        <div className='grid-holder'>
-          <Grid 
-            clueMarkers={ this.clueMarkers } 
-            answers={ this.answers } 
-            active={ this.props.active }
-          />
-        </div>
-
-        <div className='options-holder'>
-          <ToggleBox
-            id='show-errors'
-            enabledText='errors on'
-            disabledText='errors off'
-            enabled={ this.props.showErrors }
-            onChange={ this.props.setShowErrors }
           />
         </div>
 

@@ -1,11 +1,13 @@
 :root {
   --blank: #333333;
   --background: #FFFFFF;
-  --active: #C5B6FC;
+  --active: #02FFBF;
   --adjacent: #94FFE4;
-  --adjacent-dark: #02FFBF;
   --error: #FF547B;
   --error-dark: #FF305F;
+  --error-light: #FFB2C3;
+  --error-active: #C498F9;
+  --error-highlight: #E0B2FF;
 }
 
 .puzzle-holder {
@@ -128,7 +130,7 @@
 
 .toggle-box-disabled > label {
   color: var(--blank);
-  background: var(--adjacent-dark);
+  background: var(--active);
 }
 
 .cell-active > div > input {
@@ -141,6 +143,14 @@
 
 .cell-highlight > div > input {
   background: var(--active);
+}
+
+.cell-error.cell-active > div > input {
+  background: var(--error-light);
+}
+
+.cell-error.cell-highlight > div > input {
+  background: var(--error-highlight);
 }
 
 .clue-highlight {

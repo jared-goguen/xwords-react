@@ -3,6 +3,9 @@
   --background: #FFFFFF;
   --active: #C5B6FC;
   --adjacent: #94FFE4;
+  --adjacent-dark: #02FFBF;
+  --error: #FF547B;
+  --error-dark: #FF305F;
 }
 
 .puzzle-holder {
@@ -100,12 +103,44 @@
   padding-left: 10px;
 }
 
-.cell-highlight > div > input {
-  background: var(--active) !important;
+.options-holder {
+  display: block;
+  margin-top: 20px;
+}
+
+.toggle-box {
+  margin-right: 20px;
+}
+
+.toggle-box > input {
+  display: none;
+}
+
+.toggle-box > label {
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+}
+
+.toggle-box-enabled > label {
+  background: var(--error-dark);
+}
+
+.toggle-box-disabled > label {
+  color: var(--blank);
+  background: var(--adjacent-dark);
 }
 
 .cell-active > div > input {
   background: var(--adjacent);
+}
+
+.cell-error > div > input {
+  background: var(--error);
+}
+
+.cell-highlight > div > input {
+  background: var(--active);
 }
 
 .clue-highlight {
@@ -127,7 +162,6 @@
 
 @media only screen and (min-width : 1024px) {
   .grid-holder {
-    float: left;
     display: inline-block;
     margin-top: 20px;
     width: 67%;
@@ -144,8 +178,7 @@
 @media only screen and (max-width : 1024px) {
   .grid-holder {
     width: 100%;
-    display: block;
-    float: right;
+    display: inline-block;
   }
 
   .clue-holder > ol > li {

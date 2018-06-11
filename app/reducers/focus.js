@@ -138,12 +138,16 @@ const focus = (state={}, action) => {
       }
       return { ...state };
 
+    case 'SHOW_ERRORS':
+      return { ...state, showErrors: action.enabled };
+
     default:
       return {
         row: 0, 
         column: 0, 
         direction: 'Across',
         entries: undefined,
+        showErrors: false,
       }
     }
 }

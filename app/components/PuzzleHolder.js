@@ -4,6 +4,7 @@ import * as actions from '../actions';
 
 import Grid from './Grid';
 import Clues from './Clues';
+import ToggleBox from './ToggleBox';
 
 const cellIsTrue = (grid, row, column) => {
   let rowArray = grid[row];
@@ -14,7 +15,7 @@ const cellIsTrue = (grid, row, column) => {
 };
 
 const mapStateToProps = (state, prevProps) => {
-  let { row, column, direction } = state.focus;
+  let { row, column, direction, showErrors } = state.focus;
 
 
   let adjacency = prevProps.grid.map(row => row.split('').map(
@@ -38,14 +39,20 @@ const mapStateToProps = (state, prevProps) => {
     incrementor();
   }
 
-  return { active, clueRow, clueColumn, clueDirection };
+  return { active, clueRow, clueColumn, clueDirection, showErrors };
 };
 
 const mapDispatchToProps = (dispatch, prevProps) => {
   return {
+    
     initStore: (entries) => {
       dispatch(actions.INIT_STORE(entries));
+    },
+
+    setShowErrors: (event) => {
+      dispatch(actions.SHOW_ERRORS(event.target.checked));
     }
+
   }
 };
 
@@ -93,12 +100,22 @@ class PuzzleHolder extends React.Component {
             clueDirection={ this.props.clueDirection }
           />
         </div>
-        
+
         <div className='grid-holder'>
           <Grid 
             clueMarkers={ this.clueMarkers } 
             answers={ this.answers } 
             active={ this.props.active }
+          />
+        </div>
+
+        <div className='options-holder'>
+          <ToggleBox
+            id='show-errors'
+            enabledText='errors on'
+            disabledText='errors off'
+            enabled={ this.props.showErrors }
+            onChange={ this.props.setShowErrors }
           />
         </div>
 

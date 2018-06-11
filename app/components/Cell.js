@@ -13,8 +13,9 @@ const mapStateToProps = (state, prevProps) => {
   }
 
   let focus = state.focus.row === prevProps.row && state.focus.column === prevProps.column;
+  let showErrors = state.focus.showErrors;
 
-  return { entry, focus };
+  return { entry, focus, showErrors };
 };
 
 const mapDispatchToProps = (dispatch, prevProps) => {
@@ -70,10 +71,13 @@ class Cell extends React.Component {
     focus: Boolean focused
     active: Boolean in current clue
     answer: Character answer
+    entry: Character entry
   */
   constructor(props) {
     super(props);
     this.type = this.props.answer === '.' ? 'blank' : 'cell';
+    this.autoFocus = this.props.row === 0 && this.props.column === 0;
+    this.inputRef = React.createRef();
 
     this.updateMainState = (entry) => {
       this.props.updateEntry(this.props.row, this.props.column, entry);
@@ -87,8 +91,6 @@ class Cell extends React.Component {
       Backspace: this.onBackspacePress,
       ' ': this.props.triggerToggle,
     };
-
-    this.inputRef = React.createRef();
   }
 
   onBackspacePress = () => {
@@ -99,7 +101,8 @@ class Cell extends React.Component {
   shouldComponentUpdate(nextProps, nextState) {
     if ( this.props.focus === nextProps.focus &&
          this.props.active === nextProps.active &&
-         this.props.entry === nextProps.entry
+         this.props.entry === nextProps.entry &&
+         this.props.showErrors === nextProps.showErrors
       ) {
       return false;
     }
@@ -114,10 +117,7 @@ class Cell extends React.Component {
   }
 
   onChange = (event) => {
-    if ( event.target.value.match(inputFilter) ) {
-      this.props.updateEntry(event.target.value);
-      this.props.triggerNextCell();
-    }
+    event.preventDefault();
   }
 
   onClick = (event) => {
@@ -133,12 +133,26 @@ class Cell extends React.Component {
     if (typeof keyHandler !== 'undefined') {
       return keyHandler();
     }
+
+    if ( key.match(inputFilter) ) {
+      this.props.updateEntry(key);
+      this.props.triggerNextCell();
+    }
   }
 
   render() {
     let className = this.type;
     className += this.props.focus ? ' cell-highlight' : '';
     className += this.props.active ? ' cell-active' : '';
+
+    if (
+      this.props.showErrors &&
+      this.props.entry !== '' && 
+      this.props.entry !== null &&
+      this.props.entry !== this.props.answer
+    ) {
+      className += ' cell-error';
+    }
 
     return (
       <td className={ className }>
@@ -158,6 +172,7 @@ class Cell extends React.Component {
               onKeyDown={ this.onKeyPress }
               ref={ this.inputRef }
               value={ this.props.entry }
+              autoFocus={ this.autoFocus }
             /> 
           : null }
         </div>

@@ -72,3 +72,10 @@ export const MOVE_RIGHT = () => {
     type: 'MOVE_RIGHT',
   };
 };
+
+export const SHOW_ERRORS = (enabled) => {
+  return {
+    type: 'SHOW_ERRORS',
+    enabled
+  };
+};

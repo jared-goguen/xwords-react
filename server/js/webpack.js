@@ -81,7 +81,7 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "./entry.js");
+/******/ 	return __webpack_require__(__webpack_require__.s = "./app.js");
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -107,6 +107,18 @@ eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n
 
 "use strict";
 eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nvar INIT_STORE = exports.INIT_STORE = function INIT_STORE(entries) {\n  return {\n    type: 'INIT_STORE',\n    entries: entries\n  };\n};\n\nvar SET_ENTRY = exports.SET_ENTRY = function SET_ENTRY(row, column, entry) {\n  return {\n    type: 'SET_ENTRY',\n    row: row,\n    column: column,\n    entry: entry\n  };\n};\n\nvar FOCUS_CLUE = exports.FOCUS_CLUE = function FOCUS_CLUE(row, column, direction) {\n  return {\n    type: 'FOCUS_CLUE',\n    row: row,\n    column: column,\n    direction: direction\n  };\n};\n\nvar FOCUS_CELL = exports.FOCUS_CELL = function FOCUS_CELL(row, column) {\n  return {\n    type: 'FOCUS_CELL',\n    row: row,\n    column: column\n  };\n};\n\nvar TOGGLE_DIRECTION = exports.TOGGLE_DIRECTION = function TOGGLE_DIRECTION() {\n  return {\n    type: 'TOGGLE_DIRECTION'\n  };\n};\n\nvar NEXT_CELL = exports.NEXT_CELL = function NEXT_CELL() {\n  return {\n    type: 'NEXT_CELL'\n  };\n};\n\nvar PREVIOUS_CELL = exports.PREVIOUS_CELL = function PREVIOUS_CELL() {\n  return {\n    type: 'PREVIOUS_CELL'\n  };\n};\n\nvar MOVE_UP = exports.MOVE_UP = function MOVE_UP() {\n  return {\n    type: 'MOVE_UP'\n  };\n};\n\nvar MOVE_DOWN = exports.MOVE_DOWN = function MOVE_DOWN() {\n  return {\n    type: 'MOVE_DOWN'\n  };\n};\n\nvar MOVE_LEFT = exports.MOVE_LEFT = function MOVE_LEFT() {\n  return {\n    type: 'MOVE_LEFT'\n  };\n};\n\nvar MOVE_RIGHT = exports.MOVE_RIGHT = function MOVE_RIGHT() {\n  return {\n    type: 'MOVE_RIGHT'\n  };\n};\n\nvar SHOW_ERRORS = exports.SHOW_ERRORS = function SHOW_ERRORS(enabled) {\n  return {\n    type: 'SHOW_ERRORS',\n    enabled: enabled\n  };\n};\n\n//# sourceURL=webpack:///./actions/puzzle.js?");
+
+/***/ }),
+
+/***/ "./app.js":
+/*!****************!*\
+  !*** ./app.js ***!
+  \****************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _reactDom = __webpack_require__(/*! react-dom */ \"./node_modules/react-dom/index.js\");\n\nvar _reactDom2 = _interopRequireDefault(_reactDom);\n\nvar _axios = __webpack_require__(/*! axios */ \"./node_modules/axios/index.js\");\n\nvar _axios2 = _interopRequireDefault(_axios);\n\nvar _style = __webpack_require__(/*! ./style */ \"./style.js\");\n\nvar _style2 = _interopRequireDefault(_style);\n\nvar _Puzzle = __webpack_require__(/*! ./components/Puzzle */ \"./components/Puzzle.js\");\n\nvar _Puzzle2 = _interopRequireDefault(_Puzzle);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n_axios2.default.get('/puzzle/Apr08-2018.json').then(function (response) {\n  _reactDom2.default.render(_react2.default.createElement(_Puzzle2.default, response.data), document.getElementById('puzzle'));\n}).catch(function (error) {\n  console.log(error);\n});\n\n//# sourceURL=webpack:///./app.js?");
 
 /***/ }),
 
@@ -215,18 +227,6 @@ eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n
 
 "use strict";
 eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if (\"value\" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nfunction _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError(\"Cannot call a class as a function\"); } }\n\nfunction _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError(\"this hasn't been initialised - super() hasn't been called\"); } return call && (typeof call === \"object\" || typeof call === \"function\") ? call : self; }\n\nfunction _inherits(subClass, superClass) { if (typeof superClass !== \"function\" && superClass !== null) { throw new TypeError(\"Super expression must either be null or a function, not \" + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }\n\nvar ToggleBox = function (_React$Component) {\n  _inherits(ToggleBox, _React$Component);\n\n  /*\r\n  props\r\n    enabledText: String enabled text\r\n    disabledText: String disabled text\r\n    onChange: function(event) { handles toggle }\r\n    enabled: Boolean enabled\r\n    id: String input id\r\n  */\n  function ToggleBox(props) {\n    _classCallCheck(this, ToggleBox);\n\n    return _possibleConstructorReturn(this, (ToggleBox.__proto__ || Object.getPrototypeOf(ToggleBox)).call(this, props));\n  }\n\n  _createClass(ToggleBox, [{\n    key: 'render',\n    value: function render() {\n      return _react2.default.createElement(\n        'span',\n        { className: 'toggle-box toggle-box-' + (this.props.enabled ? 'enabled' : 'disabled') },\n        _react2.default.createElement('input', {\n          type: 'checkbox',\n          id: this.props.id,\n          onChange: this.props.onChange,\n          checked: this.props.enabled\n        }),\n        _react2.default.createElement(\n          'label',\n          { 'for': this.props.id },\n          this.props.enabled ? this.props.enabledText : this.props.disabledText\n        )\n      );\n    }\n  }]);\n\n  return ToggleBox;\n}(_react2.default.Component);\n\nexports.default = ToggleBox;\n\n//# sourceURL=webpack:///./components/ToggleBox.js?");
-
-/***/ }),
-
-/***/ "./entry.js":
-/*!******************!*\
-  !*** ./entry.js ***!
-  \******************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-eval("\n\nvar _react = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _reactDom = __webpack_require__(/*! react-dom */ \"./node_modules/react-dom/index.js\");\n\nvar _reactDom2 = _interopRequireDefault(_reactDom);\n\nvar _axios = __webpack_require__(/*! axios */ \"./node_modules/axios/index.js\");\n\nvar _axios2 = _interopRequireDefault(_axios);\n\nvar _Puzzle = __webpack_require__(/*! ./components/Puzzle */ \"./components/Puzzle.js\");\n\nvar _Puzzle2 = _interopRequireDefault(_Puzzle);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n_axios2.default.get('/puzzle/Apr08-2018.json').then(function (response) {\n  _reactDom2.default.render(_react2.default.createElement(_Puzzle2.default, response.data), document.getElementById('puzzle'));\n}).catch(function (error) {\n  console.log(error);\n});\n\n//# sourceURL=webpack:///./entry.js?");
 
 /***/ }),
 
@@ -1228,6 +1228,40 @@ eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n   value: true\n});\
 
 "use strict";
 eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };\n\nvar getCellInfo = function getCellInfo(entries, row, column) {\n  var rowArray = entries[row];\n\n  if (typeof rowArray === 'undefined') {\n    return { open: false, valid: false, badIndex: true };\n  }\n\n  var entry = rowArray[column];\n\n  if (typeof entry === 'undefined') {\n    return { open: false, valid: false, badIndex: true };\n  }\n\n  if (entry === null) {\n    return { open: false, valid: false, badIndex: false };\n  }\n\n  return { open: entry === '', valid: true, badIndex: false };\n};\n\nvar nextOpenCellInClue = function nextOpenCellInClue(entries, row, column, direction) {\n  var increment = function increment() {\n    return direction === 'Across' ? column++ : row++;\n  };\n\n  var info = void 0;\n  do {\n    increment();\n    info = getCellInfo(entries, row, column);\n  } while (!info.open && info.valid);\n\n  if (info.valid) {\n    return { row: row, column: column };\n  }\n\n  return null;\n};\n\nvar previousCellInClue = function previousCellInClue(entries, row, column, direction) {\n  var decrement = function decrement() {\n    return direction === 'Across' ? column-- : row--;\n  };\n\n  decrement();\n  var info = getCellInfo(entries, row, column);\n\n  if (info.valid) {\n    return { row: row, column: column };\n  }\n\n  return null;\n};\n\nvar cellUDLR = function cellUDLR(entries, row, column, UDLR) {\n  var incrementor = {\n    Up: function Up() {\n      return row--;\n    },\n    Down: function Down() {\n      return row++;\n    },\n    Left: function Left() {\n      return column--;\n    },\n    Right: function Right() {\n      return column++;\n    }\n  }[UDLR];\n\n  var rows = entries.length;\n  var columns = entries[0].length;\n\n  var info = void 0;\n  do {\n    incrementor();\n    info = getCellInfo(entries, row, column);\n  } while (!info.valid && !info.badIndex);\n\n  if (info.valid) {\n    return { row: row, column: column };\n  }\n\n  return null;\n};\n\nexports.default = function () {\n  var state = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : {};\n  var action = arguments[1];\n\n  switch (action.type) {\n\n    case 'INIT_STORE':\n      return _extends({}, state, { entries: action.entries.map(function (row) {\n          return row.map(function (column) {\n            return column;\n          });\n        }) });\n\n    case 'SET_ENTRY':\n      var entriesCopy = state.entries.map(function (row) {\n        return row.map(function (column) {\n          return column;\n        });\n      });\n      entriesCopy[action.row][action.column] = action.entry.toUpperCase();\n      return _extends({}, state, { entries: entriesCopy });\n\n    case 'FOCUS_CLUE':\n      return _extends({}, state, { row: action.row, column: action.column, direction: action.direction });\n\n    case 'FOCUS_CELL':\n      return _extends({}, state, { row: action.row, column: action.column });\n\n    case 'TOGGLE_DIRECTION':\n      var newDirection = state.direction === 'Down' ? 'Across' : 'Down';\n      return _extends({}, state, { direction: newDirection });\n\n    case 'NEXT_CELL':\n      var nextOpen = nextOpenCellInClue(state.entries, state.row, state.column, state.direction);\n      if (nextOpen !== null) {\n        return _extends({}, state, { row: nextOpen.row, column: nextOpen.column });\n      }\n      return _extends({}, state);\n\n    case 'PREVIOUS_CELL':\n      var previous = previousCellInClue(state.entries, state.row, state.column, state.direction);\n      if (previous !== null) {\n        return _extends({}, state, { row: previous.row, column: previous.column });\n      }\n      return _extends({}, state);\n\n    case 'MOVE_UP':\n      var upCell = cellUDLR(state.entries, state.row, state.column, 'Up');\n      if (upCell !== null) {\n        return _extends({}, state, { row: upCell.row, column: upCell.column });\n      }\n      return _extends({}, state);\n\n    case 'MOVE_DOWN':\n      var downCell = cellUDLR(state.entries, state.row, state.column, 'Down');\n      if (downCell !== null) {\n        return _extends({}, state, { row: downCell.row, column: downCell.column });\n      }\n      return _extends({}, state);\n\n    case 'MOVE_LEFT':\n      var leftCell = cellUDLR(state.entries, state.row, state.column, 'Left');\n      if (leftCell !== null) {\n        return _extends({}, state, { row: leftCell.row, column: leftCell.column });\n      }\n      return _extends({}, state);\n\n    case 'MOVE_RIGHT':\n      var rightCell = cellUDLR(state.entries, state.row, state.column, 'Right');\n      if (rightCell !== null) {\n        return _extends({}, state, { row: rightCell.row, column: rightCell.column });\n      }\n      return _extends({}, state);\n\n    case 'SHOW_ERRORS':\n      return _extends({}, state, { showErrors: action.enabled });\n\n    default:\n      return {\n        row: 0,\n        column: 0,\n        direction: 'Across',\n        entries: undefined,\n        showErrors: false\n      };\n  }\n};\n\n//# sourceURL=webpack:///./reducers/puzzle.js?");
+
+/***/ }),
+
+/***/ "./sass/index.scss":
+/*!*************************!*\
+  !*** ./sass/index.scss ***!
+  \*************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=webpack:///./sass/index.scss?");
+
+/***/ }),
+
+/***/ "./sass/react.scss":
+/*!*************************!*\
+  !*** ./sass/react.scss ***!
+  \*************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=webpack:///./sass/react.scss?");
+
+/***/ }),
+
+/***/ "./style.js":
+/*!******************!*\
+  !*** ./style.js ***!
+  \******************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\n\n__webpack_require__(/*! ./sass/index.scss */ \"./sass/index.scss\");\n\n__webpack_require__(/*! ./sass/react.scss */ \"./sass/react.scss\");\n\n//# sourceURL=webpack:///./style.js?");
 
 /***/ })
 

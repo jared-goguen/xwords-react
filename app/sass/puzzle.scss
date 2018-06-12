@@ -112,6 +112,40 @@ $cell-size: 35px;
 }
 
 
+
+/* options container */
+
+.options-holder {
+  display: block;
+  margin-top: 25px;
+  margin-bottom: 5px;
+}
+
+.toggle-box {
+  margin-right: 20px;
+
+  input {
+    display: none;
+  }
+
+  label {
+    padding: 10px;
+    border-radius: 5px;
+    color: $light;
+  }
+}
+
+.toggle-box-enabled label {
+  background: $error;
+}
+
+.toggle-box-disabled label {
+  color: $blank;
+  background: $active;
+}
+
+
+
 /* clues container */
 
 .clues-holder {
@@ -156,34 +190,6 @@ $cell-size: 35px;
   }
 }
 
-.options-holder {
-  display: block;
-  margin-top: 25px;
-  margin-bottom: 5px;
-}
-
-.toggle-box {
-  margin-right: 20px;
-
-  input {
-    display: none;
-  }
-
-  label {
-    padding: 10px;
-    border-radius: 5px;
-    color: $light;
-  }
-}
-
-.toggle-box-enabled label {
-  background: $error-dark;
-}
-
-.toggle-box-disabled label {
-  color: $blank;
-  background: $active;
-}
 
 .clue-highlight {
   background: $active;

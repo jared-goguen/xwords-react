@@ -1,0 +1,257 @@
+$blank: #333333;
+$background: #FFFFFF;
+$active: #02FFBF;
+$adjacent: #94FFE4;
+$error: #FF547B;
+$error-dark: #FF305F;
+$error-light: #FFB2C3;
+$error-active: #C498F9;
+$error-highlight: #E0B2FF;
+$light: #F3F3F3;
+$cell-size: 35px;
+
+
+/*  outside container */
+
+.puzzle-holder {
+  position: relative;
+  display: flex;
+}
+
+
+
+/* grid container */
+
+.grid-flex {
+  display: inline-flex;
+  flex: none;
+}
+
+.grid-holder {
+  display: inline-block;
+  border-radius: 10px;
+  background: $blank;
+  padding: 15px;
+  float: left;
+
+  table {
+    -webkit-border-horizontal-spacing: 0;
+    -webkit-border-vertical-spacing: 0;
+  }
+}
+
+.grid-body {
+  tr {
+    &:first-child td {
+      border-top: 1px solid $blank;
+    }
+
+    td {
+      width: $cell-size;
+
+      &:first-child {
+        border-left: 1px solid $blank;
+      }
+
+      div {
+        position: relative;
+      }
+    }
+  }
+}
+
+.blank {
+  background: $blank;
+}
+
+.cell {
+  border-right: 1px solid $blank;
+  border-bottom: 1px solid $blank;
+  padding: 0;
+}
+
+.cell-input {
+  height: $cell-size;
+  padding-bottom: 2px;
+  padding-top: 8px;
+  border: 0;
+  width: 100%;
+  background: $background;
+  text-align: center;
+  font-size: 20px;
+  cursor: default;
+  text-transform: uppercase;
+
+  &.cell-highlight {
+    background: $active;
+  }
+
+  &.cell-active {
+    background: $adjacent;
+  }
+
+  &.cell-error {
+    background: $error;
+
+    &.cell-active {
+      background: $error-light;
+    }
+
+    &.cell-highlight {
+      background: $error-highlight;
+    }
+  }
+}
+
+.clue-label {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  font-size: 9px;
+  color: $blank;
+}
+
+
+/* clues container */
+
+.clues-holder {
+  div {
+    float: left;
+  }
+}
+
+.clue-holder {
+  font-size: 15px;
+  border-bottom: 1px solid $error;
+  padding-bottom: 3px;
+
+  h3 {
+    border-bottom: 1px solid $error;
+    text-align: center;
+    margin-top: 0;
+  }
+
+  ol {
+    max-height: 24em;
+    overflow-y: auto;
+    padding-left: 10px;
+
+    li {
+      list-style: none;
+
+      label {
+        clear: left;
+        margin-left: 2.5em;
+        display: block;
+        padding: 0.25em;
+
+        b {
+          float: left;
+          text-align: right;
+          margin-left: -2.5em;
+          width: 2em;
+        }
+      }
+    }
+  }
+}
+
+.options-holder {
+  display: block;
+  margin-top: 25px;
+  margin-bottom: 5px;
+}
+
+.toggle-box {
+  margin-right: 20px;
+
+  input {
+    display: none;
+  }
+
+  label {
+    padding: 10px;
+    border-radius: 5px;
+    color: $light;
+  }
+}
+
+.toggle-box-enabled label {
+  background: $error-dark;
+}
+
+.toggle-box-disabled label {
+  color: $blank;
+  background: $active;
+}
+
+.clue-highlight {
+  background: $active;
+  color: $blank;
+}
+
+.clue-holder ol::-webkit-scrollbar {
+    width: 1em;
+}
+ 
+.clue-holder ol::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 2px $active;
+}
+ 
+.clue-holder ol::-webkit-scrollbar-thumb {
+  background-color: $adjacent;
+}
+
+
+@media only screen and (min-width : 1200px) {
+  .clues-holder {
+    display: inline-flex;
+    border: 1px solid $blank;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+    max-width: 30em;
+  }
+
+}
+
+@media only screen and (max-width : 1200px) {
+  .puzzle-holder {
+    display: inline-block;
+  }
+
+  .grid-flex {
+    display: block;
+    margin-top: 2.5em;
+  }
+
+  .clues-holder {
+    display: flex;
+  }
+
+  .clue-holder {
+    border-bottom: none;
+
+    ol li {
+      display: none;
+    }
+
+    h3 {
+      display: none;
+    }
+  }
+
+  .clue-highlight {
+    display: block !important;
+    background: unset;
+    padding-left: 0;
+    width: 100%;
+    position: absolute;
+    top:  0;
+    left: 0;
+    border: 2px solid $active;
+    border-radius: 10px;
+    color: $blank;
+    margin-bottom: 0.5em;
+  }
+}

@@ -141,9 +141,10 @@ class Cell extends React.Component {
   }
 
   render() {
-    let className = this.type;
-    className += this.props.focus ? ' cell-highlight' : '';
-    className += this.props.active ? ' cell-active' : '';
+    let outerClassName = this.type;
+    let innerClassName = 'cell-input '
+    innerClassName += this.props.focus ? 'cell-highlight ' : '';
+    innerClassName += this.props.active ? 'cell-active ' : '';
 
     if (
       this.props.showErrors &&
@@ -151,11 +152,11 @@ class Cell extends React.Component {
       this.props.entry !== null &&
       this.props.entry !== this.props.answer
     ) {
-      className += ' cell-error';
+      innerClassName += 'cell-error ';
     }
 
     return (
-      <td className={ className }>
+      <td className={ outerClassName }>
         <div>
           { this.props.number !== undefined ? 
             <span className='clue-label'>{ this.props.number }</span> 
@@ -163,6 +164,7 @@ class Cell extends React.Component {
 
           { this.type === 'cell' ? 
             <input 
+              className={ innerClassName.trim() }
               type='text' 
               id={ 'cell-' + this.props.row + '-' + this.props.column } 
               maxLength='1'

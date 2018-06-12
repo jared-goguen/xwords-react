@@ -1,13 +1,9 @@
 import React from 'react';
 import { Provider } from 'react-redux';
-import { createStore, combineReducers } from 'redux';
-import focus from '../reducers/focus';
+import { createStore } from 'redux';
 
+import reducers from '../reducers';
 import PuzzleHolder from './PuzzleHolder';
-
-const reducers = combineReducers({
-   focus,
-})
 
 const store = createStore(reducers);
 

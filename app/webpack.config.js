@@ -7,7 +7,7 @@ module.exports = {
     app: './entry.js'
   },
   output: {
-    path: path.resolve(__dirname, '../php/assets'),
+    path: path.resolve(__dirname, '../server/js'),
     filename: 'react-client.js'
   },
   mode: 'development',

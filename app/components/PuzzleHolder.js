@@ -15,7 +15,7 @@ const cellIsTrue = (grid, row, column) => {
 };
 
 const mapStateToProps = (state, prevProps) => {
-  let { row, column, direction, showErrors } = state.focus;
+  let { row, column, direction, showErrors } = state.puzzle;
 
 
   let adjacency = prevProps.grid.map(row => row.split('').map(

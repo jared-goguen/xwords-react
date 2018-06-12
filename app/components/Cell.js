@@ -6,14 +6,14 @@ const inputFilter = /^[A-Za-z0-9]$/;
 
 const mapStateToProps = (state, prevProps) => {
   let entry = '';
-  if ( typeof state.focus.entries !== 'undefined') {
-    entry = state.focus.entries[prevProps.row][prevProps.column];
+  if ( typeof state.puzzle.entries !== 'undefined') {
+    entry = state.puzzle.entries[prevProps.row][prevProps.column];
   } else {
     entry = '';
   }
 
-  let focus = state.focus.row === prevProps.row && state.focus.column === prevProps.column;
-  let showErrors = state.focus.showErrors;
+  let focus = state.puzzle.row === prevProps.row && state.puzzle.column === prevProps.column;
+  let showErrors = state.puzzle.showErrors;
 
   return { entry, focus, showErrors };
 };

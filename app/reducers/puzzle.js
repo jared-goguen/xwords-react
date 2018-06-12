@@ -75,7 +75,7 @@ const cellUDLR = (entries, row, column, UDLR) => {
 }
 
 
-const focus = (state={}, action) => {
+export default (state={}, action) => {
   switch (action.type) {
 
     case 'INIT_STORE':
@@ -150,6 +150,4 @@ const focus = (state={}, action) => {
         showErrors: false,
       }
     }
-}
-
-export default focus;
+};

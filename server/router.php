@@ -1,17 +1,13 @@
 <?php
 
-require_once(dirname(__DIR__).'/vendor/autoload.php');
 require_once('config.php');
-require_once('crossword.php');
-
-if ( preg_match("/\/assets\/.*/", $_SERVER['REQUEST_URI']) ) {
-  return false;
-}
+require_once(config('autoload'));
+require_once(q_path('crossword.php'));
 
 $router = new AltoRouter();
 
 $router->map( 'GET', '/', function() {
-  require('index.php');
+  require(q_path('index.php'));
 });
 
 $router->map( 'GET', '/puzzle/[*:date].json', function( $date ) {

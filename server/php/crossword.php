@@ -88,7 +88,7 @@ class Puzzle {
 }
 
 function loadPuzzle($path) {
-  $qualified_path = config('data_path') . $path;
+  $qualified_path = q_path($path);
   $xml = simplexml_load_file($qualified_path);
   $puzzleNode = $xml->Puzzle;
   return new Puzzle($puzzleNode);
